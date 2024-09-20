@@ -1,5 +1,167 @@
 {
-    "last_updated": "August 12, 2024 at 1:20 PM",
+    "faculty_metadata": {
+        "faculty_name": "Faculty of Kinesiology and Physical Education",
+        "semesters": {
+            "Fall 2024 (F)": {
+                "departments": {
+                    "Faculty of Kinesiology and Physical Education": {
+                        "buildings": [
+                            "WE",
+                            "RW",
+                            "MP",
+                            "FE",
+                            "HS",
+                            "SS",
+                            "BF",
+                            "BN",
+                            "ES",
+                            "LA",
+                            "PB",
+                            "VC",
+                            "UC",
+                            "BT",
+                            "SU",
+                            "NF",
+                            "MS",
+                            "WS",
+                            "AP",
+                            "BL",
+                            "AH",
+                            "OI",
+                            "SK",
+                            "WI",
+                            "BA",
+                            "MY",
+                            "TBA",
+                            "BR",
+                            "CR",
+                            "TF",
+                            "KP",
+                            "Online"
+                        ],
+                        "instructors": [
+                            "Timothy Welsh",
+                            "Jenna Gillen",
+                            "Sabrina Razack",
+                            "Michael Hutchison",
+                            "David Frost",
+                            "Caroline Fusco",
+                            "Luc Tremblay",
+                            "Mary Elizabeth Kirk",
+                            "Priyansh .",
+                            "Sarah Gairdner",
+                            "Daniel Santa Mina",
+                            "Tanya Berg",
+                            "Michael Atkinson",
+                            "Kyla Pyndiura",
+                            "Doug Richards",
+                            "Jenessa Banwell",
+                            "Simon Darnell",
+                            "Melissa deJonge",
+                            "Kelly Arbour",
+                            "Anthony Lombardo",
+                            "Daniel Sailofsky",
+                            "Judi Laprade",
+                            "Paul VanWiechen",
+                            "Marius Locke",
+                            "Aalaya Sahar Milne",
+                            "Catherine Amara",
+                            "Darren Lowe",
+                            "Timur Taha",
+                            "Danielle Michelle Lawrence",
+                            "Lynda Mainwaring",
+                            "Daniel Moore",
+                            "Maryam Marashi",
+                            "Marcus Mazzucco",
+                            "Sachin Mohan Raina",
+                            "Erin Willson",
+                            "TBA",
+                            "Thi Nancy Huynh",
+                            "Robert Francis Bentley",
+                            "Kristine Drakich"
+                        ]
+                    }
+                }
+            },
+            "Winter 2025 (S)": {
+                "departments": {
+                    "Faculty of Kinesiology and Physical Education": {
+                        "buildings": [
+                            "WE",
+                            "RW",
+                            "MP",
+                            "FE",
+                            "HS",
+                            "SS",
+                            "AB",
+                            "NL",
+                            "HI",
+                            "BN",
+                            "EM",
+                            "ES",
+                            "LA",
+                            "VC",
+                            "UC",
+                            "BT",
+                            "SU",
+                            "NF",
+                            "MS",
+                            "WS",
+                            "WW",
+                            "AP",
+                            "AH",
+                            "OI",
+                            "SK",
+                            "WI",
+                            "BA",
+                            "TBA",
+                            "GB",
+                            "MC",
+                            "TF",
+                            "KP",
+                            "Online"
+                        ],
+                        "instructors": [
+                            "Jenna Gillen",
+                            "Nirtal Shah",
+                            "Abimbola Eke",
+                            "Sabrina Razack",
+                            "David Frost",
+                            "Ashley Stirling",
+                            "Luc Tremblay",
+                            "Mary Elizabeth Kirk",
+                            "Sarah Gairdner",
+                            "Daniel Santa Mina",
+                            "Tanya Berg",
+                            "Saidur Rahman",
+                            "Doug Richards",
+                            "Peter Donnelly",
+                            "Jenessa Banwell",
+                            "Simon Darnell",
+                            "Timothy Burkhart",
+                            "Anthony Lombardo",
+                            "Daniel Sailofsky",
+                            "Judi Laprade",
+                            "Paul VanWiechen",
+                            "Marius Locke",
+                            "Catherine Amara",
+                            "Darren Lowe",
+                            "Timur Taha",
+                            "Danielle Michelle Lawrence",
+                            "Lynda Mainwaring",
+                            "Daniel Moore",
+                            "Marcus Mazzucco",
+                            "TBA",
+                            "Thi Nancy Huynh",
+                            "Joyce Chen",
+                            "Tricia McGuire-Adams"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "September 13, 2024 at 8:16 PM"
+    },
     "timings": [
         {
             "course_name": "ANA124H1 F: Kinesiology Human Anatomy I: Organ Systems",
@@ -16,7 +178,7 @@
                 "Judi Laprade"
             ],
             "capacity": 430,
-            "current_enrolment": 405,
+            "current_enrolment": 397,
             "delivery_mode": "In Person"
         },
         {
@@ -34,7 +196,7 @@
                 "Judi Laprade"
             ],
             "capacity": 430,
-            "current_enrolment": 405,
+            "current_enrolment": 397,
             "delivery_mode": "In Person"
         },
         {
@@ -106,7 +268,7 @@
                 "Judi Laprade"
             ],
             "capacity": 26,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -124,7 +286,7 @@
                 "Judi Laprade"
             ],
             "capacity": 26,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -142,7 +304,7 @@
                 "Judi Laprade"
             ],
             "capacity": 26,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -196,7 +358,7 @@
                 "Judi Laprade"
             ],
             "capacity": 26,
-            "current_enrolment": 26,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -250,7 +412,7 @@
                 "Judi Laprade"
             ],
             "capacity": 26,
-            "current_enrolment": 17,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -268,7 +430,7 @@
                 "Judi Laprade"
             ],
             "capacity": 23,
-            "current_enrolment": 21,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -322,7 +484,7 @@
                 "Judi Laprade"
             ],
             "capacity": 23,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -340,7 +502,7 @@
                 "Judi Laprade"
             ],
             "capacity": 430,
-            "current_enrolment": 398,
+            "current_enrolment": 401,
             "delivery_mode": "In Person"
         },
         {
@@ -358,7 +520,25 @@
                 "Judi Laprade"
             ],
             "capacity": 430,
-            "current_enrolment": 398,
+            "current_enrolment": 401,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ANA125H1 S: Kinesiology Human Anatomy II: Musculoskeletal System",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "TBA",
+            "instructors": [
+                "Judi Laprade"
+            ],
+            "capacity": 26,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -419,24 +599,6 @@
             "course_name": "ANA125H1 S: Kinesiology Human Anatomy II: Musculoskeletal System",
             "section_title": "Practicals",
             "day": "Friday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "TBA",
-            "instructors": [
-                "Judi Laprade"
-            ],
-            "capacity": 26,
-            "current_enrolment": 26,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ANA125H1 S: Kinesiology Human Anatomy II: Musculoskeletal System",
-            "section_title": "Practicals",
-            "day": "Friday",
             "start_time": "11:00",
             "end_time": "13:00",
             "campus": "St. George",
@@ -502,7 +664,25 @@
                 "Judi Laprade"
             ],
             "capacity": 26,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ANA125H1 S: Kinesiology Human Anatomy II: Musculoskeletal System",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "TBA",
+            "instructors": [
+                "Judi Laprade"
+            ],
+            "capacity": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -556,25 +736,7 @@
                 "Judi Laprade"
             ],
             "capacity": 26,
-            "current_enrolment": 19,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ANA125H1 S: Kinesiology Human Anatomy II: Musculoskeletal System",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "13:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "TBA",
-            "instructors": [
-                "Judi Laprade"
-            ],
-            "capacity": 26,
-            "current_enrolment": 15,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -610,7 +772,7 @@
                 "Judi Laprade"
             ],
             "capacity": 23,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -646,7 +808,7 @@
                 "Judi Laprade"
             ],
             "capacity": 23,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -664,7 +826,7 @@
                 "Daniel Sailofsky"
             ],
             "capacity": 430,
-            "current_enrolment": 381,
+            "current_enrolment": 377,
             "delivery_mode": "In Person"
         },
         {
@@ -772,7 +934,7 @@
                 "Daniel Sailofsky"
             ],
             "capacity": 27,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -786,6 +948,60 @@
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "SK",
+            "instructors": [
+                "Daniel Sailofsky"
+            ],
+            "capacity": 27,
+            "current_enrolment": 27,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE100H1 S: Physical Cultural Studies",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "OI",
+            "instructors": [
+                "Daniel Sailofsky"
+            ],
+            "capacity": 27,
+            "current_enrolment": 27,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE100H1 S: Physical Cultural Studies",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "FE",
+            "instructors": [
+                "Daniel Sailofsky"
+            ],
+            "capacity": 27,
+            "current_enrolment": 27,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE100H1 S: Physical Cultural Studies",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "OI",
             "instructors": [
                 "Daniel Sailofsky"
             ],
@@ -808,7 +1024,43 @@
                 "Daniel Sailofsky"
             ],
             "capacity": 27,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE100H1 S: Physical Cultural Studies",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "OI",
+            "instructors": [
+                "Daniel Sailofsky"
+            ],
+            "capacity": 27,
             "current_enrolment": 27,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE100H1 S: Physical Cultural Studies",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "OI",
+            "instructors": [
+                "Daniel Sailofsky"
+            ],
+            "capacity": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -826,97 +1078,7 @@
                 "Daniel Sailofsky"
             ],
             "capacity": 27,
-            "current_enrolment": 27,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE100H1 S: Physical Cultural Studies",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "OI",
-            "instructors": [
-                "Daniel Sailofsky"
-            ],
-            "capacity": 27,
-            "current_enrolment": 27,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE100H1 S: Physical Cultural Studies",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "OI",
-            "instructors": [
-                "Daniel Sailofsky"
-            ],
-            "capacity": 27,
-            "current_enrolment": 27,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE100H1 S: Physical Cultural Studies",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "OI",
-            "instructors": [
-                "Daniel Sailofsky"
-            ],
-            "capacity": 27,
-            "current_enrolment": 27,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE100H1 S: Physical Cultural Studies",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "OI",
-            "instructors": [
-                "Daniel Sailofsky"
-            ],
-            "capacity": 27,
-            "current_enrolment": 27,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE100H1 S: Physical Cultural Studies",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "FE",
-            "instructors": [
-                "Daniel Sailofsky"
-            ],
-            "capacity": 27,
-            "current_enrolment": 13,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -934,7 +1096,7 @@
                 "Abimbola Eke"
             ],
             "capacity": 430,
-            "current_enrolment": 381,
+            "current_enrolment": 378,
             "delivery_mode": "In Person"
         },
         {
@@ -1078,24 +1240,6 @@
                 "Abimbola Eke"
             ],
             "capacity": 27,
-            "current_enrolment": 27,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE120H1 S: Foundations of Sport, Exercise and Health Psychology",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "17:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "OI",
-            "instructors": [
-                "Abimbola Eke"
-            ],
-            "capacity": 27,
             "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
@@ -1168,7 +1312,7 @@
                 "Abimbola Eke"
             ],
             "capacity": 27,
-            "current_enrolment": 24,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -1186,7 +1330,25 @@
                 "Abimbola Eke"
             ],
             "capacity": 27,
-            "current_enrolment": 15,
+            "current_enrolment": 26,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE120H1 S: Foundations of Sport, Exercise and Health Psychology",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "OI",
+            "instructors": [
+                "Abimbola Eke"
+            ],
+            "capacity": 27,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -1204,7 +1366,7 @@
                 "Doug Richards"
             ],
             "capacity": 400,
-            "current_enrolment": 399,
+            "current_enrolment": 390,
             "delivery_mode": "In Person"
         },
         {
@@ -1222,7 +1384,7 @@
                 "Doug Richards"
             ],
             "capacity": 400,
-            "current_enrolment": 399,
+            "current_enrolment": 390,
             "delivery_mode": "In Person"
         },
         {
@@ -1240,7 +1402,7 @@
                 "Timur Taha"
             ],
             "capacity": 400,
-            "current_enrolment": 377,
+            "current_enrolment": 374,
             "delivery_mode": "In Person"
         },
         {
@@ -1258,7 +1420,7 @@
                 "Doug Richards"
             ],
             "capacity": 430,
-            "current_enrolment": 391,
+            "current_enrolment": 388,
             "delivery_mode": "In Person"
         },
         {
@@ -1276,7 +1438,7 @@
                 "Doug Richards"
             ],
             "capacity": 430,
-            "current_enrolment": 391,
+            "current_enrolment": 388,
             "delivery_mode": "In Person"
         },
         {
@@ -1293,7 +1455,7 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
+            "capacity": 20,
             "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
@@ -1311,8 +1473,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -1329,7 +1491,7 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
+            "capacity": 20,
             "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
@@ -1347,8 +1509,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 18,
+            "capacity": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -1365,7 +1527,7 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
+            "capacity": 20,
             "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
@@ -1383,7 +1545,7 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
+            "capacity": 20,
             "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
@@ -1401,8 +1563,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -1419,8 +1581,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1437,8 +1599,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1455,8 +1617,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1473,8 +1635,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1491,8 +1653,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1509,8 +1671,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 18,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1527,8 +1689,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -1545,8 +1707,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -1563,8 +1725,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1581,7 +1743,7 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
+            "capacity": 20,
             "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
@@ -1599,8 +1761,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1617,8 +1779,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 17,
+            "capacity": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -1635,8 +1797,8 @@
             "instructors": [
                 "Doug Richards"
             ],
-            "capacity": 19,
-            "current_enrolment": 11,
+            "capacity": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -1654,8 +1816,26 @@
                 "David Frost"
             ],
             "capacity": 400,
-            "current_enrolment": 389,
+            "current_enrolment": 378,
             "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE182H1 F: Introduction to Movement Observation and Evaluation",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "12:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "David Frost"
+            ],
+            "capacity": 33,
+            "current_enrolment": 33,
+            "delivery_mode": "In Person"
         },
         {
             "course_name": "KPE182H1 F: Introduction to Movement Observation and Evaluation",
@@ -1685,12 +1865,12 @@
             "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "BN",
+            "location": "WS",
             "instructors": [
                 "David Frost"
             ],
             "capacity": 33,
-            "current_enrolment": 31,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1708,7 +1888,7 @@
                 "David Frost"
             ],
             "capacity": 33,
-            "current_enrolment": 31,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1726,7 +1906,7 @@
                 "David Frost"
             ],
             "capacity": 33,
-            "current_enrolment": 31,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1744,25 +1924,7 @@
                 "David Frost"
             ],
             "capacity": 33,
-            "current_enrolment": 31,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE182H1 F: Introduction to Movement Observation and Evaluation",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "12:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "BN",
-            "instructors": [
-                "David Frost"
-            ],
-            "capacity": 33,
-            "current_enrolment": 31,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -1780,7 +1942,7 @@
                 "David Frost"
             ],
             "capacity": 33,
-            "current_enrolment": 31,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -1816,7 +1978,7 @@
                 "David Frost"
             ],
             "capacity": 33,
-            "current_enrolment": 30,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -1865,12 +2027,12 @@
             "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "BN",
+            "location": "WS",
             "instructors": [
                 "David Frost"
             ],
             "capacity": 29,
-            "current_enrolment": 29,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -1888,7 +2050,7 @@
                 "Simon Darnell"
             ],
             "capacity": 400,
-            "current_enrolment": 392,
+            "current_enrolment": 376,
             "delivery_mode": "In Person"
         },
         {
@@ -1906,7 +2068,7 @@
                 "Simon Darnell"
             ],
             "capacity": 400,
-            "current_enrolment": 392,
+            "current_enrolment": 376,
             "delivery_mode": "In Person"
         },
         {
@@ -1923,7 +2085,7 @@
             "instructors": [
                 "Simon Darnell"
             ],
-            "capacity": 27,
+            "capacity": 28,
             "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
@@ -1942,7 +2104,7 @@
                 "Simon Darnell"
             ],
             "capacity": 27,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -1959,8 +2121,8 @@
             "instructors": [
                 "Simon Darnell"
             ],
-            "capacity": 27,
-            "current_enrolment": 27,
+            "capacity": 29,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -1977,8 +2139,8 @@
             "instructors": [
                 "Simon Darnell"
             ],
-            "capacity": 27,
-            "current_enrolment": 27,
+            "capacity": 29,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -2013,8 +2175,8 @@
             "instructors": [
                 "Simon Darnell"
             ],
-            "capacity": 27,
-            "current_enrolment": 27,
+            "capacity": 28,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -2031,26 +2193,8 @@
             "instructors": [
                 "Simon Darnell"
             ],
-            "capacity": 27,
-            "current_enrolment": 27,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE190H1 F: Inquiry in Kinesiology and Physical Education",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "SK",
-            "instructors": [
-                "Simon Darnell"
-            ],
-            "capacity": 27,
-            "current_enrolment": 27,
+            "capacity": 28,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -2067,8 +2211,26 @@
             "instructors": [
                 "Simon Darnell"
             ],
-            "capacity": 27,
-            "current_enrolment": 27,
+            "capacity": 30,
+            "current_enrolment": 29,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE190H1 F: Inquiry in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SK",
+            "instructors": [
+                "Simon Darnell"
+            ],
+            "capacity": 29,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -2086,7 +2248,7 @@
                 "Simon Darnell"
             ],
             "capacity": 27,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -2104,7 +2266,7 @@
                 "Simon Darnell"
             ],
             "capacity": 27,
-            "current_enrolment": 27,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -2122,7 +2284,7 @@
                 "Simon Darnell"
             ],
             "capacity": 27,
-            "current_enrolment": 21,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -2139,8 +2301,8 @@
             "instructors": [
                 "Simon Darnell"
             ],
-            "capacity": 27,
-            "current_enrolment": 22,
+            "capacity": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -2158,7 +2320,7 @@
                 "Simon Darnell"
             ],
             "capacity": 27,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -2176,7 +2338,7 @@
                 "Caroline Fusco"
             ],
             "capacity": 300,
-            "current_enrolment": 229,
+            "current_enrolment": 222,
             "delivery_mode": "In Person"
         },
         {
@@ -2194,7 +2356,7 @@
                 "Caroline Fusco"
             ],
             "capacity": 300,
-            "current_enrolment": 229,
+            "current_enrolment": 222,
             "delivery_mode": "In Person"
         },
         {
@@ -2262,60 +2424,6 @@
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "TF",
-            "instructors": [
-                "Caroline Fusco"
-            ],
-            "capacity": 23,
-            "current_enrolment": 23,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "SU",
-            "instructors": [
-                "Caroline Fusco"
-            ],
-            "capacity": 23,
-            "current_enrolment": 23,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WI",
-            "instructors": [
-                "Caroline Fusco"
-            ],
-            "capacity": 23,
-            "current_enrolment": 23,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "FE",
             "instructors": [
                 "Caroline Fusco"
             ],
@@ -2333,6 +2441,60 @@
             "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SU",
+            "instructors": [
+                "Caroline Fusco"
+            ],
+            "capacity": 23,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WI",
+            "instructors": [
+                "Caroline Fusco"
+            ],
+            "capacity": 23,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "FE",
+            "instructors": [
+                "Caroline Fusco"
+            ],
+            "capacity": 23,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "SK",
             "instructors": [
                 "Caroline Fusco"
@@ -2356,7 +2518,7 @@
                 "Caroline Fusco"
             ],
             "capacity": 23,
-            "current_enrolment": 22,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -2374,7 +2536,7 @@
                 "Caroline Fusco"
             ],
             "capacity": 23,
-            "current_enrolment": 22,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -2392,7 +2554,7 @@
                 "Lynda Mainwaring"
             ],
             "capacity": 380,
-            "current_enrolment": 326,
+            "current_enrolment": 323,
             "delivery_mode": "Hybrid"
         },
         {
@@ -2446,7 +2608,7 @@
                 "Ashley Stirling"
             ],
             "capacity": 220,
-            "current_enrolment": 209,
+            "current_enrolment": 215,
             "delivery_mode": "In Person"
         },
         {
@@ -2464,7 +2626,7 @@
                 "Marius Locke"
             ],
             "capacity": 300,
-            "current_enrolment": 231,
+            "current_enrolment": 228,
             "delivery_mode": "In Person"
         },
         {
@@ -2482,7 +2644,7 @@
                 "Marius Locke"
             ],
             "capacity": 300,
-            "current_enrolment": 231,
+            "current_enrolment": 228,
             "delivery_mode": "In Person"
         },
         {
@@ -2644,7 +2806,25 @@
                 "Marius Locke"
             ],
             "capacity": 13,
-            "current_enrolment": 13,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Marius Locke"
+            ],
+            "capacity": 13,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -2686,24 +2866,6 @@
         {
             "course_name": "KPE260H1 F: Human Physiology I",
             "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "BN",
-            "instructors": [
-                "Marius Locke"
-            ],
-            "capacity": 13,
-            "current_enrolment": 13,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE260H1 F: Human Physiology I",
-            "section_title": "Practicals",
             "day": "Tuesday",
             "start_time": "16:00",
             "end_time": "17:00",
@@ -2752,7 +2914,7 @@
                 "Marius Locke"
             ],
             "capacity": 13,
-            "current_enrolment": 12,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -2770,7 +2932,7 @@
                 "Marius Locke"
             ],
             "capacity": 13,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -2788,7 +2950,7 @@
                 "Marius Locke"
             ],
             "capacity": 13,
-            "current_enrolment": 7,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -2806,7 +2968,7 @@
                 "Marius Locke"
             ],
             "capacity": 13,
-            "current_enrolment": 10,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -2824,7 +2986,7 @@
                 "Luc Tremblay"
             ],
             "capacity": 380,
-            "current_enrolment": 344,
+            "current_enrolment": 339,
             "delivery_mode": "In Person"
         },
         {
@@ -2842,7 +3004,7 @@
                 "Luc Tremblay"
             ],
             "capacity": 380,
-            "current_enrolment": 344,
+            "current_enrolment": 339,
             "delivery_mode": "In Person"
         },
         {
@@ -2877,7 +3039,7 @@
             "instructors": [
                 "Luc Tremblay"
             ],
-            "capacity": 24,
+            "capacity": 25,
             "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
@@ -2896,7 +3058,7 @@
                 "Luc Tremblay"
             ],
             "capacity": 24,
-            "current_enrolment": 24,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -2913,8 +3075,8 @@
             "instructors": [
                 "Luc Tremblay"
             ],
-            "capacity": 24,
-            "current_enrolment": 24,
+            "capacity": 25,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -2932,7 +3094,7 @@
                 "Luc Tremblay"
             ],
             "capacity": 24,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -2949,8 +3111,8 @@
             "instructors": [
                 "Luc Tremblay"
             ],
-            "capacity": 24,
-            "current_enrolment": 24,
+            "capacity": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -2985,8 +3147,8 @@
             "instructors": [
                 "Luc Tremblay"
             ],
-            "capacity": 24,
-            "current_enrolment": 24,
+            "capacity": 25,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -3021,8 +3183,8 @@
             "instructors": [
                 "Luc Tremblay"
             ],
-            "capacity": 24,
-            "current_enrolment": 24,
+            "capacity": 25,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -3057,8 +3219,8 @@
             "instructors": [
                 "Luc Tremblay"
             ],
-            "capacity": 24,
-            "current_enrolment": 24,
+            "capacity": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -3093,8 +3255,8 @@
             "instructors": [
                 "Luc Tremblay"
             ],
-            "capacity": 24,
-            "current_enrolment": 24,
+            "capacity": 25,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -3112,7 +3274,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 380,
-            "current_enrolment": 364,
+            "current_enrolment": 362,
             "delivery_mode": "In Person"
         },
         {
@@ -3130,7 +3292,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 380,
-            "current_enrolment": 364,
+            "current_enrolment": 362,
             "delivery_mode": "In Person"
         },
         {
@@ -3184,7 +3346,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -3202,7 +3364,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -3382,7 +3544,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -3418,7 +3580,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 20,
-            "current_enrolment": 18,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -3472,7 +3634,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 380,
-            "current_enrolment": 333,
+            "current_enrolment": 335,
             "delivery_mode": "In Person"
         },
         {
@@ -3490,7 +3652,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 380,
-            "current_enrolment": 333,
+            "current_enrolment": 335,
             "delivery_mode": "In Person"
         },
         {
@@ -3508,7 +3670,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 24,
-            "current_enrolment": 23,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -3526,7 +3688,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 24,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -3544,7 +3706,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 24,
-            "current_enrolment": 21,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -3562,7 +3724,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 24,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -3742,7 +3904,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 24,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -3796,43 +3958,7 @@
                 "David Frost"
             ],
             "capacity": 28,
-            "current_enrolment": 28,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE282H1 S: Principles of Physical Activity and Exercise Program Design",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "14:00",
-            "end_time": "16:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WS",
-            "instructors": [
-                "David Frost"
-            ],
-            "capacity": 28,
-            "current_enrolment": 28,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE282H1 S: Principles of Physical Activity and Exercise Program Design",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "14:00",
-            "end_time": "16:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WS",
-            "instructors": [
-                "David Frost"
-            ],
-            "capacity": 28,
-            "current_enrolment": 20,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -3863,12 +3989,48 @@
             "session": "Winter 2025 (S)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "David Frost"
+            ],
+            "capacity": 28,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE282H1 S: Principles of Physical Activity and Exercise Program Design",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "David Frost"
+            ],
+            "capacity": 28,
+            "current_enrolment": 26,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE282H1 S: Principles of Physical Activity and Exercise Program Design",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "BN",
             "instructors": [
                 "David Frost"
             ],
             "capacity": 28,
-            "current_enrolment": 25,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -3994,7 +4156,7 @@
                 "Michael Hutchison"
             ],
             "capacity": 380,
-            "current_enrolment": 343,
+            "current_enrolment": 342,
             "delivery_mode": "In Person"
         },
         {
@@ -4056,18 +4218,18 @@
             "section_title": "Lectures",
             "day": "Wednesday",
             "start_time": "17:00",
-            "end_time": "20:00",
+            "end_time": "19:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "UC",
+            "location": "Online",
             "instructors": [
                 "Paul VanWiechen"
             ],
             "capacity": 60,
-            "current_enrolment": 57,
-            "delivery_mode": "In Person"
+            "current_enrolment": 59,
+            "delivery_mode": "Online Synchronous"
         },
         {
             "course_name": "KPE321H1 S: Population Health",
@@ -4102,7 +4264,7 @@
                 "Lynda Mainwaring"
             ],
             "capacity": 140,
-            "current_enrolment": 138,
+            "current_enrolment": 140,
             "delivery_mode": "Hybrid"
         },
         {
@@ -4120,7 +4282,7 @@
                 "Sarah Gairdner"
             ],
             "capacity": 60,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -4138,7 +4300,7 @@
                 "Catherine Amara"
             ],
             "capacity": 100,
-            "current_enrolment": 76,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -4156,7 +4318,7 @@
                 "Catherine Amara"
             ],
             "capacity": 50,
-            "current_enrolment": 49,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -4174,7 +4336,7 @@
                 "Catherine Amara"
             ],
             "capacity": 50,
-            "current_enrolment": 26,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -4210,7 +4372,7 @@
                 "Daniel Moore"
             ],
             "capacity": 140,
-            "current_enrolment": 117,
+            "current_enrolment": 106,
             "delivery_mode": "In Person"
         },
         {
@@ -4228,7 +4390,7 @@
                 "Daniel Moore"
             ],
             "capacity": 140,
-            "current_enrolment": 117,
+            "current_enrolment": 106,
             "delivery_mode": "In Person"
         },
         {
@@ -4246,7 +4408,7 @@
                 "Sabrina Razack"
             ],
             "capacity": 50,
-            "current_enrolment": 48,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -4264,7 +4426,7 @@
                 "Sabrina Razack"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -4353,8 +4515,8 @@
             "instructors": [
                 "Timur Taha"
             ],
-            "capacity": 25,
-            "current_enrolment": 25,
+            "capacity": 35,
+            "current_enrolment": 35,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -4390,7 +4552,7 @@
                 "Darren Lowe"
             ],
             "capacity": 40,
-            "current_enrolment": 40,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -4408,7 +4570,7 @@
                 "Darren Lowe"
             ],
             "capacity": 40,
-            "current_enrolment": 40,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -4426,7 +4588,7 @@
                 "Kelly Arbour"
             ],
             "capacity": 300,
-            "current_enrolment": 271,
+            "current_enrolment": 270,
             "delivery_mode": "In Person"
         },
         {
@@ -4443,8 +4605,8 @@
             "instructors": [
                 "Kelly Arbour"
             ],
-            "capacity": 50,
-            "current_enrolment": 44,
+            "capacity": 44,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -4462,7 +4624,7 @@
                 "Kelly Arbour"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
         {
@@ -4480,7 +4642,7 @@
                 "Kelly Arbour"
             ],
             "capacity": 50,
-            "current_enrolment": 23,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -4498,7 +4660,7 @@
                 "Kelly Arbour"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -4606,7 +4768,7 @@
                 "Sabrina Razack"
             ],
             "capacity": 60,
-            "current_enrolment": 55,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -4624,7 +4786,7 @@
                 "Darren Lowe"
             ],
             "capacity": 40,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -4642,7 +4804,7 @@
                 "Darren Lowe"
             ],
             "capacity": 40,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -4696,7 +4858,7 @@
                 "Jenessa Banwell"
             ],
             "capacity": 180,
-            "current_enrolment": 125,
+            "current_enrolment": 147,
             "delivery_mode": "In Person"
         },
         {
@@ -4714,7 +4876,7 @@
                 "Jenessa Banwell"
             ],
             "capacity": 180,
-            "current_enrolment": 125,
+            "current_enrolment": 147,
             "delivery_mode": "In Person"
         },
         {
@@ -4724,15 +4886,33 @@
             "start_time": "12:00",
             "end_time": "13:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SS",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "HS",
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 18,
+            "capacity": 22,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -4742,15 +4922,15 @@
             "start_time": "12:00",
             "end_time": "13:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "OI",
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 18,
+            "capacity": 21,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -4760,33 +4940,51 @@
             "start_time": "12:00",
             "end_time": "13:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Winter 2025 (S)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "SU",
+            "location": "OI",
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 17,
+            "capacity": 21,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
             "section_title": "Tutorials",
             "day": "Monday",
-            "start_time": "13:00",
-            "end_time": "14:00",
+            "start_time": "12:00",
+            "end_time": "13:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WE",
+            "location": "SU",
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 18,
+            "capacity": 22,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SU",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -4799,12 +4997,48 @@
             "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "TBA",
+            "location": "WE",
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 18,
+            "capacity": 21,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 21,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "AP",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -4821,8 +5055,8 @@
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 18,
+            "capacity": 22,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -4832,15 +5066,33 @@
             "start_time": "13:00",
             "end_time": "14:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 21,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "HS",
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 17,
+            "capacity": 21,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -4850,15 +5102,213 @@
             "start_time": "12:00",
             "end_time": "13:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "SS",
             "instructors": [
                 "Jenessa Banwell"
             ],
-            "capacity": 20,
-            "current_enrolment": 19,
+            "capacity": 22,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SS",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "OI",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "TBA",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SU",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SU",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "AP",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "AP",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE355Y1 Y: Interpersonal Theory in Kinesiology and Physical Education",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 22,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -4876,7 +5326,7 @@
                 "Robert Francis Bentley"
             ],
             "capacity": 100,
-            "current_enrolment": 74,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -4912,6 +5362,24 @@
                 "Robert Francis Bentley"
             ],
             "capacity": 23,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE360H1 F: Advanced Cardiorespiratory Physiology",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Robert Francis Bentley"
+            ],
+            "capacity": 23,
             "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
@@ -4930,25 +5398,7 @@
                 "Robert Francis Bentley"
             ],
             "capacity": 23,
-            "current_enrolment": 18,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE360H1 F: Advanced Cardiorespiratory Physiology",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "BN",
-            "instructors": [
-                "Robert Francis Bentley"
-            ],
-            "capacity": 23,
-            "current_enrolment": 12,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -5002,7 +5452,7 @@
                 "Luc Tremblay"
             ],
             "capacity": 20,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -5020,7 +5470,7 @@
                 "Timothy Welsh"
             ],
             "capacity": 100,
-            "current_enrolment": 56,
+            "current_enrolment": 55,
             "delivery_mode": "In Person"
         },
         {
@@ -5038,7 +5488,7 @@
                 "Timothy Welsh"
             ],
             "capacity": 100,
-            "current_enrolment": 56,
+            "current_enrolment": 55,
             "delivery_mode": "In Person"
         },
         {
@@ -5146,7 +5596,7 @@
                 "Doug Richards"
             ],
             "capacity": 29,
-            "current_enrolment": 25,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -5164,7 +5614,7 @@
                 "Doug Richards"
             ],
             "capacity": 29,
-            "current_enrolment": 27,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -5200,7 +5650,7 @@
                 "Sachin Mohan Raina"
             ],
             "capacity": 60,
-            "current_enrolment": 60,
+            "current_enrolment": 57,
             "delivery_mode": "In Person"
         },
         {
@@ -5218,7 +5668,7 @@
                 "David Frost"
             ],
             "capacity": 100,
-            "current_enrolment": 69,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -5236,7 +5686,7 @@
                 "Catherine Amara"
             ],
             "capacity": 140,
-            "current_enrolment": 65,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         },
         {
@@ -5254,7 +5704,7 @@
                 "Catherine Amara"
             ],
             "capacity": 140,
-            "current_enrolment": 65,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         },
         {
@@ -5272,7 +5722,7 @@
                 "Timur Taha"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -5290,7 +5740,7 @@
                 "Timur Taha"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -5308,7 +5758,7 @@
                 "Timur Taha"
             ],
             "capacity": 50,
-            "current_enrolment": 41,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -5326,7 +5776,7 @@
                 "Timur Taha"
             ],
             "capacity": 50,
-            "current_enrolment": 41,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -5344,7 +5794,7 @@
                 "Jenna Gillen"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -5398,7 +5848,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 18,
-            "current_enrolment": 17,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -5416,7 +5866,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 18,
-            "current_enrolment": 17,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -5434,7 +5884,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 18,
-            "current_enrolment": 16,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -5452,7 +5902,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 18,
-            "current_enrolment": 13,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -5488,7 +5938,7 @@
                 "Timothy Burkhart"
             ],
             "capacity": 18,
-            "current_enrolment": 15,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -5534,7 +5984,7 @@
             "start_time": "09:00",
             "end_time": "10:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "BN",
@@ -5542,7 +5992,25 @@
                 "Catherine Amara"
             ],
             "capacity": 40,
-            "current_enrolment": 0,
+            "current_enrolment": 34,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE390Y1 Y: Directed Research",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Catherine Amara"
+            ],
+            "capacity": 40,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -5560,7 +6028,7 @@
                 "Simon Darnell"
             ],
             "capacity": 380,
-            "current_enrolment": 202,
+            "current_enrolment": 211,
             "delivery_mode": "In Person"
         },
         {
@@ -5578,7 +6046,7 @@
                 "Simon Darnell"
             ],
             "capacity": 380,
-            "current_enrolment": 202,
+            "current_enrolment": 211,
             "delivery_mode": "In Person"
         },
         {
@@ -5596,7 +6064,7 @@
                 "Michael Atkinson"
             ],
             "capacity": 220,
-            "current_enrolment": 125,
+            "current_enrolment": 116,
             "delivery_mode": "In Person"
         },
         {
@@ -5614,7 +6082,7 @@
                 "Caroline Fusco"
             ],
             "capacity": 100,
-            "current_enrolment": 74,
+            "current_enrolment": 79,
             "delivery_mode": "In Person"
         },
         {
@@ -5650,7 +6118,7 @@
                 "Saidur Rahman"
             ],
             "capacity": 60,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -5667,8 +6135,8 @@
             "instructors": [
                 "Erin Willson"
             ],
-            "capacity": 100,
-            "current_enrolment": 100,
+            "capacity": 120,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -5722,7 +6190,7 @@
                 "Aalaya Sahar Milne"
             ],
             "capacity": 35,
-            "current_enrolment": 33,
+            "current_enrolment": 30,
             "delivery_mode": "In Person"
         },
         {
@@ -5740,7 +6208,7 @@
                 "Priyansh ."
             ],
             "capacity": 35,
-            "current_enrolment": 31,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -5776,7 +6244,7 @@
                 "Kristine Drakich"
             ],
             "capacity": 35,
-            "current_enrolment": 35,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -5794,7 +6262,7 @@
                 "Tanya Berg"
             ],
             "capacity": 36,
-            "current_enrolment": 20,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -5812,7 +6280,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 20,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -5848,7 +6316,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -5920,7 +6388,7 @@
                 "Daniel Moore"
             ],
             "capacity": 50,
-            "current_enrolment": 44,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -5956,7 +6424,7 @@
                 "Marcus Mazzucco"
             ],
             "capacity": 50,
-            "current_enrolment": 47,
+            "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
         {
@@ -6010,7 +6478,7 @@
                 "Thi Nancy Huynh"
             ],
             "capacity": 30,
-            "current_enrolment": 14,
+            "current_enrolment": 7,
             "delivery_mode": "In Person"
         },
         {
@@ -6028,7 +6496,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 13,
+            "current_enrolment": 7,
             "delivery_mode": "In Person"
         },
         {
@@ -6100,7 +6568,7 @@
                 "Maryam Marashi"
             ],
             "capacity": 35,
-            "current_enrolment": 34,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -6118,7 +6586,7 @@
                 "Darren Lowe"
             ],
             "capacity": 40,
-            "current_enrolment": 23,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -6136,7 +6604,7 @@
                 "Darren Lowe"
             ],
             "capacity": 40,
-            "current_enrolment": 23,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -6154,7 +6622,7 @@
                 "Jenessa Banwell"
             ],
             "capacity": 80,
-            "current_enrolment": 34,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -6172,7 +6640,7 @@
                 "Jenessa Banwell"
             ],
             "capacity": 80,
-            "current_enrolment": 34,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -6182,10 +6650,118 @@
             "start_time": "11:00",
             "end_time": "12:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "AH",
+            "location": "UC",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 15,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "UC",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 15,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "FE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 15,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "FE",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 15,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WI",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 15,
+            "current_enrolment": 8,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WI",
+            "instructors": [
+                "Jenessa Banwell"
+            ],
+            "capacity": 15,
+            "current_enrolment": 8,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "SK",
             "instructors": [
                 "Jenessa Banwell"
             ],
@@ -6197,46 +6773,10 @@
             "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
             "section_title": "Tutorials",
             "day": "Thursday",
-            "start_time": "11:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "FE",
-            "instructors": [
-                "Jenessa Banwell"
-            ],
-            "capacity": 15,
-            "current_enrolment": 9,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
-            "section_title": "Tutorials",
-            "day": "Thursday",
             "start_time": "12:00",
             "end_time": "13:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WI",
-            "instructors": [
-                "Jenessa Banwell"
-            ],
-            "capacity": 15,
-            "current_enrolment": 7,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE455Y1 Y: Kinesiology and Physical Education in Society",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Winter 2025 (S)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "SK",
@@ -6244,7 +6784,7 @@
                 "Jenessa Banwell"
             ],
             "capacity": 15,
-            "current_enrolment": 8,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -6280,7 +6820,7 @@
                 "Timur Taha"
             ],
             "capacity": 35,
-            "current_enrolment": 30,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -6298,7 +6838,7 @@
                 "Daniel Santa Mina"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -6316,7 +6856,7 @@
                 "Daniel Santa Mina"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -6334,7 +6874,7 @@
                 "Marius Locke"
             ],
             "capacity": 50,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -6352,7 +6892,7 @@
                 "Marius Locke"
             ],
             "capacity": 50,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -6370,7 +6910,7 @@
                 "Joyce Chen"
             ],
             "capacity": 50,
-            "current_enrolment": 47,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -6388,7 +6928,7 @@
                 "Joyce Chen"
             ],
             "capacity": 50,
-            "current_enrolment": 47,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -6437,12 +6977,12 @@
             "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WW",
+            "location": "RW",
             "instructors": [
                 "Danielle Michelle Lawrence"
             ],
-            "capacity": 35,
-            "current_enrolment": 35,
+            "capacity": 50,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -6455,12 +6995,12 @@
             "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WW",
+            "location": "UC",
             "instructors": [
                 "Danielle Michelle Lawrence"
             ],
-            "capacity": 35,
-            "current_enrolment": 35,
+            "capacity": 50,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -6473,12 +7013,12 @@
             "session": "Winter 2025 (S)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "BN",
+            "location": "SS",
             "instructors": [
                 "Danielle Michelle Lawrence"
             ],
-            "capacity": 35,
-            "current_enrolment": 35,
+            "capacity": 50,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -6496,7 +7036,7 @@
                 "Kyla Pyndiura"
             ],
             "capacity": 35,
-            "current_enrolment": 34,
+            "current_enrolment": 30,
             "delivery_mode": "In Person"
         },
         {
@@ -6506,7 +7046,7 @@
             "start_time": "09:00",
             "end_time": "10:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "BN",
@@ -6514,7 +7054,25 @@
                 "Catherine Amara"
             ],
             "capacity": 25,
-            "current_enrolment": 0,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE490Y1 Y: Advanced Research",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Catherine Amara"
+            ],
+            "capacity": 25,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -6532,6 +7090,24 @@
                 "Catherine Amara"
             ],
             "capacity": 15,
+            "current_enrolment": 2,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE495H1 Y: Independent Study",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Catherine Amara"
+            ],
+            "capacity": 25,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
@@ -6542,7 +7118,7 @@
             "start_time": "09:00",
             "end_time": "10:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Winter 2025 (S)",
             "department": "Faculty of Kinesiology and Physical Education",
             "faculty": "Faculty of Kinesiology and Physical Education",
             "location": "BN",

@@ -11,6 +11,11 @@ from dotenv import load_dotenv
 import os
 import time
 import json
+from sendgrid import SendGridAPIClient
+from sendgrid.helpers.mail import Mail
+import sys
+
+load_dotenv() # Load variables in .env file
 
 # Setup Selenium WebDriver
 options = webdriver.ChromeOptions()
@@ -22,6 +27,7 @@ error_courses = set()
 error_messages = []
 stop_scraping = False
 MAX_ERROR_TOLERANCE = 30
+faculty_metadata = {}
 
 # Dummy class to represent a WebElement with a text attribute
 class DummyWebElement:
@@ -46,7 +52,7 @@ def convert_to_12hr(time_obj):
 
 # Helper function to process regular entry that has 7 section-item elements
 def process_regular_entry(section_items, course_name, section_title, campus, session, department, faculty):
-    global error_courses, error_messages, stop_scraping
+    global error_courses, error_messages, stop_scraping, faculty_metadata
     entry_course_timings = []
 
     # Extracting Instructors (Index 2)
@@ -99,6 +105,20 @@ def process_regular_entry(section_items, course_name, section_title, campus, ses
     while len(location_elements) < len(day_time_spans):
         location_elements.append(DummyWebElement(location_elements[0].text))
 
+    if "Summer" in session and "(Y)" in session:
+        year = session.split()[-2]
+        first_session_label = f"Summer First Sub-Session {year} (F)"
+        second_session_label = f"Summer Second Sub-Session {year} (S)"
+        sub_semesters = [first_session_label, second_session_label]
+    elif "Fall-Winter" in session and "(Y)" in session:
+        years = session.split()[-2] 
+        year_fall, year_winter = years.split("-")
+        first_session_label = f"Fall {year_fall} (F)"
+        second_session_label = f"Winter {year_winter} (S)"
+        sub_semesters = [first_session_label, second_session_label]
+    else:
+        sub_semesters = [session]
+
     for day_time_span, location_element in zip(day_time_spans, location_elements):
         try:
             day_time_text = day_time_span.text
@@ -128,24 +148,38 @@ def process_regular_entry(section_items, course_name, section_title, campus, ses
             error_courses.add(course_name)
             continue
 
-        timing_entry = {
-            "course_name": course_name,
-            "section_title": section_title,
-            "day": day,
-            "start_time": start_time,
-            "end_time": end_time,
-            "campus": campus,
-            "session": session,
-            "department": department,
-            "faculty": faculty,
-            "location": location,
-            "instructors": instructors,
-            "capacity": capacity,
-            "current_enrolment": current_enrolment,
-            "delivery_mode": delivery_mode
-        }
+        for sub_semester in sub_semesters:
+            timing_entry = {
+                "course_name": course_name,
+                "section_title": section_title,
+                "day": day,
+                "start_time": start_time,
+                "end_time": end_time,
+                "campus": campus,
+                "session": sub_semester,
+                "department": department,
+                "faculty": faculty,
+                "location": location,
+                "instructors": instructors,
+                "capacity": capacity,
+                "current_enrolment": current_enrolment,
+                "delivery_mode": delivery_mode
+            }
 
-        entry_course_timings.append(timing_entry)
+            entry_course_timings.append(timing_entry)
+
+            if sub_semester not in faculty_metadata["semesters"]:
+                faculty_metadata["semesters"][sub_semester] = {"departments": {}}
+
+            if department not in faculty_metadata["semesters"][sub_semester]["departments"]:
+                faculty_metadata["semesters"][sub_semester]["departments"][department] = {
+                    "buildings": set(),
+                    "instructors": set()
+                }
+
+            faculty_metadata["semesters"][sub_semester]["departments"][department]["buildings"].add(location)        
+            for instructor in instructors:
+                faculty_metadata["semesters"][sub_semester]["departments"][department]["instructors"].add(instructor)
 
     return entry_course_timings
 
@@ -213,7 +247,7 @@ def process_y_two_terms_entry(section_items, course_name, section_title, campus,
         except Exception as e:
             error_messages.append(f"{course_name} {section_title}: Error extracting Day/time spans or Location elements: {e}")
             error_courses.add(course_name)
-            return []
+            continue
 
         while len(location_elements) < len(day_time_spans):
             location_elements.append(DummyWebElement(location_elements[0].text))
@@ -266,6 +300,19 @@ def process_y_two_terms_entry(section_items, course_name, section_title, campus,
 
             entry_course_timings.append(timing_entry)
 
+            if session_label not in faculty_metadata["semesters"]:
+                faculty_metadata["semesters"][session_label] = {"departments": {}}
+
+            if department not in faculty_metadata["semesters"][session_label]["departments"]:
+                faculty_metadata["semesters"][session_label]["departments"][department] = {
+                    "buildings": set(),
+                    "instructors": set()
+                }
+
+            faculty_metadata["semesters"][session_label]["departments"][department]["buildings"].add(location)        
+            for instructor in instructors:
+                faculty_metadata["semesters"][session_label]["departments"][department]["instructors"].add(instructor)
+
     return entry_course_timings
 
 # Helper function to extract all the course timings from a course element
@@ -280,7 +327,6 @@ def extract_course_timings(course_element):
         ).text
     except Exception as e:
         error_messages.append(f"Error extracting Course Name: {e}")
-        stop_scraping = True # Stop scraping if you can't extract the course name, even if it happens only once
         return [] 
 
     try:
@@ -288,7 +334,7 @@ def extract_course_timings(course_element):
             EC.visibility_of_element_located((By.XPATH, ".//label[text()='Campus']/following-sibling::span"))
         ).text
     except Exception as e:
-        error_messages.append(f"Error extracting Campus: {e}")
+        error_messages.append(f"Error extracting Campus for course {course_name}: {e}")
         error_courses.add(course_name)
         return [] 
 
@@ -297,7 +343,7 @@ def extract_course_timings(course_element):
             EC.visibility_of_element_located((By.XPATH, ".//label[text()='Session']/following-sibling::span"))
         ).text
     except Exception as e:
-        error_messages.append(f"Error extracting Session: {e}")
+        error_messages.append(f"Error extracting Session for course {course_name}: {e}")
         error_courses.add(course_name)
         return [] 
 
@@ -320,16 +366,20 @@ def extract_course_timings(course_element):
             EC.visibility_of_element_located((By.XPATH, ".//label[text()='Faculty / Division:']/following-sibling::span"))
         ).text
     except Exception as e:
-        error_messages.append(f"Error extracting Department or Faculty: {e}")
+        error_messages.append(f"Error extracting Department or Faculty for course {course_name}: {e}")
         error_courses.add(course_name)
         return []
+    
+    # Error check, because for some reason Faculty of Information puts "" as the department
+    if department == "":
+        department = faculty
 
     try:
         course_sections = WebDriverWait(course_element, 10).until(
             EC.visibility_of_all_elements_located((By.XPATH, ".//div[contains(@class, 'course-sections')]"))
         )
     except Exception as e:
-        error_messages.append(f"Error extracting Course Sections: {e}")
+        error_messages.append(f"Error extracting Course Sections for course {course_name}: {e}")
         error_courses.add(course_name)
         return []
     
@@ -343,7 +393,7 @@ def extract_course_timings(course_element):
                 EC.visibility_of_element_located((By.XPATH, ".//h4"))
             ).text
         except Exception as e:
-            error_messages.append(f"{course_name}: Error extracting Section Title: {e}")
+            error_messages.append(f"{course_name}: Error extracting Section Title for course {course_name}: {e}")
             error_courses.add(course_name)
             continue
         
@@ -353,7 +403,7 @@ def extract_course_timings(course_element):
                 EC.visibility_of_all_elements_located((By.XPATH, ".//div[contains(@class, 'course-section')]"))
             )
         except Exception as e:
-            error_messages.append(f"{course_name}: Error extracting Section Entries: {e}")
+            error_messages.append(f"{course_name}: Error extracting Section Entries for course {course_name}: {e}")
             error_courses.add(course_name)
             continue
         
@@ -374,7 +424,7 @@ def extract_course_timings(course_element):
                 course_timings.extend(entry_course_timings)
 
             except Exception as e:
-                error_messages.append(f"{course_name} {section_title}: Error extracting section entry: {e}")
+                error_messages.append(f"Error extracting section entries for {course_name} {section_title}: {e}")
                 error_courses.add(course_name)
                 continue
 
@@ -387,23 +437,19 @@ def save_course_timings_to_json(course_timings, session_name, division_name):
 
     filename = f"{division_name.replace(' ', '_')}.json"
     file_path = os.path.join(data_dir, filename)
-
-    now = datetime.now()
-    last_updated = f"{now.strftime('%B %d, %Y')} at {convert_to_12hr(now)}"
     
     data_to_save = {
-        "last_updated": last_updated,
+        "faculty_metadata": faculty_metadata,
         "timings": course_timings
     }
 
     with open(file_path, 'w') as json_file:
         json.dump(data_to_save, json_file, indent=4)
     
-    # print(f"Data has been saved to {file_path} successfully.")
+    print(f"Data has been saved to {file_path} successfully.")
 
 # Helper function to save the course timings to a MongoDB collection
 def save_to_mongodb(course_timings, session_name, division_name):
-    load_dotenv()
     mongo_uri = os.getenv("MONGO_URI")
     if not mongo_uri:
         print("Error: MONGO_URI not found in environment variables.")
@@ -419,93 +465,144 @@ def save_to_mongodb(course_timings, session_name, division_name):
     collection = db[collection_name]
 
     collection.delete_many({})
-
-    now = datetime.now()
-    last_updated = f"{now.strftime('%B %d, %Y')} at {convert_to_12hr(now)}"
     
-    last_updated_document = {
-        "document_name": "last_updated",
-        "date": last_updated
-    }
-    collection.insert_one(last_updated_document)
+    collection.insert_one(faculty_metadata)
     if course_timings:
         collection.insert_many(course_timings)
-    # print(f"Inserted {len(course_timings)} records into the collection {collection_name} in database {db_name}.")
+    print(f"Inserted {len(course_timings)} records into the collection {collection_name} in database {db_name}.")
     
     client.close()
 
+def send_email():
+    global error_courses, error_messages
+    print("Several errors occurred while scraping the timetable data. Sending email to admin...")
+    subject = "Error scraping timetable data for Uoft Timetable Visualizer App"
+    body = ", ".join(error_courses) + "\n" + "\n".join(error_messages)
+    try:
+        sg = SendGridAPIClient(os.getenv('SENDGRID_API_KEY'))
+        message = Mail(
+            from_email=os.getenv('ADMIN_EMAIL'),
+            to_emails=os.getenv('ADMIN_EMAIL'),
+            subject=subject,
+            html_content=body
+        )
+        response = sg.send(message)
+        print(f"Email sent: Status {response.status_code}")
+    except Exception as e:
+        print(f"Failed to send email: {e}")
+
 # Main function to scrape the timetable data
 def scrape_timetable_data():
-    global error_courses, error_messages, stop_scraping, max_error_tolerance
+    global error_courses, error_messages, stop_scraping, MAX_ERROR_TOLERANCE, faculty_metadata
     url = 'https://ttb.utoronto.ca'
     driver.get(url)
 
      # Collect all divisions
-    WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.ID, 'division-combo-top-container'))
-    ).click()
-    division_container = WebDriverWait(driver, 10).until(
-        EC.visibility_of_element_located((By.ID, 'division-combo-bottom-container'))
-    )
-    divisions = WebDriverWait(division_container, 10).until(
-        EC.visibility_of_all_elements_located((By.XPATH, ".//app-ttb-option"))
-    )
-
-    # Collect all sessions
-    WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.ID, 'session-combo-top-container'))
-    ).click()
-    session_container = WebDriverWait(driver, 10).until(
-        EC.visibility_of_element_located((By.ID, 'session-combo-bottom-container'))
-    )
-    sessions = WebDriverWait(session_container, 10).until(
-        EC.visibility_of_all_elements_located((By.XPATH, ".//app-ttb-optiongroup"))
-    )
-
-    for division in divisions:
-        division_name = division.get_attribute('aria-label')
-
+    try:
         WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.ID, 'division-combo-top-container'))
         ).click()
         division_container = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.ID, 'division-combo-bottom-container'))
         )
-        WebDriverWait(division_container, 10).until(
-            EC.element_to_be_clickable((By.XPATH, f"//app-ttb-option[@aria-label='{division_name}']"))
+        divisions = WebDriverWait(division_container, 10).until(
+            EC.visibility_of_all_elements_located((By.XPATH, ".//app-ttb-option"))
+        )
+
+        # Collect all sessions
+        WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.ID, 'session-combo-top-container'))
         ).click()
+        session_container = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.ID, 'session-combo-bottom-container'))
+        )
+    except Exception as e:
+        error_messages.append(f"Error collecting divisions or sessions: {e}")
+        stop_scraping = True
+        return
 
-        for session in sessions:
-            session_name = session.get_attribute('aria-label')
-            
+    try:
+        sessions = WebDriverWait(session_container, 5).until(
+            EC.visibility_of_all_elements_located((By.XPATH, ".//app-ttb-optiongroup"))
+        )
+        session_names = [session.get_attribute('aria-label') for session in sessions]
+        more_than_one_session = True
+
+    except TimeoutException: # Its possible that there is only one session available so no radio buttons are present
+        fallback_option = WebDriverWait(session_container, 5).until(
+            EC.visibility_of_element_located((By.XPATH, ".//app-ttb-option"))
+        )
+        session_label = fallback_option.get_attribute('aria-label')
+        session_label = (session_label.split(",")[0]).strip()
+        session_names = [session_label]
+        more_than_one_session = False
+
+    for division in divisions:
+        division_name = division.get_attribute('aria-label')
+
+        try:
             WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.ID, 'session-combo-top-container'))
+                EC.element_to_be_clickable((By.ID, 'division-combo-top-container'))
             ).click()
-            session_container = WebDriverWait(driver, 10).until(
-                EC.visibility_of_element_located((By.ID, 'session-combo-bottom-container'))
+            division_container = WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located((By.ID, 'division-combo-bottom-container'))
             )
-            WebDriverWait(session_container, 10).until(
-                EC.element_to_be_clickable((By.XPATH, f"//app-ttb-optiongroup[@aria-label='{session_name}']"))
+            WebDriverWait(division_container, 10).until(
+                EC.element_to_be_clickable((By.XPATH, f"//app-ttb-option[@aria-label='{division_name}']"))
             ).click()
+        except Exception as e:
+            error_messages.append(f"Error selecting division: {e}")
+            stop_scraping = True
+            break
 
-            existing_courses = driver.find_elements(By.XPATH, "//app-course")
+        for session_name in session_names:
+            
+            try:
+                WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.ID, 'session-combo-top-container'))
+                ).click()
+                
+                if more_than_one_session:
+                    session_container = WebDriverWait(driver, 10).until(
+                        EC.visibility_of_element_located((By.ID, 'session-combo-bottom-container'))
+                    )
+                    WebDriverWait(session_container, 10).until(
+                        EC.element_to_be_clickable((By.XPATH, f"//app-ttb-optiongroup[@aria-label='{session_name}']"))
+                    ).click()
 
-            # Click the search button
-            WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'btn-primary') and contains(., 'Search')]"))
-            ).click()
+                existing_courses = driver.find_elements(By.XPATH, "//app-course")
 
-            # If there are existing courses, wait for them to go stale
-            if existing_courses:
-                WebDriverWait(driver, 10).until(EC.staleness_of(existing_courses[0]))
+                # Click the search button
+                WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'btn-primary') and contains(., 'Search')]"))
+                ).click()
 
-            all_timings_data = []
+                # If there are existing courses, wait for them to go stale
+                if existing_courses:
+                    WebDriverWait(driver, 10).until(EC.staleness_of(existing_courses[0]))
+
+                faculty_metadata = {
+                    "faculty_name": division_name,
+                    "semesters": {}
+                }
+                all_timings_data = []
+            
+            except Exception as e:
+                error_messages.append(f"Error selecting session or searching for courses: {e}")
+                stop_scraping = True
+                break
 
             # Loop through all pages for the selected campus and session
             while True:
-                WebDriverWait(driver, 10).until(
-                    EC.visibility_of_element_located((By.CLASS_NAME, 'courses-section'))
-                )
+                
+                try:
+                    WebDriverWait(driver, 10).until(
+                        EC.visibility_of_element_located((By.CLASS_NAME, 'courses-section'))
+                    )
+                except Exception as e:
+                    error_messages.append(f"Error loading courses section: {e}")
+                    stop_scraping = True
+                    break
 
                 # Try to get all course elements. If there are none, then break the loop
                 try:
@@ -533,16 +630,21 @@ def scrape_timetable_data():
                         all_timings_data.extend(course_timings)
                     
                     except Exception as e:
-                        error_messages.append(f"Error clicking caret button: {e}")
+                        error_messages.append(f"Error clicking caret button or waiting for course sections: {e}")
                         stop_scraping = True # Stop scraping if you can't click a course caret, even if it only happens once
                         break
                     
-                    if stop_scraping: 
-                            break
+                    if stop_scraping: # Something inside the extract_course_timings function went wrong
+                            break 
                     
                     # break # Only scrape the first course on the page
-
+                
                 # break # Only scrape the first page
+                
+                # Check if we need to stop scraping after each page
+                if stop_scraping or len(error_courses) >= MAX_ERROR_TOLERANCE:
+                    stop_scraping = True
+                    break
                 
                 # Check if the "Next" button is available and click it
                 try:
@@ -564,32 +666,61 @@ def scrape_timetable_data():
                     stop_scraping = True
                     break
 
-                if stop_scraping:
-                    break
-
-
-            if stop_scraping or len(error_courses) >= max_error_tolerance:
+            if stop_scraping or len(error_courses) >= MAX_ERROR_TOLERANCE:
                 stop_scraping = True
-                # Send an email to the admin about the scraping error
-                print("Severe errors occured. Sending email to admin...")
-                # sendEmail()
                 break
+                
             else:
-                save_course_timings_to_json(all_timings_data, session_name, division_name)
-                save_to_mongodb(all_timings_data, session_name, division_name)
+                for semester in faculty_metadata["semesters"]:
+                    for department in faculty_metadata["semesters"][semester]["departments"]:
+                        faculty_metadata["semesters"][semester]["departments"][department]["buildings"] = list(faculty_metadata["semesters"][semester]["departments"][department]["buildings"])
+                        faculty_metadata["semesters"][semester]["departments"][department]["instructors"] = list(faculty_metadata["semesters"][semester]["departments"][department]["instructors"])
+                
+                now = datetime.now()
+                last_updated = f"{now.strftime('%B %d, %Y')} at {convert_to_12hr(now)}"
+                faculty_metadata["last_updated"] = last_updated
+                try:
+                    save_course_timings_to_json(all_timings_data, session_name, division_name)
+                    save_to_mongodb(all_timings_data, session_name, division_name)
+                except Exception as e:
+                    error_messages.append(f"Error saving data to file or MongoDB: {e}")
+                    stop_scraping = True
+                    break # This will break the session loop
 
         if stop_scraping:
             break
-
+        
         # Reset filters
-        WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'btn-primary') and contains(., 'Reset Filters')]"))
-        ).click()
+        try:
+            if more_than_one_session:
+                WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'btn-primary') and contains(., 'Reset Filters')]"))
+                ).click()
+            else:
+                WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.ID, 'division-combo-top-container'))
+                ).click()
+                division_container = WebDriverWait(driver, 10).until(
+                    EC.visibility_of_element_located((By.ID, 'division-combo-bottom-container'))
+                )
+                WebDriverWait(division_container, 10).until(
+                    EC.element_to_be_clickable((By.XPATH, f"//app-ttb-option[@aria-label='{division_name}']"))
+                ).click()
+                WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.ID, 'division-combo-top-container'))
+                ).click()
+        except Exception as e:
+            error_messages.append(f"Error resetting filters: {e}")
+            stop_scraping = True
+            break
     
-    # for error_message in error_messages:
-    #     print(error_message)
+    for error_message in error_messages:
+        print(error_message)
 
 if __name__ == '__main__':
     scrape_timetable_data()
+    if stop_scraping or len(error_courses) >= MAX_ERROR_TOLERANCE:
+        send_email()
+    else:
+        print("Scraping completed successfully")
     driver.quit()
-    print("Script completed successfully")

@@ -1,5 +1,232 @@
 {
-    "last_updated": "August 12, 2024 at 1:28 PM",
+    "faculty_metadata": {
+        "faculty_name": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+        "semesters": {
+            "Fall 2024 (F)": {
+                "departments": {
+                    "John H. Daniels Faculty of Architecture, Landscape, & Design": {
+                        "buildings": [
+                            "NB",
+                            "WB",
+                            "RW",
+                            "MP",
+                            "DA",
+                            "SS",
+                            "AB",
+                            "HA",
+                            "ES",
+                            "VC",
+                            "UC",
+                            "NF",
+                            "SU",
+                            "MS",
+                            "WW",
+                            "AP",
+                            "SB",
+                            "WI",
+                            "BA",
+                            "MY",
+                            "TBA",
+                            "GB",
+                            "KP"
+                        ],
+                        "instructors": [
+                            "David Verbeek",
+                            "Erica Kim",
+                            "Ijlal Muzaffar",
+                            "Zachary Blas",
+                            "Anne Ma",
+                            "June Pak",
+                            "David Han",
+                            "Derek Liddington",
+                            "Roberto Damiani",
+                            "Kyle O'Brien",
+                            "Georgia Phillips-Amos",
+                            "Michael Piper",
+                            "Lara Hassani",
+                            "Maria Yablonina",
+                            "Ted Kesik",
+                            "Sneha Mandhan",
+                            "Mahshid Rafiei",
+                            "Adrian Phiffer",
+                            "Mitchell Akiyama",
+                            "Katy Chey",
+                            "Joshua Kirk",
+                            "Zachary Mollica",
+                            "Johannes Ibelings",
+                            "James Macgillivray",
+                            "Parastoo Anoushahpour",
+                            "Jeffrey Garcia",
+                            "Gareth Long",
+                            "Simon Rabyniuk",
+                            "Nova Tayona",
+                            "Morris Lum",
+                            "Sue Lloyd",
+                            "Matthew De Santis",
+                            "Behnaz Assadi",
+                            "Daniel Briker",
+                            "Paul Howard Harrison",
+                            "Peter Sealy",
+                            "Shane Williamson",
+                            "Jeannie Kim",
+                            "Hadi El-Shayeb",
+                            "Aryen Hoekstra",
+                            "Mariano Martellacci",
+                            "Liat Margolis",
+                            "Reza Moghaddamnik",
+                            "Ji Hee Kim",
+                            "Aziza Chaouni",
+                            "Shannon Hilchie",
+                            "Vanessa Godden",
+                            "Charles Stankievech",
+                            "Maggie Groat",
+                            "Maria Denegri",
+                            "Ryan Ferko",
+                            "Miles Gertler",
+                            "Jenine Marsh",
+                            "Niloufar Jalal-Zadeh",
+                            "Phat Le",
+                            "Katie Lyle",
+                            "Karen Kraven",
+                            "John Shnier",
+                            "Luis Jacob",
+                            "Zinnia Naqvi",
+                            "Brandon Bergem",
+                            "Melanie Gilligan",
+                            "Alissa North",
+                            "TBA",
+                            "Sukaina Kubba",
+                            "David Bowick",
+                            "Jane Wolff",
+                            "Sam Dufaux",
+                            "Jon Cummings",
+                            "Angus Laurie",
+                            "Nicholas Hoban",
+                            "Sarah Robayo Sheridan",
+                            "Carol Leila Moukheiber",
+                            "Fadi Masoud",
+                            "Karen Louise Kubey"
+                        ]
+                    }
+                }
+            },
+            "Winter 2025 (S)": {
+                "departments": {
+                    "John H. Daniels Faculty of Architecture, Landscape, & Design": {
+                        "buildings": [
+                            "NB",
+                            "WB",
+                            "MP",
+                            "FE",
+                            "DA",
+                            "SS",
+                            "AB",
+                            "ES",
+                            "UC",
+                            "BT",
+                            "SU",
+                            "MS",
+                            "WW",
+                            "OI",
+                            "SB",
+                            "BA",
+                            "MY",
+                            "TBA",
+                            "GB",
+                            "KP"
+                        ],
+                        "instructors": [
+                            "Sam Cotter",
+                            "Anne Ma",
+                            "June Pak",
+                            "Aleksandr Bierig",
+                            "Maria Yablonina",
+                            "Sneha Mandhan",
+                            "Youssef el Helou",
+                            "Eshan Rafi",
+                            "Danielle Whitley",
+                            "Jeannie Kim",
+                            "Mariano Martellacci",
+                            "Kara Verbeek",
+                            "Maria Denegri",
+                            "Christopher Cornecelli",
+                            "Jenine Marsh",
+                            "Phat Le",
+                            "Jennifer Kudlats",
+                            "Brady Peters",
+                            "Zinnia Naqvi",
+                            "Anne-Marie Armstrong",
+                            "Scott Sorli",
+                            "Stephen Verderber",
+                            "Zachary Mollica",
+                            "Erdem S Tasdelen",
+                            "Gareth Long",
+                            "Morris Lum",
+                            "Sue Lloyd",
+                            "Peter North",
+                            "Liat Margolis",
+                            "Reza Moghaddamnik",
+                            "Jennifer Carvalho",
+                            "Charles Stankievech",
+                            "TBA",
+                            "Jane Wolff",
+                            "Sarah Robayo Sheridan",
+                            "Megan Esopenko",
+                            "Karen Louise Kubey",
+                            "Erica Kim",
+                            "Joy Wong",
+                            "Chloe Town",
+                            "Christophe Barbeau",
+                            "Michael Piper",
+                            "John Harwood",
+                            "Katy Chey",
+                            "Jennifer Davis",
+                            "Jeffrey Garcia",
+                            "Daniel Briker",
+                            "Peter Sealy",
+                            "Richard Sommer",
+                            "Georges Farhat",
+                            "Francesco Martire",
+                            "Paul Howard Harrison",
+                            "Mauricio Quiros Pacheco",
+                            "Maggie Groat",
+                            "Vanessa Godden",
+                            "Mahsa Malek",
+                            "John Monteith",
+                            "Karen Kraven",
+                            "Mohammed Soroor",
+                            "Matthew Nish-Lapidus",
+                            "Oliver Husain",
+                            "Angus Laurie",
+                            "Nicholas Hoban",
+                            "Samantha Eby",
+                            "David Verbeek",
+                            "Derek Liddington",
+                            "Milena Tomic",
+                            "Lara Hassani",
+                            "Humbi Song",
+                            "Jason Nguyen",
+                            "Simon Rabyniuk",
+                            "Suzan Ibrahim",
+                            "Ella Gonzales",
+                            "Shane Williamson",
+                            "Francesco Valente-Gorjup",
+                            "Harry Wei",
+                            "Aziza Chaouni",
+                            "Fiona Lim Tung",
+                            "Katie Lyle",
+                            "Onah Jung",
+                            "Luis Jacob",
+                            "Marcin Kedzior",
+                            "Sukaina Kubba",
+                            "David Bowick"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "September 13, 2024 at 8:24 PM"
+    },
     "timings": [
         {
             "course_name": "ARC100H1 F: Drawing and Representation I",
@@ -13,10 +240,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "James Macgillivray"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -31,25 +258,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC100H1 F: Drawing and Representation I",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
+                "Lara Hassani"
             ],
             "capacity": 25,
             "current_enrolment": 24,
@@ -67,10 +276,28 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Adrian Phiffer"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC100H1 F: Drawing and Representation I",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Zachary Mollica"
+            ],
+            "capacity": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -85,7 +312,43 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Brandon Bergem"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC100H1 F: Drawing and Representation I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "12:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Anne Ma"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC100H1 F: Drawing and Representation I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "12:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Niloufar Jalal-Zadeh"
             ],
             "capacity": 25,
             "current_enrolment": 22,
@@ -103,81 +366,9 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Matthew De Santis"
             ],
-            "capacity": 25,
-            "current_enrolment": 23,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC100H1 F: Drawing and Representation I",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "12:30",
-            "end_time": "15:30",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC100H1 F: Drawing and Representation I",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "12:30",
-            "end_time": "15:30",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 24,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC100H1 F: Drawing and Representation I",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "19:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC100H1 F: Drawing and Representation I",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "19:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
+            "capacity": 24,
             "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
@@ -196,7 +387,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
@@ -211,28 +402,46 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Mariano Martellacci"
             ],
-            "capacity": 25,
+            "capacity": 24,
             "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "ARC100H1 F: Drawing and Representation I",
             "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "12:30",
-            "end_time": "15:30",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "19:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Kyle O'Brien"
             ],
-            "capacity": 30,
-            "current_enrolment": 30,
+            "capacity": 24,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC100H1 F: Drawing and Representation I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Phat Le"
+            ],
+            "capacity": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -247,10 +456,28 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Ji Hee Kim"
             ],
-            "capacity": 30,
-            "current_enrolment": 30,
+            "capacity": 24,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC100H1 F: Drawing and Representation I",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "12:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Katy Chey"
+            ],
+            "capacity": 25,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -268,7 +495,7 @@
                 "TBA"
             ],
             "capacity": 360,
-            "current_enrolment": 345,
+            "current_enrolment": 299,
             "delivery_mode": "In Person"
         },
         {
@@ -283,7 +510,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jennifer Davis"
             ],
             "capacity": 15,
             "current_enrolment": 0,
@@ -301,7 +528,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Mohammed Soroor"
             ],
             "capacity": 15,
             "current_enrolment": 0,
@@ -337,10 +564,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Paul Howard Harrison"
             ],
             "capacity": 350,
-            "current_enrolment": 350,
+            "current_enrolment": 317,
             "delivery_mode": "In Person"
         },
         {
@@ -358,7 +585,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -376,7 +603,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -394,7 +621,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -412,7 +639,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -430,7 +657,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -448,7 +675,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -466,7 +693,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 48,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -481,7 +708,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "BT",
             "instructors": [
-                "TBA"
+                "John Harwood"
             ],
             "capacity": 480,
             "current_enrolment": 480,
@@ -646,61 +873,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC181H1 S: Technologies of Architecture, Landscape, Urbanism, and Art I",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "OI",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC181H1 S: Technologies of Architecture, Landscape, Urbanism, and Art I",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "OI",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC181H1 S: Technologies of Architecture, Landscape, Urbanism, and Art I",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -743,18 +916,18 @@
             "course_name": "ARC181H1 S: Technologies of Architecture, Landscape, Urbanism, and Art I",
             "section_title": "Tutorials",
             "day": "Thursday",
-            "start_time": "12:00",
-            "end_time": "13:00",
+            "start_time": "13:00",
+            "end_time": "14:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "OI",
+            "location": "DA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -772,7 +945,61 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC181H1 S: Technologies of Architecture, Landscape, Urbanism, and Art I",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "OI",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC181H1 S: Technologies of Architecture, Landscape, Urbanism, and Art I",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "OI",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC181H1 S: Technologies of Architecture, Landscape, Urbanism, and Art I",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "OI",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -805,7 +1032,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Michael Piper"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -823,7 +1050,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Maria Denegri"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -841,7 +1068,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Reza Moghaddamnik"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -859,7 +1086,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jon Cummings"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -877,7 +1104,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Nova Tayona"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -895,10 +1122,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Karen Louise Kubey"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -913,10 +1140,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Katy Chey"
             ],
             "capacity": 20,
-            "current_enrolment": 3,
+            "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
@@ -931,10 +1158,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Phat Le"
             ],
             "capacity": 20,
-            "current_enrolment": 4,
+            "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
@@ -949,7 +1176,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jeffrey Garcia"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -967,7 +1194,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Erica Kim"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -988,7 +1215,7 @@
                 "TBA"
             ],
             "capacity": 250,
-            "current_enrolment": 153,
+            "current_enrolment": 158,
             "delivery_mode": "In Person"
         },
         {
@@ -1003,7 +1230,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Samantha Eby"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1021,7 +1248,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Aziza Chaouni"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1042,7 +1269,7 @@
                 "TBA"
             ],
             "capacity": 250,
-            "current_enrolment": 35,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1057,7 +1284,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Shane Williamson"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1075,7 +1302,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jon Cummings"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1093,10 +1320,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Miles Gertler"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -1114,7 +1341,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -1129,7 +1356,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Anne Ma"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1147,7 +1374,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Katy Chey"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1165,7 +1392,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Maria Denegri"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1183,10 +1410,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "David Verbeek"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1201,7 +1428,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Daniel Briker"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1219,10 +1446,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jennifer Kudlats"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -1237,7 +1464,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Lara Hassani"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1255,10 +1482,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Kara Verbeek"
             ],
             "capacity": 20,
-            "current_enrolment": 4,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -1273,7 +1500,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Francesco Martire"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1294,7 +1521,7 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 4,
+            "current_enrolment": 2,
             "delivery_mode": "In Person"
         },
         {
@@ -1312,7 +1539,7 @@
                 "TBA"
             ],
             "capacity": 160,
-            "current_enrolment": 149,
+            "current_enrolment": 160,
             "delivery_mode": "In Person"
         },
         {
@@ -1327,10 +1554,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Peter Sealy"
             ],
             "capacity": 300,
-            "current_enrolment": 215,
+            "current_enrolment": 217,
             "delivery_mode": "In Person"
         },
         {
@@ -1345,10 +1572,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Alissa North"
             ],
             "capacity": 300,
-            "current_enrolment": 219,
+            "current_enrolment": 218,
             "delivery_mode": "In Person"
         },
         {
@@ -1366,7 +1593,7 @@
                 "TBA"
             ],
             "capacity": 300,
-            "current_enrolment": 210,
+            "current_enrolment": 208,
             "delivery_mode": "In Person"
         },
         {
@@ -1381,10 +1608,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "ES",
             "instructors": [
-                "TBA"
+                "Brady Peters"
             ],
             "capacity": 300,
-            "current_enrolment": 232,
+            "current_enrolment": 233,
             "delivery_mode": "In Person"
         },
         {
@@ -1456,7 +1683,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 49,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -1474,7 +1701,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 11,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -1492,7 +1719,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 21,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -1507,10 +1734,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Shannon Hilchie"
             ],
             "capacity": 300,
-            "current_enrolment": 234,
+            "current_enrolment": 239,
             "delivery_mode": "In Person"
         },
         {
@@ -1528,7 +1755,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1827,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 32,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -1615,10 +1842,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Richard Sommer"
             ],
             "capacity": 350,
-            "current_enrolment": 148,
+            "current_enrolment": 155,
             "delivery_mode": "In Person"
         },
         {
@@ -1633,7 +1860,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "RW",
             "instructors": [
-                "TBA"
+                "Ijlal Muzaffar"
             ],
             "capacity": 80,
             "current_enrolment": 80,
@@ -1654,7 +1881,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 39,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -1687,7 +1914,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "MS",
             "instructors": [
-                "TBA"
+                "Erica Kim"
             ],
             "capacity": 80,
             "current_enrolment": 80,
@@ -1726,7 +1953,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 37,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -1741,7 +1968,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Karen Louise Kubey"
             ],
             "capacity": 80,
             "current_enrolment": 80,
@@ -1762,7 +1989,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 39,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1780,7 +2007,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 38,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -1795,7 +2022,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "UC",
             "instructors": [
-                "TBA"
+                "Roberto Damiani"
             ],
             "capacity": 100,
             "current_enrolment": 100,
@@ -1816,7 +2043,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 41,
+            "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
         {
@@ -1834,7 +2061,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 42,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -1849,7 +2076,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Hadi El-Shayeb"
             ],
             "capacity": 80,
             "current_enrolment": 80,
@@ -1888,7 +2115,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 36,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -1903,10 +2130,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SU",
             "instructors": [
-                "TBA"
+                "Georges Farhat"
             ],
             "capacity": 80,
-            "current_enrolment": 64,
+            "current_enrolment": 70,
             "delivery_mode": "In Person"
         },
         {
@@ -1942,7 +2169,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 21,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -1957,7 +2184,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Adrian Phiffer"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1975,7 +2202,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Adrian Phiffer"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -1984,6 +2211,42 @@
         {
             "course_name": "ARC361Y1 F: Architecture Studio III",
             "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "David Verbeek"
+            ],
+            "capacity": 20,
+            "current_enrolment": 14,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC361Y1 F: Architecture Studio III",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "David Verbeek"
+            ],
+            "capacity": 20,
+            "current_enrolment": 14,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC361Y1 F: Architecture Studio III",
+            "section_title": "Practicals",
             "day": "Monday",
             "start_time": "09:00",
             "end_time": "12:00",
@@ -1993,97 +2256,25 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
-            ],
-            "capacity": 20,
-            "current_enrolment": 19,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC361Y1 F: Architecture Studio III",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 20,
-            "current_enrolment": 19,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC361Y1 F: Architecture Studio III",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 20,
-            "current_enrolment": 6,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC361Y1 F: Architecture Studio III",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 20,
-            "current_enrolment": 6,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC362Y1 S: Architecture Studio IV",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
+                "Carol Leila Moukheiber"
             ],
             "capacity": 20,
             "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
-            "course_name": "ARC362Y1 S: Architecture Studio IV",
+            "course_name": "ARC361Y1 F: Architecture Studio III",
             "section_title": "Practicals",
             "day": "Thursday",
             "start_time": "09:00",
             "end_time": "12:00",
             "campus": "St. George",
-            "session": "Winter 2025 (S)",
+            "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Carol Leila Moukheiber"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -2101,7 +2292,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Shane Williamson"
             ],
             "capacity": 20,
             "current_enrolment": 17,
@@ -2119,7 +2310,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Shane Williamson"
             ],
             "capacity": 20,
             "current_enrolment": 17,
@@ -2137,7 +2328,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Chloe Town"
             ],
             "capacity": 20,
             "current_enrolment": 18,
@@ -2155,13 +2346,49 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Chloe Town"
             ],
             "capacity": 20,
             "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
+            "course_name": "ARC362Y1 S: Architecture Studio IV",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Christopher Cornecelli"
+            ],
+            "capacity": 20,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC362Y1 S: Architecture Studio IV",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Christopher Cornecelli"
+            ],
+            "capacity": 20,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
             "course_name": "ARC363Y1 F: Landscape Architecture Studio III",
             "section_title": "Practicals",
             "day": "Monday",
@@ -2173,7 +2400,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Behnaz Assadi"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -2191,7 +2418,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Behnaz Assadi"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -2209,10 +2436,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Peter North"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -2227,10 +2454,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Peter North"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -2245,10 +2472,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "GB",
             "instructors": [
-                "TBA"
+                "Stephen Verderber"
             ],
             "capacity": 80,
-            "current_enrolment": 65,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -2266,7 +2493,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 40,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -2284,7 +2511,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 23,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -2299,7 +2526,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Jane Wolff"
             ],
             "capacity": 80,
             "current_enrolment": 80,
@@ -2353,7 +2580,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Angus Laurie"
             ],
             "capacity": 80,
             "current_enrolment": 80,
@@ -2407,7 +2634,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Joshua Kirk"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2425,7 +2652,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Joshua Kirk"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2443,7 +2670,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Daniel Briker"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2461,7 +2688,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Daniel Briker"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2479,7 +2706,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Mauricio Quiros Pacheco"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2497,7 +2724,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Mauricio Quiros Pacheco"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2515,7 +2742,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Fiona Lim Tung"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2533,7 +2760,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Fiona Lim Tung"
             ],
             "capacity": 36,
             "current_enrolment": 36,
@@ -2551,7 +2778,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Maria Yablonina"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -2569,7 +2796,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Maria Yablonina"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -2587,7 +2814,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Nicholas Hoban"
             ],
             "capacity": 20,
             "current_enrolment": 19,
@@ -2605,7 +2832,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Nicholas Hoban"
             ],
             "capacity": 20,
             "current_enrolment": 19,
@@ -2623,7 +2850,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Paul Howard Harrison"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -2641,7 +2868,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Paul Howard Harrison"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -2659,10 +2886,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Suzan Ibrahim"
             ],
             "capacity": 20,
-            "current_enrolment": 13,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -2677,10 +2904,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Suzan Ibrahim"
             ],
             "capacity": 20,
-            "current_enrolment": 13,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -2695,7 +2922,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "KP",
             "instructors": [
-                "TBA"
+                "David Bowick"
             ],
             "capacity": 150,
             "current_enrolment": 150,
@@ -2716,7 +2943,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 49,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -2734,7 +2961,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 49,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -2752,7 +2979,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 49,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -2770,7 +2997,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 97,
+            "current_enrolment": 110,
             "delivery_mode": "In Person"
         },
         {
@@ -2806,7 +3033,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 35,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -2824,7 +3051,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 21,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -2839,10 +3066,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Maria Yablonina"
             ],
             "capacity": 80,
-            "current_enrolment": 38,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -2860,7 +3087,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 36,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -2878,7 +3105,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -2893,28 +3120,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "WI",
             "instructors": [
-                "TBA"
+                "Fadi Masoud"
             ],
             "capacity": 80,
             "current_enrolment": 80,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ARC386H1 F: Landscape Ecology",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "19:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "ES",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 40,
-            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -2936,6 +3145,24 @@
             "delivery_mode": "In Person"
         },
         {
+            "course_name": "ARC386H1 F: Landscape Ecology",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "ES",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 40,
+            "current_enrolment": 40,
+            "delivery_mode": "In Person"
+        },
+        {
             "course_name": "ARC387H1 S: Landscape Topography and Hydrology",
             "section_title": "Lectures",
             "day": "Tuesday",
@@ -2947,10 +3174,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Megan Esopenko"
             ],
             "capacity": 80,
-            "current_enrolment": 69,
+            "current_enrolment": 77,
             "delivery_mode": "In Person"
         },
         {
@@ -2968,7 +3195,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 38,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -2986,7 +3213,25 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 30,
+            "current_enrolment": 36,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC399H1 F: Research Opportunity Program",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "TBA",
+            "instructors": [
+                "Peter Sealy"
+            ],
+            "capacity": 1,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -3001,7 +3246,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Ijlal Muzaffar"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3019,10 +3264,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Johannes Ibelings"
             ],
-            "capacity": 40,
-            "current_enrolment": 34,
+            "capacity": 41,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -3037,7 +3282,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jason Nguyen"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3055,10 +3300,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Aleksandr Bierig"
             ],
             "capacity": 40,
-            "current_enrolment": 32,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -3091,7 +3336,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Simon Rabyniuk"
             ],
             "capacity": 20,
             "current_enrolment": 14,
@@ -3109,7 +3354,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Simon Rabyniuk"
             ],
             "capacity": 20,
             "current_enrolment": 14,
@@ -3127,7 +3372,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Simon Rabyniuk"
             ],
             "capacity": 20,
             "current_enrolment": 14,
@@ -3145,7 +3390,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Simon Rabyniuk"
             ],
             "capacity": 20,
             "current_enrolment": 14,
@@ -3163,10 +3408,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jeannie Kim"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -3181,10 +3426,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jeannie Kim"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -3199,7 +3444,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jeannie Kim"
             ],
             "capacity": 20,
             "current_enrolment": 15,
@@ -3217,7 +3462,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jeannie Kim"
             ],
             "capacity": 20,
             "current_enrolment": 15,
@@ -3235,7 +3480,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Aziza Chaouni"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3253,7 +3498,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Adrian Phiffer"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3262,7 +3507,7 @@
         {
             "course_name": "ARC465H1 F2: Advanced Topics in Architecture",
             "section_title": "Lectures",
-            "day": "Monday",
+            "day": "Friday",
             "start_time": "12:00",
             "end_time": "15:00",
             "campus": "St. George",
@@ -3271,7 +3516,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "John Shnier"
             ],
             "capacity": 30,
             "current_enrolment": 30,
@@ -3289,7 +3534,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Reza Moghaddamnik"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3307,7 +3552,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Anne-Marie Armstrong"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3325,7 +3570,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Zachary Mollica"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -3343,7 +3588,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SU",
             "instructors": [
-                "TBA"
+                "Jane Wolff"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3361,7 +3606,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "BA",
             "instructors": [
-                "TBA"
+                "Liat Margolis"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3379,7 +3624,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Angus Laurie"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3433,10 +3678,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Ted Kesik"
             ],
             "capacity": 28,
-            "current_enrolment": 28,
+            "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
@@ -3451,10 +3696,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Sam Dufaux"
             ],
-            "capacity": 40,
-            "current_enrolment": 40,
+            "capacity": 41,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -3469,7 +3714,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "David Bowick"
             ],
             "capacity": 40,
             "current_enrolment": 40,
@@ -3487,10 +3732,28 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Humbi Song"
             ],
             "capacity": 40,
-            "current_enrolment": 37,
+            "current_enrolment": 35,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC484H1 F: Wood-Frame Construction Tech.",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "12:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Ted Kesik"
+            ],
+            "capacity": 28,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -3505,7 +3768,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Nicholas Hoban"
             ],
             "capacity": 20,
             "current_enrolment": 16,
@@ -3523,7 +3786,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Nicholas Hoban"
             ],
             "capacity": 20,
             "current_enrolment": 16,
@@ -3541,7 +3804,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Nicholas Hoban"
             ],
             "capacity": 20,
             "current_enrolment": 17,
@@ -3559,7 +3822,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Nicholas Hoban"
             ],
             "capacity": 20,
             "current_enrolment": 17,
@@ -3572,15 +3835,15 @@
             "start_time": "TBA",
             "end_time": "TBA",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
-            "capacity": 5,
-            "current_enrolment": 0,
+            "capacity": 11,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -3590,15 +3853,53 @@
             "start_time": "TBA",
             "end_time": "TBA",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Winter 2025 (S)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
+            "capacity": 11,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC490Y1 Y: Multidisciplinary Urban Capstone Project",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Sneha Mandhan",
+                "Michael Piper"
+            ],
             "capacity": 20,
-            "current_enrolment": 19,
+            "current_enrolment": 17,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC490Y1 Y: Multidisciplinary Urban Capstone Project",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Sneha Mandhan",
+                "Michael Piper"
+            ],
+            "capacity": 20,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -3613,7 +3914,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Jeffrey Garcia"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -3631,7 +3932,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Phat Le"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -3649,10 +3950,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Francesco Valente-Gorjup"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -3667,10 +3968,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Mahsa Malek"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -3685,10 +3986,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Marcin Kedzior"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -3703,10 +4004,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Youssef el Helou"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -3721,7 +4022,43 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Scott Sorli"
+            ],
+            "capacity": 25,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Mariano Martellacci"
+            ],
+            "capacity": 25,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Harry Wei"
             ],
             "capacity": 25,
             "current_enrolment": 23,
@@ -3739,118 +4076,82 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Onah Jung"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 24,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 24,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "19:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 33,
-            "current_enrolment": 28,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "19:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "DA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 33,
             "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Danielle Whitley"
+            ],
+            "capacity": 25,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Kara Verbeek"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 33,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV101H1 S: Design Studio I: How to design almost anything",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 33,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -3868,7 +4169,7 @@
                 "TBA"
             ],
             "capacity": 33,
-            "current_enrolment": 33,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -3886,7 +4187,7 @@
                 "TBA"
             ],
             "capacity": 399,
-            "current_enrolment": 374,
+            "current_enrolment": 328,
             "delivery_mode": "In Person"
         },
         {
@@ -3901,10 +4202,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Mitchell Akiyama"
             ],
             "capacity": 400,
-            "current_enrolment": 400,
+            "current_enrolment": 391,
             "delivery_mode": "In Person"
         },
         {
@@ -4037,18 +4338,18 @@
             "course_name": "JAV120H1 F: Visual Concepts",
             "section_title": "Tutorials",
             "day": "Monday",
-            "start_time": "16:00",
-            "end_time": "17:00",
+            "start_time": "18:00",
+            "end_time": "19:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "BA",
+            "location": "NB",
             "instructors": [
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -4066,7 +4367,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -4102,7 +4403,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -4120,7 +4421,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -4138,7 +4439,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -4174,25 +4475,25 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "JAV120H1 F: Visual Concepts",
             "section_title": "Tutorials",
             "day": "Monday",
-            "start_time": "17:00",
-            "end_time": "18:00",
+            "start_time": "18:00",
+            "end_time": "19:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "BA",
+            "location": "SB",
             "instructors": [
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -4207,10 +4508,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "June Pak"
             ],
             "capacity": 25,
-            "current_enrolment": 5,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -4225,10 +4526,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Jenine Marsh"
             ],
             "capacity": 25,
-            "current_enrolment": 9,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -4246,7 +4547,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 14,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -4261,10 +4562,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Joy Wong"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -4279,10 +4580,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Sam Cotter"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -4297,10 +4598,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "June Pak"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -4318,7 +4619,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -4333,10 +4634,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Christophe Barbeau"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -4354,7 +4655,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -4369,10 +4670,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Jennifer Carvalho"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -4387,10 +4688,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Ella Gonzales"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -4441,7 +4742,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Zinnia Naqvi"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -4459,10 +4760,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Vanessa Godden"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -4477,7 +4778,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Eshan Rafi"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -4498,7 +4799,7 @@
                 "TBA"
             ],
             "capacity": 34,
-            "current_enrolment": 34,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -4516,7 +4817,7 @@
                 "TBA"
             ],
             "capacity": 34,
-            "current_enrolment": 34,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -4534,7 +4835,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 95,
+            "current_enrolment": 92,
             "delivery_mode": "In Person"
         },
         {
@@ -4552,7 +4853,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 95,
+            "current_enrolment": 84,
             "delivery_mode": "In Person"
         },
         {
@@ -4570,7 +4871,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 100,
+            "current_enrolment": 97,
             "delivery_mode": "In Person"
         },
         {
@@ -4588,7 +4889,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 96,
+            "current_enrolment": 77,
             "delivery_mode": "In Person"
         },
         {
@@ -4603,10 +4904,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Johannes Ibelings"
             ],
             "capacity": 400,
-            "current_enrolment": 400,
+            "current_enrolment": 359,
             "delivery_mode": "In Person"
         },
         {
@@ -4624,7 +4925,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -4655,7 +4956,7 @@
             "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "MY",
+            "location": "BA",
             "instructors": [
                 "TBA"
             ],
@@ -4678,7 +4979,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -4696,43 +4997,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV151H1 F: History of Architecture, Landscape, Urbanism, and Art I",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 24,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV151H1 F: History of Architecture, Landscape, Urbanism, and Art I",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -4757,6 +5022,42 @@
             "course_name": "JAV151H1 F: History of Architecture, Landscape, Urbanism, and Art I",
             "section_title": "Tutorials",
             "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV151H1 F: History of Architecture, Landscape, Urbanism, and Art I",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV151H1 F: History of Architecture, Landscape, Urbanism, and Art I",
+            "section_title": "Tutorials",
+            "day": "Friday",
             "start_time": "13:00",
             "end_time": "14:00",
             "campus": "St. George",
@@ -4768,7 +5069,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -4786,7 +5087,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -4804,7 +5105,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -4822,7 +5123,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -4840,7 +5141,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -4858,7 +5159,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -4876,7 +5177,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -4894,7 +5195,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -4909,10 +5210,118 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Erica Kim"
             ],
             "capacity": 400,
-            "current_enrolment": 393,
+            "current_enrolment": 353,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -4943,120 +5352,12 @@
             "session": "Winter 2025 (S)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "MY",
             "instructors": [
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 24,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "JAV152H1 S: History of Architecture, Landscape, Urbanism, and Art II",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -5074,7 +5375,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -5092,7 +5393,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -5110,7 +5411,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -5128,7 +5429,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -5146,7 +5447,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -5164,7 +5465,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -5200,7 +5501,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -5215,10 +5516,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Luis Jacob"
             ],
             "capacity": 375,
-            "current_enrolment": 294,
+            "current_enrolment": 293,
             "delivery_mode": "In Person"
         },
         {
@@ -5236,7 +5537,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -5362,7 +5663,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
@@ -5380,7 +5681,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -5398,7 +5699,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 17,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -5416,7 +5717,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 5,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -5434,7 +5735,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 4,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -5452,7 +5753,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 4,
+            "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
@@ -5470,7 +5771,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 4,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -5488,7 +5789,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 10,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -5506,7 +5807,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -5521,10 +5822,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Liat Margolis"
             ],
             "capacity": 80,
-            "current_enrolment": 49,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -5542,7 +5843,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 39,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -5560,7 +5861,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 2,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -5578,7 +5879,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 7,
+            "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
@@ -5593,10 +5894,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "John Monteith"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -5611,7 +5912,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Katie Lyle"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -5629,10 +5930,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Jennifer Carvalho"
             ],
             "capacity": 25,
-            "current_enrolment": 8,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -5647,10 +5948,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Oliver Husain"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -5665,10 +5966,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Oliver Husain"
             ],
             "capacity": 20,
-            "current_enrolment": 13,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -5683,10 +5984,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "David Han"
             ],
             "capacity": 25,
-            "current_enrolment": 10,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -5701,10 +6002,11 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Melanie Gilligan",
+                "Mahshid Rafiei"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -5737,10 +6039,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Jenine Marsh"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -5773,7 +6075,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Katie Lyle"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -5791,10 +6093,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Derek Liddington"
             ],
             "capacity": 25,
-            "current_enrolment": 15,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -5809,7 +6111,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Sukaina Kubba"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -5827,10 +6129,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Vanessa Godden"
             ],
             "capacity": 25,
-            "current_enrolment": 4,
+            "current_enrolment": 7,
             "delivery_mode": "In Person"
         },
         {
@@ -5881,10 +6183,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Derek Liddington"
             ],
             "capacity": 25,
-            "current_enrolment": 18,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -5899,10 +6201,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Aryen Hoekstra"
             ],
             "capacity": 25,
-            "current_enrolment": 17,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -5917,10 +6219,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Aryen Hoekstra"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -5935,7 +6237,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Sukaina Kubba"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -5953,7 +6255,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Morris Lum"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -5971,7 +6273,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Morris Lum"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -5989,7 +6291,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Zinnia Naqvi"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -6007,10 +6309,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Zinnia Naqvi"
             ],
             "capacity": 25,
-            "current_enrolment": 15,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -6028,7 +6330,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 17,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -6043,14 +6345,14 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Charles Stankievech"
             ],
             "capacity": 20,
             "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
-            "course_name": "VIS301H1 F: Painting: The Painted Edge",
+            "course_name": "VIS301H1 F: Painting: Content and Context",
             "section_title": "Practicals",
             "day": "Wednesday",
             "start_time": "14:00",
@@ -6061,10 +6363,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Katie Lyle"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -6079,10 +6381,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Ryan Ferko"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -6097,10 +6399,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Matthew Nish-Lapidus"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -6115,10 +6417,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Karen Kraven"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -6133,7 +6435,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "June Pak"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -6151,7 +6453,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Parastoo Anoushahpour"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -6169,7 +6471,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Maggie Groat"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -6187,7 +6489,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Sue Lloyd"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -6205,7 +6507,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Karen Kraven"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -6223,10 +6525,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Morris Lum"
             ],
             "capacity": 20,
-            "current_enrolment": 13,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -6277,7 +6579,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Sarah Robayo Sheridan"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -6295,7 +6597,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Maggie Groat"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -6313,7 +6615,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Erdem S Tasdelen"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -6331,10 +6633,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Derek Liddington"
             ],
             "capacity": 25,
-            "current_enrolment": 14,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -6347,9 +6649,9 @@
             "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
+            "location": "NB",
             "instructors": [
-                "TBA"
+                "Melanie Gilligan"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -6367,10 +6669,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Gareth Long"
             ],
             "capacity": 25,
-            "current_enrolment": 9,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -6385,10 +6687,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Sue Lloyd"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -6403,7 +6705,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Charles Stankievech"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -6421,10 +6723,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Zachary Blas"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -6439,10 +6741,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Georgia Phillips-Amos"
             ],
             "capacity": 25,
-            "current_enrolment": 12,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -6457,10 +6759,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Milena Tomic"
             ],
             "capacity": 20,
-            "current_enrolment": 6,
+            "current_enrolment": 7,
             "delivery_mode": "In Person"
         },
         {
@@ -6475,7 +6777,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "SB",
             "instructors": [
-                "TBA"
+                "Matthew Nish-Lapidus"
             ],
             "capacity": 20,
             "current_enrolment": 10,
@@ -6493,7 +6795,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Sue Lloyd"
             ],
             "capacity": 20,
             "current_enrolment": 0,
@@ -6529,10 +6831,10 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Gareth Long"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -6547,7 +6849,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Luis Jacob"
             ],
             "capacity": 20,
             "current_enrolment": 20,
@@ -6565,7 +6867,7 @@
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "DA",
             "instructors": [
-                "TBA"
+                "Charles Stankievech"
             ],
             "capacity": 25,
             "current_enrolment": 25,
@@ -6578,12 +6880,30 @@
             "start_time": "14:00",
             "end_time": "17:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Sarah Robayo Sheridan"
+            ],
+            "capacity": 20,
+            "current_enrolment": 2,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS430Y1 Y: Thesis Project (Critical Practices)",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "Sarah Robayo Sheridan"
             ],
             "capacity": 20,
             "current_enrolment": 2,
@@ -6596,15 +6916,33 @@
             "start_time": "14:00",
             "end_time": "17:00",
             "campus": "St. George",
-            "session": "Fall-Winter 2024-2025 (Y)",
+            "session": "Fall 2024 (F)",
             "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
             "location": "NB",
             "instructors": [
-                "TBA"
+                "Karen Kraven"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 19,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS431Y1 Y: Thesis Project (Studio)",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "Karen Kraven"
+            ],
+            "capacity": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         }
     ]

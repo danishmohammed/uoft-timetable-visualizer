@@ -1,5 +1,51 @@
 {
-    "last_updated": "August 12, 2024 at 1:18 PM",
+    "faculty_metadata": {
+        "faculty_name": "Faculty of Information",
+        "semesters": {
+            "Winter 2025 (S)": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "Maher Elshakankiri",
+                            "Olivier St-Cyr",
+                            "TBA",
+                            "Michel Mersereau",
+                            "Tao Wang",
+                            "Fiorella Foscarini"
+                        ]
+                    }
+                }
+            },
+            "Fall 2024 (F)": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "MY",
+                            "TBA",
+                            "Online",
+                            "BL"
+                        ],
+                        "instructors": [
+                            "Derek Hrynyshyn",
+                            "Bruno Rafael Veras de Morais e Silva",
+                            "Maher Elshakankiri",
+                            "Olivier St-Cyr",
+                            "TBA",
+                            "Anthony Naimi",
+                            "Gustavo Ferreira Santos",
+                            "Bianca DiPietro",
+                            "Nada Almasri",
+                            "Sunita Guyadeen"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "September 13, 2024 at 8:15 PM"
+    },
     "timings": [
         {
             "course_name": "INF302H1 S: Integr Approaches Tech & Soc",
@@ -9,14 +55,14 @@
             "end_time": "11:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -27,14 +73,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -45,14 +91,14 @@
             "end_time": "15:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Bruno Rafael Veras de Morais e Silva"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -63,14 +109,14 @@
             "end_time": "16:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Bruno Rafael Veras de Morais e Silva"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -81,14 +127,14 @@
             "end_time": "15:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Nada Almasri"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -99,14 +145,14 @@
             "end_time": "14:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Nada Almasri"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -117,14 +163,14 @@
             "end_time": "11:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -135,14 +181,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -153,14 +199,14 @@
             "end_time": "14:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Fiorella Foscarini"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -171,14 +217,14 @@
             "end_time": "15:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Fiorella Foscarini"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -189,14 +235,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 47,
-            "current_enrolment": 45,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -207,14 +253,14 @@
             "end_time": "14:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 47,
-            "current_enrolment": 45,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -225,14 +271,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Olivier St-Cyr"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -243,14 +289,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "MY",
             "instructors": [
                 "Olivier St-Cyr"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -261,14 +307,14 @@
             "end_time": "11:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Olivier St-Cyr"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -279,14 +325,14 @@
             "end_time": "15:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Olivier St-Cyr"
             ],
             "capacity": 48,
-            "current_enrolment": 46,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -297,14 +343,14 @@
             "end_time": "11:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Anthony Naimi"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -315,14 +361,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Anthony Naimi"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -333,14 +379,14 @@
             "end_time": "11:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Michel Mersereau"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -351,14 +397,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Michel Mersereau"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -369,14 +415,14 @@
             "end_time": "11:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Tao Wang"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -387,14 +433,14 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Tao Wang"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -405,14 +451,14 @@
             "end_time": "17:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
-                "TBA"
+                "Derek Hrynyshyn"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -423,14 +469,14 @@
             "end_time": "18:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
-                "TBA"
+                "Derek Hrynyshyn"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -441,32 +487,32 @@
             "end_time": "14:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
-                "TBA"
+                "Gustavo Ferreira Santos"
             ],
             "capacity": 35,
-            "current_enrolment": 6,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "INF430H1 F: Mtrl & Info Cultures of Music",
             "section_title": "Tutorials",
-            "day": "Tuesday",
+            "day": "Wednesday",
             "start_time": "14:00",
             "end_time": "15:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
-                "TBA"
+                "Gustavo Ferreira Santos"
             ],
             "capacity": 35,
-            "current_enrolment": 6,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -477,14 +523,14 @@
             "end_time": "20:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Sunita Guyadeen"
             ],
             "capacity": 35,
-            "current_enrolment": 13,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -495,104 +541,104 @@
             "end_time": "21:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Sunita Guyadeen"
             ],
             "capacity": 35,
-            "current_enrolment": 12,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "INF451H1 F: Des Stu IV: Info Visualization",
             "section_title": "Lectures",
-            "day": "Tuesday",
-            "start_time": "19:00",
-            "end_time": "21:00",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Bianca DiPietro"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "INF451H1 F: Des Stu IV: Info Visualization",
             "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "18:00",
-            "end_time": "19:00",
+            "day": "Wednesday",
+            "start_time": "20:00",
+            "end_time": "21:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Bianca DiPietro"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "INF452H1 F: Design Studio V: Coding",
             "section_title": "Lectures",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 85,
-            "current_enrolment": 76,
+            "current_enrolment": 64,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "INF452H1 F: Design Studio V: Coding",
             "section_title": "Practicals",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 48,
-            "current_enrolment": 47,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "INF452H1 F: Design Studio V: Coding",
             "section_title": "Practicals",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Wednesday",
+            "start_time": "17:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Fall 2024 (F)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BL",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -603,14 +649,14 @@
             "end_time": "15:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 35,
-            "current_enrolment": 30,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -621,14 +667,14 @@
             "end_time": "14:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -639,7 +685,7 @@
             "end_time": "16:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
@@ -657,14 +703,14 @@
             "end_time": "17:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -675,14 +721,14 @@
             "end_time": "11:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 12,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -693,15 +739,69 @@
             "end_time": "12:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
-            "department": "",
+            "department": "Faculty of Information",
             "faculty": "Faculty of Information",
             "location": "TBA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 10,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF497Y1 Y: Reading Course",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 5,
+            "current_enrolment": 3,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF497Y1 Y: Reading Course",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 5,
+            "current_enrolment": 3,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF499H1 F: Reading Course",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 1,
+            "current_enrolment": 1,
+            "delivery_mode": "Online Asynchronous"
         }
     ]
 }
