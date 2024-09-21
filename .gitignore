@@ -35,3 +35,8 @@ pnpm-debug.log*
 # Temporary files
 *.tmp
 *.temp
+
+# Web scraping files
+/web-scraping/run_scraper.sh
+/web-scraping/scraper.log
+
