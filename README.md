@@ -1,6 +1,6 @@
 # UofT Timetable Visualizer
 
-The [UofT Timetable Visualizer](ttv.danishmohammed.ca) is a full-stack web application that helps students and event organizers at the University of Toronto view and analyze campus traffic for course enrolments. By displaying up-to-date data in bar charts and heatmaps, users can avoid scheduling conflicts by identifying the busiest days and times on campus.
+The [UofT Timetable Visualizer](https://ttv.danishmohammed.ca) is a full-stack web application that helps students and event organizers at the University of Toronto view and analyze campus traffic for course enrolments. By displaying up-to-date data in bar charts and heatmaps, users can avoid scheduling conflicts by identifying the busiest days and times on campus.
 
 ## Features
 
@@ -92,9 +92,9 @@ Once you've set up the project, follow these steps to contribute:
 
 ## Contact
 
-For questions or inquiries, you can contact me through my [personal website](danishmohammed.ca/#contact).
+For questions or inquiries, you can contact me through my [personal website](https://danishmohammed.ca/#contact).
 
 ## Acknowledgements
 
-- The University of Toronto for timetable data via [ttb.utoronto.ca](ttb.utoronto.ca).
-- [**UofT Index**](uoftindex.ca) for their support and guidance during the initial stages of project development.
+- The University of Toronto for timetable data via [ttb.utoronto.ca](https://ttb.utoronto.ca).
+- [**UofT Index**](https://uoftindex.ca) for their support and guidance throughout the development of the project.
