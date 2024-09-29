@@ -74,7 +74,7 @@ const AppHeader = ({ onSelectedViewChange }) => {
             GitHub
           </a>
           <a
-            href="https://danishmohammed.ca"
+            href="https://danishmohammed57.medium.com/how-i-created-the-uoft-timetable-visualizer-96c0ef0eb6ad"
             className="hover:text-secondary"
             target="_blank"
             rel="noopener noreferrer"
@@ -102,7 +102,7 @@ const AppHeader = ({ onSelectedViewChange }) => {
             GitHub
           </a>
           <a
-            href="https://danishmohammed.ca"
+            href="https://danishmohammed57.medium.com/how-i-created-the-uoft-timetable-visualizer-96c0ef0eb6ad"
             className="hover:text-secondary"
             target="_blank"
             rel="noopener noreferrer"
