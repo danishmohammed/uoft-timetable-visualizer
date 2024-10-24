@@ -6,456 +6,456 @@
                 "departments": {
                     "Division of Engineering Science": {
                         "buildings": [
-                            "SU",
-                            "MC",
-                            "PB",
-                            "HA",
-                            "MP",
-                            "BA",
-                            "MS",
-                            "TBA",
-                            "MB",
-                            "GB",
-                            "SF",
-                            "WI",
-                            "HS",
                             "LM",
-                            "WB",
-                            "MY",
-                            "ES"
-                        ],
-                        "instructors": [
-                            "Jennifer Lofgreen",
-                            "Daniel Franklin",
-                            "Reza Emami",
-                            "Michael Guerzhoy",
-                            "Peter Stangeby",
-                            "Konstantinos Plataniotis",
-                            "Vardan Papyan",
-                            "Gael Yomgne Diebou",
-                            "Molly Shoichet",
-                            "Anastasia Aubeeluck",
-                            "Arthur Chan",
-                            "Jonathan Rose",
-                            "Tahir Shaaran",
-                            "Matthew Mackay",
-                            "Ania Harlick",
-                            "William Trischuk",
-                            "Jayson Parker",
-                            "Masayuki Yano",
-                            "Jay Werber",
-                            "James Davis",
-                            "Chris Bouwmeester",
-                            "Morgan Hooper",
-                            "Omer Gulder",
-                            "Rodrigo Fernandez-Gonzalez",
-                            "Sanjeev Chandra",
-                            "Andreas Moshovos",
-                            "Tome Kosteski",
-                            "TBA",
-                            "Evan Bentz",
-                            "Matthew Robbins",
-                            "Alis Ekmekci",
-                            "Stephen Julian",
-                            "Alan Chong",
-                            "C. Barth Netterfield",
-                            "Philippe Lavoie",
-                            "Carolyn Busby",
-                            "Dawn Kilkenny Rocheleau",
-                            "Roger Carrick",
-                            "Peter Grant",
-                            "Prasanth Nair",
-                            "Lisa Romkey",
-                            "Peter Lehn",
-                            "John Simpson-Porco",
-                            "Kaley Walker",
-                            "Zeb Tate",
-                            "Yuri Lawryshyn",
-                            "Christopher Damaren",
-                            "Kevin Truong",
-                            "Natalie Enright Jerger",
-                            "Tristan Collins",
-                            "Craig Simmons",
-                            "Frank Kschischang",
-                            "Jonathan Kelly",
-                            "Andreas Veneris",
-                            "Chandra Gummaluru",
-                            "Jason Chan",
-                            "Nadim Ghaddar",
-                            "Nick Rhinehart",
-                            "Katie Allison",
-                            "Brian Wilson",
-                            "Leo Chou",
-                            "Roy Kwon",
-                            "Boris Braverman"
-                        ]
-                    },
-                    "Engineering First Year Office": {
-                        "buildings": [
-                            "KP",
-                            "NL",
+                            "PB",
                             "MC",
-                            "HA",
-                            "MP",
-                            "RW",
                             "BA",
-                            "MS",
-                            "TBA",
-                            "GB",
                             "SF",
+                            "HS",
+                            "TBA",
+                            "ES",
+                            "HA",
+                            "SU",
+                            "MP",
+                            "GB",
+                            "MS",
                             "MB",
-                            "Online",
-                            "SS",
+                            "WI",
                             "WB",
                             "MY"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
-                            "Geoffrey McGregor",
-                            "Tamer El-Diraby",
-                            "Earl Magsipoc",
-                            "Denis Gorodkov",
-                            "Dinushi Munasinghe",
-                            "Shai Cohen",
-                            "Ted Nolan",
-                            "Morgan Hooper",
+                            "Katie Allison",
+                            "Jonathan Kelly",
+                            "Michael Guerzhoy",
                             "TBA",
-                            "Benjamin Kinsella",
-                            "Luis Ardila Bothia",
-                            "Sean Uppal",
+                            "Carolyn Busby",
+                            "Vardan Papyan",
+                            "Sanjeev Chandra",
+                            "Nick Rhinehart",
+                            "Boris Braverman",
+                            "Omer Gulder",
+                            "Philippe Lavoie",
+                            "Zeb Tate",
+                            "Leo Chou",
+                            "Brian Wilson",
+                            "Gael Yomgne Diebou",
+                            "Reza Emami",
+                            "Peter Grant",
+                            "Jayson Parker",
+                            "Jonathan Rose",
+                            "Tome Kosteski",
+                            "Daniel Franklin",
+                            "Jason Chan",
+                            "Anastasia Aubeeluck",
+                            "Evan Bentz",
+                            "C. Barth Netterfield",
+                            "Ania Harlick",
+                            "Peter Lehn",
+                            "Masayuki Yano",
+                            "Stephen Julian",
+                            "Kevin Truong",
+                            "Frank Kschischang",
+                            "Nadim Ghaddar",
+                            "Prasanth Nair",
+                            "Andreas Veneris",
+                            "Rodrigo Fernandez-Gonzalez",
+                            "Jennifer Lofgreen",
+                            "Peter Stangeby",
+                            "Lisa Romkey",
+                            "Yuri Lawryshyn",
+                            "Kaley Walker",
+                            "Chris Bouwmeester",
+                            "James Davis",
+                            "Andreas Moshovos",
+                            "John Simpson-Porco",
+                            "Roger Carrick",
+                            "Morgan Hooper",
+                            "Alan Chong",
+                            "Matthew Mackay",
+                            "Molly Shoichet",
                             "Dawn Kilkenny Rocheleau",
-                            "Chirag Variawa",
+                            "Jay Werber",
+                            "Matthew Robbins",
+                            "William Trischuk",
+                            "Konstantinos Plataniotis",
+                            "Christopher Damaren",
+                            "Tristan Collins",
+                            "Arthur Chan",
+                            "Craig Simmons",
+                            "Chandra Gummaluru",
+                            "Tahir Shaaran",
+                            "Alis Ekmekci",
+                            "Natalie Enright Jerger",
+                            "Roy Kwon"
+                        ]
+                    },
+                    "Engineering First Year Office": {
+                        "buildings": [
+                            "SS",
+                            "SF",
+                            "BA",
+                            "MC",
+                            "NL",
+                            "TBA",
+                            "RW",
+                            "HA",
+                            "MP",
+                            "GB",
+                            "MS",
+                            "MB",
+                            "WB",
+                            "MY",
+                            "Online",
+                            "KP"
+                        ],
+                        "instructors": [
+                            "Patricia Sheridan",
+                            "Almut Burchard",
+                            "Denis Gorodkov",
                             "Maziar Farahzad",
-                            "Frank Gu",
+                            "Krzysztof Ciosmak",
+                            "Earl Magsipoc",
+                            "TBA",
+                            "Mikhail Burke",
+                            "Geoffrey McGregor",
+                            "Adrian She",
+                            "Timothy Bender",
+                            "Sean Uppal",
+                            "Shoshanna Saxe",
+                            "Tamer El-Diraby",
                             "Scott Ramsay",
                             "Michael Seica",
-                            "Krzysztof Ciosmak",
-                            "Patricia Sheridan",
-                            "Camelia Karimian Pour",
+                            "Luis Ardila Bothia",
+                            "Dinushi Munasinghe",
+                            "Jason Bazylak",
+                            "Chirag Variawa",
+                            "Shai Cohen",
+                            "Benjamin Kinsella",
+                            "Frank Gu",
+                            "Ted Nolan",
+                            "Morgan Hooper",
+                            "Dawn Kilkenny Rocheleau",
                             "Oya Mercan",
-                            "Mikhail Burke",
-                            "Cheryl Runke",
-                            "Mohammad Haghighi",
-                            "Adrian She",
-                            "Almut Burchard",
                             "Philip Asare",
-                            "Timothy Bender",
-                            "Shoshanna Saxe"
+                            "Camelia Karimian Pour",
+                            "Mohammad Haghighi",
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
                             "SU",
-                            "HA",
+                            "UC",
                             "BA",
+                            "ES",
+                            "HA",
                             "GB",
                             "SF",
-                            "UC",
-                            "WB",
                             "MY",
-                            "ES"
+                            "WB"
                         ],
                         "instructors": [
-                            "Julian Lebenhaft",
-                            "David Scrymgeour",
-                            "Kaveh Hassani",
-                            "Sally Krigstin",
-                            "William Wignall",
-                            "Anny Fong",
+                            "Jessica Li",
                             "TBA",
                             "Kevin Mott",
+                            "Sally Krigstin",
+                            "Thiago Augusto Rodrigues",
+                            "Kate Patterson",
+                            "William Wignall",
                             "Steven Chuang Chuang",
                             "Mary E Corcoran",
+                            "Julian Lebenhaft",
+                            "David Scrymgeour",
                             "Danijela Puric-Mladenovic",
-                            "Thiago Augusto Rodrigues",
-                            "Jessica Li",
-                            "Kate Patterson"
+                            "Kaveh Hassani",
+                            "Anny Fong"
                         ]
                     },
                     "Department of Mechanical & Industrial Engineering": {
                         "buildings": [
-                            "HA",
-                            "MP",
-                            "ES",
-                            "RS",
-                            "MS",
-                            "TBA",
-                            "UC",
                             "SU",
-                            "KP",
+                            "UC",
                             "NL",
                             "PB",
-                            "MY",
-                            "MC",
-                            "BA",
+                            "TBA",
+                            "HA",
                             "GB",
-                            "SF",
+                            "WB",
+                            "KP",
+                            "BA",
+                            "MP",
+                            "MC",
+                            "ES",
                             "MB",
                             "WI",
                             "SS",
-                            "WB"
+                            "RS",
+                            "MS",
+                            "SF",
+                            "MY"
                         ],
                         "instructors": [
-                            "Julian Lebenhaft",
+                            "Olivier Trescases",
+                            "Yanna Sventzouris",
+                            "Bensiyon Benhabib",
+                            "Scott Sanner",
+                            "TBA",
+                            "Janet Lam",
+                            "Carolyn Busby",
+                            "Emily King",
+                            "Pam Sargent",
+                            "Dionne Aleman",
+                            "Fatemeh Jazinizadeh",
+                            "Ali Dolatabadi",
+                            "David Steinman",
+                            "Jangwon Park",
+                            "Axel Guenther",
+                            "Mark Chignell",
                             "Edmond Young",
+                            "Eldan Cohen",
+                            "Tome Kosteski",
+                            "Chang Liu",
+                            "Julian Lebenhaft",
+                            "LH Shu",
+                            "Nello Sansone",
+                            "Arman Arezoomand",
+                            "Enid Nicole Headen Montague",
+                            "Daniel Frances",
+                            "Justin Beland",
+                            "Shaker Meguid",
+                            "Aleksandra Aganova",
+                            "Matthew Mackay",
+                            "Sinisa Colic",
+                            "Amy Marlou Bilton",
+                            "Michael Gruninger",
+                            "Roger Burlton",
+                            "Mohammad Zargartalebi",
+                            "Mohammad Hodaei",
+                            "Tobin Filleter",
+                            "Murray Thomson",
+                            "Kamran Behdinan",
+                            "Samin Aref",
                             "Marianne Touchie Windisch",
                             "Anthony Soung Yee",
-                            "Samin Aref",
-                            "Matthew Mackay",
-                            "Ali Dolatabadi",
-                            "Justin Beland",
-                            "Tobin Filleter",
-                            "Amy Marlou Bilton",
-                            "Yanna Sventzouris",
-                            "Tome Kosteski",
-                            "TBA",
-                            "Axel Guenther",
-                            "Kamran Behdinan",
-                            "Emily King",
-                            "Carolyn Busby",
-                            "Dionne Aleman",
-                            "Mohammad Zargartalebi",
-                            "Daniel Frances",
-                            "Chang Liu",
-                            "David Steinman",
-                            "Enid Nicole Headen Montague",
-                            "Jangwon Park",
-                            "Sinisa Colic",
-                            "Fatemeh Jazinizadeh",
-                            "Arman Arezoomand",
-                            "Pam Sargent",
-                            "Mark Chignell",
-                            "Nello Sansone",
-                            "Mohammad Hodaei",
-                            "Roger Burlton",
-                            "Eldan Cohen",
-                            "Michael Gruninger",
-                            "Bensiyon Benhabib",
-                            "Shaker Meguid",
-                            "Scott Sanner",
-                            "LH Shu",
-                            "Roy Kwon",
-                            "Aleksandra Aganova",
-                            "Murray Thomson",
-                            "Olivier Trescases",
-                            "Janet Lam"
+                            "Roy Kwon"
                         ]
                     },
                     "Institute of Biomedical Engineering": {
                         "buildings": [
+                            "UC",
                             "BA",
                             "GB",
                             "MB",
                             "SF",
-                            "UC",
                             "WB"
                         ],
                         "instructors": [
-                            "Hai-Ling Cheng",
+                            "Jonathan Rocheleau",
                             "Berj Bardakjian",
                             "TBA",
+                            "Hai-Ling Cheng",
                             "Leo Chou",
-                            "Jonathan Rocheleau",
                             "Chris Bouwmeester"
                         ]
                     },
                     "Department of Chemical Engineering and Applied Chemistry": {
                         "buildings": [
-                            "NL",
+                            "LM",
+                            "SS",
                             "MC",
+                            "BA",
+                            "NL",
+                            "TBA",
                             "HA",
                             "MP",
-                            "BA",
-                            "MS",
-                            "TBA",
                             "GB",
-                            "SF",
+                            "MS",
                             "MB",
-                            "SS",
-                            "LM",
-                            "WB",
-                            "MY"
+                            "SF",
+                            "MY",
+                            "WB"
                         ],
                         "instructors": [
-                            "Jennifer Farmer",
-                            "Marko Saban",
-                            "Alison McGuigan",
-                            "Greg Evans",
-                            "Roger Charles Newman",
-                            "Jay Werber",
-                            "Guerino Sacripante",
-                            "Ning Yan",
-                            "Bradley Saville",
+                            "Donald Kirk",
+                            "Vladimiros Papangelakis",
+                            "Edgar Joel Acosta",
+                            "Gisele Azimi",
                             "TBA",
                             "Karl Thomas Wagner",
-                            "Gisele Azimi",
-                            "Yuri Lawryshyn",
+                            "Guerino Sacripante",
                             "Rohit Pal",
-                            "Edgar Joel Acosta",
-                            "Vladimiros Papangelakis",
-                            "Christopher Lawson",
+                            "Roger Charles Newman",
+                            "Marko Saban",
+                            "Greg Evans",
+                            "Bradley Saville",
+                            "Yuri Lawryshyn",
+                            "Ning Yan",
+                            "Jennifer Farmer",
                             "Daniela Galatro",
-                            "Donald Kirk",
-                            "Sepehr Hoomani Rad"
+                            "Jay Werber",
+                            "Sepehr Hoomani Rad",
+                            "Christopher Lawson",
+                            "Alison McGuigan"
                         ]
                     },
                     "Department of Civil and Mineral Engineering": {
                         "buildings": [
-                            "MC",
+                            "LM",
                             "PB",
-                            "HA",
-                            "MP",
+                            "MC",
                             "BA",
                             "TBA",
+                            "HA",
+                            "MP",
                             "GB",
-                            "SF",
                             "MB",
-                            "LM",
-                            "WB",
-                            "MY"
+                            "SF",
+                            "MY",
+                            "WB"
                         ],
                         "instructors": [
-                            "Robert Andrews",
-                            "Mohammed Mohammed Adam Abbaker Bas",
-                            "Marianne Touchie Windisch",
-                            "Tamer El-Diraby",
-                            "Khandker Nurul Habib",
-                            "John Hadjigeorgiou",
-                            "Alan Lambden",
-                            "Kamran Esmaeili",
-                            "John Paul Harrison",
-                            "Mohammad Tofigh Rayhani",
-                            "Shamim Sheikh",
-                            "Aryan Rezaei Rad",
-                            "Alia Galal",
-                            "Sebastian Goodfellow",
+                            "Lesley Alice Warren",
                             "Roger Moss",
+                            "Ronald Hofmann",
                             "TBA",
-                            "Susan Andrews",
-                            "Alan Chong",
-                            "Sarah Haines",
+                            "Sherry-Ann Ram",
+                            "Khandker Nurul Habib",
+                            "Shoshanna Saxe",
                             "Paul Gauvreau",
+                            "Hamed Ibrahim",
+                            "Susan Andrews",
+                            "Tamer El-Diraby",
+                            "Aryan Rezaei Rad",
+                            "Mohammed Mohammed Adam Abbaker Bas",
+                            "John Hadjigeorgiou",
+                            "Shamim Sheikh",
                             "I. Daniel Posen",
                             "Bryan Karney",
-                            "Matthew Roorda",
-                            "Karl Peterson",
-                            "Hamed Ibrahim",
-                            "Oh-Sung Kwon",
-                            "Oya Mercan",
-                            "Constantin Christopoulos",
-                            "Ronald Hofmann",
                             ". Jahanzaib",
-                            "Sherry-Ann Ram",
-                            "Lesley Alice Warren",
+                            "Constantin Christopoulos",
+                            "Alia Galal",
+                            "Oh-Sung Kwon",
                             "Daeho Kim",
-                            "Shoshanna Saxe"
+                            "Sebastian Goodfellow",
+                            "Alan Chong",
+                            "Oya Mercan",
+                            "Karl Peterson",
+                            "Alan Lambden",
+                            "Robert Andrews",
+                            "Sarah Haines",
+                            "Matthew Roorda",
+                            "Marianne Touchie Windisch",
+                            "Kamran Esmaeili",
+                            "John Paul Harrison",
+                            "Mohammad Tofigh Rayhani"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "HA",
-                            "MP",
-                            "Online",
-                            "ES",
-                            "MS",
-                            "TBA",
-                            "UC",
-                            "KP",
-                            "SU",
-                            "NL",
                             "PB",
-                            "MY",
-                            "MC",
-                            "BA",
+                            "UC",
+                            "NL",
+                            "SU",
+                            "TBA",
+                            "HA",
                             "GB",
-                            "SF",
+                            "WB",
+                            "KP",
+                            "BA",
+                            "MP",
+                            "MC",
+                            "ES",
                             "MB",
                             "SS",
                             "HS",
-                            "WB"
+                            "MS",
+                            "SF",
+                            "MY",
+                            "Online"
                         ],
                         "instructors": [
                             "",
+                            "David Andrew Johns",
                             "Nazir Kherani",
-                            "George Eleftheriades",
+                            "Salma Emara",
+                            "Keerthi Nelaturu",
+                            "TBA",
+                            "Jianwen Zhu",
+                            "Manfredi Maggiore",
+                            "Francis Dawson",
+                            "Zeb Tate",
+                            "Elvino Sousa",
+                            "Mike Xue",
+                            "Peter Herman",
+                            "Leanne Dawkins",
+                            "Armanpreet Pannu",
+                            "Mireille Broucke",
+                            "Tome Kosteski",
+                            "Ravi Adve",
                             "Jorg Liebeherr",
                             "Belinda Wang",
-                            "Manfredi Maggiore",
-                            "Khoman Phang",
+                            "Jason Helge Anderson",
+                            "Brendan Frey",
+                            "Shurui Zhou",
+                            "Glenn Gulak",
+                            "Stephen Brown",
+                            "Frank Kschischang",
+                            "Xilin Liu",
+                            "Andreas Veneris",
+                            "Wei Huang",
+                            "Alberto Leon-Garcia",
+                            "Wei Yu",
+                            "George Eleftheriades",
+                            "Aleksandar Prodic",
+                            "Tarek Abdelrahman",
+                            "Andreas Moshovos",
                             "Adrian Nachman",
                             "Erfan Meskar",
-                            "Stephen Brown",
-                            "Elvino Sousa",
-                            "Ervin Sejdic",
-                            "Peter Herman",
-                            "Jonathan Eyolfson",
-                            "Ravi Adve",
-                            "Tome Kosteski",
-                            "Andreas Moshovos",
-                            "TBA",
-                            "Keerthi Nelaturu",
-                            "David Andrew Johns",
-                            "Mike Xue",
-                            "Mireille Broucke",
-                            "Micah Stickel",
-                            "Foad Arvani",
-                            "Wei Huang",
-                            "Tarek Abdelrahman",
-                            "Zeb Tate",
-                            "Francis Dawson",
-                            "Jason Helge Anderson",
-                            "Armanpreet Pannu",
-                            "Ayman Mohamed",
-                            "JJ Garcia-Luna-Aceves",
-                            "Brendan Frey",
-                            "Wei Yu",
-                            "Frank Kschischang",
-                            "Daniel Smieja",
-                            "Aleksandar Prodic",
-                            "Andreas Veneris",
                             "Costas Sarris",
-                            "Salma Emara",
-                            "Xilin Liu",
-                            "Alberto Leon-Garcia",
+                            "Ervin Sejdic",
+                            "Khoman Phang",
                             "Parham Aarabi",
-                            "Leanne Dawkins",
-                            "Glenn Gulak",
-                            "Jianwen Zhu",
-                            "Shurui Zhou"
+                            "Foad Arvani",
+                            "JJ Garcia-Luna-Aceves",
+                            "Jonathan Eyolfson",
+                            "Micah Stickel",
+                            "Ayman Mohamed",
+                            "Daniel Smieja"
                         ]
                     },
                     "Department of Materials Science and Engineering": {
                         "buildings": [
-                            "NL",
-                            "BA",
-                            "TBA",
-                            "GB",
-                            "SF",
-                            "MB",
                             "LM",
-                            "WB",
+                            "BA",
+                            "NL",
+                            "TBA",
+                            "ES",
+                            "GB",
+                            "MB",
+                            "SF",
                             "MY",
-                            "ES"
+                            "WB"
                         ],
                         "instructors": [
-                            "Jennifer Lofgreen",
+                            "Anatole von Lilienfeld Toal",
+                            "Doug Perovic",
                             "Yu Zou",
-                            "Dimitrios Karslidis",
+                            "Jason Hattrick-Simpers",
+                            "Scott Ramsay",
                             "Steven Thorpe",
-                            "Sa Ge",
+                            "Naomi Matsuura",
+                            "TBA",
                             "Kai Huang",
                             "Benjamin Hatton",
-                            "TBA",
+                            "Jennifer Lofgreen",
                             "Liyang Dai-Hattrick",
-                            "Scott Ramsay",
-                            "Mansoor Barati Sedeh",
-                            "Jason Hattrick-Simpers",
-                            "Anatole von Lilienfeld Toal",
+                            "Sa Ge",
                             "Soumya Dash",
-                            "Daniel Grozea",
-                            "Naomi Matsuura",
                             "Harry Ruda",
-                            "Doug Perovic"
+                            "Mansoor Barati Sedeh",
+                            "Daniel Grozea",
+                            "Dimitrios Karslidis"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -468,22 +468,22 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "BA",
+                            "SF",
                             "MY",
-                            "SF"
+                            "BA",
+                            "OI"
                         ],
                         "instructors": [
-                            "Catriona Wright",
-                            "Cindy Rottmann",
-                            "Myrtede Alfred",
-                            "Deborah Tihanyi",
+                            "Patricia Sheridan",
                             "Robin Sacks",
-                            "Philip Asare",
-                            "Kenneth Tallman",
-                            "Linda Phillips-Smith",
                             "Samina Hashmi",
-                            "Patricia Sheridan"
+                            "Deborah Tihanyi",
+                            "Cindy Rottmann",
+                            "Linda Phillips-Smith",
+                            "Philip Asare",
+                            "Myrtede Alfred",
+                            "Catriona Wright",
+                            "Kenneth Tallman"
                         ]
                     }
                 }
@@ -492,412 +492,412 @@
                 "departments": {
                     "Division of Engineering Science": {
                         "buildings": [
-                            "MC",
-                            "PB",
-                            "MP",
-                            "BA",
-                            "MS",
-                            "TBA",
-                            "GB",
-                            "MB",
-                            "SF",
                             "SS",
+                            "PB",
+                            "MC",
+                            "BA",
+                            "SF",
                             "UC",
+                            "TBA",
+                            "MP",
+                            "GB",
+                            "MS",
+                            "MB",
                             "WB",
                             "MY"
                         ],
                         "instructors": [
-                            "Jennifer Lofgreen",
-                            "George Eleftheriades",
-                            "Reza Emami",
                             "Michael Guerzhoy",
-                            "Konstantinos Plataniotis",
-                            "Ali Sheikholeslami",
-                            "Tahir Shaaran",
-                            "Liyang Dai-Hattrick",
-                            "Clinton Groth",
-                            "Jonathan Rose",
-                            "Ania Harlick",
-                            "William Trischuk",
-                            "Mary Pugh",
-                            "Masayuki Yano",
-                            "James Davis",
-                            "Chris Bouwmeester",
-                            "Morgan Hooper",
-                            "Piero Triverio",
-                            "Jonathan Eyolfson",
-                            "Ravi Adve",
-                            "TBA",
-                            "Jun Nogami",
-                            "Alis Ekmekci",
-                            "Alan Chong",
-                            "C. Barth Netterfield",
-                            "Robin Marjoribanks",
-                            "John Wei",
-                            "Dawn Kilkenny Rocheleau",
-                            "Omar F. Khan",
-                            "Micah Stickel",
-                            "Peter Grant",
-                            "Roger Carrick",
-                            "Lisa Romkey",
-                            "Ben Liang",
-                            "Daniel Frances",
-                            "Hugh Liu",
-                            "Debra Wunch",
-                            "John Simpson-Porco",
-                            "Kaley Walker",
-                            "Ofer Levi",
-                            "Zeb Tate",
-                            "Penny Kinnear",
-                            "Scott Ramsay",
-                            "Craig Steeves",
-                            "Swetaprovo Chaudhuri",
-                            "Yuri Lawryshyn",
-                            "Bryan Karney",
-                            "Steven Waslander",
-                            "Tim Barfoot",
-                            "Pierre Savard",
-                            "Philipp Emanuel Seiler",
-                            "Birsen Donmez Akyildiz",
                             "Jonathan Kelly",
-                            "Chandra Gummaluru",
-                            "Benjamin Manuel Sanchez",
+                            "TBA",
+                            "Craig Steeves",
                             "Erich Poppitz",
-                            "Sorin Voinigescu",
-                            "Roy Kwon",
+                            "Swetaprovo Chaudhuri",
                             "Leo Chou",
+                            "Zeb Tate",
+                            "Ben Liang",
+                            "Mary Pugh",
+                            "Ofer Levi",
+                            "John Wei",
+                            "Reza Emami",
+                            "Peter Grant",
+                            "Scott Ramsay",
+                            "Alis Ekmekci",
+                            "Penny Kinnear",
+                            "Jonathan Rose",
+                            "Bryan Karney",
+                            "Ravi Adve",
+                            "Jun Nogami",
+                            "Steven Waslander",
+                            "Sorin Voinigescu",
+                            "Benjamin Manuel Sanchez",
+                            "C. Barth Netterfield",
+                            "Ania Harlick",
+                            "Masayuki Yano",
+                            "Birsen Donmez Akyildiz",
+                            "Jennifer Lofgreen",
+                            "Daniel Frances",
+                            "Lisa Romkey",
+                            "Yuri Lawryshyn",
+                            "George Eleftheriades",
+                            "Kaley Walker",
+                            "Philipp Emanuel Seiler",
+                            "Chris Bouwmeester",
+                            "Ali Sheikholeslami",
+                            "Roger Carrick",
+                            "Jonathan Eyolfson",
+                            "John Simpson-Porco",
+                            "James Davis",
+                            "Morgan Hooper",
+                            "Alan Chong",
+                            "Dawn Kilkenny Rocheleau",
+                            "Pierre Savard",
+                            "William Trischuk",
+                            "Tim Barfoot",
+                            "Konstantinos Plataniotis",
+                            "Chandra Gummaluru",
+                            "Naomi Matsuura",
+                            "Hugh Liu",
                             "Philip Asare",
-                            "Naomi Matsuura"
+                            "Liyang Dai-Hattrick",
+                            "Tahir Shaaran",
+                            "Debra Wunch",
+                            "Robin Marjoribanks",
+                            "Clinton Groth",
+                            "Micah Stickel",
+                            "Roy Kwon",
+                            "Piero Triverio",
+                            "Omar F. Khan"
                         ]
                     },
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SU",
-                            "NL",
-                            "MC",
-                            "PB",
-                            "BA",
-                            "MS",
-                            "TBA",
-                            "MB",
-                            "SF",
-                            "GB",
-                            "DA",
                             "SS",
-                            "WB",
+                            "SU",
+                            "MC",
+                            "NL",
+                            "BA",
+                            "PB",
+                            "TBA",
+                            "ES",
+                            "GB",
+                            "MS",
+                            "MB",
+                            "DA",
+                            "SF",
                             "MY",
-                            "ES"
+                            "WB"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
-                            "Jennifer Farmer",
-                            "Marianne Hatzopoulou",
-                            "Belinda Wang",
-                            "Geoffrey McGregor",
-                            "Berj Bardakjian",
-                            "Liyang Dai-Hattrick",
-                            "Khoman Phang",
-                            "Shai Cohen",
-                            "Tobin Filleter",
-                            "Mohamad Moosavi",
-                            "Ted Nolan",
-                            "Sebastian Goodfellow",
-                            "Jonathan Eyolfson",
-                            "Paul Yoo",
-                            "TBA",
-                            "Mahmoud Embabi",
-                            "Benjamin Kinsella",
-                            "Grant Allen",
-                            "Daniel Grozea",
-                            "Emilie Williams",
-                            "Dawn Kilkenny Rocheleau",
-                            "Afeez Popoola",
-                            "Chirag Variawa",
-                            "Alison Olechowski",
-                            "Ofer Levi",
-                            "Scott Ramsay",
-                            "Philip Anderson",
-                            "Michael Seica",
-                            "William Cluett",
                             "Patricia Sheridan",
-                            "Jane Howe",
-                            "Fatemeh Jazinizadeh",
-                            "Camelia Karimian Pour",
-                            "Anthony Sinclair",
-                            "Steve Mann",
-                            "Xilin Liu",
-                            "Salma Emara",
-                            "Fabian Mario Parsch",
-                            "Hoi-Kwong Lo",
                             "Lesley Alice Warren",
-                            "Timothy Bender"
+                            "Salma Emara",
+                            "Berj Bardakjian",
+                            "TBA",
+                            "Geoffrey McGregor",
+                            "Hoi-Kwong Lo",
+                            "Timothy Bender",
+                            "Fatemeh Jazinizadeh",
+                            "Mohamad Moosavi",
+                            "Daniel Grozea",
+                            "Ofer Levi",
+                            "Emilie Williams",
+                            "William Cluett",
+                            "Scott Ramsay",
+                            "Fabian Mario Parsch",
+                            "Belinda Wang",
+                            "Marianne Hatzopoulou",
+                            "Paul Yoo",
+                            "Michael Seica",
+                            "Xilin Liu",
+                            "Sebastian Goodfellow",
+                            "Jane Howe",
+                            "Jason Bazylak",
+                            "Chirag Variawa",
+                            "Steve Mann",
+                            "Benjamin Kinsella",
+                            "Jennifer Farmer",
+                            "Ted Nolan",
+                            "Grant Allen",
+                            "Shai Cohen",
+                            "Alison Olechowski",
+                            "Dawn Kilkenny Rocheleau",
+                            "Mahmoud Embabi",
+                            "Khoman Phang",
+                            "Afeez Popoola",
+                            "Camelia Karimian Pour",
+                            "Liyang Dai-Hattrick",
+                            "Tobin Filleter",
+                            "Jonathan Eyolfson",
+                            "Philip Anderson",
+                            "Anthony Sinclair"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "MP",
-                            "BA",
-                            "GB",
-                            "SF",
                             "SS",
+                            "SF",
+                            "BA",
+                            "ES",
+                            "MP",
+                            "GB",
                             "WB",
-                            "MY",
-                            "ES"
+                            "MY"
                         ],
                         "instructors": [
-                            "Julian Lebenhaft",
-                            "Mohini Sain",
+                            "Amy Marlou Bilton",
                             "Elham Marzi",
-                            "Nicole Weckman",
                             "TBA",
-                            "Steven Chuang Chuang",
+                            "Mohini Sain",
+                            "Julian Lebenhaft",
                             "Javad Sameni",
-                            "Amy Marlou Bilton"
+                            "Steven Chuang Chuang",
+                            "Nicole Weckman"
                         ]
                     },
                     "Department of Mechanical & Industrial Engineering": {
                         "buildings": [
-                            "SU",
-                            "NL",
-                            "MC",
-                            "RS",
-                            "MP",
-                            "BA",
-                            "MS",
-                            "TBA",
-                            "MB",
-                            "SF",
-                            "GB",
-                            "WI",
-                            "UC",
                             "SS",
+                            "SU",
+                            "MC",
+                            "UC",
+                            "BA",
+                            "NL",
+                            "TBA",
+                            "ES",
+                            "MP",
                             "AB",
-                            "WB",
+                            "RS",
+                            "GB",
+                            "MS",
+                            "MB",
+                            "WI",
+                            "SF",
                             "MY",
-                            "ES"
+                            "WB"
                         ],
                         "instructors": [
-                            "Kevin Bram Golovin",
-                            "Maher Bakri-Kassem",
-                            "Kim Iwasa-Madge",
-                            "Ali Dolatabadi",
-                            "Elias Khalil",
-                            "Mariano Consens",
                             "Yanna Sventzouris",
-                            "Patrick Chang Dong Lee",
-                            "Myrtede Alfred",
-                            "Paul Eisen",
-                            "TBA",
-                            "Stanislav Balchev",
-                            "Robert Leger",
-                            "Kamran Behdinan",
-                            "Dionne Aleman",
-                            "Michael Carter",
-                            "Daniel Frances",
-                            "Hisham Hasanein",
-                            "Enid Nicole Headen Montague",
-                            "Josh Palumbo",
-                            "Eric David Diller",
-                            "Olivera Kesler",
-                            "Jose Palacios Armesto",
-                            "David Nacson",
-                            "Jason Chan",
-                            "Eldan Cohen",
-                            "Michael Gruninger",
                             "Bensiyon Benhabib",
-                            "Shaker Meguid",
                             "Scott Sanner",
-                            "Roy Kwon",
-                            "Chi-Guhn Lee",
+                            "TBA",
+                            "Janet Lam",
+                            "Elias Khalil",
+                            "Dionne Aleman",
+                            "Ali Dolatabadi",
+                            "Mariano Consens",
+                            "Eldan Cohen",
+                            "Michael Carter",
+                            "Hisham Hasanein",
+                            "Jason Chan",
+                            "David Nacson",
+                            "Jose Palacios Armesto",
+                            "Josh Palumbo",
+                            "Myrtede Alfred",
+                            "Enid Nicole Headen Montague",
+                            "Daniel Frances",
+                            "Paul Eisen",
+                            "Shaker Meguid",
+                            "Kim Iwasa-Madge",
                             "Nasser Ashgriz",
-                            "Janet Lam"
+                            "Stanislav Balchev",
+                            "Eric David Diller",
+                            "Maher Bakri-Kassem",
+                            "Robert Leger",
+                            "Michael Gruninger",
+                            "Olivera Kesler",
+                            "Kamran Behdinan",
+                            "Chi-Guhn Lee",
+                            "Roy Kwon",
+                            "Patrick Chang Dong Lee",
+                            "Kevin Bram Golovin"
                         ]
                     },
                     "Institute of Biomedical Engineering": {
                         "buildings": [
-                            "RW",
                             "BA",
-                            "MB",
+                            "RW",
                             "GB",
+                            "MB",
                             "MY"
                         ],
                         "instructors": [
-                            "Michael James Garton",
-                            "Kei Masani",
-                            "TBA",
-                            "Jose Zariffa",
                             "Jayson Parker",
-                            "Chris Bouwmeester"
+                            "TBA",
+                            "Kei Masani",
+                            "Chris Bouwmeester",
+                            "Jose Zariffa",
+                            "Michael James Garton"
                         ]
                     },
                     "Department of Chemical Engineering and Applied Chemistry": {
                         "buildings": [
+                            "LM",
+                            "SS",
+                            "SF",
+                            "BA",
+                            "TBA",
                             "RW",
                             "MP",
-                            "BA",
-                            "MS",
-                            "TBA",
-                            "MB",
-                            "SF",
                             "GB",
-                            "SS",
-                            "LM",
+                            "MS",
+                            "MB",
                             "WB",
                             "MY"
                         ],
                         "instructors": [
-                            "Vladimiros Papangelakis",
-                            "Jennifer Farmer",
                             "Emma Master",
+                            "Donald Kirk",
+                            "Edgar Joel Acosta",
+                            "Vladimiros Papangelakis",
+                            "Gisele Azimi",
+                            "Arthur Chan",
+                            "TBA",
+                            "Timothy Bender",
+                            "Radhakrishnan Mahadevan",
                             "Milica Radisic",
                             "Ning Yan",
-                            "Daniela Galatro",
-                            "Donald Kirk",
-                            "TBA",
                             "Nicole Weckman",
-                            "Arthur Chan",
-                            "Ramin Farnood",
                             "Mohamad Moosavi",
-                            "Radhakrishnan Mahadevan",
-                            "Timothy Bender",
-                            "Edgar Joel Acosta",
-                            "Gisele Azimi"
+                            "Jennifer Farmer",
+                            "Ramin Farnood",
+                            "Daniela Galatro"
                         ]
                     },
                     "Department of Civil and Mineral Engineering": {
                         "buildings": [
                             "MC",
-                            "RW",
                             "BA",
-                            "MS",
                             "TBA",
-                            "GB",
-                            "SF",
-                            "MB",
+                            "RW",
                             "FE",
-                            "WB",
-                            "MY"
+                            "GB",
+                            "MS",
+                            "MB",
+                            "SF",
+                            "MY",
+                            "WB"
                         ],
                         "instructors": [
-                            "Mohammed Mohammed Adam Abbaker Bas",
-                            "Sabbir Saiyed",
-                            "Michel Julien",
-                            "Chris Andrews",
-                            "John Hadjigeorgiou",
-                            "Michael Starogiannis",
-                            "Kamran Esmaeili",
-                            "John Paul Harrison",
-                            "David Taylor",
-                            "Homayoun Hosseini Abrishami",
-                            "Aryan Rezaei Rad",
-                            "Amer Shalaby",
-                            "TBA",
-                            "Alan Chong",
-                            "Jesse Coleman",
-                            "Jeffrey Alexander Siegel",
-                            "James Gardner",
-                            "Fae Azhari",
-                            "Paul Gauvreau",
-                            "Seungjae Lee",
-                            "Baher Abdulhai",
-                            "Cecil Alexander Rawlins",
-                            "Lisa Romkey",
-                            "Ian Craufurd Sinclair",
-                            "David De Rose",
-                            "Matthew Roorda",
-                            "Oh-Sung Kwon",
-                            "Andrew Jon Hellebust",
-                            "Melissa Morlidge",
-                            "Trevor Carey",
-                            "Ibrahim G Ogunsanya",
                             "Lesley Alice Warren",
-                            "Daeho Kim",
+                            "Melissa Morlidge",
+                            "Jesse Coleman",
+                            "TBA",
+                            "Homayoun Hosseini Abrishami",
+                            "Cecil Alexander Rawlins",
+                            "Paul Gauvreau",
+                            "Baher Abdulhai",
                             "Ryan Van Engen",
-                            "Michael Simpson"
+                            "Aryan Rezaei Rad",
+                            "Mohammed Mohammed Adam Abbaker Bas",
+                            "John Hadjigeorgiou",
+                            "Michel Julien",
+                            "David Taylor",
+                            "Jeffrey Alexander Siegel",
+                            "David De Rose",
+                            "Fae Azhari",
+                            "Ibrahim G Ogunsanya",
+                            "Oh-Sung Kwon",
+                            "Michael Simpson",
+                            "Daeho Kim",
+                            "Trevor Carey",
+                            "Lisa Romkey",
+                            "James Gardner",
+                            "Ian Craufurd Sinclair",
+                            "Alan Chong",
+                            "Seungjae Lee",
+                            "Amer Shalaby",
+                            "Sabbir Saiyed",
+                            "Michael Starogiannis",
+                            "Chris Andrews",
+                            "Matthew Roorda",
+                            "Kamran Esmaeili",
+                            "Andrew Jon Hellebust",
+                            "John Paul Harrison"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "KP",
-                            "NL",
-                            "MC",
-                            "MP",
-                            "BA",
-                            "MS",
-                            "TBA",
-                            "GB",
-                            "SF",
-                            "MB",
                             "SS",
+                            "MC",
+                            "BA",
                             "HS",
+                            "NL",
+                            "TBA",
+                            "MP",
+                            "GB",
+                            "MS",
+                            "MB",
+                            "SF",
+                            "MY",
                             "WB",
-                            "MY"
+                            "KP"
                         ],
                         "instructors": [
-                            "Sean Hum",
+                            "Farid Najm",
+                            "Courtney Gibson",
+                            "TBA",
+                            "Manfredi Maggiore",
+                            "Dimitrios Hatzinakos",
+                            "Zeb Tate",
                             "Ashish Khisti",
+                            "Elvino Sousa",
+                            "Peter Herman",
+                            "Leanne Dawkins",
+                            "Mireille Broucke",
+                            "Amr Helmy",
+                            "Jonathan Rose",
+                            "Tome Kosteski",
+                            "Ashvin Goel",
                             "Jorg Liebeherr",
                             "Belinda Wang",
-                            "Wai Tung Ng",
-                            "Ding Yuan",
-                            "Manfredi Maggiore",
-                            "Jonathan Rose",
-                            "Khoman Phang",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Elvino Sousa",
-                            "Dimitrios Hatzinakos",
-                            "Courtney Gibson",
-                            "Ashvin Goel",
-                            "Ervin Sejdic",
-                            "Hai-Ling Cheng",
-                            "Peter Herman",
-                            "Andreas Moshovos",
-                            "Tome Kosteski",
-                            "TBA",
-                            "Mireille Broucke",
-                            "Micah Stickel",
-                            "Peter Lehn",
-                            "Zeb Tate",
-                            "Amr Helmy",
                             "Jason Helge Anderson",
                             "Shahrokh Valaee",
-                            "Steve Mann",
-                            "Farid Najm",
-                            "Li Qian",
                             "Sorin Voinigescu",
-                            "Leanne Dawkins",
-                            "Glenn Gulak"
+                            "Sean Hum",
+                            "Glenn Gulak",
+                            "Peter Lehn",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Li Qian",
+                            "Ding Yuan",
+                            "Steve Mann",
+                            "Andreas Moshovos",
+                            "Ervin Sejdic",
+                            "Khoman Phang",
+                            "Hai-Ling Cheng",
+                            "Micah Stickel",
+                            "Wai Tung Ng"
                         ]
                     },
                     "Department of Materials Science and Engineering": {
                         "buildings": [
+                            "LM",
                             "SU",
+                            "SF",
                             "BA",
                             "TBA",
                             "GB",
-                            "SF",
-                            "LM",
                             "WB",
                             "MY"
                         ],
                         "instructors": [
-                            "Jennifer Lofgreen",
-                            "Chandra Veer Singh",
-                            "Hani Naguib",
-                            "Steven Thorpe",
-                            "Sa Ge",
-                            "Eli Sone",
-                            "Kai Huang",
-                            "Doug Perovic",
-                            "TBA",
-                            "Liyang Dai-Hattrick",
-                            "Scott Ramsay",
-                            "Mansoor Barati Sedeh",
                             "Jason Hattrick-Simpers",
-                            "Daniel Grozea",
+                            "Doug Perovic",
+                            "Gisele Azimi",
+                            "Scott Ramsay",
+                            "Steven Thorpe",
                             "Naomi Matsuura",
+                            "TBA",
+                            "Kai Huang",
+                            "Sa Ge",
+                            "Jennifer Lofgreen",
+                            "Liyang Dai-Hattrick",
+                            "Hani Naguib",
+                            "Chandra Veer Singh",
                             "Harry Ruda",
-                            "Gisele Azimi"
+                            "Mansoor Barati Sedeh",
+                            "Eli Sone",
+                            "Daniel Grozea"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -910,28 +910,28 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
                             "MY",
-                            "GB"
+                            "GB",
+                            "OI"
                         ],
                         "instructors": [
-                            "Lydia Wilkinson",
-                            "Margarete Von Adamic-Vaight",
+                            "Patricia Sheridan",
+                            "Robin Sacks",
+                            "Samina Hashmi",
                             "Michele Irwin",
                             "Cindy Rottmann",
-                            "Lisa Romkey",
-                            "Robin Sacks",
+                            "Lydia Wilkinson",
                             "TBA",
                             "Linda Phillips-Smith",
-                            "Patricia Sheridan",
-                            "Emily Moore",
-                            "Samina Hashmi"
+                            "Lisa Romkey",
+                            "Margarete Von Adamic-Vaight",
+                            "Emily Moore"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "October 23, 2024 at 2:58 AM"
+        "last_updated": "October 24, 2024 at 3:09 AM"
     },
     "timings": [
         {
@@ -1093,7 +1093,7 @@
                 "Alis Ekmekci"
             ],
             "capacity": 50,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -1111,7 +1111,7 @@
                 "Alis Ekmekci"
             ],
             "capacity": 50,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -1201,7 +1201,7 @@
                 "Alis Ekmekci"
             ],
             "capacity": 50,
-            "current_enrolment": 36,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -1219,7 +1219,7 @@
                 "Alis Ekmekci"
             ],
             "capacity": 50,
-            "current_enrolment": 36,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -2083,7 +2083,7 @@
                 "Reza Emami"
             ],
             "capacity": 45,
-            "current_enrolment": 41,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -2101,7 +2101,7 @@
                 "Reza Emami"
             ],
             "capacity": 45,
-            "current_enrolment": 41,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -2119,7 +2119,7 @@
                 "TBA"
             ],
             "capacity": 15,
-            "current_enrolment": 13,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -6336,7 +6336,7 @@
                 "Shai Cohen"
             ],
             "capacity": 150,
-            "current_enrolment": 65,
+            "current_enrolment": 61,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -6642,7 +6642,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 93,
+            "current_enrolment": 94,
             "delivery_mode": "In Person"
         },
         {
@@ -6660,7 +6660,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 93,
+            "current_enrolment": 94,
             "delivery_mode": "In Person"
         },
         {
@@ -6678,7 +6678,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 93,
+            "current_enrolment": 94,
             "delivery_mode": "In Person"
         },
         {
@@ -7311,7 +7311,7 @@
                 "Roy Kwon"
             ],
             "capacity": 105,
-            "current_enrolment": 98,
+            "current_enrolment": 96,
             "delivery_mode": "In Person"
         },
         {
@@ -15199,7 +15199,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Civil and Mineral Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "WB",
             "instructors": [
                 "TBA"
             ],
@@ -15217,7 +15217,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Civil and Mineral Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
@@ -15235,7 +15235,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Civil and Mineral Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
@@ -15253,7 +15253,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Civil and Mineral Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "WB",
             "instructors": [
                 "TBA"
             ],
@@ -15582,7 +15582,7 @@
                 "Ian Craufurd Sinclair"
             ],
             "capacity": 200,
-            "current_enrolment": 151,
+            "current_enrolment": 152,
             "delivery_mode": "In Person"
         },
         {
@@ -15600,7 +15600,7 @@
                 "Ian Craufurd Sinclair"
             ],
             "capacity": 200,
-            "current_enrolment": 151,
+            "current_enrolment": 152,
             "delivery_mode": "In Person"
         },
         {
@@ -15654,7 +15654,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 48,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -16896,7 +16896,7 @@
                 "Amer Shalaby"
             ],
             "capacity": 80,
-            "current_enrolment": 45,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -16914,7 +16914,7 @@
                 "Amer Shalaby"
             ],
             "capacity": 80,
-            "current_enrolment": 45,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -16932,7 +16932,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 42,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -16986,7 +16986,7 @@
                 "Michael Simpson"
             ],
             "capacity": 70,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -17004,7 +17004,7 @@
                 "Michael Simpson"
             ],
             "capacity": 70,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -17022,7 +17022,7 @@
                 "Michael Simpson"
             ],
             "capacity": 70,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -17040,7 +17040,7 @@
                 "Oya Mercan"
             ],
             "capacity": 60,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -17058,7 +17058,7 @@
                 "Oya Mercan"
             ],
             "capacity": 60,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -17076,7 +17076,7 @@
                 "TBA"
             ],
             "capacity": 60,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -19658,7 +19658,7 @@
                 "Farid Najm"
             ],
             "capacity": 130,
-            "current_enrolment": 95,
+            "current_enrolment": 92,
             "delivery_mode": "In Person"
         },
         {
@@ -19676,7 +19676,7 @@
                 "Farid Najm"
             ],
             "capacity": 130,
-            "current_enrolment": 95,
+            "current_enrolment": 92,
             "delivery_mode": "In Person"
         },
         {
@@ -19694,7 +19694,7 @@
                 "Farid Najm"
             ],
             "capacity": 130,
-            "current_enrolment": 95,
+            "current_enrolment": 92,
             "delivery_mode": "In Person"
         },
         {
@@ -19766,7 +19766,7 @@
                 "Khoman Phang"
             ],
             "capacity": 180,
-            "current_enrolment": 173,
+            "current_enrolment": 180,
             "delivery_mode": "In Person"
         },
         {
@@ -19784,7 +19784,7 @@
                 "Khoman Phang"
             ],
             "capacity": 180,
-            "current_enrolment": 173,
+            "current_enrolment": 180,
             "delivery_mode": "In Person"
         },
         {
@@ -19802,7 +19802,7 @@
                 "Khoman Phang"
             ],
             "capacity": 180,
-            "current_enrolment": 173,
+            "current_enrolment": 180,
             "delivery_mode": "In Person"
         },
         {
@@ -19820,7 +19820,7 @@
                 "Belinda Wang"
             ],
             "capacity": 130,
-            "current_enrolment": 94,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -19838,7 +19838,7 @@
                 "Belinda Wang"
             ],
             "capacity": 130,
-            "current_enrolment": 94,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -19856,7 +19856,7 @@
                 "Belinda Wang"
             ],
             "capacity": 130,
-            "current_enrolment": 94,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -19874,7 +19874,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 48,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -19892,7 +19892,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 47,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -19910,7 +19910,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 51,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -19928,7 +19928,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 54,
+            "current_enrolment": 56,
             "delivery_mode": "In Person"
         },
         {
@@ -19964,7 +19964,7 @@
                 "TBA"
             ],
             "capacity": 96,
-            "current_enrolment": 88,
+            "current_enrolment": 95,
             "delivery_mode": "In Person"
         },
         {
@@ -19982,7 +19982,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 46,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -20000,25 +20000,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 47,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE212H1 S: Circuit Analysis",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 48,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -20042,7 +20024,7 @@
         {
             "course_name": "ECE212H1 S: Circuit Analysis",
             "section_title": "Practicals",
-            "day": "Tuesday",
+            "day": "Wednesday",
             "start_time": "09:00",
             "end_time": "12:00",
             "campus": "St. George",
@@ -20054,7 +20036,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 51,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -20072,7 +20054,25 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 49,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE212H1 S: Circuit Analysis",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 55,
             "delivery_mode": "In Person"
         },
         {
@@ -20090,7 +20090,7 @@
                 "TBA"
             ],
             "capacity": 85,
-            "current_enrolment": 83,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -20108,7 +20108,7 @@
                 "TBA"
             ],
             "capacity": 96,
-            "current_enrolment": 89,
+            "current_enrolment": 94,
             "delivery_mode": "In Person"
         },
         {
@@ -20126,7 +20126,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 46,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -20144,7 +20144,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 47,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -20162,7 +20162,7 @@
                 "Hai-Ling Cheng"
             ],
             "capacity": 130,
-            "current_enrolment": 106,
+            "current_enrolment": 103,
             "delivery_mode": "In Person"
         },
         {
@@ -20180,7 +20180,7 @@
                 "Hai-Ling Cheng"
             ],
             "capacity": 130,
-            "current_enrolment": 106,
+            "current_enrolment": 103,
             "delivery_mode": "In Person"
         },
         {
@@ -20198,7 +20198,7 @@
                 "Hai-Ling Cheng"
             ],
             "capacity": 130,
-            "current_enrolment": 106,
+            "current_enrolment": 103,
             "delivery_mode": "In Person"
         },
         {
@@ -20270,7 +20270,7 @@
                 "TBA"
             ],
             "capacity": 183,
-            "current_enrolment": 175,
+            "current_enrolment": 182,
             "delivery_mode": "In Person"
         },
         {
@@ -20288,7 +20288,7 @@
                 "TBA"
             ],
             "capacity": 183,
-            "current_enrolment": 175,
+            "current_enrolment": 182,
             "delivery_mode": "In Person"
         },
         {
@@ -20306,7 +20306,7 @@
                 "TBA"
             ],
             "capacity": 183,
-            "current_enrolment": 175,
+            "current_enrolment": 182,
             "delivery_mode": "In Person"
         },
         {
@@ -20324,7 +20324,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 100,
+            "current_enrolment": 96,
             "delivery_mode": "In Person"
         },
         {
@@ -20342,7 +20342,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 100,
+            "current_enrolment": 96,
             "delivery_mode": "In Person"
         },
         {
@@ -20360,7 +20360,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 100,
+            "current_enrolment": 96,
             "delivery_mode": "In Person"
         },
         {
@@ -20378,7 +20378,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 51,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -20396,7 +20396,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 54,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -20414,7 +20414,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 55,
+            "current_enrolment": 57,
             "delivery_mode": "In Person"
         },
         {
@@ -20432,7 +20432,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 52,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -20450,7 +20450,7 @@
                 "TBA"
             ],
             "capacity": 99,
-            "current_enrolment": 93,
+            "current_enrolment": 99,
             "delivery_mode": "In Person"
         },
         {
@@ -20468,7 +20468,7 @@
                 "TBA"
             ],
             "capacity": 84,
-            "current_enrolment": 82,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -20486,7 +20486,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 49,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -20504,7 +20504,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 50,
+            "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
         {
@@ -20522,103 +20522,13 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 51,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "ECE216H1 S: Signals and Systems",
             "section_title": "Practicals",
             "day": "Wednesday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 53,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE216H1 S: Signals and Systems",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 55,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE216H1 S: Signals and Systems",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 51,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE216H1 S: Signals and Systems",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "13:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 85,
-            "current_enrolment": 83,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE216H1 S: Signals and Systems",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "13:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 99,
-            "current_enrolment": 93,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE216H1 S: Signals and Systems",
-            "section_title": "Practicals",
-            "day": "Friday",
             "start_time": "09:00",
             "end_time": "11:00",
             "campus": "St. George",
@@ -20636,6 +20546,78 @@
         {
             "course_name": "ECE216H1 S: Signals and Systems",
             "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 57,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE216H1 S: Signals and Systems",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 49,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE216H1 S: Signals and Systems",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 85,
+            "current_enrolment": 84,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE216H1 S: Signals and Systems",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 99,
+            "current_enrolment": 99,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE216H1 S: Signals and Systems",
+            "section_title": "Practicals",
             "day": "Friday",
             "start_time": "09:00",
             "end_time": "11:00",
@@ -20648,7 +20630,25 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 48,
+            "current_enrolment": 50,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE216H1 S: Signals and Systems",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -20666,7 +20666,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 105,
+            "current_enrolment": 102,
             "delivery_mode": "In Person"
         },
         {
@@ -20684,7 +20684,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 105,
+            "current_enrolment": 102,
             "delivery_mode": "In Person"
         },
         {
@@ -20702,7 +20702,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 105,
+            "current_enrolment": 102,
             "delivery_mode": "In Person"
         },
         {
@@ -20720,7 +20720,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 108,
+            "current_enrolment": 109,
             "delivery_mode": "In Person"
         },
         {
@@ -20738,7 +20738,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 108,
+            "current_enrolment": 109,
             "delivery_mode": "In Person"
         },
         {
@@ -20756,7 +20756,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 130,
-            "current_enrolment": 108,
+            "current_enrolment": 109,
             "delivery_mode": "In Person"
         },
         {
@@ -20774,7 +20774,7 @@
                 "TBA"
             ],
             "capacity": 185,
-            "current_enrolment": 178,
+            "current_enrolment": 184,
             "delivery_mode": "In Person"
         },
         {
@@ -20792,7 +20792,7 @@
                 "TBA"
             ],
             "capacity": 185,
-            "current_enrolment": 178,
+            "current_enrolment": 184,
             "delivery_mode": "In Person"
         },
         {
@@ -20810,7 +20810,7 @@
                 "TBA"
             ],
             "capacity": 185,
-            "current_enrolment": 178,
+            "current_enrolment": 184,
             "delivery_mode": "In Person"
         },
         {
@@ -20828,7 +20828,7 @@
                 "Micah Stickel"
             ],
             "capacity": 130,
-            "current_enrolment": 97,
+            "current_enrolment": 93,
             "delivery_mode": "In Person"
         },
         {
@@ -20846,7 +20846,7 @@
                 "Micah Stickel"
             ],
             "capacity": 130,
-            "current_enrolment": 97,
+            "current_enrolment": 93,
             "delivery_mode": "In Person"
         },
         {
@@ -20864,7 +20864,7 @@
                 "Micah Stickel"
             ],
             "capacity": 130,
-            "current_enrolment": 97,
+            "current_enrolment": 93,
             "delivery_mode": "In Person"
         },
         {
@@ -20882,7 +20882,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 54,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -20900,7 +20900,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 51,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -20918,7 +20918,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 57,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -20936,7 +20936,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 51,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -20954,7 +20954,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 93,
+            "current_enrolment": 99,
             "delivery_mode": "In Person"
         },
         {
@@ -20990,7 +20990,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 51,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -21008,7 +21008,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 47,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -21026,7 +21026,7 @@
                 "TBA"
             ],
             "capacity": 72,
-            "current_enrolment": 72,
+            "current_enrolment": 71,
             "delivery_mode": "In Person"
         },
         {
@@ -21044,7 +21044,7 @@
                 "TBA"
             ],
             "capacity": 72,
-            "current_enrolment": 72,
+            "current_enrolment": 71,
             "delivery_mode": "In Person"
         },
         {
@@ -21053,150 +21053,6 @@
             "day": "Friday",
             "start_time": "10:00",
             "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 72,
-            "current_enrolment": 72,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "10:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 72,
-            "current_enrolment": 72,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 56,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 56,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 52,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 52,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 72,
-            "current_enrolment": 68,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 72,
-            "current_enrolment": 68,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
@@ -21212,9 +21068,9 @@
         {
             "course_name": "ECE221H1 S: Electric and Magnetic Fields",
             "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
+            "day": "Friday",
+            "start_time": "10:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Winter 2025 (S)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
@@ -21230,6 +21086,150 @@
         {
             "course_name": "ECE221H1 S: Electric and Magnetic Fields",
             "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 59,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 59,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 50,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 50,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 72,
+            "current_enrolment": 72,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 72,
+            "current_enrolment": 72,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 72,
+            "current_enrolment": 72,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 72,
+            "current_enrolment": 72,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE221H1 S: Electric and Magnetic Fields",
+            "section_title": "Practicals",
             "day": "Wednesday",
             "start_time": "09:00",
             "end_time": "11:00",
@@ -21242,7 +21242,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -21260,7 +21260,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -21278,7 +21278,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 46,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -21296,7 +21296,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 46,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -22448,7 +22448,7 @@
                 "Andreas Moshovos"
             ],
             "capacity": 130,
-            "current_enrolment": 102,
+            "current_enrolment": 99,
             "delivery_mode": "In Person"
         },
         {
@@ -22466,7 +22466,7 @@
                 "Andreas Moshovos"
             ],
             "capacity": 130,
-            "current_enrolment": 102,
+            "current_enrolment": 99,
             "delivery_mode": "In Person"
         },
         {
@@ -22484,7 +22484,7 @@
                 "Andreas Moshovos"
             ],
             "capacity": 130,
-            "current_enrolment": 108,
+            "current_enrolment": 109,
             "delivery_mode": "In Person"
         },
         {
@@ -22502,7 +22502,7 @@
                 "Andreas Moshovos"
             ],
             "capacity": 130,
-            "current_enrolment": 108,
+            "current_enrolment": 109,
             "delivery_mode": "In Person"
         },
         {
@@ -22520,7 +22520,7 @@
                 "Jonathan Rose"
             ],
             "capacity": 184,
-            "current_enrolment": 178,
+            "current_enrolment": 184,
             "delivery_mode": "In Person"
         },
         {
@@ -22538,7 +22538,7 @@
                 "Jonathan Rose"
             ],
             "capacity": 184,
-            "current_enrolment": 178,
+            "current_enrolment": 184,
             "delivery_mode": "In Person"
         },
         {
@@ -22556,7 +22556,7 @@
                 "Jonathan Rose"
             ],
             "capacity": 184,
-            "current_enrolment": 178,
+            "current_enrolment": 184,
             "delivery_mode": "In Person"
         },
         {
@@ -22574,7 +22574,7 @@
                 "Jonathan Rose"
             ],
             "capacity": 130,
-            "current_enrolment": 95,
+            "current_enrolment": 91,
             "delivery_mode": "In Person"
         },
         {
@@ -22592,7 +22592,7 @@
                 "Jonathan Rose"
             ],
             "capacity": 130,
-            "current_enrolment": 95,
+            "current_enrolment": 91,
             "delivery_mode": "In Person"
         },
         {
@@ -22610,7 +22610,7 @@
                 "Jonathan Rose"
             ],
             "capacity": 130,
-            "current_enrolment": 95,
+            "current_enrolment": 91,
             "delivery_mode": "In Person"
         },
         {
@@ -22628,7 +22628,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 52,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -22646,7 +22646,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 52,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -22664,7 +22664,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 52,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -22682,7 +22682,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 49,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -22700,7 +22700,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 49,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -22718,7 +22718,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 49,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -22736,7 +22736,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 58,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -22754,7 +22754,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 58,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -22772,7 +22772,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 58,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -22790,7 +22790,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -22808,7 +22808,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -22826,7 +22826,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -22844,7 +22844,7 @@
                 "TBA"
             ],
             "capacity": 99,
-            "current_enrolment": 91,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -22862,7 +22862,7 @@
                 "TBA"
             ],
             "capacity": 99,
-            "current_enrolment": 91,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -22880,7 +22880,7 @@
                 "TBA"
             ],
             "capacity": 99,
-            "current_enrolment": 91,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -22898,7 +22898,7 @@
                 "TBA"
             ],
             "capacity": 87,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -22916,7 +22916,7 @@
                 "TBA"
             ],
             "capacity": 87,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -22934,7 +22934,61 @@
                 "TBA"
             ],
             "capacity": 87,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE243H1 S: Computer Organization",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 44,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE243H1 S: Computer Organization",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 44,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE243H1 S: Computer Organization",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -22989,60 +23043,6 @@
             ],
             "capacity": 65,
             "current_enrolment": 46,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE243H1 S: Computer Organization",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "15:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 48,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE243H1 S: Computer Organization",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "15:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 48,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE243H1 S: Computer Organization",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "15:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 65,
-            "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
         {
@@ -24464,7 +24464,7 @@
                 "Sean Hum"
             ],
             "capacity": 184,
-            "current_enrolment": 178,
+            "current_enrolment": 183,
             "delivery_mode": "In Person"
         },
         {
@@ -24482,7 +24482,7 @@
                 "Sean Hum"
             ],
             "capacity": 184,
-            "current_enrolment": 178,
+            "current_enrolment": 183,
             "delivery_mode": "In Person"
         },
         {
@@ -24500,7 +24500,7 @@
                 "TBA"
             ],
             "capacity": 49,
-            "current_enrolment": 43,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -24518,7 +24518,7 @@
                 "TBA"
             ],
             "capacity": 49,
-            "current_enrolment": 43,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -24536,7 +24536,7 @@
                 "TBA"
             ],
             "capacity": 44,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -24554,7 +24554,7 @@
                 "TBA"
             ],
             "capacity": 44,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -24603,12 +24603,12 @@
             "session": "Winter 2025 (S)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
             "capacity": 43,
-            "current_enrolment": 42,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -24621,12 +24621,30 @@
             "session": "Winter 2025 (S)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "BA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 43,
-            "current_enrolment": 42,
+            "current_enrolment": 40,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE295H1 S: HARDWARE DESIGN AND COMM.",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 49,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -24644,25 +24662,7 @@
                 "TBA"
             ],
             "capacity": 49,
-            "current_enrolment": 43,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE295H1 S: HARDWARE DESIGN AND COMM.",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "10:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 49,
-            "current_enrolment": 43,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -24680,7 +24680,7 @@
                 "TBA"
             ],
             "capacity": 44,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -24698,7 +24698,7 @@
                 "TBA"
             ],
             "capacity": 44,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -24752,7 +24752,7 @@
                 "TBA"
             ],
             "capacity": 43,
-            "current_enrolment": 42,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -24770,7 +24770,7 @@
                 "TBA"
             ],
             "capacity": 43,
-            "current_enrolment": 42,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -24788,7 +24788,7 @@
                 "TBA"
             ],
             "capacity": 360,
-            "current_enrolment": 297,
+            "current_enrolment": 292,
             "delivery_mode": "In Person"
         },
         {
@@ -24806,7 +24806,7 @@
                 "TBA"
             ],
             "capacity": 360,
-            "current_enrolment": 297,
+            "current_enrolment": 292,
             "delivery_mode": "In Person"
         },
         {
@@ -24842,7 +24842,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -24860,7 +24860,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 34,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -24878,25 +24878,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 36,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE297H1 S: Software Communication and Design",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "15:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 45,
-            "current_enrolment": 44,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -24914,7 +24896,25 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 42,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE297H1 S: Software Communication and Design",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -24932,7 +24932,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25040,7 +25040,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -25058,7 +25058,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -25076,7 +25076,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -25094,7 +25094,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -25112,7 +25112,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 34,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -25130,7 +25130,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 34,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -25148,7 +25148,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 34,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -25166,7 +25166,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 34,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -25184,7 +25184,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 36,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25202,7 +25202,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 36,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25220,7 +25220,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 36,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25238,7 +25238,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 36,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25256,7 +25256,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25274,7 +25274,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25292,7 +25292,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25310,7 +25310,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25328,7 +25328,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25346,7 +25346,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25364,7 +25364,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25382,7 +25382,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -25400,7 +25400,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25418,7 +25418,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25436,7 +25436,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25454,7 +25454,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 40,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -25832,7 +25832,7 @@
                 "Tome Kosteski"
             ],
             "capacity": 144,
-            "current_enrolment": 108,
+            "current_enrolment": 107,
             "delivery_mode": "In Person"
         },
         {
@@ -25850,7 +25850,7 @@
                 "Tome Kosteski"
             ],
             "capacity": 144,
-            "current_enrolment": 108,
+            "current_enrolment": 107,
             "delivery_mode": "In Person"
         },
         {
@@ -25868,7 +25868,7 @@
                 "Tome Kosteski"
             ],
             "capacity": 144,
-            "current_enrolment": 108,
+            "current_enrolment": 107,
             "delivery_mode": "In Person"
         },
         {
@@ -25976,7 +25976,7 @@
                 "TBA"
             ],
             "capacity": 24,
-            "current_enrolment": 22,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -26786,7 +26786,7 @@
                 "Li Qian"
             ],
             "capacity": 78,
-            "current_enrolment": 78,
+            "current_enrolment": 77,
             "delivery_mode": "In Person"
         },
         {
@@ -26804,7 +26804,7 @@
                 "Li Qian"
             ],
             "capacity": 78,
-            "current_enrolment": 78,
+            "current_enrolment": 77,
             "delivery_mode": "In Person"
         },
         {
@@ -26822,7 +26822,7 @@
                 "Li Qian"
             ],
             "capacity": 78,
-            "current_enrolment": 74,
+            "current_enrolment": 75,
             "delivery_mode": "In Person"
         },
         {
@@ -26840,7 +26840,7 @@
                 "Li Qian"
             ],
             "capacity": 78,
-            "current_enrolment": 74,
+            "current_enrolment": 75,
             "delivery_mode": "In Person"
         },
         {
@@ -26858,7 +26858,7 @@
                 "TBA"
             ],
             "capacity": 78,
-            "current_enrolment": 78,
+            "current_enrolment": 77,
             "delivery_mode": "In Person"
         },
         {
@@ -26876,7 +26876,7 @@
                 "TBA"
             ],
             "capacity": 78,
-            "current_enrolment": 69,
+            "current_enrolment": 70,
             "delivery_mode": "In Person"
         },
         {
@@ -26894,7 +26894,7 @@
                 "TBA"
             ],
             "capacity": 12,
-            "current_enrolment": 11,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -26912,7 +26912,7 @@
                 "TBA"
             ],
             "capacity": 12,
-            "current_enrolment": 11,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -26930,7 +26930,7 @@
                 "TBA"
             ],
             "capacity": 12,
-            "current_enrolment": 11,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -27038,7 +27038,7 @@
                 "TBA"
             ],
             "capacity": 12,
-            "current_enrolment": 12,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -27110,7 +27110,7 @@
                 "TBA"
             ],
             "capacity": 12,
-            "current_enrolment": 10,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -28334,7 +28334,7 @@
                 "Nazir Kherani"
             ],
             "capacity": 120,
-            "current_enrolment": 81,
+            "current_enrolment": 80,
             "delivery_mode": "In Person"
         },
         {
@@ -28352,7 +28352,7 @@
                 "TBA"
             ],
             "capacity": 60,
-            "current_enrolment": 56,
+            "current_enrolment": 55,
             "delivery_mode": "In Person"
         },
         {
@@ -28442,7 +28442,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -28802,7 +28802,7 @@
                 "Ding Yuan"
             ],
             "capacity": 48,
-            "current_enrolment": 25,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -28820,7 +28820,7 @@
                 "Ding Yuan"
             ],
             "capacity": 48,
-            "current_enrolment": 25,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -28838,7 +28838,7 @@
                 "TBA"
             ],
             "capacity": 48,
-            "current_enrolment": 25,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -29108,7 +29108,7 @@
                 "Tome Kosteski"
             ],
             "capacity": 70,
-            "current_enrolment": 36,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -29126,7 +29126,7 @@
                 "Tome Kosteski"
             ],
             "capacity": 70,
-            "current_enrolment": 36,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -29144,7 +29144,7 @@
                 "Tome Kosteski"
             ],
             "capacity": 70,
-            "current_enrolment": 36,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -29162,7 +29162,7 @@
                 "TBA"
             ],
             "capacity": 70,
-            "current_enrolment": 34,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -31070,7 +31070,7 @@
                 "Mireille Broucke"
             ],
             "capacity": 72,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -31088,7 +31088,7 @@
                 "Mireille Broucke"
             ],
             "capacity": 72,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -31106,7 +31106,7 @@
                 "Mireille Broucke"
             ],
             "capacity": 72,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -31124,7 +31124,7 @@
                 "TBA"
             ],
             "capacity": 72,
-            "current_enrolment": 56,
+            "current_enrolment": 57,
             "delivery_mode": "In Person"
         },
         {
@@ -31178,7 +31178,7 @@
                 "TBA"
             ],
             "capacity": 24,
-            "current_enrolment": 17,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -31466,7 +31466,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 44,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -31502,7 +31502,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 43,
+            "current_enrolment": 42,
             "delivery_mode": "In Person"
         },
         {
@@ -31700,7 +31700,7 @@
                 "TBA"
             ],
             "capacity": 124,
-            "current_enrolment": 100,
+            "current_enrolment": 102,
             "delivery_mode": "In Person"
         },
         {
@@ -31718,7 +31718,7 @@
                 "TBA"
             ],
             "capacity": 124,
-            "current_enrolment": 100,
+            "current_enrolment": 102,
             "delivery_mode": "In Person"
         },
         {
@@ -31736,7 +31736,7 @@
                 "TBA"
             ],
             "capacity": 124,
-            "current_enrolment": 100,
+            "current_enrolment": 102,
             "delivery_mode": "In Person"
         },
         {
@@ -31754,7 +31754,7 @@
                 "TBA"
             ],
             "capacity": 62,
-            "current_enrolment": 61,
+            "current_enrolment": 62,
             "delivery_mode": "In Person"
         },
         {
@@ -31772,7 +31772,7 @@
                 "TBA"
             ],
             "capacity": 62,
-            "current_enrolment": 55,
+            "current_enrolment": 56,
             "delivery_mode": "In Person"
         },
         {
@@ -31826,7 +31826,7 @@
                 "Sean Hum"
             ],
             "capacity": 32,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -31844,7 +31844,7 @@
                 "Sean Hum"
             ],
             "capacity": 32,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -31862,7 +31862,7 @@
                 "Sean Hum"
             ],
             "capacity": 32,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -31880,7 +31880,7 @@
                 "TBA"
             ],
             "capacity": 32,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -31916,7 +31916,7 @@
                 "TBA"
             ],
             "capacity": 16,
-            "current_enrolment": 9,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -32037,7 +32037,7 @@
             "session": "Fall 2024 (F)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
@@ -32055,7 +32055,7 @@
             "session": "Fall 2024 (F)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "BA",
             "instructors": [
                 "TBA"
             ],
@@ -32078,7 +32078,7 @@
                 "Peter Herman"
             ],
             "capacity": 30,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -32096,7 +32096,7 @@
                 "Peter Herman"
             ],
             "capacity": 30,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -32114,7 +32114,7 @@
                 "Peter Herman"
             ],
             "capacity": 30,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -32132,7 +32132,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -32745,7 +32745,7 @@
                 "Jonathan Eyolfson"
             ],
             "capacity": 100,
-            "current_enrolment": 94,
+            "current_enrolment": 92,
             "delivery_mode": "In Person"
         },
         {
@@ -32763,7 +32763,7 @@
                 "Jonathan Eyolfson"
             ],
             "capacity": 100,
-            "current_enrolment": 94,
+            "current_enrolment": 92,
             "delivery_mode": "In Person"
         },
         {
@@ -32925,7 +32925,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 39,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -32943,7 +32943,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 39,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -33177,7 +33177,7 @@
                 "Dimitrios Hatzinakos"
             ],
             "capacity": 50,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -33195,7 +33195,7 @@
                 "Dimitrios Hatzinakos"
             ],
             "capacity": 50,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -33213,7 +33213,7 @@
                 "Dimitrios Hatzinakos"
             ],
             "capacity": 50,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -33231,7 +33231,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -34702,24 +34702,6 @@
             "session": "Fall 2024 (F)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 178,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE496Y1 Y: Design Project",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "19:00",
-            "end_time": "21:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
             "location": "MY",
             "instructors": [
                 "TBA"
@@ -34789,96 +34771,6 @@
             "start_time": "19:00",
             "end_time": "21:00",
             "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 178,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE496Y1 Y: Design Project",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "19:00",
-            "end_time": "21:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 178,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE496Y1 Y: Design Project",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "19:00",
-            "end_time": "21:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 178,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE496Y1 Y: Design Project",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "19:00",
-            "end_time": "21:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 178,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE496Y1 Y: Design Project",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "19:00",
-            "end_time": "21:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 178,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE496Y1 Y: Design Project",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "19:00",
-            "end_time": "21:00",
-            "campus": "St. George",
             "session": "Fall 2024 (F)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
@@ -34887,17 +34779,89 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 169,
+            "current_enrolment": 178,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "ECE496Y1 Y: Design Project",
             "section_title": "Tutorials",
-            "day": "Thursday",
+            "day": "Tuesday",
             "start_time": "19:00",
             "end_time": "21:00",
             "campus": "St. George",
-            "session": "Fall 2024 (F)",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 178,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE496Y1 Y: Design Project",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "19:00",
+            "end_time": "21:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 178,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE496Y1 Y: Design Project",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "19:00",
+            "end_time": "21:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 178,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE496Y1 Y: Design Project",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "19:00",
+            "end_time": "21:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 178,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE496Y1 Y: Design Project",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "19:00",
+            "end_time": "21:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "BA",
@@ -34905,25 +34869,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 169,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE496Y1 Y: Design Project",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "19:00",
-            "end_time": "21:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 169,
+            "current_enrolment": 178,
             "delivery_mode": "In Person"
         },
         {
@@ -34955,6 +34901,60 @@
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "HA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 169,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE496Y1 Y: Design Project",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "19:00",
+            "end_time": "21:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 169,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE496Y1 Y: Design Project",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "19:00",
+            "end_time": "21:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 169,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE496Y1 Y: Design Project",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "19:00",
+            "end_time": "21:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
             "instructors": [
                 "TBA"
             ],
@@ -35355,7 +35355,7 @@
                 "Jason Helge Anderson"
             ],
             "capacity": 128,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -35373,7 +35373,7 @@
                 "Jason Helge Anderson"
             ],
             "capacity": 128,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -35391,7 +35391,7 @@
                 "Jason Helge Anderson"
             ],
             "capacity": 128,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -35409,7 +35409,7 @@
                 "TBA"
             ],
             "capacity": 64,
-            "current_enrolment": 44,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -36847,7 +36847,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -36865,7 +36865,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "WB",
             "instructors": [
                 "TBA"
             ],
@@ -37027,7 +37027,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "WB",
             "instructors": [
                 "TBA"
             ],
@@ -37045,7 +37045,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -37117,7 +37117,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "WB",
             "instructors": [
                 "TBA"
             ],
@@ -37135,7 +37135,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -41244,7 +41244,7 @@
                 "Geoffrey McGregor"
             ],
             "capacity": 171,
-            "current_enrolment": 127,
+            "current_enrolment": 126,
             "delivery_mode": "In Person"
         },
         {
@@ -41262,7 +41262,7 @@
                 "Geoffrey McGregor"
             ],
             "capacity": 171,
-            "current_enrolment": 127,
+            "current_enrolment": 126,
             "delivery_mode": "In Person"
         },
         {
@@ -41280,7 +41280,7 @@
                 "Geoffrey McGregor"
             ],
             "capacity": 171,
-            "current_enrolment": 127,
+            "current_enrolment": 126,
             "delivery_mode": "In Person"
         },
         {
@@ -41658,7 +41658,7 @@
                 "TBA"
             ],
             "capacity": 66,
-            "current_enrolment": 46,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -41892,7 +41892,7 @@
                 "Shai Cohen"
             ],
             "capacity": 70,
-            "current_enrolment": 4,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -41910,7 +41910,7 @@
                 "Shai Cohen"
             ],
             "capacity": 70,
-            "current_enrolment": 4,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -41928,7 +41928,7 @@
                 "Shai Cohen"
             ],
             "capacity": 70,
-            "current_enrolment": 4,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -41946,7 +41946,7 @@
                 "TBA"
             ],
             "capacity": 70,
-            "current_enrolment": 4,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -42076,7 +42076,7 @@
                 "Camelia Karimian Pour"
             ],
             "capacity": 450,
-            "current_enrolment": 315,
+            "current_enrolment": 314,
             "delivery_mode": "In Person"
         },
         {
@@ -42095,7 +42095,7 @@
                 "Camelia Karimian Pour"
             ],
             "capacity": 450,
-            "current_enrolment": 315,
+            "current_enrolment": 314,
             "delivery_mode": "In Person"
         },
         {
@@ -42114,7 +42114,7 @@
                 "Camelia Karimian Pour"
             ],
             "capacity": 450,
-            "current_enrolment": 315,
+            "current_enrolment": 314,
             "delivery_mode": "In Person"
         },
         {
@@ -42438,7 +42438,7 @@
                 "TBA"
             ],
             "capacity": 87,
-            "current_enrolment": 65,
+            "current_enrolment": 64,
             "delivery_mode": "In Person"
         },
         {
@@ -45223,7 +45223,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "HA",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -45241,7 +45241,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "HA",
             "instructors": [
                 "TBA"
             ],
@@ -45295,7 +45295,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "WB",
             "instructors": [
                 "TBA"
             ],
@@ -45313,7 +45313,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
@@ -47293,7 +47293,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -47311,7 +47311,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
@@ -49827,24 +49827,6 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 105,
-            "current_enrolment": 103,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MIE334H1 S: Numerical Methods I",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Winter 2025 (S)",
-            "department": "Department of Mechanical & Industrial Engineering",
-            "faculty": "Faculty of Applied Science & Engineering",
             "location": "RS",
             "instructors": [
                 "TBA"
@@ -49864,6 +49846,24 @@
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 105,
+            "current_enrolment": 103,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MIE334H1 S: Numerical Methods I",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter 2025 (S)",
+            "department": "Department of Mechanical & Industrial Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "RS",
             "instructors": [
                 "TBA"
             ],
@@ -49881,7 +49881,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "RS",
+            "location": "MB",
             "instructors": [
                 "TBA"
             ],
@@ -51218,7 +51218,7 @@
                 "Daniel Frances"
             ],
             "capacity": 56,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -51236,7 +51236,7 @@
                 "Daniel Frances"
             ],
             "capacity": 56,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -51254,7 +51254,7 @@
                 "Daniel Frances"
             ],
             "capacity": 56,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -51272,7 +51272,7 @@
                 "TBA"
             ],
             "capacity": 56,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -51290,7 +51290,7 @@
                 "TBA"
             ],
             "capacity": 56,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -51398,7 +51398,7 @@
                 "Daniel Frances"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -51416,7 +51416,7 @@
                 "Daniel Frances"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -51434,7 +51434,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 20,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -51627,7 +51627,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "PB",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
@@ -51645,7 +51645,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "PB",
             "instructors": [
                 "TBA"
             ],
@@ -52311,7 +52311,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "MB",
             "instructors": [
                 "TBA"
             ],
@@ -52329,7 +52329,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Mechanical & Industrial Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MB",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
@@ -52725,7 +52725,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MB",
+            "location": "GB",
             "instructors": [
                 "Craig Simmons"
             ],
@@ -52743,7 +52743,7 @@
             "session": "Fall 2024 (F)",
             "department": "Division of Engineering Science",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "MB",
             "instructors": [
                 "Craig Simmons"
             ],
@@ -53363,7 +53363,7 @@
                 "Janet Lam"
             ],
             "capacity": 70,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -53381,7 +53381,7 @@
                 "Janet Lam"
             ],
             "capacity": 70,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -53399,7 +53399,7 @@
                 "Janet Lam"
             ],
             "capacity": 70,
-            "current_enrolment": 42,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -53687,7 +53687,7 @@
                 "Maher Bakri-Kassem"
             ],
             "capacity": 35,
-            "current_enrolment": 30,
+            "current_enrolment": 31,
             "delivery_mode": "In Person"
         },
         {
@@ -53705,7 +53705,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -53741,7 +53741,7 @@
                 "TBA"
             ],
             "capacity": 18,
-            "current_enrolment": 8,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -54173,7 +54173,7 @@
                 "Daniel Frances"
             ],
             "capacity": 50,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -54191,7 +54191,7 @@
                 "Daniel Frances"
             ],
             "capacity": 50,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -54209,7 +54209,7 @@
                 "Daniel Frances"
             ],
             "capacity": 50,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -54227,7 +54227,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 9,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -54245,7 +54245,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 9,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -54281,7 +54281,7 @@
                 "TBA"
             ],
             "capacity": 95,
-            "current_enrolment": 84,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -54300,7 +54300,7 @@
                 "Kim Iwasa-Madge"
             ],
             "capacity": 25,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -54318,7 +54318,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -54336,7 +54336,7 @@
                 "Nasser Ashgriz"
             ],
             "capacity": 23,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -55833,7 +55833,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Materials Science and Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "SF",
             "instructors": [
                 "Daniel Grozea"
             ],
@@ -55851,7 +55851,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Materials Science and Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
+            "location": "WB",
             "instructors": [
                 "Daniel Grozea"
             ],
@@ -56267,7 +56267,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Materials Science and Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "WB",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -56285,25 +56285,7 @@
             "session": "Fall 2024 (F)",
             "department": "Department of Materials Science and Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 72,
-            "current_enrolment": 61,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MSE294H1 F: Communications I",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Fall 2024 (F)",
-            "department": "Department of Materials Science and Engineering",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "WB",
             "instructors": [
                 "TBA"
             ],
@@ -56322,6 +56304,24 @@
             "department": "Department of Materials Science and Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "WB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 72,
+            "current_enrolment": 61,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MSE294H1 F: Communications I",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2024 (F)",
+            "department": "Department of Materials Science and Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -56358,7 +56358,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Materials Science and Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "SF",
             "instructors": [
                 "TBA"
             ],
@@ -56376,7 +56376,7 @@
             "session": "Winter 2025 (S)",
             "department": "Department of Materials Science and Engineering",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
+            "location": "MY",
             "instructors": [
                 "TBA"
             ],
@@ -57689,7 +57689,7 @@
                 "Benjamin Hatton"
             ],
             "capacity": 40,
-            "current_enrolment": 12,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -57707,7 +57707,7 @@
                 "Benjamin Hatton"
             ],
             "capacity": 40,
-            "current_enrolment": 12,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -57725,7 +57725,7 @@
                 "Benjamin Hatton"
             ],
             "capacity": 60,
-            "current_enrolment": 12,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -57870,7 +57870,7 @@
                 "Jason Hattrick-Simpers"
             ],
             "capacity": 21,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -57888,7 +57888,7 @@
                 "Jason Hattrick-Simpers"
             ],
             "capacity": 21,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -57906,7 +57906,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -60396,7 +60396,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 30,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         }
     ]
