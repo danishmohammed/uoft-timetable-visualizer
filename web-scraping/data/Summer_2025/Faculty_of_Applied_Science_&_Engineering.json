@@ -14,7 +14,8 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
                             "TBA"
@@ -51,7 +52,7 @@
                 }
             }
         },
-        "last_updated": "February 19, 2025 at 3:04 AM"
+        "last_updated": "February 21, 2025 at 2:55 AM"
     },
     "timings": [
         {
@@ -194,7 +195,7 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
@@ -212,7 +213,7 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
@@ -230,7 +231,7 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
@@ -248,16 +249,16 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -266,16 +267,16 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer Second Sub-Session 2025 (S)",
             "department": "Cross-Disciplinary Programs Office",
@@ -284,16 +285,16 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -302,16 +303,16 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Summer Second Sub-Session 2025 (S)",
             "department": "Cross-Disciplinary Programs Office",
@@ -320,7 +321,7 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
@@ -381,20 +382,38 @@
         {
             "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
             "section_title": "Lectures",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
+            "location": "Online",
             "instructors": [
                 "TBA"
             ],
             "capacity": 130,
             "current_enrolment": 0,
-            "delivery_mode": "In Person"
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
         },
         {
             "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
@@ -428,7 +447,7 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 150,
+            "capacity": 125,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         },
