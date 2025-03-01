@@ -6,23 +6,26 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "TBA",
-                            "GB",
                             "SS",
-                            "BA",
-                            "MY",
                             "MC",
-                            "SF"
+                            "TBA",
+                            "MY",
+                            "GB",
+                            "SF",
+                            "BA"
                         ],
                         "instructors": [
+                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh",
                             "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
+                            "MC",
                             "Online",
-                            "TBA",
-                            "MC"
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA"
@@ -76,7 +79,7 @@
                 }
             }
         },
-        "last_updated": "February 28, 2025 at 5:14 AM"
+        "last_updated": "March 01, 2025 at 2:56 AM"
     },
     "timings": [
         {
@@ -91,7 +94,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -109,7 +112,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -127,7 +130,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -307,7 +310,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MY",
             "instructors": [
-                "TBA"
+                "Jason Bazylak"
             ],
             "capacity": 36,
             "current_enrolment": 0,
@@ -325,7 +328,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MY",
             "instructors": [
-                "TBA"
+                "Jason Bazylak"
             ],
             "capacity": 36,
             "current_enrolment": 0,
@@ -425,8 +428,8 @@
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
             "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
+            "start_time": "10:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -443,8 +446,8 @@
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
             "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
+            "start_time": "10:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer Second Sub-Session 2025 (S)",
             "department": "Cross-Disciplinary Programs Office",
@@ -460,9 +463,9 @@
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -478,9 +481,9 @@
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Summer Second Sub-Session 2025 (S)",
             "department": "Cross-Disciplinary Programs Office",
@@ -541,7 +544,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -559,7 +562,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -577,7 +580,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -623,8 +626,8 @@
             "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
             "section_title": "Lectures",
             "day": "Tuesday",
-            "start_time": "10:00",
-            "end_time": "12:00",
+            "start_time": "16:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -641,8 +644,8 @@
             "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
             "section_title": "Lectures",
             "day": "Thursday",
-            "start_time": "10:00",
-            "end_time": "12:00",
+            "start_time": "16:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -658,9 +661,9 @@
         {
             "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
             "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "13:00",
-            "end_time": "15:00",
+            "day": "Monday",
+            "start_time": "16:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -676,9 +679,9 @@
         {
             "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
             "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "15:00",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -1099,7 +1102,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "BA",
             "instructors": [
-                "TBA"
+                "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
             "current_enrolment": 0,
@@ -1117,7 +1120,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "BA",
             "instructors": [
-                "TBA"
+                "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
             "current_enrolment": 0,
@@ -1135,7 +1138,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "BA",
             "instructors": [
-                "TBA"
+                "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
             "current_enrolment": 0,
