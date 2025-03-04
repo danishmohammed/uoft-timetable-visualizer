@@ -6,25 +6,25 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
-                            "BA",
-                            "MY",
                             "TBA",
+                            "BA",
+                            "GB",
+                            "SF",
                             "MC",
                             "SS",
-                            "GB"
+                            "MY"
                         ],
                         "instructors": [
-                            "Hamid Shokrollah-Timorabadi",
                             "TBA",
                             "Fatemeh Jazinizadeh",
-                            "Jason Bazylak"
+                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "MC",
                             "TBA",
+                            "MC",
                             "Online"
                         ],
                         "instructors": [
@@ -41,8 +41,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "TBA"
@@ -79,7 +79,7 @@
                 }
             }
         },
-        "last_updated": "March 03, 2025 at 2:57 AM"
+        "last_updated": "March 04, 2025 at 2:58 AM"
     },
     "timings": [
         {
@@ -351,6 +351,42 @@
             "capacity": 36,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS162H1 F: Calculus for Engineers I",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 150,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS164H1 F: Introductory Chemistry from a Materials Perspective",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 150,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
         },
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
