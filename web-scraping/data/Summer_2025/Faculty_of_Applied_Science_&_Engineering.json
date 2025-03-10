@@ -6,26 +6,26 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
                             "GB",
-                            "SS",
-                            "BA",
-                            "MY",
                             "MC",
-                            "TBA"
+                            "TBA",
+                            "SF",
+                            "SS",
+                            "MY",
+                            "BA"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
-                            "Fatemeh Jazinizadeh",
                             "TBA",
+                            "Fatemeh Jazinizadeh",
+                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "MC",
                             "TBA",
-                            "Online"
+                            "Online",
+                            "MC"
                         ],
                         "instructors": [
                             "TBA"
@@ -41,8 +41,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "TBA"
@@ -79,7 +79,7 @@
                 }
             }
         },
-        "last_updated": "March 09, 2025 at 3:35 AM"
+        "last_updated": "March 10, 2025 at 4:40 AM"
     },
     "timings": [
         {
