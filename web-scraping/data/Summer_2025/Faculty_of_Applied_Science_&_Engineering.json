@@ -6,26 +6,25 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
-                            "MC",
-                            "TBA",
-                            "SF",
-                            "SS",
+                            "BA",
                             "MY",
-                            "BA"
+                            "TBA",
+                            "MC",
+                            "GB",
+                            "SS",
+                            "SF"
                         ],
                         "instructors": [
                             "TBA",
                             "Fatemeh Jazinizadeh",
-                            "Jason Bazylak",
-                            "Hamid Shokrollah-Timorabadi"
+                            "Hamid Shokrollah-Timorabadi",
+                            "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
                             "TBA",
-                            "Online",
-                            "MC"
+                            "Online"
                         ],
                         "instructors": [
                             "TBA"
@@ -79,7 +78,7 @@
                 }
             }
         },
-        "last_updated": "March 10, 2025 at 4:40 AM"
+        "last_updated": "March 11, 2025 at 3:27 AM"
     },
     "timings": [
         {
@@ -708,7 +707,7 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 45,
             "current_enrolment": 0,
             "delivery_mode": "Online Synchronous"
         },
@@ -726,7 +725,79 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
+            "capacity": 45,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 45,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 45,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 45,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 45,
             "current_enrolment": 0,
             "delivery_mode": "Online Synchronous"
         },
@@ -787,9 +858,9 @@
         {
             "course_name": "JRE410H1 F: Markets and Competitive Strategy",
             "section_title": "Practicals",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -1003,20 +1074,20 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "16:00",
-            "end_time": "18:00",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MC",
+            "location": "Online",
             "instructors": [
                 "TBA"
             ],
             "capacity": 36,
             "current_enrolment": 0,
-            "delivery_mode": "In Person"
+            "delivery_mode": "Online Synchronous"
         },
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
@@ -1028,13 +1099,13 @@
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
+            "location": "Online",
             "instructors": [
                 "TBA"
             ],
             "capacity": 36,
             "current_enrolment": 0,
-            "delivery_mode": "In Person"
+            "delivery_mode": "Online Synchronous"
         },
         {
             "course_name": "MAT187H1 F: Calculus II",
