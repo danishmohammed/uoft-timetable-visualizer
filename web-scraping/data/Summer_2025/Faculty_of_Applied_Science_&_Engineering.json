@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "BA",
-                            "MY",
-                            "TBA",
-                            "MC",
-                            "GB",
                             "SS",
+                            "TBA",
+                            "MY",
+                            "GB",
+                            "BA",
+                            "MC",
                             "SF"
                         ],
                         "instructors": [
                             "TBA",
                             "Fatemeh Jazinizadeh",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Jason Bazylak"
+                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -40,11 +40,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Robin Sacks",
+                            "Patricia Sheridan"
                         ]
                     }
                 }
@@ -72,13 +73,13 @@
                             "OI"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Robin Sacks"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "March 11, 2025 at 3:27 AM"
+        "last_updated": "March 13, 2025 at 3:17 AM"
     },
     "timings": [
         {
@@ -1353,7 +1354,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MY",
             "instructors": [
-                "TBA"
+                "Patricia Sheridan"
             ],
             "capacity": 50,
             "current_enrolment": 0,
@@ -1371,7 +1372,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MY",
             "instructors": [
-                "TBA"
+                "Patricia Sheridan"
             ],
             "capacity": 50,
             "current_enrolment": 0,
@@ -1389,7 +1390,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "TBA"
+                "Robin Sacks"
             ],
             "capacity": 120,
             "current_enrolment": 0,
@@ -1407,7 +1408,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "TBA"
+                "Robin Sacks"
             ],
             "capacity": 120,
             "current_enrolment": 0,
@@ -1425,7 +1426,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "TBA"
+                "Robin Sacks"
             ],
             "capacity": 120,
             "current_enrolment": 0,
@@ -1443,7 +1444,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "TBA"
+                "Robin Sacks"
             ],
             "capacity": 120,
             "current_enrolment": 0,
