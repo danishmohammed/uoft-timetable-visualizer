@@ -6,25 +6,25 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
-                            "TBA",
-                            "MY",
-                            "GB",
-                            "BA",
                             "MC",
-                            "SF"
+                            "SS",
+                            "BA",
+                            "TBA",
+                            "SF",
+                            "GB",
+                            "MY"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Fatemeh Jazinizadeh",
                             "Jason Bazylak",
-                            "Hamid Shokrollah-Timorabadi"
+                            "Hamid Shokrollah-Timorabadi",
+                            "TBA",
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA"
@@ -52,6 +52,14 @@
             },
             "Summer Second Sub-Session 2025 (S)": {
                 "departments": {
+                    "Engineering First Year Office": {
+                        "buildings": [
+                            "Online"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
                             "Online"
@@ -79,7 +87,7 @@
                 }
             }
         },
-        "last_updated": "March 13, 2025 at 3:17 AM"
+        "last_updated": "March 14, 2025 at 3:04 AM"
     },
     "timings": [
         {
@@ -371,22 +379,22 @@
             "delivery_mode": "Online Synchronous"
         },
         {
-            "course_name": "APS164H1 F: Introductory Chemistry from a Materials Perspective",
+            "course_name": "APS164H1 S: Introductory Chemistry from a Materials Perspective",
             "section_title": "Lectures",
-            "day": "TBA",
-            "start_time": "TBA",
-            "end_time": "TBA",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
             "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
+            "session": "Summer Second Sub-Session 2025 (S)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
+            "location": "Online",
             "instructors": [
                 "TBA"
             ],
             "capacity": 150,
             "current_enrolment": 0,
-            "delivery_mode": "Online Synchronous"
+            "delivery_mode": "Online Asynchronous"
         },
         {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
@@ -535,9 +543,9 @@
         {
             "course_name": "APS500H1 F: Negotiations in an Engineering Context",
             "section_title": "Lectures",
-            "day": "Tuesday",
-            "start_time": "15:00",
-            "end_time": "18:00",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -553,9 +561,9 @@
         {
             "course_name": "APS500H1 F: Negotiations in an Engineering Context",
             "section_title": "Lectures",
-            "day": "Thursday",
-            "start_time": "15:00",
-            "end_time": "18:00",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Cross-Disciplinary Programs Office",
@@ -931,7 +939,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Lectures",
-            "day": "Tuesday",
+            "day": "Monday",
             "start_time": "10:00",
             "end_time": "12:00",
             "campus": "St. George",
@@ -949,7 +957,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Lectures",
-            "day": "Tuesday",
+            "day": "Monday",
             "start_time": "13:00",
             "end_time": "14:00",
             "campus": "St. George",
@@ -967,7 +975,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Lectures",
-            "day": "Thursday",
+            "day": "Wednesday",
             "start_time": "10:00",
             "end_time": "12:00",
             "campus": "St. George",
@@ -985,7 +993,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Lectures",
-            "day": "Thursday",
+            "day": "Wednesday",
             "start_time": "13:00",
             "end_time": "14:00",
             "campus": "St. George",
@@ -1003,7 +1011,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
-            "day": "Tuesday",
+            "day": "Monday",
             "start_time": "14:00",
             "end_time": "15:00",
             "campus": "St. George",
@@ -1021,7 +1029,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
-            "day": "Thursday",
+            "day": "Wednesday",
             "start_time": "14:00",
             "end_time": "15:00",
             "campus": "St. George",
@@ -1039,7 +1047,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
-            "day": "Tuesday",
+            "day": "Monday",
             "start_time": "14:00",
             "end_time": "15:00",
             "campus": "St. George",
@@ -1057,7 +1065,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
-            "day": "Thursday",
+            "day": "Wednesday",
             "start_time": "14:00",
             "end_time": "15:00",
             "campus": "St. George",
@@ -1075,7 +1083,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
-            "day": "Tuesday",
+            "day": "Monday",
             "start_time": "14:00",
             "end_time": "15:00",
             "campus": "St. George",
@@ -1093,7 +1101,7 @@
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
-            "day": "Thursday",
+            "day": "Wednesday",
             "start_time": "14:00",
             "end_time": "15:00",
             "campus": "St. George",
