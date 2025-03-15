@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MC",
-                            "SS",
-                            "BA",
                             "TBA",
                             "SF",
+                            "MY",
+                            "SS",
                             "GB",
-                            "MY"
+                            "BA",
+                            "MC"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi",
                             "TBA",
-                            "Fatemeh Jazinizadeh"
+                            "Fatemeh Jazinizadeh",
+                            "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -40,8 +40,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "Robin Sacks",
@@ -87,7 +87,7 @@
                 }
             }
         },
-        "last_updated": "March 14, 2025 at 3:04 AM"
+        "last_updated": "March 15, 2025 at 2:57 AM"
     },
     "timings": [
         {
@@ -377,6 +377,24 @@
             "capacity": 150,
             "current_enrolment": 0,
             "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS162H1 S: Calculus for Engineers I",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 150,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Asynchronous"
         },
         {
             "course_name": "APS164H1 S: Introductory Chemistry from a Materials Perspective",
