@@ -6,17 +6,17 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "BA",
-                            "MC",
-                            "MY",
-                            "SF",
                             "SS",
-                            "TBA",
-                            "GB"
+                            "GB",
+                            "SF",
+                            "MY",
+                            "MC",
+                            "BA",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Hamid Shokrollah-Timorabadi",
                             "TBA",
+                            "Hamid Shokrollah-Timorabadi",
                             "Jason Bazylak",
                             "Fatemeh Jazinizadeh"
                         ]
@@ -87,7 +87,7 @@
                 }
             }
         },
-        "last_updated": "March 16, 2025 at 2:57 AM"
+        "last_updated": "March 18, 2025 at 3:16 AM"
     },
     "timings": [
         {
@@ -130,13 +130,13 @@
             "course_name": "APS105H1 F: Computer Fundamentals",
             "section_title": "Lectures",
             "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "15:00",
+            "start_time": "09:00",
+            "end_time": "11:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SS",
+            "location": "BA",
             "instructors": [
                 "Hamid Shokrollah-Timorabadi"
             ],
@@ -238,8 +238,8 @@
             "course_name": "APS106H1 F: Fundamentals of Computer Programming",
             "section_title": "Lectures",
             "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "15:00",
+            "start_time": "09:00",
+            "end_time": "11:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Engineering First Year Office",
@@ -1246,8 +1246,8 @@
             "course_name": "MIE100H1 F: Dynamics",
             "section_title": "Lectures",
             "day": "Thursday",
-            "start_time": "09:00",
-            "end_time": "11:00",
+            "start_time": "13:30",
+            "end_time": "15:30",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Engineering First Year Office",
@@ -1347,7 +1347,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 149,
+            "current_enrolment": 1128,
             "delivery_mode": "In Person"
         },
         {
@@ -1365,7 +1365,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 149,
+            "current_enrolment": 1128,
             "delivery_mode": "In Person"
         },
         {
