@@ -6,25 +6,26 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "SF",
+                            "TBA",
+                            "MC",
                             "SS",
                             "GB",
-                            "SF",
                             "MY",
-                            "MC",
-                            "BA",
-                            "TBA"
+                            "BA"
                         ],
                         "instructors": [
+                            "Fatemeh Jazinizadeh",
                             "TBA",
-                            "Hamid Shokrollah-Timorabadi",
                             "Jason Bazylak",
-                            "Fatemeh Jazinizadeh"
+                            "Hamid Shokrollah-Timorabadi",
+                            "Benjamin Kinsella"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA"
@@ -57,7 +58,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -87,7 +89,7 @@
                 }
             }
         },
-        "last_updated": "March 18, 2025 at 3:16 AM"
+        "last_updated": "March 19, 2025 at 2:58 AM"
     },
     "timings": [
         {
@@ -210,7 +212,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Benjamin Kinsella"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -228,7 +230,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Benjamin Kinsella"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -246,7 +248,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "SS",
             "instructors": [
-                "TBA"
+                "Benjamin Kinsella"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -390,7 +392,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Victoria Ann Kerr"
             ],
             "capacity": 150,
             "current_enrolment": 0,
@@ -408,7 +410,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Scott Ramsay"
             ],
             "capacity": 150,
             "current_enrolment": 0,
