@@ -6,26 +6,26 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
-                            "SF",
-                            "TBA",
                             "MC",
                             "MY",
+                            "SF",
                             "GB",
-                            "BA"
+                            "BA",
+                            "TBA",
+                            "SS"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
+                            "Jason Bazylak",
                             "Benjamin Kinsella",
                             "TBA",
-                            "Jason Bazylak"
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
                             "TBA"
@@ -41,8 +41,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -89,7 +89,7 @@
                 }
             }
         },
-        "last_updated": "March 20, 2025 at 2:57 AM"
+        "last_updated": "March 21, 2025 at 3:03 AM"
     },
     "timings": [
         {
@@ -107,7 +107,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -125,7 +125,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -143,7 +143,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -161,7 +161,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -179,7 +179,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -197,7 +197,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -215,7 +215,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -233,7 +233,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -251,7 +251,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -269,7 +269,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -287,7 +287,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -305,7 +305,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -323,7 +323,7 @@
                 "Jason Bazylak"
             ],
             "capacity": 36,
-            "current_enrolment": 0,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -341,7 +341,7 @@
                 "Jason Bazylak"
             ],
             "capacity": 36,
-            "current_enrolment": 0,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -359,7 +359,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 0,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -413,7 +413,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -611,7 +611,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -629,7 +629,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -647,7 +647,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -665,7 +665,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -683,7 +683,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -1151,7 +1151,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -1169,7 +1169,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -1187,7 +1187,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -1223,7 +1223,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -1241,7 +1241,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 8,
             "delivery_mode": "In Person"
         },
         {
@@ -1259,7 +1259,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 8,
             "delivery_mode": "In Person"
         },
         {
@@ -1277,7 +1277,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 8,
             "delivery_mode": "In Person"
         },
         {
@@ -1295,7 +1295,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 8,
             "delivery_mode": "In Person"
         },
         {
