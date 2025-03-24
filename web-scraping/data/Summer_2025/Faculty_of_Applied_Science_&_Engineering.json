@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "BA",
-                            "GB",
-                            "SF",
-                            "SS",
-                            "MY",
                             "MC",
-                            "TBA"
+                            "TBA",
+                            "SF",
+                            "BA",
+                            "MY",
+                            "GB",
+                            "SS"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
                             "Benjamin Kinsella",
+                            "TBA",
                             "Hamid Shokrollah-Timorabadi",
                             "Fatemeh Jazinizadeh",
-                            "TBA"
+                            "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -41,8 +41,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Robin Sacks",
@@ -89,7 +89,7 @@
                 }
             }
         },
-        "last_updated": "March 23, 2025 at 3:16 AM"
+        "last_updated": "March 24, 2025 at 3:00 AM"
     },
     "timings": [
         {
