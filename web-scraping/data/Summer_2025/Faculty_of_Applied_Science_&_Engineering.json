@@ -6,29 +6,35 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
+                            "GB",
+                            "MC",
                             "MY",
                             "TBA",
                             "SS",
-                            "MC",
-                            "GB",
-                            "BA"
+                            "BA",
+                            "SF"
                         ],
                         "instructors": [
-                            "Benjamin Kinsella",
                             "Jason Bazylak",
-                            "TBA",
                             "Fatemeh Jazinizadeh",
-                            "Hamid Shokrollah-Timorabadi"
+                            "TBA",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Armanpreet Pannu",
+                            "Benjamin Kinsella"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
                             "Online"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Justin Beland",
+                            "Steven Chuang Chuang",
+                            "TBA",
+                            "Elham Marzi",
+                            "Kevin Mott",
+                            "Kaveh Hassani",
+                            "Kate Patterson"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -41,12 +47,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -67,6 +73,8 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Kaveh Hassani",
+                            "Justin Beland",
                             "TBA"
                         ]
                     },
@@ -89,7 +97,7 @@
                 }
             }
         },
-        "last_updated": "April 04, 2025 at 4:43 AM"
+        "last_updated": "April 06, 2025 at 3:06 AM"
     },
     "timings": [
         {
@@ -215,7 +223,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -233,7 +241,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -251,7 +259,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -269,7 +277,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -287,7 +295,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -305,7 +313,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -428,7 +436,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Kaveh Hassani"
             ],
             "capacity": 120,
             "current_enrolment": 116,
@@ -446,7 +454,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Kaveh Hassani"
             ],
             "capacity": 120,
             "current_enrolment": 116,
@@ -464,7 +472,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Justin Beland"
             ],
             "capacity": 120,
             "current_enrolment": 120,
@@ -482,7 +490,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Justin Beland"
             ],
             "capacity": 120,
             "current_enrolment": 120,
@@ -572,10 +580,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -590,10 +598,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -698,7 +706,8 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Kevin Mott",
+                "Kate Patterson"
             ],
             "capacity": 130,
             "current_enrolment": 130,
@@ -716,7 +725,8 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Kevin Mott",
+                "Kate Patterson"
             ],
             "capacity": 130,
             "current_enrolment": 130,
@@ -809,7 +819,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 35,
+            "current_enrolment": 34,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -827,7 +837,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 35,
+            "current_enrolment": 34,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -842,7 +852,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Steven Chuang Chuang"
             ],
             "capacity": 125,
             "current_enrolment": 125,
@@ -860,7 +870,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Steven Chuang Chuang"
             ],
             "capacity": 125,
             "current_enrolment": 125,
@@ -881,26 +891,8 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 22,
-            "delivery_mode": "In Person"
         },
         {
             "course_name": "JRE410H1 F: Markets and Competitive Strategy",
@@ -917,7 +909,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -954,6 +946,24 @@
             ],
             "capacity": 25,
             "current_enrolment": 25,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -968,7 +978,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Elham Marzi"
             ],
             "capacity": 100,
             "current_enrolment": 100,
@@ -986,7 +996,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Elham Marzi"
             ],
             "capacity": 100,
             "current_enrolment": 100,
@@ -1004,7 +1014,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Elham Marzi"
             ],
             "capacity": 100,
             "current_enrolment": 100,
@@ -1022,7 +1032,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Elham Marzi"
             ],
             "capacity": 100,
             "current_enrolment": 100,
@@ -1043,7 +1053,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1061,7 +1071,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1079,7 +1089,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 28,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1097,7 +1107,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 28,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1115,7 +1125,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1133,7 +1143,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1148,10 +1158,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MC",
             "instructors": [
-                "TBA"
+                "Armanpreet Pannu"
             ],
-            "capacity": 130,
-            "current_enrolment": 130,
+            "capacity": 180,
+            "current_enrolment": 132,
             "delivery_mode": "In Person"
         },
         {
@@ -1166,10 +1176,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MC",
             "instructors": [
-                "TBA"
+                "Armanpreet Pannu"
             ],
-            "capacity": 130,
-            "current_enrolment": 130,
+            "capacity": 180,
+            "current_enrolment": 132,
             "delivery_mode": "In Person"
         },
         {
@@ -1184,10 +1194,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MC",
             "instructors": [
-                "TBA"
+                "Armanpreet Pannu"
             ],
-            "capacity": 130,
-            "current_enrolment": 130,
+            "capacity": 180,
+            "current_enrolment": 132,
             "delivery_mode": "In Person"
         },
         {
@@ -1222,8 +1232,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 130,
-            "current_enrolment": 130,
+            "capacity": 180,
+            "current_enrolment": 132,
             "delivery_mode": "In Person"
         },
         {
@@ -1421,7 +1431,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 84,
+            "current_enrolment": 89,
             "delivery_mode": "In Person"
         },
         {
@@ -1439,7 +1449,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 84,
+            "current_enrolment": 89,
             "delivery_mode": "In Person"
         },
         {
@@ -1457,7 +1467,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 70,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         },
         {
@@ -1475,7 +1485,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 70,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         }
     ]
