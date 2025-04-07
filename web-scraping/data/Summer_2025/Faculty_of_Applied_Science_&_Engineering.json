@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
-                            "MC",
-                            "MY",
-                            "TBA",
-                            "SS",
                             "BA",
-                            "SF"
+                            "GB",
+                            "SF",
+                            "MC",
+                            "SS",
+                            "TBA",
+                            "MY"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
-                            "Fatemeh Jazinizadeh",
+                            "Armanpreet Pannu",
                             "TBA",
                             "Hamid Shokrollah-Timorabadi",
-                            "Armanpreet Pannu",
-                            "Benjamin Kinsella"
+                            "Jason Bazylak",
+                            "Benjamin Kinsella",
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,12 +28,12 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
-                            "Steven Chuang Chuang",
+                            "Kevin Mott",
                             "TBA",
                             "Elham Marzi",
-                            "Kevin Mott",
                             "Kaveh Hassani",
+                            "Justin Beland",
+                            "Steven Chuang Chuang",
                             "Kate Patterson"
                         ]
                     },
@@ -73,9 +73,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "Justin Beland",
-                            "TBA"
+                            "TBA",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -97,7 +97,7 @@
                 }
             }
         },
-        "last_updated": "April 06, 2025 at 3:06 AM"
+        "last_updated": "April 07, 2025 at 5:03 AM"
     },
     "timings": [
         {
