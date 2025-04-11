@@ -7,20 +7,20 @@
                     "Engineering First Year Office": {
                         "buildings": [
                             "MY",
-                            "SF",
+                            "TBA",
                             "SS",
-                            "BA",
                             "MC",
-                            "GB",
-                            "TBA"
+                            "BA",
+                            "SF",
+                            "GB"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
                             "Jason Bazylak",
-                            "Benjamin Kinsella",
+                            "TBA",
                             "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh",
                             "Armanpreet Pannu",
-                            "TBA"
+                            "Benjamin Kinsella"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Elham Marzi",
                             "Steven Chuang Chuang",
-                            "Kaveh Hassani",
-                            "Kate Patterson",
-                            "Justin Beland",
                             "Kevin Mott",
-                            "TBA"
+                            "TBA",
+                            "Kaveh Hassani",
+                            "Elham Marzi",
+                            "Justin Beland",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -42,7 +42,7 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -59,8 +59,8 @@
                             "MY"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
+                            "TBA",
                             "Kaveh Hassani",
-                            "TBA"
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,7 +91,7 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -113,7 +113,7 @@
                 }
             }
         },
-        "last_updated": "April 10, 2025 at 3:24 AM"
+        "last_updated": "April 11, 2025 at 3:20 AM"
     },
     "timings": [
         {
@@ -239,7 +239,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -257,7 +257,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -275,7 +275,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -293,7 +293,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -311,7 +311,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -329,7 +329,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -671,7 +671,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 33,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -689,7 +689,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 33,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -707,7 +707,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 33,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -725,7 +725,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 33,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -743,7 +743,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 33,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -758,10 +758,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "TBA",
             "instructors": [
-                "TBA"
+                "Lisa Romkey"
             ],
             "capacity": 10,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -776,10 +776,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "TBA",
             "instructors": [
-                "TBA"
+                "Lisa Romkey"
             ],
             "capacity": 10,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -835,42 +835,6 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 44,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 45,
-            "current_enrolment": 44,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 45,
             "current_enrolment": 45,
             "delivery_mode": "Online Synchronous"
         },
@@ -907,7 +871,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 31,
+            "current_enrolment": 42,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -925,7 +889,43 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 31,
+            "current_enrolment": 42,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 45,
+            "current_enrolment": 34,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 45,
+            "current_enrolment": 34,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -979,7 +979,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1051,7 +1051,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1141,7 +1141,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 33,
+            "current_enrolment": 36,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1159,7 +1159,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 33,
+            "current_enrolment": 36,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1177,7 +1177,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1195,7 +1195,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1213,7 +1213,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1231,7 +1231,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1483,7 +1483,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 38,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -1501,7 +1501,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 38,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -1519,7 +1519,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 115,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -1537,7 +1537,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 115,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -1555,7 +1555,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         },
         {
@@ -1573,7 +1573,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         }
     ]
