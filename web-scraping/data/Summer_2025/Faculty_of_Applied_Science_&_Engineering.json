@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "TBA",
                             "MC",
-                            "GB",
-                            "SS",
-                            "BA",
                             "MY",
-                            "SF",
-                            "TBA"
+                            "GB",
+                            "BA",
+                            "SS",
+                            "SF"
                         ],
                         "instructors": [
+                            "Armanpreet Pannu",
+                            "Fatemeh Jazinizadeh",
+                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi",
                             "Benjamin Kinsella",
-                            "Fatemeh Jazinizadeh",
-                            "TBA",
-                            "Jason Bazylak",
-                            "Armanpreet Pannu"
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
-                            "Justin Beland",
-                            "Kate Patterson",
                             "Steven Chuang Chuang",
+                            "Elham Marzi",
+                            "Kaveh Hassani",
                             "Kevin Mott",
+                            "Kate Patterson",
                             "TBA",
-                            "Elham Marzi"
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
+                            "Kaveh Hassani",
                             "TBA",
-                            "Kaveh Hassani"
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -113,7 +113,7 @@
                 }
             }
         },
-        "last_updated": "April 14, 2025 at 2:57 AM"
+        "last_updated": "April 15, 2025 at 4:24 AM"
     },
     "timings": [
         {
@@ -599,7 +599,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 114,
+            "current_enrolment": 112,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -617,7 +617,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 114,
+            "current_enrolment": 112,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -635,7 +635,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 13,
+            "current_enrolment": 11,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -653,7 +653,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 13,
+            "current_enrolment": 11,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -871,7 +871,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 42,
+            "current_enrolment": 40,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -889,7 +889,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 42,
+            "current_enrolment": 40,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -907,7 +907,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 34,
+            "current_enrolment": 37,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -925,7 +925,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 34,
+            "current_enrolment": 37,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1051,7 +1051,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 21,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1483,7 +1483,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 37,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -1501,7 +1501,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 37,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -1519,7 +1519,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 117,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -1537,7 +1537,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 117,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -1555,7 +1555,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 68,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         },
         {
@@ -1573,7 +1573,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 68,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         }
     ]
