@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
+                            "BA",
+                            "MY",
+                            "MC",
                             "GB",
                             "SF",
                             "TBA",
-                            "MC",
-                            "MY",
-                            "BA"
+                            "SS"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Jason Bazylak",
-                            "Hamid Shokrollah-Timorabadi",
                             "Fatemeh Jazinizadeh",
+                            "Hamid Shokrollah-Timorabadi",
                             "Benjamin Kinsella",
-                            "Armanpreet Pannu"
+                            "Armanpreet Pannu",
+                            "Jason Bazylak",
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -29,12 +29,12 @@
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
+                            "Kaveh Hassani",
                             "Justin Beland",
                             "Kate Patterson",
-                            "TBA",
                             "Kevin Mott",
-                            "Kaveh Hassani",
-                            "Elham Marzi"
+                            "Elham Marzi",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -42,8 +42,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -60,8 +60,8 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -73,8 +73,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -82,9 +82,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Kaveh Hassani",
                             "Justin Beland",
-                            "Kaveh Hassani"
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -92,8 +92,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -115,7 +115,7 @@
                 }
             }
         },
-        "last_updated": "April 21, 2025 at 3:30 AM"
+        "last_updated": "April 22, 2025 at 2:58 AM"
     },
     "timings": [
         {
@@ -331,7 +331,7 @@
                 "Jason Bazylak"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -349,7 +349,7 @@
                 "Jason Bazylak"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -367,7 +367,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -421,7 +421,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 11,
+            "current_enrolment": 12,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -547,7 +547,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 120,
+            "current_enrolment": 119,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -565,7 +565,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 120,
+            "current_enrolment": 119,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -583,7 +583,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 112,
+            "current_enrolment": 110,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -601,7 +601,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 112,
+            "current_enrolment": 110,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -619,7 +619,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -637,7 +637,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -927,7 +927,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 36,
+            "current_enrolment": 35,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -945,7 +945,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 36,
+            "current_enrolment": 35,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -999,24 +999,6 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
             "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
@@ -1035,7 +1017,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1075,6 +1057,24 @@
             "delivery_mode": "Online Synchronous"
         },
         {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Lectures",
             "day": "Monday",
@@ -1161,7 +1161,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 35,
+            "current_enrolment": 34,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1179,7 +1179,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 35,
+            "current_enrolment": 34,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1197,7 +1197,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 28,
+            "current_enrolment": 32,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1215,7 +1215,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 28,
+            "current_enrolment": 32,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1503,7 +1503,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -1521,7 +1521,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -1539,7 +1539,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 116,
+            "current_enrolment": 120,
             "delivery_mode": "In Person"
         },
         {
@@ -1557,7 +1557,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 116,
+            "current_enrolment": 120,
             "delivery_mode": "In Person"
         },
         {
@@ -1575,7 +1575,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 65,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -1593,7 +1593,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 65,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         }
     ]
