@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "GB",
+                            "MC",
+                            "TBA",
+                            "SF",
                             "BA",
                             "MY",
-                            "MC",
-                            "GB",
-                            "SF",
-                            "TBA",
                             "SS"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
-                            "Benjamin Kinsella",
-                            "Armanpreet Pannu",
+                            "TBA",
                             "Jason Bazylak",
-                            "TBA"
+                            "Armanpreet Pannu",
+                            "Fatemeh Jazinizadeh",
+                            "Benjamin Kinsella"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "Kaveh Hassani",
-                            "Justin Beland",
-                            "Kate Patterson",
                             "Kevin Mott",
                             "Elham Marzi",
-                            "TBA"
+                            "Kate Patterson",
+                            "Kaveh Hassani",
+                            "TBA",
+                            "Steven Chuang Chuang",
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -56,12 +56,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
-                            "Patricia Sheridan",
-                            "Robin Sacks"
+                            "Robin Sacks",
+                            "Patricia Sheridan"
                         ]
                     }
                 }
@@ -82,8 +82,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "Justin Beland",
+                            "Kaveh Hassani",
                             "TBA"
                         ]
                     },
@@ -115,7 +115,7 @@
                 }
             }
         },
-        "last_updated": "April 22, 2025 at 2:58 AM"
+        "last_updated": "April 23, 2025 at 3:04 AM"
     },
     "timings": [
         {
@@ -133,7 +133,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -151,7 +151,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -169,7 +169,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -187,7 +187,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -205,7 +205,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -421,205 +421,205 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
+            "current_enrolment": 13,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "APS299Y0 Y: Summer Research Abroad",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 0,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "APS299Y0 Y: Summer Research Abroad",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 0,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Kaveh Hassani"
+            ],
+            "capacity": 120,
+            "current_enrolment": 116,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Kaveh Hassani"
+            ],
+            "capacity": 120,
+            "current_enrolment": 116,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Justin Beland"
+            ],
+            "capacity": 120,
+            "current_enrolment": 120,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Justin Beland"
+            ],
+            "capacity": 120,
+            "current_enrolment": 120,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 117,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 117,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 110,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 110,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS500H1 F: Negotiations in an Engineering Context",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Elham Marzi"
+            ],
+            "capacity": 40,
             "current_enrolment": 12,
-            "delivery_mode": "Online Asynchronous"
-        },
-        {
-            "course_name": "APS299Y0 Y: Summer Research Abroad",
-            "section_title": "Lectures",
-            "day": "Asynchronous",
-            "start_time": "Asynchronous",
-            "end_time": "Asynchronous",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 0,
-            "current_enrolment": 0,
-            "delivery_mode": "Online Asynchronous"
-        },
-        {
-            "course_name": "APS299Y0 Y: Summer Research Abroad",
-            "section_title": "Lectures",
-            "day": "Asynchronous",
-            "start_time": "Asynchronous",
-            "end_time": "Asynchronous",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 0,
-            "current_enrolment": 0,
-            "delivery_mode": "Online Asynchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Lectures",
-            "day": "Monday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Kaveh Hassani"
-            ],
-            "capacity": 120,
-            "current_enrolment": 116,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Lectures",
-            "day": "Monday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Kaveh Hassani"
-            ],
-            "capacity": 120,
-            "current_enrolment": 116,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "14:00",
-            "end_time": "16:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Justin Beland"
-            ],
-            "capacity": 120,
-            "current_enrolment": 120,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "14:00",
-            "end_time": "16:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Justin Beland"
-            ],
-            "capacity": 120,
-            "current_enrolment": 120,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "10:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 120,
-            "current_enrolment": 119,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "10:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 120,
-            "current_enrolment": 119,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "15:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 120,
-            "current_enrolment": 110,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "15:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 120,
-            "current_enrolment": 110,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS500H1 F: Negotiations in an Engineering Context",
-            "section_title": "Lectures",
-            "day": "Monday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Elham Marzi"
-            ],
-            "capacity": 40,
-            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -637,7 +637,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 13,
+            "current_enrolment": 12,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -655,7 +655,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 37,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -673,7 +673,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 37,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -691,7 +691,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 37,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -709,7 +709,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 37,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -727,7 +727,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 37,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -745,7 +745,7 @@
                 "TBA"
             ],
             "capacity": 5,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -763,7 +763,7 @@
                 "TBA"
             ],
             "capacity": 5,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -781,7 +781,7 @@
                 "Lisa Romkey"
             ],
             "capacity": 10,
-            "current_enrolment": 3,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -799,7 +799,7 @@
                 "Lisa Romkey"
             ],
             "capacity": 10,
-            "current_enrolment": 3,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -999,43 +999,25 @@
                 "TBA"
             ],
             "capacity": 25,
+            "current_enrolment": 25,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
             "current_enrolment": 24,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 23,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1071,7 +1053,25 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 22,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1197,7 +1197,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 32,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1215,7 +1215,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 32,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1359,7 +1359,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 80,
+            "current_enrolment": 81,
             "delivery_mode": "In Person"
         },
         {
@@ -1377,7 +1377,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 80,
+            "current_enrolment": 81,
             "delivery_mode": "In Person"
         },
         {
@@ -1395,7 +1395,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 80,
+            "current_enrolment": 81,
             "delivery_mode": "In Person"
         },
         {
@@ -1413,7 +1413,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 80,
+            "current_enrolment": 81,
             "delivery_mode": "In Person"
         },
         {
@@ -1467,7 +1467,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 853,
+            "current_enrolment": 839,
             "delivery_mode": "In Person"
         },
         {
@@ -1485,7 +1485,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 853,
+            "current_enrolment": 839,
             "delivery_mode": "In Person"
         },
         {
@@ -1503,7 +1503,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 36,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -1521,7 +1521,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 36,
+            "current_enrolment": 35,
             "delivery_mode": "In Person"
         },
         {
@@ -1575,7 +1575,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         },
         {
@@ -1593,7 +1593,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         }
     ]
