@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "TBA",
-                            "MY",
-                            "GB",
-                            "BA",
-                            "SS",
                             "MC",
-                            "SF"
+                            "SF",
+                            "SS",
+                            "BA",
+                            "TBA",
+                            "GB",
+                            "MY"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Cheryl Runke",
-                            "Fatemeh Jazinizadeh",
-                            "Armanpreet Pannu",
                             "Benjamin Kinsella",
-                            "Hamid Shokrollah-Timorabadi"
+                            "Hamid Shokrollah-Timorabadi",
+                            "TBA",
+                            "Armanpreet Pannu",
+                            "Fatemeh Jazinizadeh",
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,12 +28,12 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Kate Patterson",
                             "Steven Chuang Chuang",
-                            "Elham Marzi",
-                            "Kaveh Hassani",
                             "Kevin Mott",
+                            "TBA",
+                            "Kaveh Hassani",
+                            "Elham Marzi",
+                            "Kate Patterson",
                             "Justin Beland"
                         ]
                     },
@@ -42,8 +42,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "TBA"
+                            "TBA",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -60,8 +60,8 @@
                             "MY"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -82,8 +82,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "TBA",
+                            "Kaveh Hassani",
                             "Justin Beland"
                         ]
                     },
@@ -92,8 +92,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "TBA"
+                            "TBA",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -115,7 +115,7 @@
                 }
             }
         },
-        "last_updated": "April 28, 2025 at 2:58 AM"
+        "last_updated": "April 29, 2025 at 4:32 AM"
     },
     "timings": [
         {
@@ -585,7 +585,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 108,
+            "current_enrolment": 107,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -603,7 +603,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 108,
+            "current_enrolment": 107,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -621,7 +621,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -639,7 +639,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -893,7 +893,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 37,
+            "current_enrolment": 38,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -911,7 +911,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 37,
+            "current_enrolment": 38,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1037,7 +1037,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1163,7 +1163,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1181,7 +1181,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1199,7 +1199,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1217,7 +1217,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1235,7 +1235,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1253,7 +1253,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1469,7 +1469,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 928,
+            "current_enrolment": 930,
             "delivery_mode": "In Person"
         },
         {
@@ -1487,7 +1487,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 928,
+            "current_enrolment": 930,
             "delivery_mode": "In Person"
         },
         {
@@ -1505,7 +1505,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 34,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1523,7 +1523,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 34,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1577,7 +1577,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 65,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -1595,7 +1595,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 65,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         }
     ]
