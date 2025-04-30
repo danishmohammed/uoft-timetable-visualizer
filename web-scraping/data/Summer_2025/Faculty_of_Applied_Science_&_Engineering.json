@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MC",
-                            "SF",
-                            "SS",
-                            "BA",
-                            "TBA",
                             "GB",
-                            "MY"
+                            "MC",
+                            "BA",
+                            "SS",
+                            "TBA",
+                            "MY",
+                            "SF"
                         ],
                         "instructors": [
-                            "Benjamin Kinsella",
                             "Hamid Shokrollah-Timorabadi",
-                            "TBA",
                             "Armanpreet Pannu",
                             "Fatemeh Jazinizadeh",
-                            "Cheryl Runke"
+                            "Cheryl Runke",
+                            "Benjamin Kinsella",
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "Kevin Mott",
-                            "TBA",
-                            "Kaveh Hassani",
                             "Elham Marzi",
+                            "Kevin Mott",
+                            "Justin Beland",
                             "Kate Patterson",
-                            "Justin Beland"
+                            "Kaveh Hassani",
+                            "TBA",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -56,8 +56,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -73,8 +73,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -83,8 +83,8 @@
                         ],
                         "instructors": [
                             "TBA",
-                            "Kaveh Hassani",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -115,7 +115,7 @@
                 }
             }
         },
-        "last_updated": "April 29, 2025 at 4:32 AM"
+        "last_updated": "April 30, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -423,7 +423,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -585,7 +585,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 107,
+            "current_enrolment": 106,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -603,7 +603,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 107,
+            "current_enrolment": 106,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -857,7 +857,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -875,7 +875,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1073,7 +1073,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1199,7 +1199,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1217,7 +1217,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1347,6 +1347,24 @@
             "delivery_mode": "In Person"
         },
         {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 0,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
             "course_name": "MIE100H1 F: Dynamics",
             "section_title": "Lectures",
             "day": "Tuesday",
@@ -1361,7 +1379,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -1379,7 +1397,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -1397,7 +1415,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -1415,7 +1433,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -1505,7 +1523,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 33,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -1523,7 +1541,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 33,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -1577,7 +1595,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         },
         {
@@ -1595,7 +1613,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         }
     ]
