@@ -7,20 +7,20 @@
                     "Engineering First Year Office": {
                         "buildings": [
                             "GB",
-                            "MC",
-                            "BA",
-                            "SS",
                             "TBA",
+                            "SS",
+                            "BA",
                             "MY",
+                            "MC",
                             "SF"
                         ],
                         "instructors": [
+                            "Cheryl Runke",
+                            "TBA",
+                            "Benjamin Kinsella",
                             "Hamid Shokrollah-Timorabadi",
                             "Armanpreet Pannu",
-                            "Fatemeh Jazinizadeh",
-                            "Cheryl Runke",
-                            "Benjamin Kinsella",
-                            "TBA"
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Elham Marzi",
-                            "Kevin Mott",
-                            "Justin Beland",
-                            "Kate Patterson",
+                            "Steven Chuang Chuang",
                             "Kaveh Hassani",
                             "TBA",
-                            "Steven Chuang Chuang"
+                            "Justin Beland",
+                            "Kate Patterson",
+                            "Kevin Mott",
+                            "Elham Marzi"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -42,8 +42,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -56,8 +56,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -73,8 +73,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -82,9 +82,9 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Kaveh Hassani",
                             "TBA",
-                            "Justin Beland",
-                            "Kaveh Hassani"
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -92,8 +92,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -115,7 +115,7 @@
                 }
             }
         },
-        "last_updated": "April 30, 2025 at 2:02 AM"
+        "last_updated": "May 01, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -585,7 +585,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 106,
+            "current_enrolment": 105,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -603,7 +603,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 106,
+            "current_enrolment": 105,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1001,7 +1001,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1037,7 +1037,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1235,7 +1235,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1253,7 +1253,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1342,8 +1342,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 180,
-            "current_enrolment": 151,
+            "capacity": 80,
+            "current_enrolment": 76,
             "delivery_mode": "In Person"
         },
         {
@@ -1356,12 +1356,12 @@
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
+            "location": "BA",
             "instructors": [
                 "TBA"
             ],
-            "capacity": 0,
-            "current_enrolment": 0,
+            "capacity": 80,
+            "current_enrolment": 75,
             "delivery_mode": "In Person"
         },
         {
@@ -1595,7 +1595,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 67,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -1613,7 +1613,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 67,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         }
     ]
