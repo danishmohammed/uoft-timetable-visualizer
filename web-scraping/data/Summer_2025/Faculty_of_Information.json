@@ -1,0 +1,108 @@
+{
+    "faculty_metadata": {
+        "faculty_name": "Faculty of Information",
+        "semesters": {
+            "Summer First Sub-Session 2025 (F)": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "Online"
+                        ],
+                        "instructors": [
+                            "Yuxing Yolanda Zhang",
+                            "Anthony Naimi"
+                        ]
+                    }
+                }
+            },
+            "Summer Second Sub-Session 2025 (S)": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "Online"
+                        ],
+                        "instructors": [
+                            "Yuxing Yolanda Zhang",
+                            "Anthony Naimi"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "May 01, 2025 at 1:50 PM"
+    },
+    "timings": [
+        {
+            "course_name": "INF301H1 Y: Intro to Info and Power",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Yuxing Yolanda Zhang"
+            ],
+            "capacity": 40,
+            "current_enrolment": 33,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "INF301H1 Y: Intro to Info and Power",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Yuxing Yolanda Zhang"
+            ],
+            "capacity": 40,
+            "current_enrolment": 33,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "INF402H1 Y: Practicum",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Anthony Naimi"
+            ],
+            "capacity": 40,
+            "current_enrolment": 35,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "INF402H1 Y: Practicum",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Anthony Naimi"
+            ],
+            "capacity": 40,
+            "current_enrolment": 35,
+            "delivery_mode": "Online Asynchronous"
+        }
+    ]
+}

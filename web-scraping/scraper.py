@@ -71,6 +71,8 @@ def process_regular_entry(section_items, course_name, section_title, campus, ses
         availability = WebDriverWait(section_items[3], 10).until(
             EC.visibility_of_element_located((By.XPATH, ".//span"))
         ).text
+        if ' of ' not in availability:
+            return []
         available, capacity = availability.split(' of ')
         capacity = int(capacity)
         current_enrolment = capacity - int(available)
@@ -204,6 +206,8 @@ def process_y_two_terms_entry(section_items, course_name, section_title, campus,
         availability = WebDriverWait(section_items[5], 10).until(
             EC.visibility_of_element_located((By.XPATH, ".//span"))
         ).text
+        if ' of ' not in availability:
+            return []
         available, capacity = availability.split(' of ')
         capacity = int(capacity)
         current_enrolment = capacity - int(available)

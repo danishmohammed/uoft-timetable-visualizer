@@ -6,7 +6,8 @@ const getLastUpdatedDate = async (req, res) => {
     await client.connect();
 
     const databases = await client.db().admin().listDatabases();
-    let lastUpdatedDate = "";
+    let latestDateString = null;
+    let latestDateObject = null;
 
     for (const dbInfo of databases.databases) {
       const dbName = dbInfo.name;
@@ -15,23 +16,24 @@ const getLastUpdatedDate = async (req, res) => {
         const collections = await db.listCollections().toArray();
 
         for (const collection of collections) {
-          const facultyData = await db
+          const doc = await db
             .collection(collection.name)
             .findOne({ faculty_name: collection.name.replace(/_/g, " ") });
-          if (facultyData && facultyData.last_updated) {
-            lastUpdatedDate = facultyData.last_updated;
-            break;
-          }
-        }
 
-        if (lastUpdatedDate) {
-          break;
+          if (doc?.last_updated) {
+            const parsedDateStr = doc.last_updated.replace(" at ", " ");
+            const currentDateObj = new Date(parsedDateStr);
+            if (!latestDateObject || currentDateObj > latestDateObject) {
+              latestDateObject = currentDateObj;
+              latestDateString = doc.last_updated; // Save original string
+            }
+          }
         }
       }
     }
 
-    if (lastUpdatedDate) {
-      res.json({ last_updated: lastUpdatedDate });
+    if (latestDateString) {
+      res.json({ last_updated: latestDateString });
     } else {
       res.status(404).json({ message: "No last_updated date found" });
     }
