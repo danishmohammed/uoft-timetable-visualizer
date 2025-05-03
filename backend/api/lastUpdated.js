@@ -1,13 +1,12 @@
-const { MongoClient } = require("mongodb");
+import { MongoClient } from "mongodb";
 
-const getLastUpdatedDate = async (req, res) => {
+export default async function handler(req, res) {
   const client = new MongoClient(process.env.MONGO_URI);
   try {
     await client.connect();
-
     const databases = await client.db().admin().listDatabases();
-    let latestDateString = null;
-    let latestDateObject = null;
+
+    let latestDate = null;
 
     for (const dbInfo of databases.databases) {
       const dbName = dbInfo.name;
@@ -21,30 +20,24 @@ const getLastUpdatedDate = async (req, res) => {
             .findOne({ faculty_name: collection.name.replace(/_/g, " ") });
 
           if (doc?.last_updated) {
-            const parsedDateStr = doc.last_updated.replace(" at ", " ");
-            const currentDateObj = new Date(parsedDateStr);
-            if (!latestDateObject || currentDateObj > latestDateObject) {
-              latestDateObject = currentDateObj;
-              latestDateString = doc.last_updated; // Save original string
+            const currentDate = new Date(doc.last_updated);
+            if (!latestDate || currentDate > latestDate) {
+              latestDate = currentDate;
             }
           }
         }
       }
     }
 
-    if (latestDateString) {
-      res.json({ last_updated: latestDateString });
+    if (latestDate) {
+      res.status(200).json({ last_updated: latestDate.toISOString() });
     } else {
       res.status(404).json({ message: "No last_updated date found" });
     }
   } catch (error) {
-    console.error("Error fetching last updated date:", error);
+    console.error("Error in /api/lastUpdated:", error);
     res.status(500).json({ error: "Failed to fetch last updated date" });
   } finally {
     await client.close();
   }
-};
-
-module.exports = {
-  getLastUpdatedDate,
-};
+}
