@@ -6,7 +6,8 @@ export default async function handler(req, res) {
     await client.connect();
     const databases = await client.db().admin().listDatabases();
 
-    let latestDate = null;
+    let latestDateObj = null;
+    let latestDateStr = null;
 
     for (const dbInfo of databases.databases) {
       const dbName = dbInfo.name;
@@ -20,17 +21,20 @@ export default async function handler(req, res) {
             .findOne({ faculty_name: collection.name.replace(/_/g, " ") });
 
           if (doc?.last_updated) {
-            const currentDate = new Date(doc.last_updated);
-            if (!latestDate || currentDate > latestDate) {
-              latestDate = currentDate;
+            const parsedDateStr = doc.last_updated.replace(" at ", " ");
+            const currentDateObj = new Date(parsedDateStr);
+
+            if (!latestDateObj || currentDateObj > latestDateObj) {
+              latestDateObj = currentDateObj;
+              latestDateStr = doc.last_updated;
             }
           }
         }
       }
     }
 
-    if (latestDate) {
-      res.status(200).json({ last_updated: latestDate.toISOString() });
+    if (latestDateStr) {
+      res.status(200).json({ last_updated: latestDateStr });
     } else {
       res.status(404).json({ message: "No last_updated date found" });
     }
