@@ -1,7 +1,8 @@
 import { MongoClient } from "mongodb";
 
 export default async function handler(req, res) {
-  res.setHeader("Access-Control-Allow-Origin", "https://ttv.danishmohammed.ca");
+  const allowedOrigin = "https://ttv.danishmohammed.ca";
+  res.setHeader("Access-Control-Allow-Origin", allowedOrigin);
   res.setHeader("Access-Control-Allow-Methods", "GET,OPTIONS");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
 
