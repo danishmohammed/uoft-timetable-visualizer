@@ -6,6 +6,8 @@ import TimetableFilters from "./components/TimetableFilters";
 import TimetableWeeklyView from "./components/TimetableWeeklyView";
 import ExamFilters from "./components/ExamFilters";
 import ExamFullView from "./components/ExamFullView";
+import { SpeedInsights } from "@vercel/speed-insights/react";
+import { Analytics } from "@vercel/analytics/react";
 
 const App = () => {
   const [showFilters, setShowFilters] = useState(false);
@@ -66,6 +68,8 @@ const App = () => {
           </main>
         </div>
         <AppFooter />
+        <Analytics />
+        <SpeedInsights />
       </div>
     </DataProvider>
   );
