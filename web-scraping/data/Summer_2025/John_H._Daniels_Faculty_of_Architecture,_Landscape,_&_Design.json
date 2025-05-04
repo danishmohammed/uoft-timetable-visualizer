@@ -6,20 +6,20 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "NB",
-                            "DA",
                             "TBA",
-                            "SB"
+                            "SB",
+                            "NB",
+                            "DA"
                         ],
                         "instructors": [
-                            "Warren Harper",
-                            "Jeffrey Garcia",
-                            "Sonia Ramundi",
-                            "Milena Tomic",
-                            "Will Kwan",
-                            "Maggie Groat",
-                            "TBA",
                             "Zinnia Naqvi",
+                            "Jeffrey Garcia",
+                            "Maggie Groat",
+                            "Milena Tomic",
+                            "TBA",
+                            "Warren Harper",
+                            "Sonia Ramundi",
+                            "Will Kwan",
                             "Ji Hee Kim",
                             "Ella Gonzales"
                         ]
@@ -34,22 +34,22 @@
                             "SB"
                         ],
                         "instructors": [
+                            "Peter Sealy",
                             "Jenine Marsh",
-                            "Derek Liddington",
-                            "Parastoo Anoushahpour",
-                            "Mauricio Quiros Pacheco",
-                            "Will Kwan",
                             "Oliver Husain",
-                            "Nicholas Hoban",
                             "Ryan Ferko",
+                            "Derek Liddington",
+                            "Nicholas Hoban",
                             "Humbi Song",
-                            "Peter Sealy"
+                            "Will Kwan",
+                            "Mauricio Quiros Pacheco",
+                            "Parastoo Anoushahpour"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 01, 2025 at 1:51 PM"
+        "last_updated": "May 04, 2025 at 10:11 AM"
     },
     "timings": [
         {
@@ -157,7 +157,7 @@
                 "Peter Sealy"
             ],
             "capacity": 27,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -193,7 +193,7 @@
                 "Nicholas Hoban"
             ],
             "capacity": 30,
-            "current_enrolment": 10,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -247,7 +247,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -265,7 +265,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -283,7 +283,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 17,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -301,7 +301,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 17,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -355,7 +355,7 @@
                 "Ella Gonzales"
             ],
             "capacity": 20,
-            "current_enrolment": 17,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -373,7 +373,7 @@
                 "Ella Gonzales"
             ],
             "capacity": 20,
-            "current_enrolment": 17,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -535,7 +535,7 @@
                 "Maggie Groat"
             ],
             "capacity": 20,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -553,7 +553,7 @@
                 "Maggie Groat"
             ],
             "capacity": 20,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -571,7 +571,7 @@
                 "Parastoo Anoushahpour"
             ],
             "capacity": 20,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -589,7 +589,7 @@
                 "Parastoo Anoushahpour"
             ],
             "capacity": 20,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -607,7 +607,7 @@
                 "Will Kwan"
             ],
             "capacity": 9999,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -625,7 +625,7 @@
                 "Will Kwan"
             ],
             "capacity": 9999,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -643,7 +643,7 @@
                 "Warren Harper"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -661,7 +661,7 @@
                 "Warren Harper"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         }
     ]
