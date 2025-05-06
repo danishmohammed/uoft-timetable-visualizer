@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
                             "MY",
-                            "SF",
-                            "GB",
-                            "MC",
+                            "PB",
                             "BA",
-                            "TBA"
+                            "SS",
+                            "TBA",
+                            "GB",
+                            "SF"
                         ],
                         "instructors": [
-                            "Cheryl Runke",
+                            "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
-                            "Armanpreet Pannu",
-                            "Benjamin Kinsella",
+                            "Cheryl Runke",
                             "TBA",
-                            "Fatemeh Jazinizadeh"
+                            "Benjamin Kinsella",
+                            "Armanpreet Pannu"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Kate Patterson",
                             "Justin Beland",
                             "Elham Marzi",
                             "Kaveh Hassani",
-                            "Kate Patterson",
                             "Steven Chuang Chuang",
-                            "Kevin Mott",
-                            "TBA"
+                            "TBA",
+                            "Kevin Mott"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -42,8 +42,7 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "TBA"
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -56,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -82,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
+                            "TBA",
                             "Justin Beland",
-                            "Kaveh Hassani",
-                            "TBA"
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -92,8 +91,7 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "TBA"
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -115,7 +113,7 @@
                 }
             }
         },
-        "last_updated": "May 05, 2025 at 2:02 AM"
+        "last_updated": "May 06, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -133,7 +131,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -151,7 +149,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -169,7 +167,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -187,7 +185,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -205,7 +203,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -223,7 +221,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -241,7 +239,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -259,7 +257,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -277,7 +275,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -295,7 +293,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -313,7 +311,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -332,7 +330,7 @@
                 "Cheryl Runke"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -351,7 +349,7 @@
                 "Cheryl Runke"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -369,7 +367,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 27,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -621,7 +619,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -639,7 +637,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -744,7 +742,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "TBA",
             "instructors": [
-                "TBA"
+                "Lisa Romkey"
             ],
             "capacity": 5,
             "current_enrolment": 2,
@@ -762,7 +760,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "TBA",
             "instructors": [
-                "TBA"
+                "Lisa Romkey"
             ],
             "capacity": 5,
             "current_enrolment": 2,
@@ -783,7 +781,7 @@
                 "Lisa Romkey"
             ],
             "capacity": 10,
-            "current_enrolment": 5,
+            "current_enrolment": 7,
             "delivery_mode": "In Person"
         },
         {
@@ -801,7 +799,7 @@
                 "Lisa Romkey"
             ],
             "capacity": 10,
-            "current_enrolment": 5,
+            "current_enrolment": 7,
             "delivery_mode": "In Person"
         },
         {
@@ -857,7 +855,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 44,
+            "current_enrolment": 45,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -875,7 +873,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 44,
+            "current_enrolment": 45,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -893,7 +891,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 38,
+            "current_enrolment": 40,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -911,7 +909,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 38,
+            "current_enrolment": 40,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1019,24 +1017,6 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
             "current_enrolment": 22,
             "delivery_mode": "Online Synchronous"
         },
@@ -1073,7 +1053,25 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 21,
+            "current_enrolment": 24,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1091,7 +1089,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 100,
+            "current_enrolment": 98,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1109,7 +1107,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 100,
+            "current_enrolment": 98,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1127,7 +1125,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 100,
+            "current_enrolment": 98,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1145,7 +1143,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 100,
+            "current_enrolment": 98,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1163,7 +1161,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1181,7 +1179,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1199,7 +1197,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 33,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1217,7 +1215,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 33,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1235,7 +1233,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1253,7 +1251,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1266,12 +1264,12 @@
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MC",
+            "location": "PB",
             "instructors": [
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 162,
+            "current_enrolment": 166,
             "delivery_mode": "In Person"
         },
         {
@@ -1284,12 +1282,12 @@
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MC",
+            "location": "PB",
             "instructors": [
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 162,
+            "current_enrolment": 166,
             "delivery_mode": "In Person"
         },
         {
@@ -1302,12 +1300,12 @@
             "session": "Summer First Sub-Session 2025 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MC",
+            "location": "PB",
             "instructors": [
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 162,
+            "current_enrolment": 166,
             "delivery_mode": "In Person"
         },
         {
@@ -1324,8 +1322,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 80,
-            "current_enrolment": 80,
+            "capacity": 120,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -1342,8 +1340,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 80,
-            "current_enrolment": 80,
+            "capacity": 120,
+            "current_enrolment": 81,
             "delivery_mode": "In Person"
         },
         {
@@ -1541,7 +1539,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 119,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
@@ -1559,7 +1557,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 119,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
@@ -1577,7 +1575,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         },
         {
@@ -1595,7 +1593,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         }
     ]
