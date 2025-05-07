@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "TBA",
+                            "SS",
+                            "BA",
                             "MY",
                             "PB",
-                            "BA",
-                            "SS",
-                            "TBA",
                             "GB",
                             "SF"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
+                            "TBA",
                             "Hamid Shokrollah-Timorabadi",
                             "Cheryl Runke",
-                            "TBA",
                             "Benjamin Kinsella",
+                            "Fatemeh Jazinizadeh",
                             "Armanpreet Pannu"
                         ]
                     },
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kate Patterson",
                             "Justin Beland",
-                            "Elham Marzi",
-                            "Kaveh Hassani",
-                            "Steven Chuang Chuang",
                             "TBA",
-                            "Kevin Mott"
+                            "Elham Marzi",
+                            "Kevin Mott",
+                            "Kate Patterson",
+                            "Steven Chuang Chuang",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Kaveh Hassani",
                             "Justin Beland",
-                            "Kaveh Hassani"
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -113,7 +113,7 @@
                 }
             }
         },
-        "last_updated": "May 06, 2025 at 2:02 AM"
+        "last_updated": "May 07, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -131,7 +131,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 20,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -149,7 +149,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 20,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -167,7 +167,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 20,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -185,7 +185,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 20,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -203,7 +203,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 20,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -547,7 +547,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 119,
+            "current_enrolment": 120,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -565,7 +565,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 119,
+            "current_enrolment": 120,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -583,7 +583,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 105,
+            "current_enrolment": 107,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -601,7 +601,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 105,
+            "current_enrolment": 107,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -619,7 +619,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 21,
+            "current_enrolment": 17,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -637,7 +637,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 21,
+            "current_enrolment": 17,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -655,7 +655,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 38,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -673,7 +673,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 38,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -691,7 +691,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 38,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -709,7 +709,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 38,
+            "current_enrolment": 43,
             "delivery_mode": "In Person"
         },
         {
@@ -727,7 +727,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 38,
+            "current_enrolment": 41,
             "delivery_mode": "In Person"
         },
         {
@@ -854,8 +854,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 45,
-            "current_enrolment": 45,
+            "capacity": 65,
+            "current_enrolment": 65,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -872,8 +872,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 45,
-            "current_enrolment": 45,
+            "capacity": 65,
+            "current_enrolment": 65,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -890,8 +890,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 45,
-            "current_enrolment": 40,
+            "capacity": 65,
+            "current_enrolment": 64,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -908,44 +908,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 45,
-            "current_enrolment": 40,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 45,
-            "current_enrolment": 35,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 45,
-            "current_enrolment": 35,
+            "capacity": 65,
+            "current_enrolment": 64,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -999,7 +963,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1017,7 +981,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 22,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1053,7 +1017,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1071,101 +1035,173 @@
                 "TBA"
             ],
             "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Elham Marzi"
+            ],
+            "capacity": 100,
+            "current_enrolment": 97,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Elham Marzi"
+            ],
+            "capacity": 100,
+            "current_enrolment": 97,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Elham Marzi"
+            ],
+            "capacity": 100,
+            "current_enrolment": 97,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Elham Marzi"
+            ],
+            "capacity": 100,
+            "current_enrolment": 97,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 34,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 34,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 33,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 33,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
             "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Lectures",
-            "day": "Monday",
-            "start_time": "10:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Elham Marzi"
-            ],
-            "capacity": 100,
-            "current_enrolment": 98,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Lectures",
-            "day": "Monday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Elham Marzi"
-            ],
-            "capacity": 100,
-            "current_enrolment": 98,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "10:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Elham Marzi"
-            ],
-            "capacity": 100,
-            "current_enrolment": 98,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "Elham Marzi"
-            ],
-            "capacity": 100,
-            "current_enrolment": 98,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "14:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 36,
-            "current_enrolment": 36,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Practicals",
             "day": "Wednesday",
             "start_time": "14:00",
@@ -1179,79 +1215,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 36,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "14:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 36,
-            "current_enrolment": 33,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "14:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 36,
-            "current_enrolment": 33,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "14:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 36,
-            "current_enrolment": 24,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "14:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 36,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1269,7 +1233,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 166,
+            "current_enrolment": 170,
             "delivery_mode": "In Person"
         },
         {
@@ -1287,7 +1251,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 166,
+            "current_enrolment": 170,
             "delivery_mode": "In Person"
         },
         {
@@ -1305,7 +1269,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 166,
+            "current_enrolment": 170,
             "delivery_mode": "In Person"
         },
         {
@@ -1323,7 +1287,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 85,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -1341,7 +1305,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 81,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -1359,7 +1323,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 83,
+            "current_enrolment": 84,
             "delivery_mode": "In Person"
         },
         {
@@ -1377,7 +1341,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 83,
+            "current_enrolment": 84,
             "delivery_mode": "In Person"
         },
         {
@@ -1395,7 +1359,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 83,
+            "current_enrolment": 84,
             "delivery_mode": "In Person"
         },
         {
@@ -1413,7 +1377,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 83,
+            "current_enrolment": 84,
             "delivery_mode": "In Person"
         },
         {
@@ -1467,7 +1431,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 905,
+            "current_enrolment": 919,
             "delivery_mode": "In Person"
         },
         {
@@ -1485,7 +1449,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 905,
+            "current_enrolment": 919,
             "delivery_mode": "In Person"
         },
         {
@@ -1539,7 +1503,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 115,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -1557,7 +1521,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 115,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
