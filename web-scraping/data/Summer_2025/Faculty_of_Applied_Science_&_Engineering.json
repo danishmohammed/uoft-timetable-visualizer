@@ -6,21 +6,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "TBA",
-                            "SS",
                             "BA",
+                            "GB",
                             "MY",
                             "PB",
-                            "GB",
+                            "TBA",
+                            "SS",
                             "SF"
                         ],
                         "instructors": [
+                            "Benjamin Kinsella",
                             "TBA",
                             "Hamid Shokrollah-Timorabadi",
-                            "Cheryl Runke",
-                            "Benjamin Kinsella",
                             "Fatemeh Jazinizadeh",
-                            "Armanpreet Pannu"
+                            "Armanpreet Pannu",
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,13 +28,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
-                            "TBA",
                             "Elham Marzi",
-                            "Kevin Mott",
+                            "TBA",
+                            "Justin Beland",
                             "Kate Patterson",
                             "Steven Chuang Chuang",
-                            "Kaveh Hassani"
+                            "Kaveh Hassani",
+                            "Kevin Mott"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,8 +81,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "Justin Beland",
+                            "Kaveh Hassani",
                             "TBA"
                         ]
                     },
@@ -113,7 +113,7 @@
                 }
             }
         },
-        "last_updated": "May 07, 2025 at 2:02 AM"
+        "last_updated": "May 08, 2025 at 2:04 AM"
     },
     "timings": [
         {
@@ -131,7 +131,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -149,7 +149,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -167,7 +167,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -185,7 +185,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -203,7 +203,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -221,7 +221,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 88,
+            "current_enrolment": 86,
             "delivery_mode": "In Person"
         },
         {
@@ -239,7 +239,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 88,
+            "current_enrolment": 86,
             "delivery_mode": "In Person"
         },
         {
@@ -257,7 +257,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 88,
+            "current_enrolment": 86,
             "delivery_mode": "In Person"
         },
         {
@@ -275,7 +275,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 88,
+            "current_enrolment": 86,
             "delivery_mode": "In Person"
         },
         {
@@ -293,7 +293,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 88,
+            "current_enrolment": 86,
             "delivery_mode": "In Person"
         },
         {
@@ -311,7 +311,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 88,
+            "current_enrolment": 86,
             "delivery_mode": "In Person"
         },
         {
@@ -421,7 +421,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 14,
+            "current_enrolment": 15,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -583,7 +583,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 107,
+            "current_enrolment": 108,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -601,7 +601,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 107,
+            "current_enrolment": 108,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -619,7 +619,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 17,
+            "current_enrolment": 16,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -637,7 +637,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 17,
+            "current_enrolment": 16,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -655,7 +655,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 43,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -673,7 +673,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 43,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -691,7 +691,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 43,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -709,7 +709,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 43,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -727,7 +727,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 41,
+            "current_enrolment": 51,
             "delivery_mode": "In Person"
         },
         {
@@ -855,7 +855,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 65,
+            "current_enrolment": 64,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -873,7 +873,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 65,
+            "current_enrolment": 64,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -891,7 +891,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 64,
+            "current_enrolment": 61,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -909,7 +909,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 64,
+            "current_enrolment": 61,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -927,7 +927,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 125,
-            "current_enrolment": 125,
+            "current_enrolment": 122,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -945,7 +945,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 125,
-            "current_enrolment": 125,
+            "current_enrolment": 122,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -964,6 +964,42 @@
             ],
             "capacity": 25,
             "current_enrolment": 25,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 21,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1003,42 +1039,6 @@
             "delivery_mode": "Online Synchronous"
         },
         {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 23,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 22,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Lectures",
             "day": "Monday",
@@ -1053,7 +1053,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 97,
+            "current_enrolment": 93,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1071,7 +1071,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 97,
+            "current_enrolment": 93,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1089,7 +1089,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 97,
+            "current_enrolment": 93,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1107,7 +1107,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 97,
+            "current_enrolment": 93,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1125,7 +1125,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 34,
+            "current_enrolment": 32,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1143,7 +1143,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 34,
+            "current_enrolment": 32,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1161,7 +1161,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 33,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1179,7 +1179,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 33,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1197,7 +1197,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1215,7 +1215,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 25,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1233,7 +1233,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 170,
+            "current_enrolment": 172,
             "delivery_mode": "In Person"
         },
         {
@@ -1251,7 +1251,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 170,
+            "current_enrolment": 172,
             "delivery_mode": "In Person"
         },
         {
@@ -1269,7 +1269,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 170,
+            "current_enrolment": 172,
             "delivery_mode": "In Person"
         },
         {
@@ -1287,7 +1287,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 87,
+            "current_enrolment": 89,
             "delivery_mode": "In Person"
         },
         {
@@ -1323,7 +1323,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 84,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1341,7 +1341,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 84,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1359,7 +1359,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 84,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1377,7 +1377,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 84,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1431,7 +1431,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 919,
+            "current_enrolment": 921,
             "delivery_mode": "In Person"
         },
         {
@@ -1449,7 +1449,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 919,
+            "current_enrolment": 921,
             "delivery_mode": "In Person"
         },
         {
@@ -1503,7 +1503,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 114,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
@@ -1521,7 +1521,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 114,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
