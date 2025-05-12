@@ -6,27 +6,27 @@
                 "departments": {
                     "Faculty of Kinesiology and Physical Education": {
                         "buildings": [
+                            "WS",
                             "BN",
-                            "Online",
-                            "WS"
+                            "Online"
                         ],
                         "instructors": [
-                            "Simon Darnell",
-                            "Roxy Helliker O'Rourke",
                             "Anthony Lombardo",
-                            "Mehran Haeri",
-                            "Paul VanWiechen",
                             "Noah Benjamin Gentner",
-                            "Saidur Rahman",
-                            "Danny Pincivero",
+                            "Erin Sullivan",
+                            "Mehran Haeri",
                             "Erin Willson",
-                            "Erin Sullivan"
+                            "Danny Pincivero",
+                            "Saidur Rahman",
+                            "Paul VanWiechen",
+                            "Roxy Helliker O'Rourke",
+                            "Simon Darnell"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 04, 2025 at 10:10 AM"
+        "last_updated": "May 12, 2025 at 8:48 AM"
     },
     "timings": [
         {
@@ -44,7 +44,7 @@
                 "Erin Sullivan"
             ],
             "capacity": 160,
-            "current_enrolment": 160,
+            "current_enrolment": 149,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -62,7 +62,7 @@
                 "Erin Sullivan"
             ],
             "capacity": 160,
-            "current_enrolment": 160,
+            "current_enrolment": 149,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -80,7 +80,7 @@
                 "Erin Sullivan"
             ],
             "capacity": 160,
-            "current_enrolment": 140,
+            "current_enrolment": 135,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -98,7 +98,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 140,
-            "current_enrolment": 140,
+            "current_enrolment": 136,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -116,7 +116,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 140,
-            "current_enrolment": 140,
+            "current_enrolment": 136,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -206,7 +206,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 20,
-            "current_enrolment": 18,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -224,7 +224,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -242,7 +242,7 @@
                 "Anthony Lombardo"
             ],
             "capacity": 60,
-            "current_enrolment": 50,
+            "current_enrolment": 43,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -260,7 +260,7 @@
                 "Anthony Lombardo"
             ],
             "capacity": 60,
-            "current_enrolment": 50,
+            "current_enrolment": 43,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -278,7 +278,7 @@
                 "Noah Benjamin Gentner"
             ],
             "capacity": 90,
-            "current_enrolment": 90,
+            "current_enrolment": 82,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -296,7 +296,7 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 140,
-            "current_enrolment": 127,
+            "current_enrolment": 121,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -314,7 +314,7 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 140,
-            "current_enrolment": 127,
+            "current_enrolment": 121,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -332,7 +332,7 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 24,
-            "current_enrolment": 23,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -350,7 +350,25 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 24,
-            "current_enrolment": 21,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Roxy Helliker O'Rourke"
+            ],
+            "capacity": 24,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -369,24 +387,6 @@
             ],
             "capacity": 24,
             "current_enrolment": 21,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE334H1 F: Adapted Physical Activity",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "17:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WS",
-            "instructors": [
-                "Roxy Helliker O'Rourke"
-            ],
-            "capacity": 24,
-            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -440,7 +440,7 @@
                 "Mehran Haeri"
             ],
             "capacity": 100,
-            "current_enrolment": 80,
+            "current_enrolment": 58,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -458,7 +458,7 @@
                 "Mehran Haeri"
             ],
             "capacity": 100,
-            "current_enrolment": 80,
+            "current_enrolment": 58,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -476,7 +476,7 @@
                 "Saidur Rahman"
             ],
             "capacity": 180,
-            "current_enrolment": 161,
+            "current_enrolment": 136,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -494,7 +494,7 @@
                 "Saidur Rahman"
             ],
             "capacity": 180,
-            "current_enrolment": 135,
+            "current_enrolment": 124,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -512,7 +512,7 @@
                 "Simon Darnell"
             ],
             "capacity": 25,
-            "current_enrolment": 17,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -530,7 +530,7 @@
                 "Simon Darnell"
             ],
             "capacity": 25,
-            "current_enrolment": 17,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -548,7 +548,7 @@
                 "Erin Willson"
             ],
             "capacity": 90,
-            "current_enrolment": 86,
+            "current_enrolment": 80,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -566,7 +566,7 @@
                 "Erin Willson"
             ],
             "capacity": 90,
-            "current_enrolment": 86,
+            "current_enrolment": 80,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -584,7 +584,7 @@
                 "Paul VanWiechen"
             ],
             "capacity": 60,
-            "current_enrolment": 60,
+            "current_enrolment": 41,
             "delivery_mode": "Online Synchronous"
         }
     ]

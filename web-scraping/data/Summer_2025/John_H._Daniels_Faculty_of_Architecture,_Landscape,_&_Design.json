@@ -6,22 +6,22 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "TBA",
-                            "SB",
                             "NB",
-                            "DA"
+                            "TBA",
+                            "DA",
+                            "SB"
                         ],
                         "instructors": [
-                            "Zinnia Naqvi",
+                            "Ji Hee Kim",
                             "Jeffrey Garcia",
-                            "Maggie Groat",
+                            "Ella Gonzales",
+                            "Will Kwan",
                             "Milena Tomic",
+                            "Maggie Groat",
+                            "Zinnia Naqvi",
                             "TBA",
                             "Warren Harper",
-                            "Sonia Ramundi",
-                            "Will Kwan",
-                            "Ji Hee Kim",
-                            "Ella Gonzales"
+                            "Sonia Ramundi"
                         ]
                     }
                 }
@@ -34,22 +34,22 @@
                             "SB"
                         ],
                         "instructors": [
-                            "Peter Sealy",
-                            "Jenine Marsh",
-                            "Oliver Husain",
-                            "Ryan Ferko",
-                            "Derek Liddington",
-                            "Nicholas Hoban",
                             "Humbi Song",
                             "Will Kwan",
+                            "Jenine Marsh",
+                            "Peter Sealy",
+                            "Parastoo Anoushahpour",
+                            "Nicholas Hoban",
+                            "Derek Liddington",
                             "Mauricio Quiros Pacheco",
-                            "Parastoo Anoushahpour"
+                            "Oliver Husain",
+                            "Ryan Ferko"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 04, 2025 at 10:11 AM"
+        "last_updated": "May 12, 2025 at 8:50 AM"
     },
     "timings": [
         {
@@ -103,7 +103,7 @@
                 "Ji Hee Kim"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -121,7 +121,7 @@
                 "Ji Hee Kim"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -139,7 +139,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 34,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -175,7 +175,7 @@
                 "Mauricio Quiros Pacheco"
             ],
             "capacity": 30,
-            "current_enrolment": 19,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -193,7 +193,7 @@
                 "Nicholas Hoban"
             ],
             "capacity": 30,
-            "current_enrolment": 9,
+            "current_enrolment": 6,
             "delivery_mode": "In Person"
         },
         {
@@ -211,7 +211,7 @@
                 "Humbi Song"
             ],
             "capacity": 30,
-            "current_enrolment": 14,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -247,7 +247,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -265,7 +265,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -283,7 +283,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 16,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -301,7 +301,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 16,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -319,7 +319,7 @@
                 "Jenine Marsh"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -337,7 +337,7 @@
                 "Jenine Marsh"
             ],
             "capacity": 20,
-            "current_enrolment": 20,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -355,7 +355,7 @@
                 "Ella Gonzales"
             ],
             "capacity": 20,
-            "current_enrolment": 18,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -373,136 +373,136 @@
                 "Ella Gonzales"
             ],
             "capacity": 20,
+            "current_enrolment": 16,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS202H1 S: The Moving Image",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Ryan Ferko"
+            ],
+            "capacity": 20,
+            "current_enrolment": 14,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS202H1 S: The Moving Image",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Ryan Ferko"
+            ],
+            "capacity": 20,
+            "current_enrolment": 14,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS211H1 S: Works on Paper",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Oliver Husain"
+            ],
+            "capacity": 20,
+            "current_enrolment": 19,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS211H1 S: Works on Paper",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Oliver Husain"
+            ],
+            "capacity": 20,
+            "current_enrolment": 19,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS218H1 F: Photobased (Digital)",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Zinnia Naqvi"
+            ],
+            "capacity": 20,
+            "current_enrolment": 15,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS218H1 F: Photobased (Digital)",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Zinnia Naqvi"
+            ],
+            "capacity": 20,
+            "current_enrolment": 15,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS301H1 S: Painting: Content and Context",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2025 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Derek Liddington"
+            ],
+            "capacity": 20,
             "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
-            "course_name": "VIS202H1 S: The Moving Image",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
-            "instructors": [
-                "Ryan Ferko"
-            ],
-            "capacity": 20,
-            "current_enrolment": 15,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "VIS202H1 S: The Moving Image",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
-            "instructors": [
-                "Ryan Ferko"
-            ],
-            "capacity": 20,
-            "current_enrolment": 15,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "VIS211H1 S: Works on Paper",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
-            "instructors": [
-                "Oliver Husain"
-            ],
-            "capacity": 20,
-            "current_enrolment": 16,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "VIS211H1 S: Works on Paper",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
-            "instructors": [
-                "Oliver Husain"
-            ],
-            "capacity": 20,
-            "current_enrolment": 16,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "VIS218H1 F: Photobased (Digital)",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
-            "instructors": [
-                "Zinnia Naqvi"
-            ],
-            "capacity": 20,
-            "current_enrolment": 19,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "VIS218H1 F: Photobased (Digital)",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
-            "instructors": [
-                "Zinnia Naqvi"
-            ],
-            "capacity": 20,
-            "current_enrolment": 19,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "VIS301H1 S: Painting: Content and Context",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "14:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2025 (S)",
-            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
-            "location": "SB",
-            "instructors": [
-                "Derek Liddington"
-            ],
-            "capacity": 20,
-            "current_enrolment": 19,
-            "delivery_mode": "In Person"
-        },
-        {
             "course_name": "VIS301H1 S: Painting: Content and Context",
             "section_title": "Practicals",
             "day": "Wednesday",
@@ -517,7 +517,7 @@
                 "Derek Liddington"
             ],
             "capacity": 20,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -535,7 +535,7 @@
                 "Maggie Groat"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -553,7 +553,7 @@
                 "Maggie Groat"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -571,7 +571,7 @@
                 "Parastoo Anoushahpour"
             ],
             "capacity": 20,
-            "current_enrolment": 19,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -589,7 +589,7 @@
                 "Parastoo Anoushahpour"
             ],
             "capacity": 20,
-            "current_enrolment": 19,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -643,7 +643,7 @@
                 "Warren Harper"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -661,7 +661,7 @@
                 "Warren Harper"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         }
     ]

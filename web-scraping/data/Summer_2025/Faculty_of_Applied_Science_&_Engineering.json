@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "BA",
-                            "MY",
-                            "SS",
-                            "PB",
                             "GB",
-                            "SF"
+                            "SF",
+                            "PB",
+                            "BA",
+                            "SS",
+                            "MY"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Cheryl Runke",
+                            "Armanpreet Pannu",
                             "Hamid Shokrollah-Timorabadi",
                             "Benjamin Kinsella",
-                            "Armanpreet Pannu",
+                            "Cheryl Runke",
+                            "TBA",
                             "Fatemeh Jazinizadeh"
                         ]
                     },
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Justin Beland",
+                            "Steven Chuang Chuang",
                             "TBA",
                             "Kate Patterson",
+                            "Kaveh Hassani",
                             "Kevin Mott",
-                            "Justin Beland",
-                            "Elham Marzi",
-                            "Steven Chuang Chuang",
-                            "Kaveh Hassani"
+                            "Elham Marzi"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Kaveh Hassani",
                             "Justin Beland",
-                            "TBA",
-                            "Kaveh Hassani"
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "May 11, 2025 at 2:02 AM"
+        "last_updated": "May 12, 2025 at 2:30 AM"
     },
     "timings": [
         {
@@ -319,25 +319,6 @@
             "course_name": "APS112H1 F: Engineering Strategies & Practice II",
             "section_title": "Lectures",
             "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "Benjamin Kinsella",
-                "Cheryl Runke"
-            ],
-            "capacity": 36,
-            "current_enrolment": 26,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
-            "section_title": "Lectures",
-            "day": "Thursday",
             "start_time": "16:00",
             "end_time": "18:00",
             "campus": "St. George",
