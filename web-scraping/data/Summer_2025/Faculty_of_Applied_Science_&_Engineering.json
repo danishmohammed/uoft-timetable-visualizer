@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "MY",
+                            "SS",
+                            "BA",
                             "GB",
                             "SF",
-                            "PB",
-                            "BA",
-                            "SS",
-                            "MY"
+                            "PB"
                         ],
                         "instructors": [
-                            "Armanpreet Pannu",
-                            "Hamid Shokrollah-Timorabadi",
+                            "TBA",
                             "Benjamin Kinsella",
                             "Cheryl Runke",
-                            "TBA",
+                            "Armanpreet Pannu",
+                            "Hamid Shokrollah-Timorabadi",
                             "Fatemeh Jazinizadeh"
                         ]
                     },
@@ -28,11 +28,11 @@
                         ],
                         "instructors": [
                             "Justin Beland",
-                            "Steven Chuang Chuang",
                             "TBA",
-                            "Kate Patterson",
-                            "Kaveh Hassani",
                             "Kevin Mott",
+                            "Kaveh Hassani",
+                            "Kate Patterson",
+                            "Steven Chuang Chuang",
                             "Elham Marzi"
                         ]
                     },
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "Justin Beland",
-                            "TBA"
+                            "TBA",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "May 12, 2025 at 2:30 AM"
+        "last_updated": "May 13, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -336,6 +336,25 @@
         },
         {
             "course_name": "APS112H1 F: Engineering Strategies & Practice II",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "Benjamin Kinsella",
+                "Cheryl Runke"
+            ],
+            "capacity": 36,
+            "current_enrolment": 26,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
             "section_title": "Tutorials",
             "day": "Friday",
             "start_time": "16:00",
@@ -475,7 +494,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 119,
+            "current_enrolment": 120,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -493,7 +512,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 119,
+            "current_enrolment": 120,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -547,7 +566,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 106,
+            "current_enrolment": 107,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -565,7 +584,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 106,
+            "current_enrolment": 107,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -583,7 +602,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 17,
+            "current_enrolment": 15,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -601,7 +620,7 @@
                 "Elham Marzi"
             ],
             "capacity": 40,
-            "current_enrolment": 17,
+            "current_enrolment": 15,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -619,7 +638,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -637,7 +656,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -655,7 +674,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -673,7 +692,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -691,7 +710,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 57,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -818,7 +837,7 @@
                 "Kate Patterson"
             ],
             "capacity": 130,
-            "current_enrolment": 125,
+            "current_enrolment": 119,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -837,7 +856,7 @@
                 "Kate Patterson"
             ],
             "capacity": 130,
-            "current_enrolment": 125,
+            "current_enrolment": 119,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -855,7 +874,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 65,
+            "current_enrolment": 63,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -873,7 +892,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 65,
+            "current_enrolment": 63,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -891,7 +910,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 59,
+            "current_enrolment": 56,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -909,7 +928,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 59,
+            "current_enrolment": 56,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -927,7 +946,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 125,
-            "current_enrolment": 115,
+            "current_enrolment": 113,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -945,7 +964,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 125,
-            "current_enrolment": 115,
+            "current_enrolment": 113,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -963,7 +982,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -981,43 +1000,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 21,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 23,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 20,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1039,6 +1022,42 @@
             "delivery_mode": "Online Synchronous"
         },
         {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
             "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
             "section_title": "Lectures",
             "day": "Monday",
@@ -1053,7 +1072,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1071,7 +1090,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1089,7 +1108,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1107,7 +1126,7 @@
                 "Elham Marzi"
             ],
             "capacity": 100,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1197,7 +1216,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1215,7 +1234,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1323,7 +1342,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 89,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1341,7 +1360,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 89,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1359,7 +1378,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 89,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1377,7 +1396,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 89,
+            "current_enrolment": 90,
             "delivery_mode": "In Person"
         },
         {
@@ -1467,7 +1486,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -1485,7 +1504,7 @@
                 "Patricia Sheridan"
             ],
             "capacity": 50,
-            "current_enrolment": 29,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -1503,7 +1522,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 113,
+            "current_enrolment": 111,
             "delivery_mode": "In Person"
         },
         {
@@ -1521,7 +1540,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 113,
+            "current_enrolment": 111,
             "delivery_mode": "In Person"
         },
         {
