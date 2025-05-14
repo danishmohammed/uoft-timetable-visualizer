@@ -6,22 +6,22 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "NB",
+                            "SB",
                             "TBA",
                             "DA",
-                            "SB"
+                            "NB"
                         ],
                         "instructors": [
-                            "Ji Hee Kim",
                             "Jeffrey Garcia",
-                            "Ella Gonzales",
-                            "Will Kwan",
-                            "Milena Tomic",
-                            "Maggie Groat",
                             "Zinnia Naqvi",
-                            "TBA",
+                            "Milena Tomic",
+                            "Sonia Ramundi",
+                            "Ji Hee Kim",
+                            "Will Kwan",
                             "Warren Harper",
-                            "Sonia Ramundi"
+                            "Maggie Groat",
+                            "Ella Gonzales",
+                            "TBA"
                         ]
                     }
                 }
@@ -30,26 +30,26 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "TBA",
-                            "SB"
+                            "SB",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Humbi Song",
-                            "Will Kwan",
-                            "Jenine Marsh",
-                            "Peter Sealy",
                             "Parastoo Anoushahpour",
-                            "Nicholas Hoban",
+                            "Will Kwan",
                             "Derek Liddington",
-                            "Mauricio Quiros Pacheco",
                             "Oliver Husain",
-                            "Ryan Ferko"
+                            "Nicholas Hoban",
+                            "Mauricio Quiros Pacheco",
+                            "Ryan Ferko",
+                            "Humbi Song",
+                            "Jenine Marsh",
+                            "Peter Sealy"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 12, 2025 at 8:50 AM"
+        "last_updated": "May 14, 2025 at 7:36 AM"
     },
     "timings": [
         {
@@ -463,7 +463,7 @@
                 "Zinnia Naqvi"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -481,7 +481,7 @@
                 "Zinnia Naqvi"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -607,7 +607,7 @@
                 "Will Kwan"
             ],
             "capacity": 9999,
-            "current_enrolment": 14,
+            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -625,7 +625,7 @@
                 "Will Kwan"
             ],
             "capacity": 9999,
-            "current_enrolment": 14,
+            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
