@@ -6,27 +6,27 @@
                 "departments": {
                     "Faculty of Kinesiology and Physical Education": {
                         "buildings": [
-                            "BN",
                             "Online",
-                            "WS"
+                            "WS",
+                            "BN"
                         ],
                         "instructors": [
-                            "Erin Sullivan",
                             "Mehran Haeri",
-                            "Noah Benjamin Gentner",
-                            "Simon Darnell",
-                            "Roxy Helliker O'Rourke",
-                            "Danny Pincivero",
                             "Saidur Rahman",
-                            "Erin Willson",
+                            "Simon Darnell",
+                            "Erin Sullivan",
+                            "Roxy Helliker O'Rourke",
+                            "Noah Benjamin Gentner",
+                            "Paul VanWiechen",
                             "Anthony Lombardo",
-                            "Paul VanWiechen"
+                            "Erin Willson",
+                            "Danny Pincivero"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 15, 2025 at 6:56 AM"
+        "last_updated": "May 17, 2025 at 8:04 AM"
     },
     "timings": [
         {
@@ -98,7 +98,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 140,
-            "current_enrolment": 139,
+            "current_enrolment": 140,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -116,7 +116,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 140,
-            "current_enrolment": 139,
+            "current_enrolment": 140,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -224,7 +224,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 20,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -278,7 +278,7 @@
                 "Noah Benjamin Gentner"
             ],
             "capacity": 90,
-            "current_enrolment": 86,
+            "current_enrolment": 87,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -296,7 +296,7 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 140,
-            "current_enrolment": 126,
+            "current_enrolment": 125,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -314,7 +314,7 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 140,
-            "current_enrolment": 126,
+            "current_enrolment": 125,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -332,7 +332,7 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 24,
-            "current_enrolment": 23,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -350,7 +350,7 @@
                 "Roxy Helliker O'Rourke"
             ],
             "capacity": 24,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -440,7 +440,7 @@
                 "Mehran Haeri"
             ],
             "capacity": 100,
-            "current_enrolment": 63,
+            "current_enrolment": 61,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -458,7 +458,7 @@
                 "Mehran Haeri"
             ],
             "capacity": 100,
-            "current_enrolment": 63,
+            "current_enrolment": 61,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -476,7 +476,7 @@
                 "Saidur Rahman"
             ],
             "capacity": 180,
-            "current_enrolment": 145,
+            "current_enrolment": 147,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -584,7 +584,7 @@
                 "Paul VanWiechen"
             ],
             "capacity": 60,
-            "current_enrolment": 44,
+            "current_enrolment": 46,
             "delivery_mode": "Online Synchronous"
         }
     ]
