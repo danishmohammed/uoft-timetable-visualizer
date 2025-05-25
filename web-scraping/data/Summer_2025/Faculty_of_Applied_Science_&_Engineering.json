@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "SS",
                             "BA",
-                            "PB",
-                            "GB",
-                            "SF",
                             "MY",
-                            "SS"
+                            "GB",
+                            "PB",
+                            "SF"
                         ],
                         "instructors": [
                             "TBA",
-                            "Benjamin Kinsella",
-                            "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
                             "Armanpreet Pannu",
-                            "Cheryl Runke"
+                            "Cheryl Runke",
+                            "Benjamin Kinsella",
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -29,11 +29,11 @@
                         "instructors": [
                             "TBA",
                             "Kaveh Hassani",
-                            "Kevin Mott",
-                            "Steven Chuang Chuang",
                             "Kate Patterson",
                             "Justin Beland",
-                            "Elham Marzi"
+                            "Kevin Mott",
+                            "Elham Marzi",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -81,8 +81,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Justin Beland",
+                            "TBA",
                             "Kaveh Hassani"
                         ]
                     },
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "May 24, 2025 at 4:39 AM"
+        "last_updated": "May 25, 2025 at 2:47 AM"
     },
     "timings": [
         {
