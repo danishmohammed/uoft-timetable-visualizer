@@ -7,19 +7,19 @@
                     "Engineering First Year Office": {
                         "buildings": [
                             "MY",
-                            "GB",
                             "SF",
-                            "BA",
                             "PB",
+                            "BA",
+                            "GB",
                             "SS"
                         ],
                         "instructors": [
-                            "Hamid Shokrollah-Timorabadi",
-                            "Armanpreet Pannu",
                             "Fatemeh Jazinizadeh",
+                            "Benjamin Kinsella",
                             "TBA",
-                            "Cheryl Runke",
-                            "Benjamin Kinsella"
+                            "Armanpreet Pannu",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,12 +28,12 @@
                         ],
                         "instructors": [
                             "Kevin Mott",
-                            "Elham Marzi",
                             "Kaveh Hassani",
                             "TBA",
                             "Justin Beland",
                             "Kate Patterson",
-                            "Steven Chuang Chuang"
+                            "Steven Chuang Chuang",
+                            "Elham Marzi"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Robin Sacks",
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Kaveh Hassani",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "May 28, 2025 at 2:02 AM"
+        "last_updated": "May 29, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 14,
+            "current_enrolment": 15,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -638,7 +638,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 53,
+            "current_enrolment": 52,
             "delivery_mode": "In Person"
         },
         {
@@ -656,7 +656,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 53,
+            "current_enrolment": 52,
             "delivery_mode": "In Person"
         },
         {
@@ -674,7 +674,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 53,
+            "current_enrolment": 52,
             "delivery_mode": "In Person"
         },
         {
@@ -692,7 +692,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 53,
+            "current_enrolment": 52,
             "delivery_mode": "In Person"
         },
         {
@@ -710,7 +710,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -1252,7 +1252,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 145,
+            "current_enrolment": 143,
             "delivery_mode": "In Person"
         },
         {
@@ -1270,7 +1270,7 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 145,
+            "current_enrolment": 143,
             "delivery_mode": "In Person"
         },
         {
@@ -1288,7 +1288,25 @@
                 "Armanpreet Pannu"
             ],
             "capacity": 180,
-            "current_enrolment": 145,
+            "current_enrolment": 143,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 71,
             "delivery_mode": "In Person"
         },
         {
@@ -1307,24 +1325,6 @@
             ],
             "capacity": 120,
             "current_enrolment": 72,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MAT187H1 F: Calculus II",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 120,
-            "current_enrolment": 73,
             "delivery_mode": "In Person"
         },
         {
