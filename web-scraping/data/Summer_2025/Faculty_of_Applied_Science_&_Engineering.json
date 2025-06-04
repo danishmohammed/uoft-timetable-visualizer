@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MY",
                             "SS",
-                            "GB",
-                            "PB",
                             "BA",
+                            "GB",
+                            "MY",
+                            "PB",
                             "SF"
                         ],
                         "instructors": [
+                            "Cheryl Runke",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Benjamin Kinsella",
                             "TBA",
                             "Fatemeh Jazinizadeh",
-                            "Benjamin Kinsella",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Cheryl Runke",
                             "Armanpreet Pannu"
                         ]
                     },
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Elham Marzi",
                             "Justin Beland",
-                            "Kevin Mott",
+                            "Kate Patterson",
+                            "Elham Marzi",
                             "Kaveh Hassani",
                             "Steven Chuang Chuang",
-                            "Kate Patterson"
+                            "TBA",
+                            "Kevin Mott"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,12 +55,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
-                            "Patricia Sheridan",
-                            "Robin Sacks"
+                            "Robin Sacks",
+                            "Patricia Sheridan"
                         ]
                     }
                 }
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Justin Beland",
-                            "Kaveh Hassani"
+                            "Kaveh Hassani",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 03, 2025 at 2:02 AM"
+        "last_updated": "June 04, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -1450,7 +1450,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1698,
+            "current_enrolment": 1699,
             "delivery_mode": "In Person"
         },
         {
@@ -1468,7 +1468,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1698,
+            "current_enrolment": 1699,
             "delivery_mode": "In Person"
         },
         {
@@ -1558,7 +1558,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         },
         {
@@ -1576,7 +1576,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 66,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         }
     ]
