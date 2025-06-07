@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
+                            "GB",
                             "SF",
-                            "BA",
                             "MY",
+                            "PB",
                             "SS",
-                            "GB"
+                            "BA"
                         ],
                         "instructors": [
-                            "Cheryl Runke",
-                            "Benjamin Kinsella",
                             "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
+                            "TBA",
                             "Armanpreet Pannu",
-                            "TBA"
+                            "Benjamin Kinsella",
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Elham Marzi",
-                            "Kate Patterson",
-                            "Kaveh Hassani",
                             "Justin Beland",
                             "Kevin Mott",
+                            "Kaveh Hassani",
+                            "Kate Patterson",
+                            "TBA",
                             "Steven Chuang Chuang",
-                            "TBA"
+                            "Elham Marzi"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -59,8 +59,8 @@
                             "MY"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
+                            "Justin Beland",
                             "TBA",
-                            "Justin Beland"
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 06, 2025 at 2:02 AM"
+        "last_updated": "June 07, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -1342,7 +1342,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 75,
+            "current_enrolment": 74,
             "delivery_mode": "In Person"
         },
         {
@@ -1360,7 +1360,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 75,
+            "current_enrolment": 74,
             "delivery_mode": "In Person"
         },
         {
@@ -1378,7 +1378,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 75,
+            "current_enrolment": 74,
             "delivery_mode": "In Person"
         },
         {
@@ -1396,7 +1396,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 75,
+            "current_enrolment": 74,
             "delivery_mode": "In Person"
         },
         {
