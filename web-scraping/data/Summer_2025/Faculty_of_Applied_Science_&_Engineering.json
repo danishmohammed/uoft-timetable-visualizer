@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
+                            "PB",
                             "SF",
                             "MY",
-                            "PB",
+                            "GB",
                             "SS",
                             "BA"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
-                            "Hamid Shokrollah-Timorabadi",
-                            "TBA",
                             "Armanpreet Pannu",
+                            "TBA",
                             "Benjamin Kinsella",
-                            "Cheryl Runke"
+                            "Cheryl Runke",
+                            "Fatemeh Jazinizadeh",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Kate Patterson",
+                            "Steven Chuang Chuang",
+                            "Elham Marzi",
+                            "TBA",
                             "Justin Beland",
                             "Kevin Mott",
-                            "Kaveh Hassani",
-                            "Kate Patterson",
-                            "TBA",
-                            "Steven Chuang Chuang",
-                            "Elham Marzi"
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,12 +55,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
-                            "Patricia Sheridan",
-                            "Robin Sacks"
+                            "Robin Sacks",
+                            "Patricia Sheridan"
                         ]
                     }
                 }
@@ -81,8 +81,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "TBA",
+                            "Justin Beland",
                             "Kaveh Hassani"
                         ]
                     },
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 07, 2025 at 2:02 AM"
+        "last_updated": "June 08, 2025 at 2:02 AM"
     },
     "timings": [
         {
