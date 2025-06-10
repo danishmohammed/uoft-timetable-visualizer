@@ -6,18 +6,18 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
-                            "MY",
-                            "BA",
-                            "GB",
+                            "SF",
                             "SS",
-                            "SF"
+                            "PB",
+                            "GB",
+                            "BA",
+                            "MY"
                         ],
                         "instructors": [
+                            "Hamid Shokrollah-Timorabadi",
+                            "TBA",
                             "Cheryl Runke",
                             "Armanpreet Pannu",
-                            "TBA",
-                            "Hamid Shokrollah-Timorabadi",
                             "Benjamin Kinsella",
                             "Fatemeh Jazinizadeh"
                         ]
@@ -27,12 +27,12 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Elham Marzi",
-                            "Kate Patterson",
-                            "Steven Chuang Chuang",
-                            "Kevin Mott",
-                            "TBA",
                             "Justin Beland",
+                            "TBA",
+                            "Kate Patterson",
+                            "Elham Marzi",
+                            "Kevin Mott",
+                            "Steven Chuang Chuang",
                             "Kaveh Hassani"
                         ]
                     },
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,8 +81,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "TBA",
+                            "Justin Beland",
                             "Kaveh Hassani"
                         ]
                     },
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 09, 2025 at 2:02 AM"
+        "last_updated": "June 10, 2025 at 2:08 AM"
     },
     "timings": [
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 15,
+            "current_enrolment": 30,
             "delivery_mode": "Online Asynchronous"
         },
         {
