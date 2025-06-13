@@ -7,19 +7,19 @@
                     "Engineering First Year Office": {
                         "buildings": [
                             "SF",
-                            "MY",
-                            "PB",
-                            "SS",
                             "BA",
-                            "GB"
+                            "GB",
+                            "PB",
+                            "MY",
+                            "SS"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
+                            "Armanpreet Pannu",
                             "Hamid Shokrollah-Timorabadi",
+                            "Benjamin Kinsella",
                             "TBA",
                             "Cheryl Runke",
-                            "Armanpreet Pannu",
-                            "Benjamin Kinsella"
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
                             "Justin Beland",
-                            "TBA",
-                            "Kaveh Hassani",
+                            "Elham Marzi",
                             "Kate Patterson",
+                            "Kaveh Hassani",
                             "Kevin Mott",
-                            "Elham Marzi"
+                            "TBA",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,12 +55,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 12, 2025 at 2:06 AM"
+        "last_updated": "June 13, 2025 at 3:07 AM"
     },
     "timings": [
         {
@@ -386,7 +386,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 51,
+            "current_enrolment": 105,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 30,
+            "current_enrolment": 34,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -1522,7 +1522,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 105,
+            "current_enrolment": 104,
             "delivery_mode": "In Person"
         },
         {
@@ -1540,7 +1540,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 105,
+            "current_enrolment": 104,
             "delivery_mode": "In Person"
         },
         {
@@ -1558,7 +1558,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 68,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -1576,7 +1576,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 68,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         }
     ]
