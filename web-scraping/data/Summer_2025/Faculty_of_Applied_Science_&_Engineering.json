@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "MY",
+                            "GB",
+                            "SS",
                             "SF",
                             "BA",
-                            "GB",
-                            "PB",
-                            "MY",
-                            "SS"
+                            "PB"
                         ],
                         "instructors": [
-                            "Armanpreet Pannu",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Benjamin Kinsella",
-                            "TBA",
                             "Cheryl Runke",
+                            "Armanpreet Pannu",
+                            "TBA",
+                            "Benjamin Kinsella",
+                            "Hamid Shokrollah-Timorabadi",
                             "Fatemeh Jazinizadeh"
                         ]
                     },
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
+                            "TBA",
+                            "Steven Chuang Chuang",
+                            "Kate Patterson",
                             "Justin Beland",
                             "Elham Marzi",
-                            "Kate Patterson",
                             "Kaveh Hassani",
-                            "Kevin Mott",
-                            "TBA",
-                            "Steven Chuang Chuang"
+                            "Kevin Mott"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
+                            "Kaveh Hassani",
                             "TBA",
-                            "Kaveh Hassani"
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 13, 2025 at 3:07 AM"
+        "last_updated": "June 14, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -1450,7 +1450,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1701,
+            "current_enrolment": 1702,
             "delivery_mode": "In Person"
         },
         {
@@ -1468,7 +1468,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1701,
+            "current_enrolment": 1702,
             "delivery_mode": "In Person"
         },
         {
@@ -1558,7 +1558,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 69,
+            "current_enrolment": 70,
             "delivery_mode": "In Person"
         },
         {
@@ -1576,7 +1576,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 69,
+            "current_enrolment": 70,
             "delivery_mode": "In Person"
         }
     ]
