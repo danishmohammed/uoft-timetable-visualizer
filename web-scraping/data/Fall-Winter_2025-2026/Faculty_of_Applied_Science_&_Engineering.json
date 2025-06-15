@@ -6,24 +6,24 @@
                 "departments": {
                     "Division of Engineering Science": {
                         "buildings": [
+                            "WB",
                             "MS",
-                            "HA",
-                            "MC",
-                            "HS",
-                            "UC",
-                            "MY",
-                            "LM",
-                            "SF",
                             "GB",
-                            "BA",
-                            "TBA",
-                            "MB",
-                            "SS",
-                            "ES",
-                            "MP",
-                            "KP",
+                            "UC",
+                            "SF",
+                            "MC",
+                            "HA",
+                            "MY",
                             "PB",
-                            "WB"
+                            "MP",
+                            "TBA",
+                            "SS",
+                            "HS",
+                            "ES",
+                            "MB",
+                            "LM",
+                            "BA",
+                            "KP"
                         ],
                         "instructors": [
                             "TBA"
@@ -32,40 +32,40 @@
                     "Engineering First Year Office": {
                         "buildings": [
                             "MS",
-                            "NL",
-                            "AH",
-                            "HA",
-                            "MC",
-                            "MY",
-                            "ES",
-                            "SF",
-                            "BA",
-                            "TBA",
-                            "BF",
-                            "MP",
-                            "SS",
-                            "SU",
+                            "WB",
                             "GB",
-                            "MB",
+                            "SF",
+                            "MC",
+                            "HA",
+                            "MY",
                             "PB",
-                            "WB"
+                            "BF",
+                            "SU",
+                            "TBA",
+                            "SS",
+                            "ES",
+                            "MB",
+                            "MP",
+                            "BA",
+                            "NL",
+                            "AH"
                         ],
                         "instructors": [
-                            "Dawn Kilkenny Rocheleau",
-                            "TBA"
+                            "TBA",
+                            "Dawn Kilkenny Rocheleau"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
+                            "WB",
+                            "GB",
+                            "SF",
                             "HA",
                             "MY",
                             "Online",
-                            "GB",
-                            "SF",
                             "TBA",
-                            "BA",
                             "ES",
-                            "WB"
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -74,23 +74,23 @@
                     "Department of Mechanical & Industrial Engineering": {
                         "buildings": [
                             "MS",
-                            "NL",
-                            "HA",
+                            "WB",
+                            "GB",
+                            "UC",
+                            "SF",
                             "MC",
                             "RS",
-                            "UC",
                             "MY",
-                            "HS",
-                            "GB",
-                            "SF",
-                            "BA",
+                            "HA",
+                            "SU",
                             "TBA",
-                            "ES",
                             "SS",
+                            "HS",
+                            "ES",
                             "MB",
                             "MP",
-                            "SU",
-                            "WB"
+                            "BA",
+                            "NL"
                         ],
                         "instructors": [
                             "TBA"
@@ -98,13 +98,13 @@
                     },
                     "Institute of Biomedical Engineering": {
                         "buildings": [
+                            "WB",
                             "MS",
+                            "SF",
                             "HA",
                             "HS",
-                            "SF",
-                            "BA",
                             "MB",
-                            "WB"
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -112,21 +112,21 @@
                     },
                     "Department of Chemical Engineering and Applied Chemistry": {
                         "buildings": [
+                            "WB",
                             "MS",
-                            "NL",
+                            "GB",
+                            "UC",
+                            "SF",
                             "WI",
                             "HA",
-                            "UC",
                             "MY",
-                            "LM",
-                            "GB",
-                            "MP",
-                            "BA",
-                            "SF",
                             "TBA",
                             "SS",
+                            "LM",
+                            "MP",
                             "MB",
-                            "WB"
+                            "BA",
+                            "NL"
                         ],
                         "instructors": [
                             "TBA"
@@ -134,19 +134,19 @@
                     },
                     "Department of Civil and Mineral Engineering": {
                         "buildings": [
+                            "WB",
                             "MS",
-                            "HA",
-                            "MC",
-                            "MY",
-                            "LM",
-                            "SF",
                             "GB",
+                            "SF",
+                            "MC",
+                            "HA",
+                            "MY",
+                            "PB",
+                            "MP",
                             "TBA",
                             "MB",
-                            "BA",
-                            "MP",
-                            "PB",
-                            "WB"
+                            "LM",
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -154,28 +154,28 @@
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "WI",
-                            "HA",
-                            "HS",
-                            "SF",
-                            "MP",
-                            "BA",
-                            "TBA",
+                            "PB",
                             "SU",
-                            "MB",
-                            "BT",
-                            "MS",
-                            "MC",
-                            "BL",
-                            "SS",
-                            "NL",
-                            "UC",
-                            "MY",
                             "PT",
                             "KP",
                             "WB",
+                            "HA",
+                            "MY",
+                            "SS",
+                            "HS",
+                            "MB",
+                            "BA",
+                            "NL",
+                            "BT",
+                            "MS",
+                            "UC",
+                            "SF",
+                            "WI",
+                            "TBA",
+                            "MP",
                             "GB",
-                            "PB"
+                            "MC",
+                            "BL"
                         ],
                         "instructors": [
                             "TBA"
@@ -183,10 +183,10 @@
                     },
                     "Department of Materials Science and Engineering": {
                         "buildings": [
-                            "SF",
+                            "TBA",
                             "BA",
                             "MY",
-                            "TBA"
+                            "SF"
                         ],
                         "instructors": [
                             "TBA"
@@ -214,21 +214,21 @@
                 "departments": {
                     "Division of Engineering Science": {
                         "buildings": [
+                            "WB",
                             "MS",
-                            "HA",
-                            "MC",
-                            "UC",
-                            "MY",
                             "GB",
+                            "UC",
                             "SF",
-                            "BA",
-                            "TBA",
-                            "MB",
-                            "ES",
-                            "SU",
-                            "MP",
+                            "MC",
+                            "HA",
+                            "MY",
                             "PB",
-                            "WB"
+                            "SU",
+                            "TBA",
+                            "ES",
+                            "MB",
+                            "MP",
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -236,22 +236,22 @@
                     },
                     "Engineering First Year Office": {
                         "buildings": [
+                            "WB",
                             "MS",
-                            "NL",
-                            "HA",
-                            "MC",
-                            "UC",
-                            "MY",
-                            "SF",
                             "GB",
-                            "BA",
-                            "TBA",
-                            "MP",
-                            "MB",
-                            "ES",
                             "DA",
+                            "UC",
+                            "SF",
+                            "MC",
+                            "HA",
+                            "MY",
                             "SU",
-                            "WB"
+                            "TBA",
+                            "ES",
+                            "MB",
+                            "MP",
+                            "BA",
+                            "NL"
                         ],
                         "instructors": [
                             "TBA"
@@ -259,14 +259,14 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
+                            "WB",
+                            "GB",
+                            "SF",
                             "MC",
                             "MY",
                             "Online",
-                            "GB",
-                            "SF",
                             "TBA",
-                            "BA",
-                            "WB"
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -274,24 +274,24 @@
                     },
                     "Department of Mechanical & Industrial Engineering": {
                         "buildings": [
+                            "WB",
                             "MS",
-                            "WI",
-                            "HA",
-                            "MC",
-                            "HS",
-                            "UC",
-                            "RS",
-                            "BL",
-                            "SF",
                             "GB",
-                            "TBA",
-                            "BA",
-                            "SU",
-                            "MB",
-                            "MY",
-                            "ES",
+                            "UC",
+                            "SF",
+                            "WI",
+                            "MC",
+                            "HA",
+                            "RS",
                             "PB",
-                            "WB"
+                            "MY",
+                            "SU",
+                            "TBA",
+                            "HS",
+                            "ES",
+                            "MB",
+                            "BL",
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -299,11 +299,11 @@
                     },
                     "Institute of Biomedical Engineering": {
                         "buildings": [
+                            "WB",
                             "HA",
                             "MY",
-                            "BA",
                             "MB",
-                            "WB"
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -311,21 +311,21 @@
                     },
                     "Department of Chemical Engineering and Applied Chemistry": {
                         "buildings": [
+                            "WB",
                             "MS",
-                            "NL",
+                            "GB",
+                            "SF",
                             "HA",
                             "MY",
-                            "LM",
-                            "SF",
-                            "MP",
-                            "BA",
-                            "MB",
-                            "GB",
-                            "SS",
-                            "TBA",
-                            "VC",
                             "PB",
-                            "WB"
+                            "MP",
+                            "TBA",
+                            "SS",
+                            "MB",
+                            "LM",
+                            "VC",
+                            "BA",
+                            "NL"
                         ],
                         "instructors": [
                             "TBA"
@@ -333,17 +333,17 @@
                     },
                     "Department of Civil and Mineral Engineering": {
                         "buildings": [
-                            "HA",
-                            "MC",
-                            "HS",
-                            "MY",
-                            "SF",
+                            "WB",
                             "GB",
-                            "BA",
-                            "MB",
+                            "SF",
+                            "MC",
+                            "HA",
+                            "MY",
                             "TBA",
                             "SS",
-                            "WB"
+                            "HS",
+                            "MB",
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -352,20 +352,20 @@
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
                             "MS",
-                            "AH",
-                            "HA",
-                            "MC",
-                            "MY",
-                            "SF",
+                            "WB",
                             "GB",
-                            "BA",
-                            "MB",
-                            "TBA",
+                            "SF",
+                            "MC",
+                            "HA",
+                            "MY",
                             "SU",
-                            "MP",
+                            "TBA",
                             "EP",
-                            "KP",
-                            "WB"
+                            "MB",
+                            "MP",
+                            "BA",
+                            "AH",
+                            "KP"
                         ],
                         "instructors": [
                             "TBA"
@@ -398,7 +398,7 @@
                 }
             }
         },
-        "last_updated": "June 14, 2025 at 5:39 AM"
+        "last_updated": "June 15, 2025 at 4:38 AM"
     },
     "timings": [
         {
@@ -13493,42 +13493,6 @@
             "day": "Monday",
             "start_time": "12:00",
             "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Fall 2025 (F)",
-            "department": "Department of Chemical Engineering and Applied Chemistry",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 50,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "CHE566H1 F: Elements of Nuclear Engineering",
-            "section_title": "Lectures",
-            "day": "Friday",
-            "start_time": "09:00",
-            "end_time": "12:00",
-            "campus": "St. George",
-            "session": "Fall 2025 (F)",
-            "department": "Department of Chemical Engineering and Applied Chemistry",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 50,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "CHE566H1 F: Elements of Nuclear Engineering",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "15:00",
-            "end_time": "17:00",
             "campus": "St. George",
             "session": "Fall 2025 (F)",
             "department": "Department of Chemical Engineering and Applied Chemistry",
