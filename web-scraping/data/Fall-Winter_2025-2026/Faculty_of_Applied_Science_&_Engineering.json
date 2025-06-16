@@ -6,24 +6,24 @@
                 "departments": {
                     "Division of Engineering Science": {
                         "buildings": [
-                            "WB",
-                            "MS",
-                            "GB",
-                            "UC",
-                            "SF",
-                            "MC",
-                            "HA",
-                            "MY",
                             "PB",
-                            "MP",
                             "TBA",
-                            "SS",
-                            "HS",
-                            "ES",
+                            "KP",
+                            "MS",
+                            "SF",
                             "MB",
-                            "LM",
+                            "ES",
+                            "HS",
+                            "SS",
+                            "MP",
                             "BA",
-                            "KP"
+                            "MC",
+                            "LM",
+                            "UC",
+                            "MY",
+                            "WB",
+                            "GB",
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -31,23 +31,23 @@
                     },
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MS",
-                            "WB",
-                            "GB",
-                            "SF",
-                            "MC",
-                            "HA",
-                            "MY",
-                            "PB",
-                            "BF",
-                            "SU",
                             "TBA",
-                            "SS",
-                            "ES",
+                            "PB",
+                            "NL",
+                            "MS",
+                            "SU",
+                            "SF",
                             "MB",
+                            "BF",
+                            "ES",
+                            "SS",
                             "MP",
                             "BA",
-                            "NL",
+                            "MC",
+                            "MY",
+                            "WB",
+                            "GB",
+                            "HA",
                             "AH"
                         ],
                         "instructors": [
@@ -57,15 +57,15 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
+                            "TBA",
+                            "SF",
+                            "ES",
+                            "Online",
+                            "BA",
+                            "MY",
                             "WB",
                             "GB",
-                            "SF",
-                            "HA",
-                            "MY",
-                            "Online",
-                            "TBA",
-                            "ES",
-                            "BA"
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -73,23 +73,23 @@
                     },
                     "Department of Mechanical & Industrial Engineering": {
                         "buildings": [
-                            "MS",
-                            "WB",
-                            "GB",
-                            "UC",
-                            "SF",
-                            "MC",
-                            "RS",
-                            "MY",
+                            "TBA",
                             "HA",
                             "SU",
-                            "TBA",
+                            "SF",
+                            "MB",
+                            "ES",
+                            "MY",
                             "SS",
                             "HS",
-                            "ES",
-                            "MB",
                             "MP",
                             "BA",
+                            "MC",
+                            "UC",
+                            "MS",
+                            "WB",
+                            "RS",
+                            "GB",
                             "NL"
                         ],
                         "instructors": [
@@ -98,13 +98,13 @@
                     },
                     "Institute of Biomedical Engineering": {
                         "buildings": [
-                            "WB",
-                            "MS",
                             "SF",
-                            "HA",
-                            "HS",
                             "MB",
-                            "BA"
+                            "HS",
+                            "BA",
+                            "MS",
+                            "WB",
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -112,20 +112,20 @@
                     },
                     "Department of Chemical Engineering and Applied Chemistry": {
                         "buildings": [
-                            "WB",
-                            "MS",
-                            "GB",
-                            "UC",
-                            "SF",
-                            "WI",
-                            "HA",
-                            "MY",
                             "TBA",
-                            "SS",
-                            "LM",
-                            "MP",
+                            "HA",
+                            "MS",
+                            "SF",
                             "MB",
+                            "WI",
+                            "SS",
+                            "MP",
                             "BA",
+                            "LM",
+                            "UC",
+                            "MY",
+                            "WB",
+                            "GB",
                             "NL"
                         ],
                         "instructors": [
@@ -134,19 +134,19 @@
                     },
                     "Department of Civil and Mineral Engineering": {
                         "buildings": [
-                            "WB",
-                            "MS",
-                            "GB",
-                            "SF",
-                            "MC",
-                            "HA",
-                            "MY",
-                            "PB",
-                            "MP",
                             "TBA",
+                            "PB",
+                            "MS",
+                            "SF",
                             "MB",
+                            "MP",
+                            "BA",
+                            "MC",
                             "LM",
-                            "BA"
+                            "MY",
+                            "WB",
+                            "GB",
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -154,28 +154,28 @@
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
+                            "TBA",
                             "PB",
-                            "SU",
-                            "PT",
-                            "KP",
-                            "WB",
-                            "HA",
-                            "MY",
-                            "SS",
-                            "HS",
-                            "MB",
-                            "BA",
-                            "NL",
+                            "MP",
                             "BT",
+                            "SU",
+                            "HS",
+                            "SS",
+                            "BA",
+                            "MC",
+                            "KP",
                             "MS",
-                            "UC",
+                            "BL",
                             "SF",
                             "WI",
-                            "TBA",
-                            "MP",
+                            "WB",
                             "GB",
-                            "MC",
-                            "BL"
+                            "UC",
+                            "NL",
+                            "MB",
+                            "PT",
+                            "MY",
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -185,8 +185,8 @@
                         "buildings": [
                             "TBA",
                             "BA",
-                            "MY",
-                            "SF"
+                            "SF",
+                            "MY"
                         ],
                         "instructors": [
                             "TBA"
@@ -214,21 +214,21 @@
                 "departments": {
                     "Division of Engineering Science": {
                         "buildings": [
-                            "WB",
-                            "MS",
-                            "GB",
-                            "UC",
-                            "SF",
-                            "MC",
-                            "HA",
-                            "MY",
-                            "PB",
-                            "SU",
                             "TBA",
-                            "ES",
+                            "PB",
+                            "MS",
+                            "SU",
+                            "SF",
                             "MB",
+                            "ES",
                             "MP",
-                            "BA"
+                            "BA",
+                            "MC",
+                            "UC",
+                            "MY",
+                            "WB",
+                            "GB",
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -236,22 +236,22 @@
                     },
                     "Engineering First Year Office": {
                         "buildings": [
-                            "WB",
-                            "MS",
-                            "GB",
-                            "DA",
-                            "UC",
-                            "SF",
-                            "MC",
-                            "HA",
-                            "MY",
-                            "SU",
                             "TBA",
-                            "ES",
+                            "NL",
+                            "MS",
+                            "SU",
+                            "SF",
                             "MB",
+                            "DA",
+                            "ES",
                             "MP",
                             "BA",
-                            "NL"
+                            "MC",
+                            "UC",
+                            "MY",
+                            "WB",
+                            "GB",
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -259,14 +259,14 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "WB",
-                            "GB",
+                            "TBA",
                             "SF",
+                            "Online",
+                            "BA",
                             "MC",
                             "MY",
-                            "Online",
-                            "TBA",
-                            "BA"
+                            "WB",
+                            "GB"
                         ],
                         "instructors": [
                             "TBA"
@@ -274,24 +274,24 @@
                     },
                     "Department of Mechanical & Industrial Engineering": {
                         "buildings": [
-                            "WB",
-                            "MS",
-                            "GB",
-                            "UC",
-                            "SF",
-                            "WI",
-                            "MC",
-                            "HA",
-                            "RS",
-                            "PB",
-                            "MY",
-                            "SU",
                             "TBA",
-                            "HS",
-                            "ES",
+                            "PB",
+                            "HA",
+                            "SU",
+                            "SF",
                             "MB",
                             "BL",
-                            "BA"
+                            "WI",
+                            "HS",
+                            "MY",
+                            "ES",
+                            "BA",
+                            "MC",
+                            "MS",
+                            "WB",
+                            "RS",
+                            "GB",
+                            "UC"
                         ],
                         "instructors": [
                             "TBA"
@@ -299,11 +299,11 @@
                     },
                     "Institute of Biomedical Engineering": {
                         "buildings": [
-                            "WB",
-                            "HA",
-                            "MY",
                             "MB",
-                            "BA"
+                            "BA",
+                            "MY",
+                            "WB",
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -311,20 +311,20 @@
                     },
                     "Department of Chemical Engineering and Applied Chemistry": {
                         "buildings": [
-                            "WB",
-                            "MS",
-                            "GB",
-                            "SF",
-                            "HA",
-                            "MY",
                             "PB",
-                            "MP",
                             "TBA",
-                            "SS",
+                            "HA",
+                            "SF",
                             "MB",
-                            "LM",
-                            "VC",
+                            "MY",
+                            "SS",
+                            "MP",
                             "BA",
+                            "VC",
+                            "LM",
+                            "MS",
+                            "WB",
+                            "GB",
                             "NL"
                         ],
                         "instructors": [
@@ -333,17 +333,17 @@
                     },
                     "Department of Civil and Mineral Engineering": {
                         "buildings": [
+                            "TBA",
+                            "SF",
+                            "MB",
+                            "HS",
+                            "SS",
+                            "BA",
+                            "MC",
+                            "MY",
                             "WB",
                             "GB",
-                            "SF",
-                            "MC",
-                            "HA",
-                            "MY",
-                            "TBA",
-                            "SS",
-                            "HS",
-                            "MB",
-                            "BA"
+                            "HA"
                         ],
                         "instructors": [
                             "TBA"
@@ -351,21 +351,21 @@
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
+                            "TBA",
+                            "KP",
+                            "SU",
+                            "SF",
+                            "MB",
+                            "MY",
+                            "MP",
+                            "BA",
+                            "MC",
+                            "EP",
                             "MS",
                             "WB",
                             "GB",
-                            "SF",
-                            "MC",
                             "HA",
-                            "MY",
-                            "SU",
-                            "TBA",
-                            "EP",
-                            "MB",
-                            "MP",
-                            "BA",
-                            "AH",
-                            "KP"
+                            "AH"
                         ],
                         "instructors": [
                             "TBA"
@@ -398,7 +398,7 @@
                 }
             }
         },
-        "last_updated": "June 15, 2025 at 4:38 AM"
+        "last_updated": "June 16, 2025 at 5:28 AM"
     },
     "timings": [
         {
@@ -13493,6 +13493,42 @@
             "day": "Monday",
             "start_time": "12:00",
             "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall 2025 (F)",
+            "department": "Department of Chemical Engineering and Applied Chemistry",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 50,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "CHE566H1 F: Elements of Nuclear Engineering",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall 2025 (F)",
+            "department": "Department of Chemical Engineering and Applied Chemistry",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 50,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "CHE566H1 F: Elements of Nuclear Engineering",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Fall 2025 (F)",
             "department": "Department of Chemical Engineering and Applied Chemistry",
@@ -31243,186 +31279,6 @@
             "end_time": "18:00",
             "campus": "St. George",
             "session": "Fall 2025 (F)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 40,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "19:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 80,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Lectures",
-            "day": "Friday",
-            "start_time": "16:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 80,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "15:00",
-            "end_time": "16:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SU",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 80,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Lectures",
-            "day": "Thursday",
-            "start_time": "15:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 80,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 80,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "13:00",
-            "end_time": "14:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 80,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "12:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 40,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "12:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 40,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "15:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
-            "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 40,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE361H1 S: Computer Networks I",
-            "section_title": "Practicals",
-            "day": "Monday",
-            "start_time": "15:00",
-            "end_time": "18:00",
-            "campus": "St. George",
-            "session": "Winter 2026 (S)",
             "department": "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.",
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "GB",
