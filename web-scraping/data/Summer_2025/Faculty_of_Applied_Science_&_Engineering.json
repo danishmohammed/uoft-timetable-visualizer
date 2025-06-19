@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
                             "BA",
-                            "PB",
                             "GB",
+                            "PB",
                             "MY",
+                            "SF",
                             "SS"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Armanpreet Pannu",
-                            "Cheryl Runke",
-                            "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
-                            "Benjamin Kinsella"
+                            "Armanpreet Pannu",
+                            "Benjamin Kinsella",
+                            "TBA",
+                            "Fatemeh Jazinizadeh",
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
-                            "TBA",
-                            "Kate Patterson",
                             "Justin Beland",
-                            "Steven Chuang Chuang",
+                            "Kaveh Hassani",
+                            "Elham Marzi",
                             "Kevin Mott",
-                            "Elham Marzi"
+                            "TBA",
+                            "Steven Chuang Chuang",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Robin Sacks",
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
+                            "Justin Beland",
                             "TBA",
-                            "Justin Beland"
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 18, 2025 at 2:02 AM"
+        "last_updated": "June 19, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -222,7 +222,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -240,7 +240,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -258,7 +258,7 @@
                 "Benjamin Kinsella"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -276,7 +276,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -294,7 +294,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -312,7 +312,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 70,
+            "current_enrolment": 69,
             "delivery_mode": "In Person"
         },
         {
@@ -386,7 +386,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 105,
+            "current_enrolment": 132,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 35,
+            "current_enrolment": 46,
             "delivery_mode": "Online Asynchronous"
         },
         {
