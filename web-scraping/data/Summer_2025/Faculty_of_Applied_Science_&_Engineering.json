@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
-                            "SF",
                             "MY",
-                            "SS",
+                            "BA",
+                            "GB",
                             "PB",
-                            "BA"
+                            "SS",
+                            "SF"
                         ],
                         "instructors": [
                             "Cheryl Runke",
-                            "Fatemeh Jazinizadeh",
                             "Benjamin Kinsella",
-                            "Hamid Shokrollah-Timorabadi",
                             "Armanpreet Pannu",
+                            "Fatemeh Jazinizadeh",
+                            "Hamid Shokrollah-Timorabadi",
                             "TBA"
                         ]
                     },
@@ -28,12 +28,12 @@
                         ],
                         "instructors": [
                             "Kaveh Hassani",
-                            "Justin Beland",
-                            "Steven Chuang Chuang",
                             "Kevin Mott",
-                            "TBA",
+                            "Kate Patterson",
+                            "Steven Chuang Chuang",
                             "Elham Marzi",
-                            "Kate Patterson"
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 27, 2025 at 2:46 AM"
+        "last_updated": "June 28, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -386,7 +386,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 149,
+            "current_enrolment": 150,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 69,
+            "current_enrolment": 80,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -1450,7 +1450,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1714,
+            "current_enrolment": 1730,
             "delivery_mode": "In Person"
         },
         {
@@ -1468,7 +1468,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1714,
+            "current_enrolment": 1730,
             "delivery_mode": "In Person"
         },
         {
