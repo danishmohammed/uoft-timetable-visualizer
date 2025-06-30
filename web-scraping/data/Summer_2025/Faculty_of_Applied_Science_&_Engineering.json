@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
                             "PB",
-                            "GB",
+                            "SS",
                             "MY",
-                            "BA",
-                            "SF"
+                            "GB",
+                            "SF",
+                            "BA"
                         ],
                         "instructors": [
                             "Armanpreet Pannu",
-                            "Cheryl Runke",
                             "Hamid Shokrollah-Timorabadi",
-                            "Fatemeh Jazinizadeh",
+                            "Cheryl Runke",
+                            "TBA",
                             "Benjamin Kinsella",
-                            "TBA"
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kevin Mott",
                             "Kaveh Hassani",
-                            "Justin Beland",
+                            "Steven Chuang Chuang",
                             "Elham Marzi",
-                            "Kate Patterson",
                             "TBA",
-                            "Steven Chuang Chuang"
+                            "Justin Beland",
+                            "Kevin Mott",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -59,8 +59,8 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Patricia Sheridan",
-                            "Robin Sacks"
+                            "Robin Sacks",
+                            "Patricia Sheridan"
                         ]
                     }
                 }
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Kaveh Hassani",
                             "TBA",
-                            "Justin Beland",
-                            "Kaveh Hassani"
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "June 29, 2025 at 2:02 AM"
+        "last_updated": "June 30, 2025 at 2:02 AM"
     },
     "timings": [
         {
