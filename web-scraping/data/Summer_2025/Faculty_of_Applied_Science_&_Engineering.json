@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
-                            "GB",
-                            "MY",
-                            "BA",
                             "PB",
-                            "SF"
+                            "SS",
+                            "MY",
+                            "GB",
+                            "SF",
+                            "BA"
                         ],
                         "instructors": [
+                            "TBA",
                             "Cheryl Runke",
-                            "Armanpreet Pannu",
                             "Benjamin Kinsella",
+                            "Armanpreet Pannu",
                             "Fatemeh Jazinizadeh",
-                            "Hamid Shokrollah-Timorabadi",
-                            "TBA"
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Kevin Mott",
-                            "Steven Chuang Chuang",
-                            "Elham Marzi",
-                            "Kaveh Hassani",
+                            "TBA",
                             "Justin Beland",
-                            "TBA"
+                            "Kate Patterson",
+                            "Elham Marzi",
+                            "Steven Chuang Chuang",
+                            "Kevin Mott",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,12 +55,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
+                            "TBA",
                             "Justin Beland",
-                            "TBA"
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "July 01, 2025 at 2:01 AM"
+        "last_updated": "July 02, 2025 at 2:11 AM"
     },
     "timings": [
         {
