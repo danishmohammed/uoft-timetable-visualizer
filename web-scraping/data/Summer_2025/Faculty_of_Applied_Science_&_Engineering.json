@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
-                            "MY",
-                            "GB",
                             "PB",
+                            "MY",
                             "BA",
-                            "SF"
+                            "GB",
+                            "SF",
+                            "SS"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
-                            "TBA",
                             "Cheryl Runke",
                             "Benjamin Kinsella",
-                            "Armanpreet Pannu"
+                            "Fatemeh Jazinizadeh",
+                            "Armanpreet Pannu",
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "Justin Beland",
+                            "Kaveh Hassani",
+                            "Kevin Mott",
                             "Steven Chuang Chuang",
                             "TBA",
-                            "Kevin Mott",
-                            "Kate Patterson",
-                            "Elham Marzi"
+                            "Elham Marzi",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "Robin Sacks",
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "July 04, 2025 at 2:16 AM"
+        "last_updated": "July 05, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -386,7 +386,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 150,
+            "current_enrolment": 149,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 100,
+            "current_enrolment": 104,
             "delivery_mode": "Online Asynchronous"
         },
         {
