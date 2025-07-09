@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "SS",
+                            "MY",
+                            "PB",
                             "BA",
                             "SF",
-                            "PB",
-                            "SS",
-                            "GB",
-                            "MY"
+                            "GB"
                         ],
                         "instructors": [
-                            "Benjamin Kinsella",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Cheryl Runke",
                             "TBA",
+                            "Benjamin Kinsella",
+                            "Armanpreet Pannu",
                             "Fatemeh Jazinizadeh",
-                            "Armanpreet Pannu"
+                            "Cheryl Runke",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Kaveh Hassani",
                             "Elham Marzi",
+                            "Kevin Mott",
                             "TBA",
                             "Steven Chuang Chuang",
                             "Justin Beland",
-                            "Kevin Mott"
+                            "Kaveh Hassani",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Robin Sacks",
@@ -81,8 +81,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "Justin Beland",
+                            "Kaveh Hassani",
                             "TBA"
                         ]
                     },
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "July 08, 2025 at 2:54 AM"
+        "last_updated": "July 09, 2025 at 2:01 AM"
     },
     "timings": [
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 112,
+            "current_enrolment": 114,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -1414,7 +1414,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 446,
+            "current_enrolment": 445,
             "delivery_mode": "In Person"
         },
         {
@@ -1432,7 +1432,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 446,
+            "current_enrolment": 445,
             "delivery_mode": "In Person"
         },
         {
