@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "GB",
                             "PB",
                             "SS",
-                            "SF",
-                            "GB",
+                            "MY",
                             "BA",
-                            "MY"
+                            "SF"
                         ],
                         "instructors": [
+                            "Cheryl Runke",
+                            "TBA",
+                            "Hamid Shokrollah-Timorabadi",
                             "Fatemeh Jazinizadeh",
                             "Benjamin Kinsella",
-                            "Armanpreet Pannu",
-                            "Hamid Shokrollah-Timorabadi",
-                            "TBA",
-                            "Cheryl Runke"
+                            "Armanpreet Pannu"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kevin Mott",
+                            "Elham Marzi",
+                            "TBA",
                             "Kaveh Hassani",
                             "Kate Patterson",
-                            "Elham Marzi",
+                            "Justin Beland",
                             "Steven Chuang Chuang",
-                            "TBA",
-                            "Justin Beland"
+                            "Kevin Mott"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "July 11, 2025 at 2:01 AM"
+        "last_updated": "July 12, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -386,7 +386,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 149,
+            "current_enrolment": 148,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -1450,7 +1450,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1735,
+            "current_enrolment": 1736,
             "delivery_mode": "In Person"
         },
         {
@@ -1468,7 +1468,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1735,
+            "current_enrolment": 1736,
             "delivery_mode": "In Person"
         },
         {
