@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
                             "PB",
-                            "SF",
-                            "GB",
+                            "MY",
                             "BA",
-                            "MY"
+                            "GB",
+                            "SF",
+                            "SS"
                         ],
                         "instructors": [
-                            "Armanpreet Pannu",
                             "Benjamin Kinsella",
-                            "Hamid Shokrollah-Timorabadi",
+                            "Cheryl Runke",
+                            "Armanpreet Pannu",
                             "Fatemeh Jazinizadeh",
                             "TBA",
-                            "Cheryl Runke"
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Elham Marzi",
-                            "Steven Chuang Chuang",
                             "Kaveh Hassani",
-                            "Justin Beland",
-                            "TBA",
+                            "Steven Chuang Chuang",
                             "Kate Patterson",
-                            "Kevin Mott"
+                            "Justin Beland",
+                            "Kevin Mott",
+                            "Elham Marzi",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Robin Sacks",
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "July 13, 2025 at 2:01 AM"
+        "last_updated": "July 15, 2025 at 2:08 AM"
     },
     "timings": [
         {
@@ -1558,7 +1558,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         },
         {
@@ -1576,7 +1576,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         }
     ]
