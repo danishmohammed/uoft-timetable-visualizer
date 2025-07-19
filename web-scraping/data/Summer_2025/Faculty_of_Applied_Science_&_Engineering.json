@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "SF",
                             "GB",
+                            "MY",
                             "BA",
                             "SS",
-                            "MY",
-                            "SF",
                             "PB"
                         ],
                         "instructors": [
+                            "Fatemeh Jazinizadeh",
                             "TBA",
-                            "Cheryl Runke",
+                            "Hamid Shokrollah-Timorabadi",
                             "Armanpreet Pannu",
                             "Benjamin Kinsella",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Fatemeh Jazinizadeh"
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,12 +28,12 @@
                         ],
                         "instructors": [
                             "TBA",
-                            "Elham Marzi",
-                            "Justin Beland",
-                            "Kate Patterson",
+                            "Steven Chuang Chuang",
                             "Kevin Mott",
-                            "Kaveh Hassani",
-                            "Steven Chuang Chuang"
+                            "Justin Beland",
+                            "Elham Marzi",
+                            "Kate Patterson",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -59,8 +59,8 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Patricia Sheridan",
-                            "Robin Sacks"
+                            "Robin Sacks",
+                            "Patricia Sheridan"
                         ]
                     }
                 }
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -82,8 +82,8 @@
                         ],
                         "instructors": [
                             "TBA",
-                            "Kaveh Hassani",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "July 18, 2025 at 2:47 AM"
+        "last_updated": "July 19, 2025 at 2:14 AM"
     },
     "timings": [
         {
@@ -386,7 +386,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 147,
+            "current_enrolment": 143,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 112,
+            "current_enrolment": 111,
             "delivery_mode": "Online Asynchronous"
         },
         {
