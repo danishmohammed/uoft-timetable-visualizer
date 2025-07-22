@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
                             "PB",
+                            "SF",
+                            "BA",
                             "GB",
                             "MY",
-                            "BA",
                             "SS"
                         ],
                         "instructors": [
-                            "Hamid Shokrollah-Timorabadi",
                             "TBA",
                             "Benjamin Kinsella",
-                            "Cheryl Runke",
+                            "Fatemeh Jazinizadeh",
                             "Armanpreet Pannu",
-                            "Fatemeh Jazinizadeh"
+                            "Cheryl Runke",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "TBA",
-                            "Kaveh Hassani",
-                            "Steven Chuang Chuang",
-                            "Kate Patterson",
+                            "Kevin Mott",
                             "Elham Marzi",
-                            "Kevin Mott"
+                            "Kate Patterson",
+                            "Steven Chuang Chuang",
+                            "Kaveh Hassani",
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -59,8 +59,8 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -82,8 +82,8 @@
                         ],
                         "instructors": [
                             "Kaveh Hassani",
-                            "TBA",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "July 21, 2025 at 2:02 AM"
+        "last_updated": "July 22, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -386,7 +386,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 143,
+            "current_enrolment": 140,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -404,7 +404,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 111,
+            "current_enrolment": 108,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -494,7 +494,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 118,
+            "current_enrolment": 115,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -512,6 +512,24 @@
                 "Justin Beland"
             ],
             "capacity": 120,
+            "current_enrolment": 115,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2025 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
             "current_enrolment": 118,
             "delivery_mode": "Online Synchronous"
         },
@@ -522,24 +540,6 @@
             "start_time": "10:00",
             "end_time": "12:00",
             "campus": "St. George",
-            "session": "Summer First Sub-Session 2025 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 120,
-            "current_enrolment": 119,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "10:00",
-            "end_time": "12:00",
-            "campus": "St. George",
             "session": "Summer Second Sub-Session 2025 (S)",
             "department": "Cross-Disciplinary Programs Office",
             "faculty": "Faculty of Applied Science & Engineering",
@@ -548,7 +548,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 119,
+            "current_enrolment": 118,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -566,7 +566,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 105,
+            "current_enrolment": 104,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -584,7 +584,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 105,
+            "current_enrolment": 104,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1558,7 +1558,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 67,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -1576,7 +1576,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 67,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         }
     ]
