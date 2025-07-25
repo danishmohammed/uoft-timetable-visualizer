@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "GB",
+                            "PB",
+                            "SF",
                             "SS",
                             "MY",
-                            "PB",
-                            "GB",
-                            "BA",
-                            "SF"
+                            "BA"
                         ],
                         "instructors": [
-                            "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh",
+                            "Benjamin Kinsella",
                             "Cheryl Runke",
                             "Armanpreet Pannu",
                             "TBA",
-                            "Benjamin Kinsella",
-                            "Fatemeh Jazinizadeh"
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kevin Mott",
                             "Kaveh Hassani",
                             "Steven Chuang Chuang",
-                            "TBA",
-                            "Elham Marzi",
+                            "Kevin Mott",
                             "Kate Patterson",
-                            "Justin Beland"
+                            "Elham Marzi",
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Justin Beland",
                             "Kaveh Hassani",
-                            "Justin Beland"
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -108,13 +108,14 @@
                             "OI"
                         ],
                         "instructors": [
+                            "Zeeshan Rayees",
                             "Robin Sacks"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "July 24, 2025 at 2:02 AM"
+        "last_updated": "July 25, 2025 at 2:38 AM"
     },
     "timings": [
         {
@@ -1555,7 +1556,8 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "Robin Sacks"
+                "Robin Sacks",
+                "Zeeshan Rayees"
             ],
             "capacity": 120,
             "current_enrolment": 65,
@@ -1573,7 +1575,8 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "Robin Sacks"
+                "Robin Sacks",
+                "Zeeshan Rayees"
             ],
             "capacity": 120,
             "current_enrolment": 65,
