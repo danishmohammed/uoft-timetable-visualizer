@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
-                            "MY",
-                            "SS",
-                            "GB",
                             "BA",
-                            "SF"
+                            "MY",
+                            "PB",
+                            "SF",
+                            "SS",
+                            "GB"
                         ],
                         "instructors": [
+                            "TBA",
+                            "Benjamin Kinsella",
                             "Cheryl Runke",
                             "Armanpreet Pannu",
-                            "Benjamin Kinsella",
-                            "Fatemeh Jazinizadeh",
-                            "TBA",
-                            "Hamid Shokrollah-Timorabadi"
+                            "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
+                            "TBA",
+                            "Justin Beland",
                             "Elham Marzi",
+                            "Kaveh Hassani",
                             "Kevin Mott",
                             "Steven Chuang Chuang",
-                            "Justin Beland",
-                            "Kate Patterson",
-                            "TBA",
-                            "Kaveh Hassani"
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,12 +55,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -81,8 +81,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "TBA",
+                            "Justin Beland",
                             "Kaveh Hassani"
                         ]
                     },
@@ -108,14 +108,14 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Zeeshan Rayees"
+                            "Zeeshan Rayees",
+                            "Robin Sacks"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "July 30, 2025 at 2:51 AM"
+        "last_updated": "July 31, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -387,7 +387,7 @@
                 "Victoria Ann Kerr"
             ],
             "capacity": 150,
-            "current_enrolment": 137,
+            "current_enrolment": 136,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -1415,7 +1415,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 463,
+            "current_enrolment": 456,
             "delivery_mode": "In Person"
         },
         {
@@ -1433,7 +1433,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 463,
+            "current_enrolment": 456,
             "delivery_mode": "In Person"
         },
         {
