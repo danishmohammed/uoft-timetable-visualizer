@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
                             "MY",
-                            "SF",
+                            "GB",
                             "SS",
+                            "PB",
                             "BA",
-                            "GB"
+                            "SF"
                         ],
                         "instructors": [
-                            "Benjamin Kinsella",
-                            "Fatemeh Jazinizadeh",
                             "TBA",
-                            "Hamid Shokrollah-Timorabadi",
                             "Cheryl Runke",
-                            "Armanpreet Pannu"
+                            "Benjamin Kinsella",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Armanpreet Pannu",
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -28,10 +28,10 @@
                         ],
                         "instructors": [
                             "Kaveh Hassani",
+                            "TBA",
+                            "Justin Beland",
                             "Kate Patterson",
                             "Steven Chuang Chuang",
-                            "Justin Beland",
-                            "TBA",
                             "Elham Marzi",
                             "Kevin Mott"
                         ]
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "OI",
-                            "MY"
+                            "MY",
+                            "OI"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -82,8 +82,8 @@
                         ],
                         "instructors": [
                             "Kaveh Hassani",
-                            "Justin Beland",
-                            "TBA"
+                            "TBA",
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -115,7 +115,7 @@
                 }
             }
         },
-        "last_updated": "August 06, 2025 at 2:02 AM"
+        "last_updated": "August 07, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -1451,7 +1451,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1747,
+            "current_enrolment": 1753,
             "delivery_mode": "In Person"
         },
         {
@@ -1469,7 +1469,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1747,
+            "current_enrolment": 1753,
             "delivery_mode": "In Person"
         },
         {
