@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SS",
-                            "BA",
                             "MY",
+                            "BA",
                             "PB",
+                            "SF",
                             "GB",
-                            "SF"
+                            "SS"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Fatemeh Jazinizadeh",
                             "Armanpreet Pannu",
                             "Benjamin Kinsella",
-                            "Cheryl Runke",
                             "Hamid Shokrollah-Timorabadi",
-                            "Fatemeh Jazinizadeh"
+                            "TBA",
+                            "Cheryl Runke"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Justin Beland",
                             "Kate Patterson",
                             "Kevin Mott",
                             "Elham Marzi",
+                            "TBA",
+                            "Kaveh Hassani",
                             "Steven Chuang Chuang",
-                            "Kaveh Hassani"
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -55,12 +55,12 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Patricia Sheridan"
+                            "Patricia Sheridan",
+                            "Robin Sacks"
                         ]
                     }
                 }
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Kaveh Hassani",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Peter Grant",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Peter Grant"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -108,14 +108,14 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Robin Sacks",
-                            "Zeeshan Rayees"
+                            "Zeeshan Rayees",
+                            "Robin Sacks"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "August 08, 2025 at 2:03 AM"
+        "last_updated": "August 09, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -1415,7 +1415,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 446,
+            "current_enrolment": 443,
             "delivery_mode": "In Person"
         },
         {
@@ -1433,7 +1433,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 446,
+            "current_enrolment": 443,
             "delivery_mode": "In Person"
         },
         {
@@ -1451,7 +1451,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1753,
+            "current_enrolment": 1755,
             "delivery_mode": "In Person"
         },
         {
@@ -1469,7 +1469,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1753,
+            "current_enrolment": 1755,
             "delivery_mode": "In Person"
         },
         {
