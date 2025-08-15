@@ -6,18 +6,18 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
+                            "BA",
                             "SF",
                             "PB",
-                            "SS",
                             "MY",
-                            "BA"
+                            "GB",
+                            "SS"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
                             "Armanpreet Pannu",
-                            "Cheryl Runke",
+                            "Fatemeh Jazinizadeh",
                             "TBA",
+                            "Cheryl Runke",
                             "Hamid Shokrollah-Timorabadi",
                             "Benjamin Kinsella"
                         ]
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "Elham Marzi",
+                            "Kaveh Hassani",
+                            "Justin Beland",
                             "TBA",
                             "Steven Chuang Chuang",
                             "Kate Patterson",
-                            "Kevin Mott",
-                            "Kaveh Hassani"
+                            "Kevin Mott"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -55,8 +55,8 @@
                     },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
-                            "MY",
-                            "OI"
+                            "OI",
+                            "MY"
                         ],
                         "instructors": [
                             "Patricia Sheridan",
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "TBA",
-                            "Kaveh Hassani"
+                            "Kaveh Hassani",
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -108,14 +108,13 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Zeeshan Rayees",
                             "Robin Sacks"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "August 14, 2025 at 2:06 AM"
+        "last_updated": "August 15, 2025 at 2:02 AM"
     },
     "timings": [
         {
@@ -1451,7 +1450,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1755,
+            "current_enrolment": 1756,
             "delivery_mode": "In Person"
         },
         {
@@ -1469,7 +1468,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1755,
+            "current_enrolment": 1756,
             "delivery_mode": "In Person"
         },
         {
@@ -1556,8 +1555,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "Robin Sacks",
-                "Zeeshan Rayees"
+                "Robin Sacks"
             ],
             "capacity": 120,
             "current_enrolment": 65,
@@ -1575,8 +1573,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "OI",
             "instructors": [
-                "Robin Sacks",
-                "Zeeshan Rayees"
+                "Robin Sacks"
             ],
             "capacity": 120,
             "current_enrolment": 65,
