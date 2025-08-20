@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
-                            "GB",
-                            "MY",
                             "BA",
-                            "SS",
-                            "SF"
+                            "SF",
+                            "GB",
+                            "PB",
+                            "MY",
+                            "SS"
                         ],
                         "instructors": [
-                            "Benjamin Kinsella",
-                            "Fatemeh Jazinizadeh",
+                            "Hamid Shokrollah-Timorabadi",
                             "Armanpreet Pannu",
                             "TBA",
-                            "Hamid Shokrollah-Timorabadi",
+                            "Benjamin Kinsella",
+                            "Fatemeh Jazinizadeh",
                             "Cheryl Runke"
                         ]
                     },
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Steven Chuang Chuang",
-                            "TBA",
-                            "Elham Marzi",
                             "Kevin Mott",
+                            "TBA",
                             "Kaveh Hassani",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "Elham Marzi",
+                            "Kate Patterson",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Victoria Ann Kerr",
-                            "Scott Ramsay"
+                            "Scott Ramsay",
+                            "Victoria Ann Kerr"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Justin Beland",
-                            "Kaveh Hassani"
+                            "Kaveh Hassani",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "August 19, 2025 at 2:01 AM"
+        "last_updated": "August 20, 2025 at 2:02 AM"
     },
     "timings": [
         {
