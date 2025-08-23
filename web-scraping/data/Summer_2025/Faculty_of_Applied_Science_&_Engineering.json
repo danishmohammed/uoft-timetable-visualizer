@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
                             "PB",
-                            "MY",
                             "GB",
+                            "SF",
+                            "MY",
                             "BA",
                             "SS"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Benjamin Kinsella",
-                            "Armanpreet Pannu",
-                            "Hamid Shokrollah-Timorabadi",
                             "Cheryl Runke",
-                            "Fatemeh Jazinizadeh"
+                            "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh",
+                            "Armanpreet Pannu",
+                            "Benjamin Kinsella",
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
-                            "TBA",
+                            "Steven Chuang Chuang",
                             "Justin Beland",
-                            "Elham Marzi",
-                            "Kevin Mott",
                             "Kate Patterson",
-                            "Steven Chuang Chuang"
+                            "Kevin Mott",
+                            "Elham Marzi",
+                            "Kaveh Hassani",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -59,8 +59,8 @@
                             "MY"
                         ],
                         "instructors": [
-                            "Patricia Sheridan",
-                            "Robin Sacks"
+                            "Robin Sacks",
+                            "Patricia Sheridan"
                         ]
                     }
                 }
@@ -72,8 +72,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "Victoria Ann Kerr"
+                            "Victoria Ann Kerr",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
+                            "Justin Beland",
                             "TBA",
-                            "Justin Beland"
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "August 22, 2025 at 2:27 AM"
+        "last_updated": "August 23, 2025 at 2:01 AM"
     },
     "timings": [
         {
