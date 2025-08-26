@@ -6,20 +6,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MY",
-                            "GB",
-                            "SF",
+                            "SS",
                             "BA",
                             "PB",
-                            "SS"
+                            "MY",
+                            "SF",
+                            "GB"
                         ],
                         "instructors": [
-                            "TBA",
                             "Cheryl Runke",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Armanpreet Pannu",
                             "Benjamin Kinsella",
-                            "Fatemeh Jazinizadeh"
+                            "Fatemeh Jazinizadeh",
+                            "TBA",
+                            "Armanpreet Pannu",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,13 +27,13 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Steven Chuang Chuang",
-                            "TBA",
-                            "Elham Marzi",
-                            "Justin Beland",
                             "Kaveh Hassani",
-                            "Kevin Mott"
+                            "Elham Marzi",
+                            "Steven Chuang Chuang",
+                            "Kevin Mott",
+                            "TBA",
+                            "Kate Patterson",
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -41,8 +41,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -81,9 +81,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kaveh Hassani",
                             "TBA",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "Kaveh Hassani"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -91,8 +91,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
-                            "Peter Grant"
+                            "Peter Grant",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -114,7 +114,7 @@
                 }
             }
         },
-        "last_updated": "August 25, 2025 at 2:02 AM"
+        "last_updated": "August 26, 2025 at 2:01 AM"
     },
     "timings": [
         {
