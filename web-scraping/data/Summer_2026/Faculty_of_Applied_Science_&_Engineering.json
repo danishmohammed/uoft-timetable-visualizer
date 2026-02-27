@@ -1,8 +1,70 @@
 {
     "faculty_metadata": {
         "faculty_name": "Faculty of Applied Science & Engineering",
-        "semesters": {},
-        "last_updated": "February 26, 2026 at 2:58 AM"
+        "semesters": {
+            "Summer First Sub-Session 2026 (F)": {
+                "departments": {
+                    "Cross-Disciplinary Programs Office": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    }
+                }
+            },
+            "Summer Second Sub-Session 2026 (S)": {
+                "departments": {
+                    "Cross-Disciplinary Programs Office": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "February 27, 2026 at 4:33 AM"
     },
-    "timings": []
+    "timings": [
+        {
+            "course_name": "APS299Y0 Y: Summer Research Abroad",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 0,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS299Y0 Y: Summer Research Abroad",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 0,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        }
+    ]
 }
