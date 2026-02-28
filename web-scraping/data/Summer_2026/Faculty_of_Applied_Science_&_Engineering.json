@@ -4,9 +4,39 @@
         "semesters": {
             "Summer First Sub-Session 2026 (F)": {
                 "departments": {
+                    "Engineering First Year Office": {
+                        "buildings": [
+                            "MY",
+                            "PB",
+                            "BA",
+                            "SF",
+                            "GB",
+                            "SS"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
+                            "Online",
                             "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
+                    "Faculty of Applied Science & Engineering": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
+                    "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
+                        "buildings": [
+                            "OI"
                         ],
                         "instructors": [
                             "TBA"
@@ -18,7 +48,32 @@
                 "departments": {
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
+                            "Online",
                             "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
+                    "Engineering First Year Office": {
+                        "buildings": [
+                            "BA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
+                    "Faculty of Applied Science & Engineering": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
+                    "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
+                        "buildings": [
+                            "OI"
                         ],
                         "instructors": [
                             "TBA"
@@ -27,9 +82,261 @@
                 }
             }
         },
-        "last_updated": "February 27, 2026 at 4:33 AM"
+        "last_updated": "February 28, 2026 at 2:57 AM"
     },
     "timings": [
+        {
+            "course_name": "APS105H1 F: Computer Fundamentals",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS105H1 F: Computer Fundamentals",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "11:30",
+            "end_time": "13:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS105H1 F: Computer Fundamentals",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS105H1 F: Computer Fundamentals",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "13:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS105H1 F: Computer Fundamentals",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:30",
+            "end_time": "18:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "11:30",
+            "end_time": "13:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "13:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SS",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:30",
+            "end_time": "18:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:30",
+            "end_time": "18:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
+            "section_title": "Tutorials",
+            "day": "Friday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
         {
             "course_name": "APS299Y0 Y: Summer Research Abroad",
             "section_title": "Lectures",
@@ -44,9 +351,9 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 0,
+            "capacity": 12,
             "current_enrolment": 0,
-            "delivery_mode": "In Person"
+            "delivery_mode": "Online Synchronous"
         },
         {
             "course_name": "APS299Y0 Y: Summer Research Abroad",
@@ -62,7 +369,1087 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 0,
+            "capacity": 12,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "CHE112H1 S: Physical Chemistry in Engineering Practice",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "CHE112H1 S: Physical Chemistry in Engineering Practice",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "CHE112H1 S: Physical Chemistry in Engineering Practice",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "CHE112H1 S: Physical Chemistry in Engineering Practice",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE110H1 F: Electrical Fundamentals",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "11:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE110H1 F: Electrical Fundamentals",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE110H1 F: Electrical Fundamentals",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "11:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE110H1 F: Electrical Fundamentals",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "13:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "SF",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ECE110H1 F: Electrical Fundamentals",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 65,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "10:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "10:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE420H1 F: People Management and Organizational Behaviour",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "PB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "PB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "PB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "PB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MIE100H1 F: Dynamics",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "11:30",
+            "end_time": "13:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MIE100H1 F: Dynamics",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "13:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MIE100H1 F: Dynamics",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "11:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MIE100H1 F: Dynamics",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "13:30",
+            "end_time": "15:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "BA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
+            "section_title": "Lectures",
+            "day": "Sunday",
+            "start_time": "07:00",
+            "end_time": "08:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
+            "section_title": "Lectures",
+            "day": "Sunday",
+            "start_time": "07:00",
+            "end_time": "08:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Lectures",
+            "day": "Sunday",
+            "start_time": "07:00",
+            "end_time": "08:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Lectures",
+            "day": "Sunday",
+            "start_time": "07:00",
+            "end_time": "08:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "TEP444H1 F: Positive Psychology for Engineers",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Inst for Studies in Transdisciplinary Engin Educ & Practice",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "OI",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "TEP444H1 F: Positive Psychology for Engineers",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Inst for Studies in Transdisciplinary Engin Educ & Practice",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "OI",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "TEP444H1 S: Positive Psychology for Engineers",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Inst for Studies in Transdisciplinary Engin Educ & Practice",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "OI",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "TEP444H1 S: Positive Psychology for Engineers",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Inst for Studies in Transdisciplinary Engin Educ & Practice",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "OI",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 120,
             "current_enrolment": 0,
             "delivery_mode": "In Person"
         }
