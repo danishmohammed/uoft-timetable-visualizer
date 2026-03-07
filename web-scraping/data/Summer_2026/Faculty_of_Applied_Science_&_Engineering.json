@@ -6,12 +6,12 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "BA",
-                            "PB",
                             "GB",
-                            "MY",
                             "SS",
-                            "SF"
+                            "MY",
+                            "SF",
+                            "PB",
+                            "BA"
                         ],
                         "instructors": [
                             "TBA"
@@ -19,8 +19,8 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA"
@@ -48,8 +48,8 @@
                 "departments": {
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA"
@@ -82,7 +82,7 @@
                 }
             }
         },
-        "last_updated": "March 06, 2026 at 6:43 AM"
+        "last_updated": "March 07, 2026 at 3:03 AM"
     },
     "timings": [
         {
