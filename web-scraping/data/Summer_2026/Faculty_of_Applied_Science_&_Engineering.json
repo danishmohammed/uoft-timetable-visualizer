@@ -6,11 +6,11 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
-                            "MY",
                             "SS",
                             "SF",
                             "BA",
+                            "MY",
+                            "PB",
                             "GB"
                         ],
                         "instructors": [
@@ -19,8 +19,8 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA"
@@ -48,8 +48,8 @@
                 "departments": {
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA"
@@ -82,7 +82,7 @@
                 }
             }
         },
-        "last_updated": "March 09, 2026 at 3:39 AM"
+        "last_updated": "March 10, 2026 at 3:02 AM"
     },
     "timings": [
         {
@@ -1239,42 +1239,6 @@
         },
         {
             "course_name": "PEY300H1 Y: Summer Co-op Work Term",
-            "section_title": "Lectures",
-            "day": "Sunday",
-            "start_time": "07:00",
-            "end_time": "08:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Faculty of Applied Science & Engineering",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 9999,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
-            "section_title": "Lectures",
-            "day": "Sunday",
-            "start_time": "07:00",
-            "end_time": "08:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Faculty of Applied Science & Engineering",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 9999,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
             "section_title": "Practicals",
             "day": "TBA",
             "start_time": "TBA",
@@ -1311,42 +1275,6 @@
         },
         {
             "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
-            "section_title": "Lectures",
-            "day": "Sunday",
-            "start_time": "07:00",
-            "end_time": "08:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Faculty of Applied Science & Engineering",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 9999,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
-            "section_title": "Lectures",
-            "day": "Sunday",
-            "start_time": "07:00",
-            "end_time": "08:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Faculty of Applied Science & Engineering",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "TBA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 9999,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
             "section_title": "Practicals",
             "day": "TBA",
             "start_time": "TBA",
@@ -1360,7 +1288,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 0,
+            "current_enrolment": 149,
             "delivery_mode": "In Person"
         },
         {
@@ -1378,7 +1306,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 0,
+            "current_enrolment": 149,
             "delivery_mode": "In Person"
         },
         {
