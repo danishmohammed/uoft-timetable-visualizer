@@ -6,12 +6,12 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "SS",
+                            "BA",
+                            "GB",
                             "SF",
                             "MY",
-                            "PB",
-                            "SS",
-                            "GB",
-                            "BA"
+                            "PB"
                         ],
                         "instructors": [
                             "TBA"
@@ -19,11 +19,15 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Alex Kaju",
+                            "Steven Chuang Chuang",
+                            "Justin Beland",
+                            "TBA",
+                            "Kate Patterson"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -48,11 +52,13 @@
                 "departments": {
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA"
+                            "TBA",
+                            "Shannon Liu",
+                            "Justin Beland"
                         ]
                     },
                     "Engineering First Year Office": {
@@ -82,7 +88,7 @@
                 }
             }
         },
-        "last_updated": "March 13, 2026 at 6:09 AM"
+        "last_updated": "March 14, 2026 at 3:59 AM"
     },
     "timings": [
         {
@@ -385,7 +391,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Justin Beland"
             ],
             "capacity": 120,
             "current_enrolment": 0,
@@ -403,7 +409,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Justin Beland"
             ],
             "capacity": 120,
             "current_enrolment": 0,
@@ -619,7 +625,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Kate Patterson"
             ],
             "capacity": 130,
             "current_enrolment": 0,
@@ -637,7 +643,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Kate Patterson"
             ],
             "capacity": 130,
             "current_enrolment": 0,
@@ -727,7 +733,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Steven Chuang Chuang"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -745,7 +751,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Steven Chuang Chuang"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -835,7 +841,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Shannon Liu"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -853,7 +859,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Shannon Liu"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -943,7 +949,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Alex Kaju"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -961,7 +967,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "TBA"
+                "Alex Kaju"
             ],
             "capacity": 100,
             "current_enrolment": 0,
