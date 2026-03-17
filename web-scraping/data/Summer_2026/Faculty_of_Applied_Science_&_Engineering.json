@@ -6,12 +6,12 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
-                            "GB",
                             "SF",
+                            "PB",
                             "SS",
                             "MY",
-                            "BA"
+                            "BA",
+                            "GB"
                         ],
                         "instructors": [
                             "TBA"
@@ -23,11 +23,11 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Kate Patterson",
                             "Justin Beland",
                             "Steven Chuang Chuang",
-                            "Alex Kaju",
-                            "Kate Patterson"
+                            "TBA",
+                            "Alex Kaju"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -56,9 +56,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Shannon Liu",
                             "TBA",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "Shannon Liu"
                         ]
                     },
                     "Engineering First Year Office": {
@@ -88,7 +88,7 @@
                 }
             }
         },
-        "last_updated": "March 16, 2026 at 3:01 AM"
+        "last_updated": "March 17, 2026 at 4:33 AM"
     },
     "timings": [
         {
