@@ -6,12 +6,12 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "MP",
+                            "GB",
                             "SF",
+                            "MC",
                             "PB",
-                            "SS",
-                            "MY",
-                            "BA",
-                            "GB"
+                            "MY"
                         ],
                         "instructors": [
                             "TBA"
@@ -24,8 +24,8 @@
                         ],
                         "instructors": [
                             "Kate Patterson",
-                            "Justin Beland",
                             "Steven Chuang Chuang",
+                            "Justin Beland",
                             "TBA",
                             "Alex Kaju"
                         ]
@@ -56,9 +56,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Justin Beland",
-                            "Shannon Liu"
+                            "Shannon Liu",
+                            "TBA"
                         ]
                     },
                     "Engineering First Year Office": {
@@ -88,15 +88,15 @@
                 }
             }
         },
-        "last_updated": "March 17, 2026 at 4:33 AM"
+        "last_updated": "March 18, 2026 at 3:00 AM"
     },
     "timings": [
         {
             "course_name": "APS105H1 F: Computer Fundamentals",
             "section_title": "Lectures",
-            "day": "Monday",
+            "day": "Tuesday",
             "start_time": "09:00",
-            "end_time": "11:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
@@ -106,25 +106,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS105H1 F: Computer Fundamentals",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "11:30",
-            "end_time": "13:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -132,7 +114,7 @@
             "section_title": "Lectures",
             "day": "Thursday",
             "start_time": "09:00",
-            "end_time": "11:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
@@ -142,15 +124,33 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "APS105H1 F: Computer Fundamentals",
             "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "13:30",
-            "end_time": "15:30",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 1,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS105H1 F: Computer Fundamentals",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:00",
+            "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
@@ -160,157 +160,157 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS105H1 F: Computer Fundamentals",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "15:30",
-            "end_time": "18:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SF",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
-            "section_title": "Lectures",
-            "day": "Monday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
             "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "APS106H1 F: Fundamentals of Computer Programming",
-            "section_title": "Lectures",
-            "day": "Wednesday",
-            "start_time": "11:30",
-            "end_time": "13:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 1,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
-            "section_title": "Lectures",
-            "day": "Thursday",
-            "start_time": "09:00",
-            "end_time": "11:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 1,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "13:30",
-            "end_time": "15:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "SS",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 1,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "15:30",
-            "end_time": "18:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 1,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
-            "section_title": "Practicals",
-            "day": "Friday",
-            "start_time": "15:30",
-            "end_time": "18:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 1,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
             "section_title": "Lectures",
             "day": "Tuesday",
-            "start_time": "16:00",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 6,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 6,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "12:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 6,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:00",
             "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
+            "location": "GB",
             "instructors": [
                 "TBA"
             ],
-            "capacity": 36,
-            "current_enrolment": 0,
+            "capacity": 100,
+            "current_enrolment": 6,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS106H1 F: Fundamentals of Computer Programming",
+            "section_title": "Practicals",
+            "day": "Friday",
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "GB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 100,
+            "current_enrolment": 6,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "APS112H1 F: Engineering Strategies & Practice II",
             "section_title": "Lectures",
-            "day": "Thursday",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MY",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 36,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
             "start_time": "16:00",
             "end_time": "18:00",
             "campus": "St. George",
@@ -322,25 +322,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "APS112H1 F: Engineering Strategies & Practice II",
-            "section_title": "Tutorials",
-            "day": "Friday",
-            "start_time": "13:00",
-            "end_time": "15:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "MY",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 36,
-            "current_enrolment": 0,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -466,7 +448,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 2,
             "delivery_mode": "In Person"
         },
         {
@@ -484,7 +466,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 2,
             "delivery_mode": "In Person"
         },
         {
@@ -502,7 +484,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 2,
             "delivery_mode": "In Person"
         },
         {
@@ -520,20 +502,20 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 0,
+            "current_enrolment": 2,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "ECE110H1 F: Electrical Fundamentals",
             "section_title": "Lectures",
             "day": "Monday",
-            "start_time": "11:00",
-            "end_time": "13:00",
+            "start_time": "09:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "MC",
             "instructors": [
                 "TBA"
             ],
@@ -546,30 +528,12 @@
             "section_title": "Lectures",
             "day": "Wednesday",
             "start_time": "09:00",
-            "end_time": "11:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 100,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "ECE110H1 F: Electrical Fundamentals",
-            "section_title": "Lectures",
-            "day": "Thursday",
-            "start_time": "11:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "MC",
             "instructors": [
                 "TBA"
             ],
@@ -581,8 +545,8 @@
             "course_name": "ECE110H1 F: Electrical Fundamentals",
             "section_title": "Tutorials",
             "day": "Monday",
-            "start_time": "13:30",
-            "end_time": "15:30",
+            "start_time": "12:00",
+            "end_time": "14:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
@@ -598,9 +562,9 @@
         {
             "course_name": "ECE110H1 F: Electrical Fundamentals",
             "section_title": "Practicals",
-            "day": "Tuesday",
-            "start_time": "09:00",
-            "end_time": "11:00",
+            "day": "Wednesday",
+            "start_time": "12:00",
+            "end_time": "14:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
@@ -1096,20 +1060,74 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 0,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "MAT187H1 F: Calculus II",
             "section_title": "Lectures",
-            "day": "Wednesday",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MP",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MP",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Tutorials",
+            "day": "Thursday",
             "start_time": "16:00",
             "end_time": "18:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "PB",
+            "location": "MP",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MAT187H1 F: Calculus II",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MP",
             "instructors": [
                 "TBA"
             ],
@@ -1118,129 +1136,57 @@
             "delivery_mode": "In Person"
         },
         {
-            "course_name": "MAT187H1 F: Calculus II",
+            "course_name": "MIE100H1 F: Dynamics",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "12:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "MC",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 130,
+            "current_enrolment": 2,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "MIE100H1 F: Dynamics",
             "section_title": "Lectures",
             "day": "Friday",
             "start_time": "09:00",
-            "end_time": "11:00",
+            "end_time": "12:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "PB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MAT187H1 F: Calculus II",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "PB",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MAT187H1 F: Calculus II",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 180,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MIE100H1 F: Dynamics",
-            "section_title": "Lectures",
-            "day": "Tuesday",
-            "start_time": "11:30",
-            "end_time": "13:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
+            "location": "MC",
             "instructors": [
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 2,
             "delivery_mode": "In Person"
         },
         {
             "course_name": "MIE100H1 F: Dynamics",
-            "section_title": "Lectures",
-            "day": "Thursday",
-            "start_time": "13:30",
-            "end_time": "15:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 130,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MIE100H1 F: Dynamics",
-            "section_title": "Lectures",
+            "section_title": "Tutorials",
             "day": "Friday",
-            "start_time": "11:00",
-            "end_time": "13:00",
+            "start_time": "13:00",
+            "end_time": "15:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
+            "location": "MC",
             "instructors": [
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 0,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "MIE100H1 F: Dynamics",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "13:30",
-            "end_time": "15:30",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "department": "Engineering First Year Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 130,
-            "current_enrolment": 0,
+            "current_enrolment": 2,
             "delivery_mode": "In Person"
         },
         {
@@ -1294,7 +1240,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1170,
+            "current_enrolment": 786,
             "delivery_mode": "In Person"
         },
         {
@@ -1312,7 +1258,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1170,
+            "current_enrolment": 786,
             "delivery_mode": "In Person"
         },
         {
