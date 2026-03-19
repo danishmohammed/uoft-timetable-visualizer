@@ -6,26 +6,30 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MP",
-                            "GB",
+                            "MY",
                             "SF",
+                            "GB",
                             "MC",
                             "PB",
-                            "MY"
+                            "MP"
                         ],
                         "instructors": [
-                            "TBA"
+                            "Jason Bazylak",
+                            "Chandra Veer Singh",
+                            "TBA",
+                            "Fatemeh Jazinizadeh",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Steven Chuang Chuang",
                             "Justin Beland",
+                            "Steven Chuang Chuang",
+                            "Kate Patterson",
                             "TBA",
                             "Alex Kaju"
                         ]
@@ -52,13 +56,13 @@
                 "departments": {
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "Justin Beland",
-                            "Shannon Liu",
-                            "TBA"
+                            "TBA",
+                            "Shannon Liu"
                         ]
                     },
                     "Engineering First Year Office": {
@@ -88,7 +92,7 @@
                 }
             }
         },
-        "last_updated": "March 18, 2026 at 3:00 AM"
+        "last_updated": "March 19, 2026 at 3:04 AM"
     },
     "timings": [
         {
@@ -103,7 +107,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "GB",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 1,
@@ -121,7 +125,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "GB",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 1,
@@ -178,7 +182,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 6,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -196,7 +200,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 6,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -214,7 +218,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 6,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -232,7 +236,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 6,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -250,7 +254,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 6,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -265,7 +269,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MY",
             "instructors": [
-                "TBA"
+                "Jason Bazylak"
             ],
             "capacity": 36,
             "current_enrolment": 18,
@@ -283,7 +287,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MY",
             "instructors": [
-                "TBA"
+                "Jason Bazylak"
             ],
             "capacity": 36,
             "current_enrolment": 18,
@@ -448,7 +452,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -466,7 +470,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -484,7 +488,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -502,7 +506,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -517,7 +521,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MC",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -535,7 +539,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MC",
             "instructors": [
-                "TBA"
+                "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
             "current_enrolment": 0,
@@ -1057,10 +1061,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "PB",
             "instructors": [
-                "TBA"
+                "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 10,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -1075,10 +1079,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MP",
             "instructors": [
-                "TBA"
+                "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 10,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -1093,10 +1097,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MP",
             "instructors": [
-                "TBA"
+                "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 10,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -1114,7 +1118,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 10,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -1132,7 +1136,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 0,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -1147,10 +1151,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MC",
             "instructors": [
-                "TBA"
+                "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -1165,10 +1169,10 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "MC",
             "instructors": [
-                "TBA"
+                "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
@@ -1186,7 +1190,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 2,
+            "current_enrolment": 3,
             "delivery_mode": "In Person"
         },
         {
