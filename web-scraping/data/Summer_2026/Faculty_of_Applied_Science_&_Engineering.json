@@ -6,32 +6,32 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
-                            "MC",
-                            "MY",
-                            "MP",
                             "GB",
-                            "PB"
+                            "MP",
+                            "MC",
+                            "SF",
+                            "PB",
+                            "MY"
                         ],
                         "instructors": [
-                            "Hamid Shokrollah-Timorabadi",
-                            "Fatemeh Jazinizadeh",
                             "TBA",
                             "Jason Bazylak",
+                            "Fatemeh Jazinizadeh",
+                            "Hamid Shokrollah-Timorabadi",
                             "Chandra Veer Singh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "TBA",
                             "Justin Beland",
+                            "TBA",
+                            "Alex Kaju",
                             "Kate Patterson",
-                            "Alex Kaju"
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -56,12 +56,12 @@
                 "departments": {
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "TBA",
                             "Justin Beland",
+                            "TBA",
                             "Shannon Liu"
                         ]
                     },
@@ -92,7 +92,7 @@
                 }
             }
         },
-        "last_updated": "March 23, 2026 at 2:58 AM"
+        "last_updated": "March 25, 2026 at 2:59 AM"
     },
     "timings": [
         {
@@ -110,7 +110,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -128,7 +128,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -146,7 +146,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -164,7 +164,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 2,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -182,7 +182,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -200,7 +200,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -218,7 +218,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -236,7 +236,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -254,7 +254,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 60,
             "delivery_mode": "In Person"
         },
         {
@@ -524,7 +524,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 1,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -542,7 +542,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 1,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -560,7 +560,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 1,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -578,7 +578,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 1,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -1064,7 +1064,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 62,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -1082,7 +1082,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 62,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -1100,7 +1100,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 62,
+            "current_enrolment": 72,
             "delivery_mode": "In Person"
         },
         {
@@ -1118,7 +1118,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 61,
+            "current_enrolment": 71,
             "delivery_mode": "In Person"
         },
         {
@@ -1154,7 +1154,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 5,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -1172,7 +1172,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 5,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -1190,7 +1190,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 5,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
