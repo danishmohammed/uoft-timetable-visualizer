@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
-                            "MY",
-                            "SF",
                             "GB",
-                            "MC",
-                            "MP"
+                            "MY",
+                            "MP",
+                            "SF",
+                            "PB",
+                            "MC"
                         ],
                         "instructors": [
-                            "Chandra Veer Singh",
-                            "Fatemeh Jazinizadeh",
+                            "Jason Bazylak",
                             "TBA",
+                            "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
-                            "Jason Bazylak"
+                            "Chandra Veer Singh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,11 +27,11 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alex Kaju",
+                            "TBA",
                             "Kate Patterson",
                             "Justin Beland",
-                            "TBA",
-                            "Steven Chuang Chuang"
+                            "Steven Chuang Chuang",
+                            "Alex Kaju"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -61,8 +61,8 @@
                         ],
                         "instructors": [
                             "Shannon Liu",
-                            "Justin Beland",
-                            "TBA"
+                            "TBA",
+                            "Justin Beland"
                         ]
                     },
                     "Engineering First Year Office": {
@@ -92,7 +92,7 @@
                 }
             }
         },
-        "last_updated": "March 26, 2026 at 3:00 AM"
+        "last_updated": "March 27, 2026 at 2:59 AM"
     },
     "timings": [
         {
@@ -110,7 +110,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -128,7 +128,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -146,7 +146,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -164,7 +164,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -182,7 +182,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -200,7 +200,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -218,7 +218,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -236,7 +236,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -254,7 +254,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
