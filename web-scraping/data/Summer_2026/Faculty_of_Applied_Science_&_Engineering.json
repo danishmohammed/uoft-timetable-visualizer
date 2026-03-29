@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MY",
-                            "SF",
                             "GB",
-                            "PB",
                             "MP",
-                            "MC"
+                            "SF",
+                            "MC",
+                            "PB",
+                            "MY"
                         ],
                         "instructors": [
+                            "Fatemeh Jazinizadeh",
+                            "Chandra Veer Singh",
                             "TBA",
                             "Hamid Shokrollah-Timorabadi",
-                            "Jason Bazylak",
-                            "Chandra Veer Singh",
-                            "Fatemeh Jazinizadeh"
+                            "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,11 +27,11 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Steven Chuang Chuang",
                             "Kate Patterson",
-                            "Alex Kaju",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "Steven Chuang Chuang",
+                            "TBA",
+                            "Alex Kaju"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -60,9 +60,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
                             "Shannon Liu",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Engineering First Year Office": {
@@ -92,7 +92,7 @@
                 }
             }
         },
-        "last_updated": "March 28, 2026 at 3:37 AM"
+        "last_updated": "March 29, 2026 at 3:00 AM"
     },
     "timings": [
         {
