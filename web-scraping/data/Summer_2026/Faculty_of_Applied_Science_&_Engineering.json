@@ -6,19 +6,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "MP",
                             "MY",
                             "PB",
-                            "MC",
                             "SF",
-                            "MP",
-                            "GB"
+                            "GB",
+                            "MC"
                         ],
                         "instructors": [
-                            "Hamid Shokrollah-Timorabadi",
                             "Chandra Veer Singh",
-                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi",
+                            "TBA",
                             "Fatemeh Jazinizadeh",
-                            "TBA"
+                            "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -27,10 +27,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Justin Beland",
-                            "Alex Kaju",
                             "Steven Chuang Chuang",
+                            "Alex Kaju",
+                            "Justin Beland",
+                            "Kate Patterson",
                             "TBA"
                         ]
                     },
@@ -60,9 +60,9 @@
                             "Online"
                         ],
                         "instructors": [
+                            "TBA",
                             "Justin Beland",
-                            "Shannon Liu",
-                            "TBA"
+                            "Shannon Liu"
                         ]
                     },
                     "Engineering First Year Office": {
@@ -93,7 +93,7 @@
                 }
             }
         },
-        "last_updated": "April 03, 2026 at 2:59 AM"
+        "last_updated": "April 04, 2026 at 7:24 AM"
     },
     "timings": [
         {
@@ -381,7 +381,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 120,
+            "current_enrolment": 119,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -399,7 +399,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 120,
+            "current_enrolment": 119,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -417,7 +417,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 110,
+            "current_enrolment": 109,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -435,7 +435,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 110,
+            "current_enrolment": 109,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -597,7 +597,7 @@
                 "Kate Patterson"
             ],
             "capacity": 130,
-            "current_enrolment": 116,
+            "current_enrolment": 125,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -615,7 +615,7 @@
                 "Kate Patterson"
             ],
             "capacity": 130,
-            "current_enrolment": 116,
+            "current_enrolment": 125,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -669,7 +669,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 42,
+            "current_enrolment": 51,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -687,7 +687,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 42,
+            "current_enrolment": 51,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -705,7 +705,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 99,
+            "current_enrolment": 100,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -723,7 +723,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 99,
+            "current_enrolment": 100,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -795,7 +795,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -813,7 +813,7 @@
                 "Shannon Liu"
             ],
             "capacity": 100,
-            "current_enrolment": 55,
+            "current_enrolment": 58,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -831,7 +831,7 @@
                 "Shannon Liu"
             ],
             "capacity": 100,
-            "current_enrolment": 55,
+            "current_enrolment": 58,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -867,7 +867,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -885,7 +885,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 4,
+            "current_enrolment": 6,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1281,7 +1281,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 62,
+            "current_enrolment": 65,
             "delivery_mode": "In Person"
         },
         {
@@ -1299,7 +1299,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 62,
+            "current_enrolment": 65,
             "delivery_mode": "In Person"
         },
         {
