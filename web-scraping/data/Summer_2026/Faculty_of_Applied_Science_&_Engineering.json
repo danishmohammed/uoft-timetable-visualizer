@@ -6,32 +6,32 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "PB",
                             "SF",
-                            "MP",
                             "MC",
                             "GB",
-                            "MY"
+                            "PB",
+                            "MY",
+                            "MP"
                         ],
                         "instructors": [
-                            "Chandra Veer Singh",
-                            "Fatemeh Jazinizadeh",
+                            "TBA",
                             "Jason Bazylak",
-                            "Hamid Shokrollah-Timorabadi",
-                            "TBA"
+                            "Fatemeh Jazinizadeh",
+                            "Chandra Veer Singh",
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Alex Kaju",
                             "Justin Beland",
                             "Steven Chuang Chuang",
+                            "TBA",
                             "Kate Patterson",
-                            "TBA"
+                            "Alex Kaju"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -66,13 +66,13 @@
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "TBA",
-                            "Justin Beland",
-                            "Shannon Liu"
+                            "Shannon Liu",
+                            "Justin Beland"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -94,7 +94,7 @@
                 }
             }
         },
-        "last_updated": "April 11, 2026 at 4:14 AM"
+        "last_updated": "April 12, 2026 at 3:16 AM"
     },
     "timings": [
         {
