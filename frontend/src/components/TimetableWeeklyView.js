@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useCallback, useContext, useEffect, useState } from "react";
 import { DataContext } from "../context/DataContext";
 import Chart from "react-apexcharts";
 import { Tabs, Tab, Button, CircularProgress, Typography } from "@mui/material";
@@ -15,7 +15,7 @@ const TimetableWeeklyView = () => {
   const [showHistogram, setShowHistogram] = useState(false);
   const [selectedDay, setSelectedDay] = useState(null);
 
-  const sortTimesInOrder = (a, b) => {
+  const sortTimesInOrder = useCallback((a, b) => {
     const timeToMinutes = (timeStr) => {
       const [time, modifier] = timeStr.split(" ");
       let [hours, minutes] = time.split(":");
@@ -24,21 +24,9 @@ const TimetableWeeklyView = () => {
       return parseInt(hours, 10) * 60 + parseInt(minutes, 10);
     };
     return timeToMinutes(a) - timeToMinutes(b);
-  };
+  }, []);
 
-  useEffect(() => {
-    if (searchResultsData) {
-      const heatmapData = generateHeatmapData(searchResultsData);
-      setHeatmapSeries(heatmapData);
-      updateHeatmapOptions(searchResultsData);
-
-      const { series, categories } = generateBarChartData(searchResultsData);
-      setBarChartSeries(series);
-      setBarChartCategories(categories);
-    }
-  }, [searchResultsData]);
-
-  const generateHeatmapData = (data) => {
+  const generateHeatmapData = useCallback((data) => {
     return Object.keys(data)
       .reverse()
       .map((day) => {
@@ -51,9 +39,9 @@ const TimetableWeeklyView = () => {
           })),
         };
       });
-  };
+  }, [sortTimesInOrder]);
 
-  const generateBarChartData = (data) => {
+  const generateBarChartData = useCallback((data) => {
     const categories = Object.keys(data);
     const series = [
       {
@@ -64,9 +52,9 @@ const TimetableWeeklyView = () => {
       },
     ];
     return { series, categories };
-  };
+  }, []);
 
-  const updateHeatmapOptions = (data) => {
+  const updateHeatmapOptions = useCallback((data) => {
     let allEnrolments = [];
     Object.keys(data).forEach((day) => {
       allEnrolments = allEnrolments.concat(Object.values(data[day]));
@@ -126,7 +114,24 @@ const TimetableWeeklyView = () => {
         },
       },
     });
-  };
+  }, [loadingSearchResults]);
+
+  useEffect(() => {
+    if (searchResultsData) {
+      const heatmapData = generateHeatmapData(searchResultsData);
+      setHeatmapSeries(heatmapData);
+      updateHeatmapOptions(searchResultsData);
+
+      const { series, categories } = generateBarChartData(searchResultsData);
+      setBarChartSeries(series);
+      setBarChartCategories(categories);
+    }
+  }, [
+    generateBarChartData,
+    generateHeatmapData,
+    searchResultsData,
+    updateHeatmapOptions,
+  ]);
 
   const handleBarClick = (dayIndex) => {
     const clickedDay = barChartCategories[dayIndex];

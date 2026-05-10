@@ -1,4 +1,9 @@
 import { MongoClient } from "mongodb";
+import { applyCorsHeaders } from "./utils/cors.js";
+import {
+  getDatabaseNameFromSemester,
+  getLatestDatabaseForFamily,
+} from "./utils/timetableDatabases.js";
 
 const convertToMinutes = (timeStr) => {
   const [time, modifier] = timeStr.split(" ");
@@ -14,14 +19,7 @@ const convertToMinutes = (timeStr) => {
 };
 
 export default async function handler(req, res) {
-  const devOrigin = "http://localhost:3002";
-  const prodOrigin = "https://ttv.danishmohammed.ca";
-  const allowedOrigin =
-    process.env.NODE_ENV === "development" ? devOrigin : prodOrigin;
-  res.setHeader("Access-Control-Allow-Origin", allowedOrigin);
-  res.setHeader("Access-Control-Allow-Credentials", "true");
-  res.setHeader("Access-Control-Allow-Methods", "POST, OPTIONS");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  applyCorsHeaders(req, res, "POST, OPTIONS");
 
   if (req.method === "OPTIONS") return res.status(200).end();
   if (req.method !== "POST")
@@ -47,16 +45,22 @@ export default async function handler(req, res) {
     await client.connect();
     const databases = await client.db().admin().listDatabases();
 
-    let dbName;
-    if (semester.includes("Summer")) {
-      dbName = databases.databases.find((db) =>
-        db.name.includes("Summer")
-      )?.name;
-    } else {
-      dbName = databases.databases.find((db) =>
-        db.name.includes("Fall-Winter")
-      )?.name;
-    }
+    const requestedDbName = getDatabaseNameFromSemester(semester);
+    const dbExists = databases.databases.some((db) => db.name === requestedDbName);
+    const dbName =
+      requestedDbName === "Summer" || requestedDbName === "Fall-Winter"
+        ? await getLatestDatabaseForFamily(
+            client,
+            databases.databases,
+            requestedDbName
+          )
+        : dbExists
+        ? requestedDbName
+        : await getLatestDatabaseForFamily(
+            client,
+            databases.databases,
+            semester.includes("Summer") ? "Summer" : "Fall-Winter"
+          );
 
     if (!dbName) {
       return res.status(404).json({ error: "No matching database found" });
@@ -100,7 +104,12 @@ export default async function handler(req, res) {
           $and: [
             {
               $and: [
-                { $ne: ["$start_time", "TBA"] },
+                {
+                  $regexMatch: {
+                    input: { $toString: "$start_time" },
+                    regex: /^([01]\d|2[0-3]):[0-5]\d$/,
+                  },
+                },
                 {
                   $lt: [
                     {
@@ -121,7 +130,12 @@ export default async function handler(req, res) {
             },
             {
               $and: [
-                { $ne: ["$end_time", "TBA"] },
+                {
+                  $regexMatch: {
+                    input: { $toString: "$end_time" },
+                    regex: /^([01]\d|2[0-3]):[0-5]\d$/,
+                  },
+                },
                 {
                   $gt: [
                     {

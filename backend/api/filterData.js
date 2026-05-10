@@ -1,14 +1,9 @@
 import { MongoClient } from "mongodb";
+import { applyCorsHeaders } from "./utils/cors.js";
+import { getLatestTimetableDatabases } from "./utils/timetableDatabases.js";
 
 export default async function handler(req, res) {
-  const devOrigin = "http://localhost:3002";
-  const prodOrigin = "https://ttv.danishmohammed.ca";
-  const allowedOrigin =
-    process.env.NODE_ENV === "development" ? devOrigin : prodOrigin;
-  res.setHeader("Access-Control-Allow-Origin", allowedOrigin);
-  res.setHeader("Access-Control-Allow-Credentials", "true");
-  res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  applyCorsHeaders(req, res, "GET, OPTIONS");
 
   if (req.method === "OPTIONS") {
     res.status(200).end();
@@ -27,43 +22,50 @@ export default async function handler(req, res) {
     const databases = await client.db().admin().listDatabases();
     const allData = {};
 
-    for (const dbInfo of databases.databases) {
-      const dbName = dbInfo.name;
-      if (dbName.includes("Fall-Winter") || dbName.includes("Summer")) {
-        const db = client.db(dbName);
-        const collections = await db.listCollections().toArray();
+    const timetableDatabases = await getLatestTimetableDatabases(
+      client,
+      databases.databases
+    );
 
-        allData[dbName] = {};
+    for (const dbName of timetableDatabases) {
+      const db = client.db(dbName);
+      const collections = await db.listCollections().toArray();
 
-        for (const collection of collections) {
-          const collectionName = collection.name.replace(/_/g, " ");
-          const facultyData = await db
-            .collection(collection.name)
-            .findOne({ faculty_name: collectionName });
+      allData[dbName] = {};
 
-          if (facultyData) {
-            allData[dbName][collectionName] = Object.keys(
-              facultyData.semesters
-            ).reduce((acc, semesterName) => {
-              const semester = facultyData.semesters[semesterName];
-              acc[semesterName] = Object.keys(semester.departments).reduce(
-                (deptAcc, deptName) => {
-                  const dept = semester.departments[deptName];
-                  deptAcc[deptName] = {
-                    buildings: dept.buildings,
-                    instructors: dept.instructors,
-                  };
-                  return deptAcc;
-                },
-                {}
-              );
+      for (const collection of collections) {
+        const collectionName = collection.name.replace(/_/g, " ");
+        const facultyData = await db
+          .collection(collection.name)
+          .findOne({ faculty_name: collectionName });
+
+        if (facultyData) {
+          allData[dbName][collectionName] = Object.keys(
+            facultyData.semesters || {}
+          ).reduce((acc, semesterName) => {
+            const semester = facultyData.semesters[semesterName];
+            const departments = semester?.departments || {};
+            if (Object.keys(departments).length === 0) {
               return acc;
-            }, {});
-          } else {
-            console.warn(
-              `No faculty data found for collection: ${collectionName} in ${dbName}`
+            }
+
+            acc[semesterName] = Object.keys(departments).reduce(
+              (deptAcc, deptName) => {
+                const dept = departments[deptName];
+                deptAcc[deptName] = {
+                  buildings: dept.buildings || [],
+                  instructors: dept.instructors || [],
+                };
+                return deptAcc;
+              },
+              {}
             );
-          }
+            return acc;
+          }, {});
+        } else {
+          console.warn(
+            `No faculty data found for collection: ${collectionName} in ${dbName}`
+          );
         }
       }
     }

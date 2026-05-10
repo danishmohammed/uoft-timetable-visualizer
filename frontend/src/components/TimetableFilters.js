@@ -95,6 +95,31 @@ const TimetableFilters = ({ onApplyFilters }) => {
     return `${hours12}:${mins.toString().padStart(2, "0")} ${suffix}`;
   };
 
+  const getSemesterYear = (semester) => {
+    const parts = semester.split(" ");
+    const year = parts.find((part) => Number(part));
+    return Number(year) || 0;
+  };
+
+  const getSemesterMonth = (semester) => {
+    if (semester.startsWith("Winter ")) return 1;
+    if (semester.startsWith("Summer First Sub-Session ")) return 5;
+    if (semester.startsWith("Summer Second Sub-Session ")) return 7;
+    if (semester.startsWith("Fall ")) return 9;
+    return 12;
+  };
+
+  const sortSemestersByDate = (semesters) => {
+    return semesters.sort((a, b) => {
+      const yearDifference = getSemesterYear(a) - getSemesterYear(b);
+      if (yearDifference !== 0) {
+        return yearDifference;
+      }
+
+      return getSemesterMonth(a) - getSemesterMonth(b);
+    });
+  };
+
   // Helper function just to see the occurrences of each field in the search results data (not actually used)
   // const processSearchResultsData = (searchResultsData) => {
   //   const occurrenceData = {
@@ -229,10 +254,21 @@ const TimetableFilters = ({ onApplyFilters }) => {
   /* eslint-disable react-hooks/exhaustive-deps */
   useEffect(() => {
     if (!loading && reformattedData) {
-      const semesters = Object.keys(reformattedData);
+      const semesters = sortSemestersByDate(Object.keys(reformattedData));
       setSemesters(semesters);
 
       const defaultSemester = determineDefaultSemester(semesters);
+      if (!defaultSemester) {
+        setSelectedSemester("");
+        setFaculties([]);
+        setDepartments([]);
+        setBuildings([]);
+        setInstructors([]);
+        setSearchResultsData({});
+        setLoadingSearchResults(false);
+        return;
+      }
+
       setSelectedSemester(defaultSemester);
       handleSemesterOrCampusChange(defaultSemester, selectedCampuses);
     }
@@ -285,6 +321,12 @@ const TimetableFilters = ({ onApplyFilters }) => {
   };
 
   const handleApplyFilters = async () => {
+    if (!selectedSemester) {
+      setSearchResultsData({});
+      setLoadingSearchResults(false);
+      return;
+    }
+
     setLoadingSearchResults("true");
 
     try {
@@ -328,13 +370,14 @@ const TimetableFilters = ({ onApplyFilters }) => {
     const availableDepartments = new Set();
     const availableBuildings = new Set();
     const availableInstructors = new Set();
+    const semesterData = reformattedData?.[semester] || {};
 
     if (campuses.length === 0) {
       campuses = campusOptions;
     }
 
     campuses.forEach((campus) => {
-      Object.keys(reformattedData[semester]).forEach((faculty) => {
+      Object.keys(semesterData).forEach((faculty) => {
         if (
           (campus === "UTSC" &&
             faculty === "University of Toronto Scarborough") ||
@@ -345,19 +388,16 @@ const TimetableFilters = ({ onApplyFilters }) => {
             !faculty.includes("Mississauga"))
         ) {
           availableFaculties.add(faculty);
-          Object.keys(reformattedData[semester][faculty]).forEach(
-            (department) => {
-              availableDepartments.add(department);
-              reformattedData[semester][faculty][department].buildings.forEach(
-                (building) => availableBuildings.add(building)
-              );
-              reformattedData[semester][faculty][
-                department
-              ].instructors.forEach((instructor) =>
-                availableInstructors.add(instructor)
-              );
-            }
-          );
+          Object.keys(semesterData[faculty] || {}).forEach((department) => {
+            const departmentData = semesterData[faculty][department] || {};
+            availableDepartments.add(department);
+            (departmentData.buildings || []).forEach((building) =>
+              availableBuildings.add(building)
+            );
+            (departmentData.instructors || []).forEach((instructor) =>
+              availableInstructors.add(instructor)
+            );
+          });
         }
       });
     });
@@ -379,13 +419,14 @@ const TimetableFilters = ({ onApplyFilters }) => {
     const availableInstructors = new Set();
 
     selectedFaculties.forEach((faculty) => {
-      Object.keys(reformattedData[semester][faculty]).forEach((department) => {
+      Object.keys(reformattedData?.[semester]?.[faculty] || {}).forEach((department) => {
+        const departmentData = reformattedData[semester][faculty][department] || {};
         availableDepartments.add(department);
-        reformattedData[semester][faculty][department].buildings.forEach(
-          (building) => availableBuildings.add(building)
+        (departmentData.buildings || []).forEach((building) =>
+          availableBuildings.add(building)
         );
-        reformattedData[semester][faculty][department].instructors.forEach(
-          (instructor) => availableInstructors.add(instructor)
+        (departmentData.instructors || []).forEach((instructor) =>
+          availableInstructors.add(instructor)
         );
       });
     });

@@ -1,0 +1,681 @@
+{
+    "faculty_metadata": {
+        "faculty_name": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+        "source_session": "Summer 2026",
+        "database_name": "Summer_2026",
+        "term_options": [
+            "Summer First Sub-Session 2026 (F)",
+            "Summer Second Sub-Session 2026 (S)"
+        ],
+        "semesters": {
+            "Summer First Sub-Session 2026 (F)": {
+                "departments": {
+                    "John H. Daniels Faculty of Architecture, Landscape, & Design": {
+                        "buildings": [
+                            "DA",
+                            "NB",
+                            "SB"
+                        ],
+                        "instructors": [
+                            "Danielle Whitley",
+                            "Jeffrey Garcia",
+                            "Maggie Groat",
+                            "Milena Tomic",
+                            "Morris Lum",
+                            "Sonia Ramundi",
+                            "Sukaina Kubba",
+                            "TBA"
+                        ]
+                    }
+                }
+            },
+            "Summer Second Sub-Session 2026 (S)": {
+                "departments": {
+                    "John H. Daniels Faculty of Architecture, Landscape, & Design": {
+                        "buildings": [
+                            "DA",
+                            "NB",
+                            "SB"
+                        ],
+                        "instructors": [
+                            "David Verbeek",
+                            "Helen Liene Dreifelds",
+                            "Melanie Gilligan",
+                            "TBA"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "May 03, 2026 at 9:23 AM"
+    },
+    "timings": [
+        {
+            "course_name": "ARC200H1 F: Drawing and Representation II",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Jeffrey Garcia"
+            ],
+            "capacity": 20,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC200H1 F: Drawing and Representation II",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Jeffrey Garcia"
+            ],
+            "capacity": 20,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC200H1 F: Drawing and Representation II",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Danielle Whitley"
+            ],
+            "capacity": 20,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC200H1 F: Drawing and Representation II",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Danielle Whitley"
+            ],
+            "capacity": 20,
+            "current_enrolment": 12,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC200H1 F: Drawing and Representation II",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Jeffrey Garcia"
+            ],
+            "capacity": 40,
+            "current_enrolment": 31,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC201H1 S: Design Studio II: How to design almost nothing",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "David Verbeek"
+            ],
+            "capacity": 20,
+            "current_enrolment": 15,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC201H1 S: Design Studio II: How to design almost nothing",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "David Verbeek"
+            ],
+            "capacity": 20,
+            "current_enrolment": 15,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC201H1 S: Design Studio II: How to design almost nothing",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC201H1 S: Design Studio II: How to design almost nothing",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC201H1 S: Design Studio II: How to design almost nothing",
+            "section_title": "Lectures",
+            "day": "Friday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "David Verbeek"
+            ],
+            "capacity": 40,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ARC495Y1 F: Design Research Internship",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Sonia Ramundi"
+            ],
+            "capacity": 30,
+            "current_enrolment": 26,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV120H1 F: Visual Concepts",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Milena Tomic"
+            ],
+            "capacity": 40,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV120H1 F: Visual Concepts",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "Milena Tomic"
+            ],
+            "capacity": 40,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV120H1 F: Visual Concepts",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 40,
+            "current_enrolment": 17,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV120H1 F: Visual Concepts",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "DA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 40,
+            "current_enrolment": 17,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV130H1 S: Visual Strategies",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Helen Liene Dreifelds"
+            ],
+            "capacity": 20,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "JAV130H1 S: Visual Strategies",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Helen Liene Dreifelds"
+            ],
+            "capacity": 20,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS201H1 F: Painting: Methods & Materials",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Sukaina Kubba"
+            ],
+            "capacity": 20,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS201H1 F: Painting: Methods & Materials",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Sukaina Kubba"
+            ],
+            "capacity": 20,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS204H1 S: Installation Art I: Material and Sculptural Practices",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "Melanie Gilligan"
+            ],
+            "capacity": 20,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS204H1 S: Installation Art I: Material and Sculptural Practices",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "Melanie Gilligan"
+            ],
+            "capacity": 20,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS209H1 S: Contemporary Printing",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS209H1 S: Contemporary Printing",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 11,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS218H1 F: Photobased (Digital)",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Morris Lum"
+            ],
+            "capacity": 20,
+            "current_enrolment": 9,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS218H1 F: Photobased (Digital)",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Morris Lum"
+            ],
+            "capacity": 20,
+            "current_enrolment": 9,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS306H1 F: Installation Art II: Contextual Practices",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS306H1 F: Installation Art II: Contextual Practices",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS312H1 F: Collage",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Maggie Groat"
+            ],
+            "capacity": 20,
+            "current_enrolment": 9,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS312H1 F: Collage",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "Maggie Groat"
+            ],
+            "capacity": 20,
+            "current_enrolment": 9,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS319H1 S: Defining Landscapes",
+            "section_title": "Practicals",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS319H1 S: Defining Landscapes",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "NB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS323H1 S: Painting: Contemporary Practice",
+            "section_title": "Practicals",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS323H1 S: Painting: Contemporary Practice",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "SB",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 20,
+            "current_enrolment": 10,
+            "delivery_mode": "In Person"
+        }
+    ]
+}

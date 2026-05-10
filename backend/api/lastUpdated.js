@@ -1,14 +1,9 @@
 import { MongoClient } from "mongodb";
+import { applyCorsHeaders } from "./utils/cors.js";
+import { getLatestTimetableDatabases } from "./utils/timetableDatabases.js";
 
 export default async function handler(req, res) {
-  const devOrigin = "http://localhost:3002";
-  const prodOrigin = "https://ttv.danishmohammed.ca";
-  const allowedOrigin =
-    process.env.NODE_ENV === "development" ? devOrigin : prodOrigin;
-  res.setHeader("Access-Control-Allow-Origin", allowedOrigin);
-  res.setHeader("Access-Control-Allow-Methods", "GET,OPTIONS");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-  res.setHeader("Access-Control-Allow-Credentials", "true");
+  applyCorsHeaders(req, res, "GET, OPTIONS");
 
   if (req.method === "OPTIONS") {
     return res.status(200).end();
@@ -22,25 +17,27 @@ export default async function handler(req, res) {
     let latestDateObj = null;
     let latestDateStr = null;
 
-    for (const dbInfo of databases.databases) {
-      const dbName = dbInfo.name;
-      if (dbName.includes("Fall-Winter") || dbName.includes("Summer")) {
-        const db = client.db(dbName);
-        const collections = await db.listCollections().toArray();
+    const timetableDatabases = await getLatestTimetableDatabases(
+      client,
+      databases.databases
+    );
 
-        for (const collection of collections) {
-          const doc = await db
-            .collection(collection.name)
-            .findOne({ faculty_name: collection.name.replace(/_/g, " ") });
+    for (const dbName of timetableDatabases) {
+      const db = client.db(dbName);
+      const collections = await db.listCollections().toArray();
 
-          if (doc?.last_updated) {
-            const parsedDateStr = doc.last_updated.replace(" at ", " ");
-            const currentDateObj = new Date(parsedDateStr);
+      for (const collection of collections) {
+        const doc = await db
+          .collection(collection.name)
+          .findOne({ faculty_name: collection.name.replace(/_/g, " ") });
 
-            if (!latestDateObj || currentDateObj > latestDateObj) {
-              latestDateObj = currentDateObj;
-              latestDateStr = doc.last_updated;
-            }
+        if (doc?.last_updated) {
+          const parsedDateStr = doc.last_updated.replace(" at ", " ");
+          const currentDateObj = new Date(parsedDateStr);
+
+          if (!latestDateObj || currentDateObj > latestDateObj) {
+            latestDateObj = currentDateObj;
+            latestDateStr = doc.last_updated;
           }
         }
       }

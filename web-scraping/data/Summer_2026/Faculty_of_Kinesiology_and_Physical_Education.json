@@ -1,0 +1,648 @@
+{
+    "faculty_metadata": {
+        "faculty_name": "Faculty of Kinesiology and Physical Education",
+        "source_session": "Summer 2026",
+        "database_name": "Summer_2026",
+        "term_options": [
+            "Summer First Sub-Session 2026 (F)",
+            "Summer Second Sub-Session 2026 (S)"
+        ],
+        "semesters": {
+            "Summer First Sub-Session 2026 (F)": {
+                "departments": {
+                    "Faculty of Kinesiology and Physical Education": {
+                        "buildings": [
+                            "BN",
+                            "Online",
+                            "WS"
+                        ],
+                        "instructors": [
+                            "Anthony Lombardo",
+                            "Danielle Dobney",
+                            "Danny Pincivero",
+                            "Erin Sullivan",
+                            "Erin Willson",
+                            "Matt Heffernan",
+                            "Noah Benjamin Gentner",
+                            "Paul VanWiechen",
+                            "Saidur Rahman",
+                            "Simon Darnell",
+                            "TBA"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "May 03, 2026 at 9:22 AM"
+    },
+    "timings": [
+        {
+            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Erin Sullivan"
+            ],
+            "capacity": 160,
+            "current_enrolment": 160,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Erin Sullivan"
+            ],
+            "capacity": 160,
+            "current_enrolment": 160,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE200H1 F: Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 160,
+            "current_enrolment": 150,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 140,
+            "current_enrolment": 140,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "13:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 140,
+            "current_enrolment": 140,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 24,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 23,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 24,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 23,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 24,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE260H1 F: Human Physiology I",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Danny Pincivero"
+            ],
+            "capacity": 23,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE321H1 F: Population Health",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "13:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Anthony Lombardo"
+            ],
+            "capacity": 60,
+            "current_enrolment": 60,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE321H1 F: Population Health",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "13:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Anthony Lombardo"
+            ],
+            "capacity": 60,
+            "current_enrolment": 60,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE324H1 F: Advanced Sport Psychology",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "09:30",
+            "end_time": "12:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Noah Benjamin Gentner"
+            ],
+            "capacity": 90,
+            "current_enrolment": 90,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 140,
+            "current_enrolment": 133,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "13:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 140,
+            "current_enrolment": 133,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 21,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 21,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 21,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 21,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 21,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 21,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE363H1 F: Sport Medicine",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "10:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Danielle Dobney"
+            ],
+            "capacity": 60,
+            "current_enrolment": 52,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE363H1 F: Sport Medicine",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "10:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Danielle Dobney"
+            ],
+            "capacity": 60,
+            "current_enrolment": 52,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE363H1 F: Sport Medicine",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 60,
+            "current_enrolment": 50,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE400H1 F: Ethics & Power in Kinesiology Physical Education and Health Fields",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Saidur Rahman"
+            ],
+            "capacity": 180,
+            "current_enrolment": 180,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE400H1 F: Ethics & Power in Kinesiology Physical Education and Health Fields",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 180,
+            "current_enrolment": 167,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE401H1 F: International Development through Sport",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "10:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Simon Darnell"
+            ],
+            "capacity": 25,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE401H1 F: International Development through Sport",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "BN",
+            "instructors": [
+                "Simon Darnell"
+            ],
+            "capacity": 25,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE407H1 F: Maltreatment in Youth Sport",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "16:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Erin Willson"
+            ],
+            "capacity": 90,
+            "current_enrolment": 90,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE407H1 F: Maltreatment in Youth Sport",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Erin Willson"
+            ],
+            "capacity": 90,
+            "current_enrolment": 90,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE429H1 F: Sport Management",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "Online",
+            "instructors": [
+                "Paul VanWiechen"
+            ],
+            "capacity": 60,
+            "current_enrolment": 60,
+            "delivery_mode": "Online Synchronous"
+        }
+    ]
+}
