@@ -12,28 +12,30 @@
                 "departments": {
                     "Faculty of Kinesiology and Physical Education": {
                         "buildings": [
+                            "TBA",
+                            "WS",
                             "BN",
-                            "Online",
-                            "WS"
+                            "Online"
                         ],
                         "instructors": [
-                            "Anthony Lombardo",
-                            "Danielle Dobney",
+                            "TBA",
                             "Danny Pincivero",
-                            "Erin Sullivan",
-                            "Erin Willson",
-                            "Matt Heffernan",
-                            "Noah Benjamin Gentner",
                             "Paul VanWiechen",
-                            "Saidur Rahman",
+                            "Danielle Dobney",
+                            "Mehran Haeri",
                             "Simon Darnell",
-                            "TBA"
+                            "Erin Willson",
+                            "Anthony Lombardo",
+                            "Saidur Rahman",
+                            "Noah Benjamin Gentner",
+                            "Erin Sullivan",
+                            "Matt Heffernan"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 03, 2026 at 9:22 AM"
+        "last_updated": "May 11, 2026 at 7:51 AM"
     },
     "timings": [
         {
@@ -90,7 +92,7 @@
                 "TBA"
             ],
             "capacity": 160,
-            "current_enrolment": 150,
+            "current_enrolment": 152,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -242,7 +244,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 23,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -261,7 +263,7 @@
                 "Anthony Lombardo"
             ],
             "capacity": 60,
-            "current_enrolment": 60,
+            "current_enrolment": 57,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -280,7 +282,7 @@
                 "Anthony Lombardo"
             ],
             "capacity": 60,
-            "current_enrolment": 60,
+            "current_enrolment": 57,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -318,7 +320,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 140,
-            "current_enrolment": 133,
+            "current_enrolment": 123,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -337,7 +339,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 140,
-            "current_enrolment": 133,
+            "current_enrolment": 123,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -394,7 +396,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 21,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -413,7 +415,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 21,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -432,7 +434,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 21,
-            "current_enrolment": 21,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -470,7 +472,7 @@
                 "Danielle Dobney"
             ],
             "capacity": 60,
-            "current_enrolment": 52,
+            "current_enrolment": 56,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -489,7 +491,7 @@
                 "Danielle Dobney"
             ],
             "capacity": 60,
-            "current_enrolment": 52,
+            "current_enrolment": 56,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -508,8 +510,46 @@
                 "TBA"
             ],
             "capacity": 60,
-            "current_enrolment": 50,
+            "current_enrolment": 55,
             "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "KPE369H1 F: Human Physiology II",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "09:30",
+            "end_time": "12:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "TBA",
+            "instructors": [
+                "Mehran Haeri"
+            ],
+            "capacity": 100,
+            "current_enrolment": 39,
+            "delivery_mode": "Hybrid"
+        },
+        {
+            "course_name": "KPE369H1 F: Human Physiology II",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "09:30",
+            "end_time": "12:30",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "TBA",
+            "instructors": [
+                "Mehran Haeri"
+            ],
+            "capacity": 100,
+            "current_enrolment": 39,
+            "delivery_mode": "Hybrid"
         },
         {
             "course_name": "KPE400H1 F: Ethics & Power in Kinesiology Physical Education and Health Fields",
@@ -546,7 +586,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 167,
+            "current_enrolment": 168,
             "delivery_mode": "Online Synchronous"
         },
         {

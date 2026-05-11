@@ -12,31 +12,51 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
-                            "MC",
                             "MP",
                             "MY",
+                            "SF",
                             "PB",
-                            "SF"
+                            "MC",
+                            "WI",
+                            "GB"
                         ],
                         "instructors": [
-                            "Chandra Veer Singh",
-                            "Fatemeh Jazinizadeh",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Jason Bazylak",
                             "TBA",
+                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh",
+                            "Chandra Veer Singh",
                             "Tamara Kecman"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
+                            "TBA",
                             "Online"
                         ],
                         "instructors": [
-                            "Alex Kaju",
+                            "TBA",
                             "Justin Beland",
-                            "Kate Patterson",
+                            "Alex Kaju",
                             "Steven Chuang Chuang",
+                            "Kate Patterson",
+                            "Evan Bentz"
+                        ]
+                    },
+                    "Division of Engineering Science": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "Alan Chong",
+                            "Lisa Romkey"
+                        ]
+                    },
+                    "Faculty of Applied Science & Engineering": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
                             "TBA"
                         ]
                     },
@@ -52,23 +72,27 @@
             },
             "Summer Second Sub-Session 2026 (S)": {
                 "departments": {
-                    "Cross-Disciplinary Programs Office": {
-                        "buildings": [
-                            "Online"
-                        ],
-                        "instructors": [
-                            "Justin Beland",
-                            "Shannon Liu",
-                            "TBA"
-                        ]
-                    },
                     "Engineering First Year Office": {
                         "buildings": [
                             "Online"
                         ],
                         "instructors": [
+                            "Weilai Yu",
+                            "Ferdinand Oghenereke Avikpe",
                             "TBA",
-                            "Weilai Yu"
+                            "Scott Ramsay"
+                        ]
+                    },
+                    "Cross-Disciplinary Programs Office": {
+                        "buildings": [
+                            "TBA",
+                            "Online"
+                        ],
+                        "instructors": [
+                            "Shannon Liu",
+                            "TBA",
+                            "Justin Beland",
+                            "Evan Bentz"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
@@ -77,7 +101,24 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
+                            "TBA",
+                            "Steven Chuang Chuang"
+                        ]
+                    },
+                    "Division of Engineering Science": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "Alan Chong",
+                            "Lisa Romkey"
+                        ]
+                    },
+                    "Faculty of Applied Science & Engineering": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
                             "TBA"
                         ]
                     },
@@ -92,7 +133,7 @@
                 }
             }
         },
-        "last_updated": "May 03, 2026 at 8:16 AM"
+        "last_updated": "May 11, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -111,7 +152,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 45,
+            "current_enrolment": 42,
             "delivery_mode": "In Person"
         },
         {
@@ -130,7 +171,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 45,
+            "current_enrolment": 42,
             "delivery_mode": "In Person"
         },
         {
@@ -149,7 +190,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 45,
+            "current_enrolment": 42,
             "delivery_mode": "In Person"
         },
         {
@@ -168,7 +209,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 45,
+            "current_enrolment": 42,
             "delivery_mode": "In Person"
         },
         {
@@ -182,12 +223,12 @@
             "source_session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "WI",
             "instructors": [
                 "Tamara Kecman"
             ],
-            "capacity": 110,
-            "current_enrolment": 105,
+            "capacity": 115,
+            "current_enrolment": 97,
             "delivery_mode": "In Person"
         },
         {
@@ -201,12 +242,12 @@
             "source_session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "WI",
             "instructors": [
                 "Tamara Kecman"
             ],
-            "capacity": 110,
-            "current_enrolment": 105,
+            "capacity": 115,
+            "current_enrolment": 97,
             "delivery_mode": "In Person"
         },
         {
@@ -220,12 +261,12 @@
             "source_session": "Summer First Sub-Session 2026 (F)",
             "department": "Engineering First Year Office",
             "faculty": "Faculty of Applied Science & Engineering",
-            "location": "GB",
+            "location": "WI",
             "instructors": [
                 "TBA"
             ],
-            "capacity": 110,
-            "current_enrolment": 105,
+            "capacity": 115,
+            "current_enrolment": 97,
             "delivery_mode": "In Person"
         },
         {
@@ -243,8 +284,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 110,
-            "current_enrolment": 104,
+            "capacity": 115,
+            "current_enrolment": 97,
             "delivery_mode": "In Person"
         },
         {
@@ -262,8 +303,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 110,
-            "current_enrolment": 104,
+            "capacity": 115,
+            "current_enrolment": 97,
             "delivery_mode": "In Person"
         },
         {
@@ -282,7 +323,7 @@
                 "Jason Bazylak"
             ],
             "capacity": 36,
-            "current_enrolment": 20,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -301,7 +342,7 @@
                 "Jason Bazylak"
             ],
             "capacity": 36,
-            "current_enrolment": 20,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -320,7 +361,7 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 20,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -339,10 +380,86 @@
                 "TBA"
             ],
             "capacity": 36,
-            "current_enrolment": 20,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
+            "course_name": "APS162H1 S: Calculus for Engineers I",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Ferdinand Oghenereke Avikpe"
+            ],
+            "capacity": 150,
+            "current_enrolment": 0,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "APS164H1 S: Introductory Chemistry from a Materials Perspective",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Engineering First Year Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "Scott Ramsay"
+            ],
+            "capacity": 150,
+            "current_enrolment": 1,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "APS299Y0 Y: Summer Research Abroad",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "Evan Bentz"
+            ],
+            "capacity": 12,
+            "current_enrolment": 4,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "APS299Y0 Y: Summer Research Abroad",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "Evan Bentz"
+            ],
+            "capacity": 12,
+            "current_enrolment": 4,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
             "course_name": "APS360H1 Y: Applied Fundamentals of Deep Learning",
             "section_title": "Lectures",
             "day": "Wednesday",
@@ -358,7 +475,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 120,
+            "current_enrolment": 102,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -377,7 +494,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 120,
+            "current_enrolment": 102,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -396,7 +513,7 @@
                 "Justin Beland"
             ],
             "capacity": 80,
-            "current_enrolment": 63,
+            "current_enrolment": 65,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -415,7 +532,7 @@
                 "Justin Beland"
             ],
             "capacity": 80,
-            "current_enrolment": 63,
+            "current_enrolment": 65,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -434,7 +551,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 106,
+            "current_enrolment": 103,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -453,7 +570,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 106,
+            "current_enrolment": 103,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -472,7 +589,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 52,
+            "current_enrolment": 55,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -491,7 +608,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 52,
+            "current_enrolment": 55,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -510,7 +627,7 @@
                 "Weilai Yu"
             ],
             "capacity": 100,
-            "current_enrolment": 10,
+            "current_enrolment": 8,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -529,7 +646,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 10,
+            "current_enrolment": 8,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -548,7 +665,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 48,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -567,7 +684,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 48,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -586,7 +703,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 48,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -605,7 +722,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 48,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -624,7 +741,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 58,
+            "current_enrolment": 54,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -643,7 +760,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 58,
+            "current_enrolment": 54,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -661,8 +778,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 50,
-            "current_enrolment": 7,
+            "capacity": 30,
+            "current_enrolment": 5,
             "delivery_mode": "In Person"
         },
         {
@@ -680,9 +797,49 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 50,
-            "current_enrolment": 50,
+            "capacity": 70,
+            "current_enrolment": 48,
             "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "ESC499Y1 Y: Thesis",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Division of Engineering Science",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "Lisa Romkey",
+                "Alan Chong"
+            ],
+            "capacity": 10,
+            "current_enrolment": 2,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "ESC499Y1 Y: Thesis",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Division of Engineering Science",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "Lisa Romkey",
+                "Alan Chong"
+            ],
+            "capacity": 10,
+            "current_enrolment": 2,
+            "delivery_mode": "In Person"
         },
         {
             "course_name": "JRE300H1 F: Fundamentals of Accounting and Finance",
@@ -700,7 +857,7 @@
                 "Kate Patterson"
             ],
             "capacity": 130,
-            "current_enrolment": 130,
+            "current_enrolment": 109,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -719,7 +876,7 @@
                 "Kate Patterson"
             ],
             "capacity": 130,
-            "current_enrolment": 130,
+            "current_enrolment": 109,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -738,7 +895,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 64,
+            "current_enrolment": 60,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -757,7 +914,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 64,
+            "current_enrolment": 60,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -776,7 +933,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 45,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -795,7 +952,7 @@
                 "TBA"
             ],
             "capacity": 65,
-            "current_enrolment": 53,
+            "current_enrolment": 45,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -814,7 +971,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 91,
+            "current_enrolment": 80,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -833,7 +990,45 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 91,
+            "current_enrolment": 80,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "18:00",
+            "end_time": "20:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 17,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -871,45 +1066,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "source_session": "Summer First Sub-Session 2026 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 22,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 F: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "18:00",
-            "end_time": "20:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "source_session": "Summer First Sub-Session 2026 (F)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 11,
+            "current_enrolment": 15,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -928,7 +1085,7 @@
                 "Shannon Liu"
             ],
             "capacity": 100,
-            "current_enrolment": 83,
+            "current_enrolment": 76,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -947,45 +1104,7 @@
                 "Shannon Liu"
             ],
             "capacity": 100,
-            "current_enrolment": 83,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "08:00",
-            "end_time": "10:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 25,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "08:00",
-            "end_time": "10:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 76,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1023,7 +1142,45 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 10,
+            "current_enrolment": 22,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 21,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 8,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1041,8 +1198,8 @@
             "instructors": [
                 "Alex Kaju"
             ],
-            "capacity": 100,
-            "current_enrolment": 100,
+            "capacity": 103,
+            "current_enrolment": 93,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1060,8 +1217,8 @@
             "instructors": [
                 "Alex Kaju"
             ],
-            "capacity": 100,
-            "current_enrolment": 100,
+            "capacity": 103,
+            "current_enrolment": 93,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1079,8 +1236,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 36,
-            "current_enrolment": 35,
+            "capacity": 52,
+            "current_enrolment": 47,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1098,8 +1255,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 36,
-            "current_enrolment": 35,
+            "capacity": 52,
+            "current_enrolment": 47,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1117,8 +1274,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 36,
-            "current_enrolment": 28,
+            "capacity": 51,
+            "current_enrolment": 46,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1136,8 +1293,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 36,
-            "current_enrolment": 28,
+            "capacity": 51,
+            "current_enrolment": 46,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1155,8 +1312,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 36,
-            "current_enrolment": 22,
+            "capacity": 0,
+            "current_enrolment": 0,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1174,8 +1331,8 @@
             "instructors": [
                 "TBA"
             ],
-            "capacity": 36,
-            "current_enrolment": 22,
+            "capacity": 0,
+            "current_enrolment": 0,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1194,7 +1351,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 139,
+            "current_enrolment": 161,
             "delivery_mode": "In Person"
         },
         {
@@ -1213,7 +1370,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 139,
+            "current_enrolment": 161,
             "delivery_mode": "In Person"
         },
         {
@@ -1232,7 +1389,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 139,
+            "current_enrolment": 161,
             "delivery_mode": "In Person"
         },
         {
@@ -1251,7 +1408,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 81,
+            "current_enrolment": 78,
             "delivery_mode": "In Person"
         },
         {
@@ -1270,7 +1427,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 58,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -1289,7 +1446,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 119,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
@@ -1308,7 +1465,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 119,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
@@ -1327,7 +1484,83 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 119,
+            "current_enrolment": 115,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 204,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY300H1 Y: Summer Co-op Work Term",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 204,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 1508,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 1508,
             "delivery_mode": "In Person"
         },
         {
@@ -1384,7 +1617,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 39,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -1403,7 +1636,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 39,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         }
     ]

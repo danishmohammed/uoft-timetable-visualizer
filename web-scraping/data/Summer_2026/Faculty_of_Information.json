@@ -7,8 +7,112 @@
             "Summer First Sub-Session 2026 (F)",
             "Summer Second Sub-Session 2026 (S)"
         ],
-        "semesters": {},
-        "last_updated": "May 03, 2026 at 9:21 AM"
+        "semesters": {
+            "Summer First Sub-Session 2026 (F)": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "Online"
+                        ],
+                        "instructors": [
+                            "Carli Fink",
+                            "Elisa Tersigni"
+                        ]
+                    }
+                }
+            },
+            "Summer Second Sub-Session 2026 (S)": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "Online"
+                        ],
+                        "instructors": [
+                            "Carli Fink",
+                            "Elisa Tersigni"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "May 11, 2026 at 7:50 AM"
     },
-    "timings": []
+    "timings": [
+        {
+            "course_name": "INF301H1 Y: Intro to Info and Power",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Elisa Tersigni"
+            ],
+            "capacity": 50,
+            "current_enrolment": 45,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "INF301H1 Y: Intro to Info and Power",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Elisa Tersigni"
+            ],
+            "capacity": 50,
+            "current_enrolment": 45,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "INF402H1 Y: Practicum",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Carli Fink"
+            ],
+            "capacity": 50,
+            "current_enrolment": 42,
+            "delivery_mode": "Online Asynchronous"
+        },
+        {
+            "course_name": "INF402H1 Y: Practicum",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Full Session 2026 (Y)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "Carli Fink"
+            ],
+            "capacity": 50,
+            "current_enrolment": 42,
+            "delivery_mode": "Online Asynchronous"
+        }
+    ]
 }
