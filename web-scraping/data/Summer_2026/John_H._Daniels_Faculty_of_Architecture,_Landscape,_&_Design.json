@@ -12,26 +12,26 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "NB",
-                            "TBA",
                             "DA",
-                            "SB"
+                            "SB",
+                            "NB",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Nicholas Hoban",
-                            "John Shnier",
-                            "TBA",
-                            "Jeffrey Garcia",
-                            "Danielle Whitley",
-                            "Humbi Song",
-                            "Morris Lum",
-                            "Harry Wei",
-                            "Sukaina Kubba",
-                            "Mauricio Quiros Pacheco",
-                            "Sonia Ramundi",
                             "Milena Tomic",
+                            "Jeffrey Garcia",
+                            "Peter Sealy",
+                            "TBA",
+                            "Morris Lum",
+                            "Humbi Song",
+                            "Danielle Whitley",
+                            "Sonia Ramundi",
+                            "Sukaina Kubba",
                             "Maggie Groat",
-                            "Peter Sealy"
+                            "Harry Wei",
+                            "Mauricio Quiros Pacheco",
+                            "Nicholas Hoban",
+                            "John Shnier"
                         ]
                     }
                 }
@@ -40,28 +40,28 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "NB",
-                            "TBA",
                             "DA",
-                            "SB"
+                            "SB",
+                            "NB",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Nicholas Hoban",
                             "TBA",
-                            "John Shnier",
+                            "Peter Sealy",
                             "Humbi Song",
+                            "David Verbeek",
                             "Harry Wei",
-                            "Helen Liene Dreifelds",
                             "Mauricio Quiros Pacheco",
                             "Melanie Gilligan",
-                            "David Verbeek",
-                            "Peter Sealy"
+                            "Nicholas Hoban",
+                            "Helen Liene Dreifelds",
+                            "John Shnier"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 11, 2026 at 7:53 AM"
+        "last_updated": "May 12, 2026 at 11:22 AM"
     },
     "timings": [
         {
@@ -118,7 +118,7 @@
                 "Danielle Whitley"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -137,7 +137,7 @@
                 "Danielle Whitley"
             ],
             "capacity": 20,
-            "current_enrolment": 14,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -460,7 +460,7 @@
                 "Humbi Song"
             ],
             "capacity": 30,
-            "current_enrolment": 11,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -479,7 +479,7 @@
                 "Humbi Song"
             ],
             "capacity": 30,
-            "current_enrolment": 11,
+            "current_enrolment": 12,
             "delivery_mode": "In Person"
         },
         {
@@ -555,7 +555,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -574,7 +574,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -593,7 +593,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -612,7 +612,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -631,7 +631,7 @@
                 "Helen Liene Dreifelds"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -650,7 +650,7 @@
                 "Helen Liene Dreifelds"
             ],
             "capacity": 20,
-            "current_enrolment": 15,
+            "current_enrolment": 16,
             "delivery_mode": "In Person"
         },
         {
@@ -859,7 +859,7 @@
                 "Maggie Groat"
             ],
             "capacity": 20,
-            "current_enrolment": 8,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -878,7 +878,7 @@
                 "Maggie Groat"
             ],
             "capacity": 20,
-            "current_enrolment": 8,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
