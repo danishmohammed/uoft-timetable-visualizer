@@ -12,21 +12,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "WI",
-                            "GB",
-                            "MC",
-                            "SF",
-                            "MP",
+                            "PB",
                             "MY",
-                            "PB"
+                            "MP",
+                            "MC",
+                            "WI",
+                            "SF",
+                            "GB"
                         ],
                         "instructors": [
-                            "Tamara Kecman",
                             "Hamid Shokrollah-Timorabadi",
+                            "Jason Bazylak",
+                            "Tamara Kecman",
                             "Fatemeh Jazinizadeh",
                             "TBA",
-                            "Chandra Veer Singh",
-                            "Jason Bazylak"
+                            "Chandra Veer Singh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -36,11 +36,11 @@
                         ],
                         "instructors": [
                             "Alex Kaju",
-                            "Kate Patterson",
                             "Justin Beland",
-                            "TBA",
                             "Evan Bentz",
-                            "Steven Chuang Chuang"
+                            "Steven Chuang Chuang",
+                            "TBA",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,8 +48,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -77,10 +77,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
-                            "TBA",
+                            "Ferdinand Oghenereke Avikpe",
                             "Weilai Yu",
-                            "Ferdinand Oghenereke Avikpe"
+                            "TBA",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -89,16 +89,16 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Evan Bentz",
+                            "TBA",
                             "Justin Beland",
                             "Shannon Liu"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "Online",
-                            "MY"
+                            "MY",
+                            "Online"
                         ],
                         "instructors": [
                             "TBA",
@@ -110,8 +110,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -133,7 +133,7 @@
                 }
             }
         },
-        "last_updated": "May 16, 2026 at 2:02 AM"
+        "last_updated": "May 17, 2026 at 2:02 AM"
     },
     "timings": [
         {
