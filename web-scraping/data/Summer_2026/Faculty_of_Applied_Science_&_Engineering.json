@@ -12,19 +12,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
                             "MP",
-                            "WI",
                             "GB",
                             "PB",
+                            "SF",
                             "MC",
-                            "MY"
+                            "MY",
+                            "WI"
                         ],
                         "instructors": [
                             "Chandra Veer Singh",
+                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi",
                             "Tamara Kecman",
-                            "Jason Bazylak",
                             "Fatemeh Jazinizadeh",
                             "TBA"
                         ]
@@ -36,10 +36,10 @@
                         ],
                         "instructors": [
                             "Kate Patterson",
-                            "Alex Kaju",
                             "Evan Bentz",
-                            "Steven Chuang Chuang",
                             "Justin Beland",
+                            "Alex Kaju",
+                            "Steven Chuang Chuang",
                             "TBA"
                         ]
                     },
@@ -77,10 +77,10 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Weilai Yu",
                             "Scott Ramsay",
-                            "TBA",
                             "Ferdinand Oghenereke Avikpe",
-                            "Weilai Yu"
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -90,15 +90,15 @@
                         ],
                         "instructors": [
                             "Evan Bentz",
-                            "TBA",
                             "Shannon Liu",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "MY",
-                            "Online"
+                            "Online",
+                            "MY"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -133,7 +133,7 @@
                 }
             }
         },
-        "last_updated": "May 22, 2026 at 2:02 AM"
+        "last_updated": "May 23, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -475,7 +475,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -494,7 +494,7 @@
                 "Justin Beland"
             ],
             "capacity": 120,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -551,7 +551,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -570,7 +570,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 89,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -665,7 +665,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 62,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -684,7 +684,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 62,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -703,7 +703,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 62,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -722,7 +722,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 62,
+            "current_enrolment": 61,
             "delivery_mode": "In Person"
         },
         {
@@ -1617,7 +1617,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 32,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1636,7 +1636,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 32,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         }
     ]
