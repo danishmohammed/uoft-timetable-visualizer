@@ -12,30 +12,30 @@
                 "departments": {
                     "Faculty of Kinesiology and Physical Education": {
                         "buildings": [
-                            "Online",
-                            "WS",
+                            "BN",
                             "TBA",
-                            "BN"
+                            "WS",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Mehran Haeri",
-                            "Danielle Dobney",
-                            "Danny Pincivero",
-                            "Paul VanWiechen",
-                            "Matt Heffernan",
-                            "Noah Benjamin Gentner",
-                            "Saidur Rahman",
-                            "Erin Sullivan",
-                            "Anthony Lombardo",
                             "Simon Darnell",
-                            "Erin Willson"
+                            "Noah Benjamin Gentner",
+                            "Paul VanWiechen",
+                            "Danny Pincivero",
+                            "Matt Heffernan",
+                            "Erin Sullivan",
+                            "Erin Willson",
+                            "Danielle Dobney",
+                            "Anthony Lombardo",
+                            "TBA",
+                            "Saidur Rahman"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 12, 2026 at 11:20 AM"
+        "last_updated": "May 25, 2026 at 11:53 AM"
     },
     "timings": [
         {
@@ -54,7 +54,7 @@
                 "Erin Sullivan"
             ],
             "capacity": 160,
-            "current_enrolment": 159,
+            "current_enrolment": 158,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -73,7 +73,7 @@
                 "Erin Sullivan"
             ],
             "capacity": 160,
-            "current_enrolment": 159,
+            "current_enrolment": 158,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -92,7 +92,7 @@
                 "TBA"
             ],
             "capacity": 160,
-            "current_enrolment": 151,
+            "current_enrolment": 150,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -111,7 +111,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 140,
-            "current_enrolment": 140,
+            "current_enrolment": 138,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -130,7 +130,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 140,
-            "current_enrolment": 140,
+            "current_enrolment": 138,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -167,7 +167,7 @@
             "instructors": [
                 "Danny Pincivero"
             ],
-            "capacity": 23,
+            "capacity": 24,
             "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
@@ -225,7 +225,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 24,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -244,7 +244,7 @@
                 "Danny Pincivero"
             ],
             "capacity": 23,
-            "current_enrolment": 22,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -263,7 +263,7 @@
                 "Anthony Lombardo"
             ],
             "capacity": 60,
-            "current_enrolment": 57,
+            "current_enrolment": 55,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -282,7 +282,7 @@
                 "Anthony Lombardo"
             ],
             "capacity": 60,
-            "current_enrolment": 57,
+            "current_enrolment": 55,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -320,7 +320,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 140,
-            "current_enrolment": 122,
+            "current_enrolment": 121,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -339,7 +339,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 140,
-            "current_enrolment": 122,
+            "current_enrolment": 121,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -378,25 +378,6 @@
             ],
             "capacity": 21,
             "current_enrolment": 21,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "KPE334H1 F: Adapted Physical Activity",
-            "section_title": "Practicals",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer First Sub-Session 2026 (F)",
-            "source_session": "Summer First Sub-Session 2026 (F)",
-            "department": "Faculty of Kinesiology and Physical Education",
-            "faculty": "Faculty of Kinesiology and Physical Education",
-            "location": "WS",
-            "instructors": [
-                "Matt Heffernan"
-            ],
-            "capacity": 21,
-            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -422,8 +403,8 @@
             "course_name": "KPE334H1 F: Adapted Physical Activity",
             "section_title": "Practicals",
             "day": "Thursday",
-            "start_time": "17:00",
-            "end_time": "18:00",
+            "start_time": "16:00",
+            "end_time": "17:00",
             "campus": "St. George",
             "session": "Summer First Sub-Session 2026 (F)",
             "source_session": "Summer First Sub-Session 2026 (F)",
@@ -434,7 +415,7 @@
                 "Matt Heffernan"
             ],
             "capacity": 21,
-            "current_enrolment": 18,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -453,7 +434,26 @@
                 "Matt Heffernan"
             ],
             "capacity": 21,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "KPE334H1 F: Adapted Physical Activity",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "18:00",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "Faculty of Kinesiology and Physical Education",
+            "faculty": "Faculty of Kinesiology and Physical Education",
+            "location": "WS",
+            "instructors": [
+                "Matt Heffernan"
+            ],
+            "capacity": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -529,7 +529,7 @@
                 "Mehran Haeri"
             ],
             "capacity": 100,
-            "current_enrolment": 38,
+            "current_enrolment": 35,
             "delivery_mode": "Hybrid"
         },
         {
@@ -548,7 +548,7 @@
                 "Mehran Haeri"
             ],
             "capacity": 100,
-            "current_enrolment": 38,
+            "current_enrolment": 35,
             "delivery_mode": "Hybrid"
         },
         {
@@ -605,7 +605,7 @@
                 "Simon Darnell"
             ],
             "capacity": 25,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -624,7 +624,7 @@
                 "Simon Darnell"
             ],
             "capacity": 25,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -643,7 +643,7 @@
                 "Erin Willson"
             ],
             "capacity": 90,
-            "current_enrolment": 90,
+            "current_enrolment": 89,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -662,7 +662,7 @@
                 "Erin Willson"
             ],
             "capacity": 90,
-            "current_enrolment": 90,
+            "current_enrolment": 89,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -681,7 +681,7 @@
                 "Paul VanWiechen"
             ],
             "capacity": 60,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "Online Synchronous"
         }
     ]

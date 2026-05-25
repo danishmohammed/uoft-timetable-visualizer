@@ -12,26 +12,26 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "DA",
-                            "SB",
                             "NB",
-                            "TBA"
+                            "TBA",
+                            "SB",
+                            "DA"
                         ],
                         "instructors": [
-                            "Milena Tomic",
                             "Jeffrey Garcia",
-                            "Peter Sealy",
-                            "TBA",
-                            "Morris Lum",
-                            "Humbi Song",
-                            "Danielle Whitley",
-                            "Sonia Ramundi",
-                            "Sukaina Kubba",
-                            "Maggie Groat",
-                            "Harry Wei",
-                            "Mauricio Quiros Pacheco",
                             "Nicholas Hoban",
-                            "John Shnier"
+                            "TBA",
+                            "Humbi Song",
+                            "John Shnier",
+                            "Morris Lum",
+                            "Mauricio Quiros Pacheco",
+                            "Peter Sealy",
+                            "Sukaina Kubba",
+                            "Danielle Whitley",
+                            "Maggie Groat",
+                            "Milena Tomic",
+                            "Sonia Ramundi",
+                            "Harry Wei"
                         ]
                     }
                 }
@@ -40,28 +40,28 @@
                 "departments": {
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
                         "buildings": [
-                            "DA",
-                            "SB",
                             "NB",
-                            "TBA"
+                            "TBA",
+                            "SB",
+                            "DA"
                         ],
                         "instructors": [
                             "TBA",
-                            "Peter Sealy",
-                            "Humbi Song",
-                            "David Verbeek",
-                            "Harry Wei",
-                            "Mauricio Quiros Pacheco",
-                            "Melanie Gilligan",
                             "Nicholas Hoban",
+                            "David Verbeek",
+                            "Humbi Song",
                             "Helen Liene Dreifelds",
-                            "John Shnier"
+                            "John Shnier",
+                            "Mauricio Quiros Pacheco",
+                            "Peter Sealy",
+                            "Melanie Gilligan",
+                            "Harry Wei"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "May 12, 2026 at 11:22 AM"
+        "last_updated": "May 25, 2026 at 11:55 AM"
     },
     "timings": [
         {
@@ -175,7 +175,7 @@
                 "David Verbeek"
             ],
             "capacity": 20,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -194,7 +194,7 @@
                 "David Verbeek"
             ],
             "capacity": 20,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -213,7 +213,7 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 9,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -232,7 +232,7 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 9,
+            "current_enrolment": 10,
             "delivery_mode": "In Person"
         },
         {
@@ -251,7 +251,7 @@
                 "David Verbeek"
             ],
             "capacity": 40,
-            "current_enrolment": 21,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -270,7 +270,7 @@
                 "Peter Sealy"
             ],
             "capacity": 30,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -289,7 +289,7 @@
                 "Peter Sealy"
             ],
             "capacity": 30,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -308,7 +308,7 @@
                 "John Shnier"
             ],
             "capacity": 30,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -327,7 +327,7 @@
                 "John Shnier"
             ],
             "capacity": 30,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -555,7 +555,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -574,7 +574,7 @@
                 "Milena Tomic"
             ],
             "capacity": 40,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -593,7 +593,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -612,7 +612,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 18,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -631,7 +631,7 @@
                 "Helen Liene Dreifelds"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -650,7 +650,7 @@
                 "Helen Liene Dreifelds"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -707,7 +707,7 @@
                 "Melanie Gilligan"
             ],
             "capacity": 20,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -726,7 +726,7 @@
                 "Melanie Gilligan"
             ],
             "capacity": 20,
-            "current_enrolment": 10,
+            "current_enrolment": 11,
             "delivery_mode": "In Person"
         },
         {
@@ -935,7 +935,7 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "In Person"
         },
         {
@@ -954,7 +954,26 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "VIS405H1 F: Visual Studies Internship",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Summer First Sub-Session 2026 (F)",
+            "source_session": "Summer First Sub-Session 2026 (F)",
+            "department": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "faculty": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 5,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         }
     ]
