@@ -12,21 +12,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
-                            "MP",
-                            "PB",
-                            "MY",
                             "SF",
+                            "MY",
+                            "WI",
                             "MC",
-                            "WI"
+                            "GB",
+                            "PB",
+                            "MP"
                         ],
                         "instructors": [
                             "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi",
                             "Fatemeh Jazinizadeh",
-                            "Chandra Veer Singh",
-                            "Tamara Kecman",
                             "TBA",
-                            "Hamid Shokrollah-Timorabadi"
+                            "Tamara Kecman",
+                            "Chandra Veer Singh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -35,12 +35,12 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Justin Beland",
-                            "Steven Chuang Chuang",
-                            "TBA",
+                            "Evan Bentz",
                             "Kate Patterson",
                             "Alex Kaju",
-                            "Evan Bentz"
+                            "TBA",
+                            "Justin Beland",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -77,10 +77,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Weilai Yu",
                             "Scott Ramsay",
-                            "Ferdinand Oghenereke Avikpe",
-                            "TBA"
+                            "Weilai Yu",
+                            "TBA",
+                            "Ferdinand Oghenereke Avikpe"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -90,19 +90,19 @@
                         ],
                         "instructors": [
                             "TBA",
-                            "Shannon Liu",
                             "Justin Beland",
+                            "Shannon Liu",
                             "Evan Bentz"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "MY",
-                            "Online"
+                            "Online",
+                            "MY"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "TBA"
+                            "TBA",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -133,7 +133,7 @@
                 }
             }
         },
-        "last_updated": "May 27, 2026 at 2:02 AM"
+        "last_updated": "May 28, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -1579,7 +1579,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 76,
+            "current_enrolment": 75,
             "delivery_mode": "In Person"
         },
         {
@@ -1598,7 +1598,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 76,
+            "current_enrolment": 75,
             "delivery_mode": "In Person"
         },
         {
