@@ -83,6 +83,14 @@
                             "TBA"
                         ]
                     },
+                    "Faculty of Applied Science & Engineering": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
                     "Inst for Studies in Transdisciplinary Engin Educ & Practice": {
                         "buildings": [
                             "TBA"
@@ -161,6 +169,14 @@
                         ]
                     },
                     "Department of Materials Science and Engineering": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "TBA"
+                        ]
+                    },
+                    "Faculty of Applied Science & Engineering": {
                         "buildings": [
                             "TBA"
                         ],
@@ -317,7 +333,7 @@
                 }
             }
         },
-        "last_updated": "June 04, 2026 at 2:56 AM"
+        "last_updated": "June 05, 2026 at 4:00 AM"
     },
     "timings": [
         {
@@ -63151,6 +63167,44 @@
             ],
             "capacity": 90,
             "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 8,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "PEY400Y1 Y: Professional Experience Year Co-op",
+            "section_title": "Practicals",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Applied Science & Engineering",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 8,
             "delivery_mode": "In Person"
         },
         {

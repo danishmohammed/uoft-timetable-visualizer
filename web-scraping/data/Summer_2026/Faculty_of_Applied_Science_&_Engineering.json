@@ -13,20 +13,20 @@
                     "Engineering First Year Office": {
                         "buildings": [
                             "PB",
+                            "MY",
+                            "MP",
+                            "MC",
                             "WI",
                             "SF",
-                            "MC",
-                            "MY",
-                            "GB",
-                            "MP"
+                            "GB"
                         ],
                         "instructors": [
+                            "Tamara Kecman",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Chandra Veer Singh",
                             "Fatemeh Jazinizadeh",
                             "Jason Bazylak",
-                            "Tamara Kecman",
-                            "TBA",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Chandra Veer Singh"
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -35,11 +35,11 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alex Kaju",
                             "Steven Chuang Chuang",
-                            "Evan Bentz",
-                            "Kate Patterson",
                             "Justin Beland",
+                            "Kate Patterson",
+                            "Evan Bentz",
+                            "Alex Kaju",
                             "TBA"
                         ]
                     },
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Alan Chong",
                             "Lisa Romkey",
-                            "TBA",
-                            "Alan Chong"
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,10 +78,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Ferdinand Oghenereke Avikpe",
                             "Weilai Yu",
+                            "Scott Ramsay",
                             "TBA",
-                            "Scott Ramsay"
+                            "Ferdinand Oghenereke Avikpe"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -98,8 +98,8 @@
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "Online",
-                            "MY"
+                            "MY",
+                            "Online"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -111,9 +111,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Alan Chong",
                             "Lisa Romkey",
-                            "TBA",
-                            "Alan Chong"
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 04, 2026 at 2:04 AM"
+        "last_updated": "June 05, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -743,7 +743,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 62,
+            "current_enrolment": 63,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -762,7 +762,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 62,
+            "current_enrolment": 63,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -800,7 +800,7 @@
                 "TBA"
             ],
             "capacity": 70,
-            "current_enrolment": 54,
+            "current_enrolment": 55,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1543,7 +1543,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 485,
+            "current_enrolment": 486,
             "delivery_mode": "In Person"
         },
         {
@@ -1562,7 +1562,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 485,
+            "current_enrolment": 486,
             "delivery_mode": "In Person"
         },
         {
@@ -1581,7 +1581,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1586,
+            "current_enrolment": 1610,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1600,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1586,
+            "current_enrolment": 1610,
             "delivery_mode": "In Person"
         },
         {
