@@ -14,17 +14,17 @@
                         "buildings": [
                             "MC",
                             "WI",
-                            "MY",
-                            "SF",
                             "PB",
-                            "MP",
-                            "GB"
+                            "MY",
+                            "GB",
+                            "SF",
+                            "MP"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
+                            "Tamara Kecman",
                             "TBA",
                             "Hamid Shokrollah-Timorabadi",
-                            "Tamara Kecman",
+                            "Jason Bazylak",
                             "Chandra Veer Singh",
                             "Fatemeh Jazinizadeh"
                         ]
@@ -35,12 +35,12 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Justin Beland",
-                            "Alex Kaju",
-                            "Kate Patterson",
+                            "Evan Bentz",
                             "Steven Chuang Chuang",
-                            "Evan Bentz"
+                            "Alex Kaju",
+                            "TBA",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
+                            "TBA",
                             "Lisa Romkey",
-                            "TBA"
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,9 +78,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
                             "Ferdinand Oghenereke Avikpe",
                             "Weilai Yu",
+                            "Scott Ramsay",
                             "TBA"
                         ]
                     },
@@ -91,9 +91,9 @@
                         ],
                         "instructors": [
                             "TBA",
-                            "Shannon Liu",
                             "Justin Beland",
-                            "Evan Bentz"
+                            "Evan Bentz",
+                            "Shannon Liu"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
@@ -102,8 +102,8 @@
                             "MY"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "TBA"
+                            "TBA",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -111,9 +111,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
+                            "TBA",
                             "Lisa Romkey",
-                            "TBA"
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 08, 2026 at 2:16 AM"
+        "last_updated": "June 09, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -515,7 +515,7 @@
                 "Justin Beland"
             ],
             "capacity": 80,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -534,7 +534,7 @@
                 "Justin Beland"
             ],
             "capacity": 80,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -591,7 +591,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 61,
+            "current_enrolment": 60,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -610,7 +610,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 61,
+            "current_enrolment": 60,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1125,7 +1125,7 @@
                 "Shannon Liu"
             ],
             "capacity": 100,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1144,7 +1144,7 @@
                 "Shannon Liu"
             ],
             "capacity": 100,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1201,7 +1201,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 19,
+            "current_enrolment": 20,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1657,7 +1657,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 31,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -1676,7 +1676,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 31,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         }
     ]
