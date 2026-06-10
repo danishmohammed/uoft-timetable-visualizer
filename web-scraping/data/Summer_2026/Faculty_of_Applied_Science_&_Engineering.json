@@ -12,35 +12,35 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "MP",
                             "MC",
-                            "WI",
-                            "PB",
                             "MY",
                             "GB",
                             "SF",
-                            "MP"
+                            "PB",
+                            "WI"
                         ],
                         "instructors": [
+                            "Hamid Shokrollah-Timorabadi",
                             "Tamara Kecman",
                             "TBA",
-                            "Hamid Shokrollah-Timorabadi",
-                            "Jason Bazylak",
                             "Chandra Veer Singh",
-                            "Fatemeh Jazinizadeh"
+                            "Fatemeh Jazinizadeh",
+                            "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "Evan Bentz",
-                            "Steven Chuang Chuang",
-                            "Alex Kaju",
                             "TBA",
-                            "Kate Patterson"
+                            "Steven Chuang Chuang",
+                            "Kate Patterson",
+                            "Justin Beland",
+                            "Alex Kaju"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
                             "Lisa Romkey",
-                            "Alan Chong"
+                            "Alan Chong",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -80,20 +80,20 @@
                         "instructors": [
                             "Ferdinand Oghenereke Avikpe",
                             "Weilai Yu",
-                            "Scott Ramsay",
-                            "TBA"
+                            "TBA",
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Justin Beland",
                             "Evan Bentz",
-                            "Shannon Liu"
+                            "Shannon Liu",
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
@@ -111,9 +111,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
                             "Lisa Romkey",
-                            "Alan Chong"
+                            "Alan Chong",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 09, 2026 at 2:02 AM"
+        "last_updated": "June 10, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -667,7 +667,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 57,
+            "current_enrolment": 54,
             "delivery_mode": "In Person"
         },
         {
@@ -686,7 +686,7 @@
                 "Hamid Shokrollah-Timorabadi"
             ],
             "capacity": 100,
-            "current_enrolment": 57,
+            "current_enrolment": 54,
             "delivery_mode": "In Person"
         },
         {
@@ -705,7 +705,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 57,
+            "current_enrolment": 54,
             "delivery_mode": "In Person"
         },
         {
@@ -724,7 +724,7 @@
                 "TBA"
             ],
             "capacity": 100,
-            "current_enrolment": 57,
+            "current_enrolment": 54,
             "delivery_mode": "In Person"
         },
         {
@@ -1391,7 +1391,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 137,
+            "current_enrolment": 136,
             "delivery_mode": "In Person"
         },
         {
@@ -1410,7 +1410,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 137,
+            "current_enrolment": 136,
             "delivery_mode": "In Person"
         },
         {
@@ -1429,7 +1429,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 137,
+            "current_enrolment": 136,
             "delivery_mode": "In Person"
         },
         {
@@ -1467,7 +1467,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "In Person"
         },
         {
@@ -1543,7 +1543,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 485,
+            "current_enrolment": 482,
             "delivery_mode": "In Person"
         },
         {
@@ -1562,7 +1562,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 485,
+            "current_enrolment": 482,
             "delivery_mode": "In Person"
         },
         {
@@ -1581,7 +1581,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1611,
+            "current_enrolment": 1612,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1600,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1611,
+            "current_enrolment": 1612,
             "delivery_mode": "In Person"
         },
         {
