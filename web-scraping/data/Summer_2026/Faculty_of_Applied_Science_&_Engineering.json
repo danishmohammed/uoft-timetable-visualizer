@@ -12,21 +12,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
                             "WI",
+                            "MC",
+                            "PB",
+                            "GB",
                             "MY",
                             "SF",
-                            "MP",
-                            "PB",
-                            "MC"
+                            "MP"
                         ],
                         "instructors": [
-                            "Tamara Kecman",
-                            "Jason Bazylak",
-                            "Hamid Shokrollah-Timorabadi",
                             "Fatemeh Jazinizadeh",
+                            "Tamara Kecman",
+                            "Chandra Veer Singh",
+                            "Hamid Shokrollah-Timorabadi",
                             "TBA",
-                            "Chandra Veer Singh"
+                            "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -35,12 +35,12 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Evan Bentz",
                             "Alex Kaju",
                             "Justin Beland",
-                            "Kate Patterson",
                             "TBA",
-                            "Evan Bentz",
-                            "Steven Chuang Chuang"
+                            "Steven Chuang Chuang",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,8 +48,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
                             "Lisa Romkey",
+                            "Alan Chong",
                             "TBA"
                         ]
                     },
@@ -78,9 +78,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Weilai Yu",
-                            "Ferdinand Oghenereke Avikpe",
                             "Scott Ramsay",
+                            "Diego Alejandro Cadena Morales",
+                            "Ferdinand Oghenereke Avikpe",
                             "TBA"
                         ]
                     },
@@ -92,14 +92,14 @@
                         "instructors": [
                             "Shannon Liu",
                             "Justin Beland",
-                            "TBA",
-                            "Evan Bentz"
+                            "Evan Bentz",
+                            "TBA"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "MY",
-                            "Online"
+                            "Online",
+                            "MY"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -111,8 +111,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
                             "Lisa Romkey",
+                            "Alan Chong",
                             "TBA"
                         ]
                     },
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 16, 2026 at 2:36 AM"
+        "last_updated": "June 17, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -401,7 +401,7 @@
                 "Ferdinand Oghenereke Avikpe"
             ],
             "capacity": 150,
-            "current_enrolment": 0,
+            "current_enrolment": 47,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -626,7 +626,7 @@
             "faculty": "Faculty of Applied Science & Engineering",
             "location": "Online",
             "instructors": [
-                "Weilai Yu"
+                "Diego Alejandro Cadena Morales"
             ],
             "capacity": 100,
             "current_enrolment": 16,
@@ -1201,7 +1201,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 21,
+            "current_enrolment": 22,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1391,7 +1391,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 136,
+            "current_enrolment": 135,
             "delivery_mode": "In Person"
         },
         {
@@ -1410,7 +1410,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 136,
+            "current_enrolment": 135,
             "delivery_mode": "In Person"
         },
         {
@@ -1429,7 +1429,7 @@
                 "Chandra Veer Singh"
             ],
             "capacity": 180,
-            "current_enrolment": 136,
+            "current_enrolment": 135,
             "delivery_mode": "In Person"
         },
         {
@@ -1448,7 +1448,7 @@
                 "TBA"
             ],
             "capacity": 180,
-            "current_enrolment": 68,
+            "current_enrolment": 67,
             "delivery_mode": "In Person"
         },
         {
