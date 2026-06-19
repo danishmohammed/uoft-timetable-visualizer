@@ -12,35 +12,35 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "GB",
-                            "PB",
-                            "WI",
-                            "MP",
-                            "SF",
                             "MY",
-                            "MC"
+                            "MC",
+                            "SF",
+                            "WI",
+                            "PB",
+                            "GB",
+                            "MP"
                         ],
                         "instructors": [
                             "Tamara Kecman",
-                            "Chandra Veer Singh",
-                            "TBA",
-                            "Fatemeh Jazinizadeh",
                             "Jason Bazylak",
-                            "Hamid Shokrollah-Timorabadi"
+                            "TBA",
+                            "Chandra Veer Singh",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "TBA",
                             "Kate Patterson",
-                            "Alex Kaju",
                             "Steven Chuang Chuang",
-                            "Justin Beland",
-                            "Evan Bentz"
+                            "TBA",
+                            "Alex Kaju",
+                            "Evan Bentz",
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -78,28 +78,28 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Diego Alejandro Cadena Morales",
                             "TBA",
-                            "Ferdinand Oghenereke Avikpe",
-                            "Scott Ramsay"
+                            "Diego Alejandro Cadena Morales",
+                            "Scott Ramsay",
+                            "Ferdinand Oghenereke Avikpe"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Shannon Liu",
                             "TBA",
+                            "Shannon Liu",
                             "Evan Bentz",
                             "Justin Beland"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "MY",
-                            "Online"
+                            "Online",
+                            "MY"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 18, 2026 at 2:03 AM"
+        "last_updated": "June 19, 2026 at 2:41 AM"
     },
     "timings": [
         {
@@ -401,7 +401,7 @@
                 "Ferdinand Oghenereke Avikpe"
             ],
             "capacity": 150,
-            "current_enrolment": 47,
+            "current_enrolment": 131,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -1581,7 +1581,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1625,
+            "current_enrolment": 1636,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1600,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1625,
+            "current_enrolment": 1636,
             "delivery_mode": "In Person"
         },
         {
