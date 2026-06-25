@@ -13,34 +13,34 @@
                     "Engineering First Year Office": {
                         "buildings": [
                             "MC",
-                            "WI",
                             "PB",
-                            "SF",
                             "GB",
+                            "MP",
                             "MY",
-                            "MP"
+                            "SF",
+                            "WI"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Jason Bazylak",
                             "Fatemeh Jazinizadeh",
                             "Hamid Shokrollah-Timorabadi",
+                            "Tamara Kecman",
                             "Chandra Veer Singh",
-                            "Jason Bazylak",
-                            "Tamara Kecman"
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Justin Beland",
                             "Alex Kaju",
                             "Evan Bentz",
+                            "Steven Chuang Chuang",
+                            "Justin Beland",
                             "Kate Patterson",
-                            "Steven Chuang Chuang"
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Alan Chong",
                             "Lisa Romkey",
-                            "TBA",
-                            "Alan Chong"
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,32 +78,32 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
                             "Ferdinand Oghenereke Avikpe",
-                            "Diego Alejandro Cadena Morales",
-                            "TBA"
+                            "Scott Ramsay",
+                            "TBA",
+                            "Diego Alejandro Cadena Morales"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Evan Bentz",
+                            "Shannon Liu",
                             "TBA",
-                            "Justin Beland",
-                            "Shannon Liu"
+                            "Evan Bentz",
+                            "Justin Beland"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "Online",
-                            "MY"
+                            "MY",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Steven Chuang Chuang"
+                            "Steven Chuang Chuang",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -111,9 +111,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Alan Chong",
                             "Lisa Romkey",
-                            "TBA",
-                            "Alan Chong"
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 24, 2026 at 2:12 AM"
+        "last_updated": "June 25, 2026 at 2:18 AM"
     },
     "timings": [
         {
@@ -743,7 +743,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 65,
+            "current_enrolment": 64,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -762,7 +762,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 65,
+            "current_enrolment": 64,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -800,7 +800,7 @@
                 "TBA"
             ],
             "capacity": 70,
-            "current_enrolment": 59,
+            "current_enrolment": 58,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1125,7 +1125,7 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 86,
+            "current_enrolment": 89,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1144,7 +1144,45 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 86,
+            "current_enrolment": 89,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 30,
+            "current_enrolment": 30,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 30,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1164,44 +1202,6 @@
             ],
             "capacity": 30,
             "current_enrolment": 29,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "08:00",
-            "end_time": "10:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 30,
-            "current_enrolment": 29,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "08:00",
-            "end_time": "10:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 30,
-            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1220,7 +1220,7 @@
                 "TBA"
             ],
             "capacity": 2,
-            "current_enrolment": 2,
+            "current_enrolment": 0,
             "delivery_mode": "Online Synchronous"
         },
         {
