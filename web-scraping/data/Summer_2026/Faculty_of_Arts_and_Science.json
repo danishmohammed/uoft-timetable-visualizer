@@ -12,34 +12,34 @@
                 "departments": {
                     "Department of Statistical Sciences": {
                         "buildings": [
-                            "TBA",
-                            "Online",
-                            "BA",
-                            "UC",
-                            "SS",
-                            "PB",
                             "GB",
+                            "Online",
+                            "TBA",
+                            "PB",
+                            "MP",
+                            "BA",
                             "ES",
-                            "MP"
+                            "SS",
+                            "UC"
                         ],
                         "instructors": [
+                            "Mai Ghannam",
+                            "Bethany White",
+                            "Vicki Zhang",
+                            "Sebastian Jaimungal",
+                            "Ruixuan Zhao",
                             "TBA",
                             "Ismaila Ba",
-                            "Sebastian Jaimungal",
-                            "Vicki Zhang",
-                            "Bethany White",
-                            "Pascal Tyrrell",
-                            "Xiaodong Lin",
-                            "Mai Ghannam",
-                            "Ruixuan Zhao",
-                            "Emily Somerset",
-                            "Ricardo Baptista",
-                            "Andrei Badescu",
-                            "Rohan Peter Alexander",
-                            "Vedant Choudhary",
-                            "Omidali Aghababaei Jazi",
                             "Hassan Abdelrahman",
-                            "Thibault Christophe Randrianarisoa"
+                            "Andrei Badescu",
+                            "Thibault Christophe Randrianarisoa",
+                            "Ricardo Baptista",
+                            "Rohan Peter Alexander",
+                            "Omidali Aghababaei Jazi",
+                            "Pascal Tyrrell",
+                            "Vedant Choudhary",
+                            "Xiaodong Lin",
+                            "Emily Somerset"
                         ]
                     },
                     "African Studies Centre": {
@@ -48,9 +48,9 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Safia Aidid",
                             "Marieme Lo",
-                            "Moses Karanja"
+                            "Moses Karanja",
+                            "Safia Aidid"
                         ]
                     },
                     "Department of Anatomy and Cell Biology": {
@@ -59,81 +59,81 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Cindi Morshead",
-                            "TBA"
+                            "TBA",
+                            "Cindi Morshead"
                         ]
                     },
                     "Department of Anthropology": {
                         "buildings": [
-                            "TBA",
                             "Online",
+                            "TBA",
+                            "MP",
                             "BA",
-                            "AP",
-                            "MP"
+                            "AP"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Omer Ozcan",
-                            "Edward Swenson",
-                            "Joseph Burgess Wilson",
-                            "Shawn Lehman",
-                            "Shiho Satsuka",
-                            "Michael Obie",
                             "Ness Maloney",
-                            "T. Bence Viola",
                             "Daniel Sellen",
+                            "Shawn Lehman",
+                            "T. Bence Viola",
+                            "TBA",
+                            "Michael Obie",
+                            "Shiho Satsuka",
+                            "Michael Chazan",
+                            "Edward Swenson",
                             "Jessica A. Thomas",
-                            "Michael Chazan"
+                            "Joseph Burgess Wilson",
+                            "Omer Ozcan"
                         ]
                     },
                     "Department of Mathematics": {
                         "buildings": [
-                            "TBA",
-                            "OI",
-                            "Online",
-                            "BA",
-                            "UC",
                             "WI",
                             "GB",
+                            "Online",
+                            "TBA",
+                            "MP",
                             "FE",
+                            "BA",
+                            "OI",
                             "ES",
-                            "MP"
+                            "UC"
                         ],
                         "instructors": [
-                            "Friedemann Krannich",
-                            "Amaranta Martinez De La Rosa",
-                            "Xinwen Ding",
-                            "Andrew Zheng",
-                            "Petros Ploumidis",
-                            "Craig Belair",
-                            "Rhupert Ashmore-Sharpe",
-                            "Gavin Hurd",
-                            "Lora Hreish",
-                            "Osama Farooqui",
-                            "Kevin Watmough",
-                            "Stanislav Balchev",
-                            "Armanpreet Pannu",
                             "Alisa Chistopolskaia",
-                            "Alexander Mirabella",
-                            "Aaron Tronsgard",
-                            "Mohammadmahdi Rafiei",
-                            "Tonatiuh Matos Wiederhold",
-                            "Luciano Salvetti Martinez",
-                            "Alejandro Adames",
-                            "Cameron Martin",
-                            "Brinda Venkataramani",
-                            "Noha Elgarem",
-                            "Yitong Wang",
-                            "David Sun",
-                            "Mikale Reddy",
-                            "Shuyang Shen",
-                            "TBA",
-                            "Sabrina Lin",
+                            "Gavin Hurd",
                             "Kai Julius Shaikh",
-                            "Daniele Giannetto",
-                            "Federico Manganello",
                             "Giacomo Bertizzolo",
-                            "Jiawei Chen"
+                            "TBA",
+                            "Jiawei Chen",
+                            "Lora Hreish",
+                            "Mohammadmahdi Rafiei",
+                            "Daniele Giannetto",
+                            "Friedemann Krannich",
+                            "Sabrina Lin",
+                            "Amaranta Martinez De La Rosa",
+                            "Federico Manganello",
+                            "Armanpreet Pannu",
+                            "Craig Belair",
+                            "David Sun",
+                            "Shuyang Shen",
+                            "Brinda Venkataramani",
+                            "Xinwen Ding",
+                            "Osama Farooqui",
+                            "Alejandro Adames",
+                            "Luciano Salvetti Martinez",
+                            "Rhupert Ashmore-Sharpe",
+                            "Aaron Tronsgard",
+                            "Mikale Reddy",
+                            "Petros Ploumidis",
+                            "Kevin Watmough",
+                            "Alexander Mirabella",
+                            "Stanislav Balchev",
+                            "Yitong Wang",
+                            "Cameron Martin",
+                            "Andrew Zheng",
+                            "Tonatiuh Matos Wiederhold",
+                            "Noha Elgarem"
                         ]
                     },
                     "Department of Astronomy and Astrophysics": {
@@ -142,26 +142,26 @@
                             "MP"
                         ],
                         "instructors": [
-                            "Ian Shelton",
                             "TBA",
-                            "Ronan Kerr"
+                            "Ronan Kerr",
+                            "Ian Shelton"
                         ]
                     },
                     "Department of Cell and Systems Biology": {
                         "buildings": [
-                            "MC",
                             "TBA",
                             "RW",
+                            "MC",
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Naijin Li",
+                            "TBA",
+                            "Kenneth Yip",
                             "Eiji Nambara",
-                            "Qian Lin",
-                            "Shelley Lumba",
                             "Jimmy Fraigne",
-                            "Kenneth Yip"
+                            "Qian Lin",
+                            "Shelley Lumba"
                         ]
                     },
                     "Department of Biochemistry": {
@@ -171,57 +171,57 @@
                             "PB"
                         ],
                         "instructors": [
-                            "Sian Patterson",
                             "TBA",
-                            "Nana Hyung-Ran Lee",
-                            "Warren Lee"
+                            "Sian Patterson",
+                            "Warren Lee",
+                            "Nana Hyung-Ran Lee"
                         ]
                     },
                     "Department of Ecology and Evolutionary Biology": {
                         "buildings": [
                             "TBA",
-                            "SS",
-                            "RW"
+                            "RW",
+                            "SS"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Benjamin Gilbert",
-                            "Alison Hill",
-                            "John Stinchcombe",
-                            "Megan Frederickson",
-                            "Micah Freedman",
                             "Njal Rollinson",
                             "Laurel Duquette",
+                            "TBA",
+                            "Micah Freedman",
+                            "Benjamin Gilbert",
                             "Megan Bontrager",
-                            "Asher Cutter"
+                            "John Stinchcombe",
+                            "Megan Frederickson",
+                            "Asher Cutter",
+                            "Alison Hill"
                         ]
                     },
                     "St. Michael's College": {
                         "buildings": [
-                            "BA",
                             "TBA",
                             "SS",
-                            "UC"
+                            "UC",
+                            "BA"
                         ],
                         "instructors": [
+                            "TBA",
                             "Stacy Reardon",
-                            "Xianwei Wu",
-                            "TBA"
+                            "Xianwei Wu"
                         ]
                     },
                     "New College": {
                         "buildings": [
+                            "TBA",
                             "WI",
-                            "Online",
                             "SS",
-                            "TBA"
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Melanie Viglas",
-                            "David Chin",
+                            "TBA",
+                            "Shirin O Sadat Haghgou",
                             "Stanley Doyle-Wood",
-                            "Shirin O Sadat Haghgou"
+                            "David Chin"
                         ]
                     },
                     "Centre for Caribbean Studies": {
@@ -234,53 +234,53 @@
                     },
                     "University College": {
                         "buildings": [
+                            "TBA",
                             "BA",
                             "Online",
-                            "UC",
-                            "TBA"
+                            "UC"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Tope Adefarakan",
                             "Rick Salutin",
                             "Daniel Schluter",
-                            "Mark Daniel Miller",
-                            "Tope Adefarakan",
-                            "Anthony Lombardo"
+                            "TBA",
+                            "Anthony Lombardo",
+                            "Mark Daniel Miller"
                         ]
                     },
                     "Department of Chemistry": {
                         "buildings": [
-                            "TBA",
                             "Online",
+                            "TBA",
                             "BA",
-                            "SS",
                             "RW",
-                            "ES"
+                            "ES",
+                            "SS"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Marvin Morales",
-                            "Charlie Kivi",
-                            "Mima Staikova",
-                            "Hector Alfonso Garcia Mayerstein",
-                            "Barbora Morra",
-                            "Chao Zheng",
-                            "Varinia Bernales Candia",
-                            "Olivia Driessen",
-                            "John Anthony Calarco",
-                            "Soha Ahmadi Nadoushan",
-                            "Ahlem Bensari",
                             "Pedro Armando Mendez Ocampo",
-                            "Alan Aspuru-Guzik",
                             "Haissi Cui",
+                            "Charlie Kivi",
                             "Al-Amin Dhirani",
+                            "TBA",
+                            "Varinia Bernales Candia",
+                            "Mima Staikova",
+                            "Ahlem Bensari",
+                            "Alan Aspuru-Guzik",
+                            "Chao Zheng",
+                            "Marvin Morales",
+                            "John Anthony Calarco",
+                            "Barbora Morra",
+                            "Olivia Driessen",
+                            "Soha Ahmadi Nadoushan",
+                            "Hector Alfonso Garcia Mayerstein",
                             "Mark Nitz"
                         ]
                     },
                     "Cinema Studies Institute": {
                         "buildings": [
-                            "Online",
                             "TBA",
+                            "Online",
                             "RL"
                         ],
                         "instructors": [
@@ -292,59 +292,59 @@
                     },
                     "Jewish Studies": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
+                            "Yigal Nizri",
                             "TBA",
-                            "Sol Goldberg",
-                            "Yigal Nizri"
+                            "Sol Goldberg"
                         ]
                     },
                     "Department of Classics": {
                         "buildings": [
+                            "TBA",
                             "LI",
-                            "Online",
-                            "TBA"
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Adriana Brook",
-                            "Georgia Ferentinou",
-                            "Donald McCarthy",
                             "Joseph Gerbasi",
-                            "Jarrett Welsh"
+                            "TBA",
+                            "Donald McCarthy",
+                            "Adriana Brook",
+                            "Jarrett Welsh",
+                            "Georgia Ferentinou"
                         ]
                     },
                     "Centre for Criminology and Sociolegal Studies": {
                         "buildings": [
-                            "Online",
+                            "TBA",
                             "BA",
-                            "TBA"
+                            "Online"
                         ],
                         "instructors": [
-                            "Huibin Lin",
                             "TBA",
+                            "Huibin Lin",
                             "Adriel Weaver"
                         ]
                     },
                     "Department of Computer Science": {
                         "buildings": [
                             "TBA",
-                            "BA",
-                            "MP"
+                            "MP",
+                            "BA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Steve Engels",
+                            "Amanjit Singh Kainth",
+                            "Shiva Akbari",
                             "Amirreza Peimani",
                             "Varinia Bernales Candia",
-                            "Vivienne Luk",
-                            "Pan Chen",
-                            "Jack Jianan Zhou",
-                            "Shiva Akbari",
+                            "TBA",
                             "Alan Aspuru-Guzik",
-                            "Amanjit Singh Kainth"
+                            "Steve Engels",
+                            "Pan Chen",
+                            "Vivienne Luk",
+                            "Jack Jianan Zhou"
                         ]
                     },
                     "Canadian Institute for Theoretical Astrophysics": {
@@ -366,8 +366,8 @@
                     },
                     "Centre for Diaspora & Transnational Studies": {
                         "buildings": [
-                            "WW",
-                            "TBA"
+                            "TBA",
+                            "WW"
                         ],
                         "instructors": [
                             "TBA",
@@ -377,56 +377,56 @@
                     "Department of East Asian Studies": {
                         "buildings": [
                             "TBA",
-                            "UC",
                             "SS",
+                            "UC",
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Yue Bin Guo",
-                            "Richard W L Guisso",
                             "Mark Lush",
-                            "Teng-io Chung",
                             "Graham Sanders",
+                            "TBA",
+                            "Victor Falkenheim",
                             "Kyoungrok Ko",
-                            "Victor Falkenheim"
+                            "Richard W L Guisso",
+                            "Teng-io Chung",
+                            "Yue Bin Guo"
                         ]
                     },
                     "Department of Economics": {
                         "buildings": [
-                            "TBA",
-                            "AB",
-                            "HS",
-                            "OI",
                             "Online",
+                            "TBA",
+                            "HS",
+                            "MP",
+                            "AB",
                             "BA",
-                            "SS",
                             "RW",
-                            "MP"
+                            "SS",
+                            "OI"
                         ],
                         "instructors": [
-                            "Daniel McGee",
-                            "Laura Turner",
-                            "Yanyou Chen",
-                            "Andrey Stoyanov",
-                            "Christopher D'Souza",
-                            "Louis Etienne Salmon Belisle",
-                            "Masoud Anjomshoa",
-                            "Ata Mazaheri",
-                            "Tam Le",
-                            "Matthew Ladd",
-                            "Eun Ji Lindsay Lee",
-                            "Samantha Grewal",
-                            "Alison Cane",
-                            "Michael Ho",
-                            "Eric Cong Lin Chi",
-                            "Martin Burda",
                             "Robert Barber",
-                            "Ajaz Hussain",
                             "TBA",
+                            "Eun Ji Lindsay Lee",
+                            "Masoud Anjomshoa",
+                            "Alison Cane",
+                            "Ajaz Hussain",
+                            "Eric Cong Lin Chi",
+                            "Louis Etienne Salmon Belisle",
+                            "Tam Le",
+                            "Samantha Grewal",
+                            "Derek Thiele",
+                            "Matthew Ladd",
+                            "Daniel McGee",
+                            "Ata Mazaheri",
+                            "Christopher D'Souza",
+                            "Michael Ho",
                             "Adonis Yatchew",
+                            "Martin Burda",
+                            "Yanyou Chen",
                             "Terry Yip",
-                            "Derek Thiele"
+                            "Laura Turner",
+                            "Andrey Stoyanov"
                         ]
                     },
                     "Victoria College": {
@@ -434,39 +434,39 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Katie Doering",
-                            "TBA"
+                            "TBA",
+                            "Katie Doering"
                         ]
                     },
                     "Department of English": {
                         "buildings": [
-                            "TBA",
-                            "BL",
-                            "HS",
-                            "OI",
                             "Online",
+                            "TBA",
+                            "HS",
+                            "BL",
                             "BA",
+                            "OI",
                             "SK",
                             "SS"
                         ],
                         "instructors": [
-                            "Vikki Visvis",
-                            "Sylvanna Baugh",
-                            "Joseph Scott McLaughlin",
-                            "I. Augustus Durham",
-                            "William C Kroeger",
-                            "Arka Chakraborty",
-                            "Zoey Zhang",
-                            "Cassandra Olsen",
-                            "Philippa Sheppard",
-                            "Audrey Walton",
-                            "Marissa Herzig",
-                            "Patty Argyrides",
                             "Austin Long",
-                            "Sarah A Caskey",
-                            "Michael Johnstone",
+                            "Joseph Scott McLaughlin",
+                            "Sylvanna Baugh",
+                            "William C Kroeger",
                             "Joanne Valin",
-                            "Carroll Balot"
+                            "Arka Chakraborty",
+                            "I. Augustus Durham",
+                            "Carroll Balot",
+                            "Michael Johnstone",
+                            "Cassandra Olsen",
+                            "Audrey Walton",
+                            "Patty Argyrides",
+                            "Marissa Herzig",
+                            "Vikki Visvis",
+                            "Sarah A Caskey",
+                            "Zoey Zhang",
+                            "Philippa Sheppard"
                         ]
                     },
                     "School of Environment": {
@@ -475,10 +475,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Monika Havelka",
+                            "Mark Hathaway",
                             "TBA",
-                            "Christoph Richter",
-                            "Mark Hathaway"
+                            "Monika Havelka",
+                            "Christoph Richter"
                         ]
                     },
                     "Department of Earth Sciences": {
@@ -486,12 +486,12 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Daniel Gregory",
-                            "Michael Hamilton",
                             "Matthew Shaw",
+                            "TBA",
+                            "Andrei Swidinsky",
+                            "Michael Hamilton",
                             "Sarah Sydney Ariano",
-                            "Andrei Swidinsky"
+                            "Daniel Gregory"
                         ]
                     },
                     "Centre for European and Eurasian Studies": {
@@ -504,34 +504,34 @@
                     },
                     "Department of Art History": {
                         "buildings": [
-                            "Online",
                             "TBA",
+                            "OI",
                             "SS",
-                            "OI"
+                            "Online"
                         ],
                         "instructors": [
                             "SeungJung Kim",
+                            "Samantha Chang",
                             "TBA",
-                            "Christy Anderson",
                             "Giancarla Periti",
                             "Christina Katsougiannopoulou",
-                            "Bjoern Ewald",
                             "Rupert Nuttle",
-                            "Samantha Chang"
+                            "Christy Anderson",
+                            "Bjoern Ewald"
                         ]
                     },
                     "Department of French": {
                         "buildings": [
-                            "WW",
                             "TBA",
-                            "OI"
+                            "OI",
+                            "WW"
                         ],
                         "instructors": [
+                            "Katarzyna Peric",
                             "TBA",
                             "Rosa Junghwa Hong",
                             "Loula Abd-elrazak",
-                            "Catherine Gaughan",
-                            "Katarzyna Peric"
+                            "Catherine Gaughan"
                         ]
                     },
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
@@ -544,12 +544,12 @@
                     },
                     "Department of Germanic Languages & Literatures": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "Lisa Lackner",
                             "TBA",
+                            "Lisa Lackner",
                             "Hang-Sun Kim",
                             "Meaghan Hepburn",
                             "Rita Laszlo"
@@ -562,75 +562,75 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Kristian Larsen",
                             "Nokuzola Songo",
+                            "TBA",
                             "Eden Celeste Kinkaid",
-                            "Catherine Jimenea"
+                            "Catherine Jimenea",
+                            "Kristian Larsen"
                         ]
                     },
                     "Department of History": {
                         "buildings": [
-                            "Online",
-                            "SS",
+                            "TBA",
                             "RW",
-                            "TBA"
+                            "SS",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Zariyah Grant",
-                            "L.K. Bertram",
-                            "Haihan Jiang",
                             "Aino Pihlak",
-                            "Safia Aidid",
                             "Jonathan Di Carlo",
+                            "TBA",
+                            "L.K. Bertram",
+                            "Safia Aidid",
+                            "Chaoran Ma",
                             "Joseph Stollenwerk",
-                            "Chaoran Ma"
+                            "Zariyah Grant",
+                            "Haihan Jiang"
                         ]
                     },
                     "Human Biology Program": {
                         "buildings": [
+                            "WI",
+                            "RW",
+                            "Online",
                             "TBA",
                             "BL",
-                            "OI",
-                            "Online",
-                            "UC",
-                            "AP",
-                            "WI",
                             "EP",
-                            "SS",
                             "SF",
-                            "RW",
+                            "WE",
+                            "OI",
                             "ES",
-                            "WE"
+                            "SS",
+                            "AP",
+                            "UC"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Bill Ju",
-                            "Naijin Li",
                             "Kerry Bowman",
-                            "Colleen Dockstader",
+                            "Naijin Li",
+                            "TBA",
                             "Haley Zubyk",
-                            "Maria Papaconstantinou",
-                            "Ron Wilson Jr",
-                            "Ameesha Paliwal",
                             "Natasha Nanwa",
+                            "Colleen Dockstader",
                             "Alistair Dias",
+                            "Ron Wilson Jr",
+                            "Maria Papaconstantinou",
+                            "Ameesha Paliwal",
+                            "Alexandra Malinowski",
                             "Melanie Jeffrey",
-                            "Alexandra Malinowski"
+                            "Bill Ju"
                         ]
                     },
                     "Inst. for the History & Philosophy of Science & Technology": {
                         "buildings": [
-                            "WI",
                             "TBA",
+                            "WI",
                             "SS",
                             "UC"
                         ],
                         "instructors": [
-                            "Nayani Jensen",
                             "Miron Clay-Gilmore",
                             "TBA",
+                            "Nayani Jensen",
                             "Markus Alliksaar"
                         ]
                     },
@@ -659,9 +659,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Julie Guindon",
                             "Bayan Akbik",
-                            "Maurice Fernandes"
+                            "Maurice Fernandes",
+                            "Julie Guindon"
                         ]
                     },
                     "Arts & Science Internship Program - Year 3": {
@@ -669,39 +669,39 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Julie Guindon",
                             "Bayan Akbik",
-                            "Maurice Fernandes"
+                            "Maurice Fernandes",
+                            "Julie Guindon"
                         ]
                     },
                     "Centre for Industrial Relations and Human Resources": {
                         "buildings": [
-                            "WW",
                             "TBA",
                             "OI",
+                            "WW",
                             "Online"
                         ],
                         "instructors": [
-                            "Anny Fong",
                             "Hua Wang",
-                            "Bob Thompson",
+                            "Anny Fong",
                             "Peter Smit",
+                            "Bob Thompson",
                             "Bradley Seward",
                             "Rafael Gomez"
                         ]
                     },
                     "Dept. of Italian Spanish Portuguese & Latin American Studies": {
                         "buildings": [
-                            "WW",
-                            "Online",
                             "TBA",
-                            "OI"
+                            "OI",
+                            "WW",
+                            "Online"
                         ],
                         "instructors": [
-                            "Juan Carlos Rocha Osornio",
-                            "Maria Laura Mosco",
+                            "Letizia Tesi",
                             "TBA",
-                            "Letizia Tesi"
+                            "Maria Laura Mosco",
+                            "Juan Carlos Rocha Osornio"
                         ]
                     },
                     "Department of Linguistics": {
@@ -711,12 +711,12 @@
                             "UC"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Yanfei Lu",
+                            "Jida Jaffan",
                             "Kaleigh Woolford",
+                            "Yanfei Lu",
                             "Andrew Byrne",
-                            "Pedro Mateo Pedro",
-                            "Jida Jaffan"
+                            "TBA",
+                            "Pedro Mateo Pedro"
                         ]
                     },
                     "Department of Laboratory Medicine and Pathobiology": {
@@ -724,8 +724,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Warren Lee",
-                            "TBA"
+                            "TBA",
+                            "Warren Lee"
                         ]
                     },
                     "Rotman Commerce": {
@@ -734,16 +734,16 @@
                             "WO"
                         ],
                         "instructors": [
-                            "Rayomand Daroga",
-                            "Ann Armstrong",
-                            "TBA",
-                            "Alberto Galasso",
-                            "George Georgopoulos",
-                            "Amy Kwan",
-                            "Ralph Tassone",
-                            "Adam Saunders",
                             "Xue Xiang",
-                            "Kate Patterson"
+                            "Alberto Galasso",
+                            "TBA",
+                            "Adam Saunders",
+                            "Ralph Tassone",
+                            "Ann Armstrong",
+                            "Kate Patterson",
+                            "George Georgopoulos",
+                            "Rayomand Daroga",
+                            "Amy Kwan"
                         ]
                     },
                     "Department of Molecular Genetics": {
@@ -766,15 +766,15 @@
                     },
                     "Department of Near & Middle Eastern Civilizations": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Clemens Reichel",
-                            "Robert Holmstedt",
                             "Dawn Power",
-                            "Adam Ali"
+                            "TBA",
+                            "Robert Holmstedt",
+                            "Adam Ali",
+                            "Clemens Reichel"
                         ]
                     },
                     "Munk School of Global Affairs and Public Policy": {
@@ -790,35 +790,35 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Chao Zheng",
                             "Anita Hamadanizadeh",
-                            "Kim Sugamori",
-                            "Vincenzo De Luca",
+                            "TBA",
                             "Nathanael Caveney",
-                            "Chao Zheng"
+                            "Kim Sugamori",
+                            "Vincenzo De Luca"
                         ]
                     },
                     "Department of Philosophy": {
                         "buildings": [
-                            "TBA",
                             "Online",
-                            "UC",
+                            "TBA",
+                            "RW",
                             "SK",
                             "SS",
-                            "RW"
+                            "UC"
                         ],
                         "instructors": [
-                            "TBA",
                             "Ismael Kettani",
                             "Stacy Chen",
-                            "Patrick Fraser",
-                            "Valentin Wey",
-                            "Sanghun Han",
-                            "Sooyoung Moon",
+                            "Alexander Koo",
                             "Julian Sheldon",
+                            "TBA",
                             "Natalie Helberg",
+                            "Valentin Wey",
                             "Tim McKee",
-                            "Alexander Koo"
+                            "Sooyoung Moon",
+                            "Sanghun Han",
+                            "Patrick Fraser"
                         ]
                     },
                     "Department of Physics": {
@@ -827,48 +827,48 @@
                             "MP"
                         ],
                         "instructors": [
-                            "Pekka Sinervo",
                             "TBA",
-                            "Denis Dalidovich",
-                            "Matthew Stukel",
                             "Ziqing Hong",
-                            "Tahir Shaaran",
                             "Roya Ghahreman",
-                            "Richard Teuscher",
                             "John Wei",
-                            "Boris Braverman"
+                            "Boris Braverman",
+                            "Pekka Sinervo",
+                            "Matthew Stukel",
+                            "Tahir Shaaran",
+                            "Denis Dalidovich",
+                            "Richard Teuscher"
                         ]
                     },
                     "Department of Political Science": {
                         "buildings": [
+                            "Online",
                             "TBA",
                             "RL",
-                            "Online",
                             "BA",
-                            "UC",
-                            "SS"
+                            "SS",
+                            "UC"
                         ],
                         "instructors": [
-                            "Derefe Chevannes",
-                            "Lilach Gilady",
-                            "Etienne Cardin-Trudeau",
-                            "Max John Edward Morris",
-                            "Victor Falkenheim",
-                            "Alexander Pekic",
                             "David Quayat",
-                            "Abbas Gnamo",
-                            "Renan Levine",
+                            "TBA",
+                            "Lilach Gilady",
+                            "Themistoklis Aravossitas",
+                            "Arnd Jurgensen",
                             "William Gregson",
-                            "Courtney Jung",
-                            "Mark Nieman",
                             "Zachary Martin Hollander",
+                            "Jacob Winter",
                             "Michael Donnelly",
                             "Lynette Ong",
-                            "Themistoklis Aravossitas",
-                            "TBA",
-                            "Arnd Jurgensen",
-                            "Jacob Winter",
-                            "Seva Gunitskiy"
+                            "Abbas Gnamo",
+                            "Etienne Cardin-Trudeau",
+                            "Seva Gunitskiy",
+                            "Courtney Jung",
+                            "Mark Nieman",
+                            "Derefe Chevannes",
+                            "Victor Falkenheim",
+                            "Max John Edward Morris",
+                            "Alexander Pekic",
+                            "Renan Levine"
                         ]
                     },
                     "Department of Physiology": {
@@ -877,57 +877,57 @@
                             "SF"
                         ],
                         "instructors": [
-                            "TBA",
                             "Denise Belsham",
                             "Andrea Jurisicova",
-                            "Nohjin Kee",
+                            "TBA",
                             "Helen Miliotis",
-                            "Chirag Vaswani",
-                            "Carin Wittnich"
+                            "Nohjin Kee",
+                            "Carin Wittnich",
+                            "Chirag Vaswani"
                         ]
                     },
                     "Department of Psychology": {
                         "buildings": [
-                            "TBA",
-                            "AB",
                             "BL",
-                            "OI",
+                            "TBA",
                             "Online",
+                            "AB",
+                            "OI",
                             "SS"
                         ],
                         "instructors": [
-                            "Mireille Babineau",
-                            "TBA",
-                            "Paul Whissell",
-                            "Kaori Takehara",
                             "Morgan Barense",
+                            "Michael Mack",
+                            "Christine Millicent Burton",
+                            "Mireille Babineau",
+                            "Odilia Yim",
                             "William Ryan",
-                            "Malvina Skorska",
+                            "Molly Metz",
+                            "TBA",
+                            "Amanda Sharples",
                             "Meg Schlichting Mack",
-                            "Gillian Einstein",
+                            "Dirk Bernhardt-Walther",
+                            "Paul Whissell",
                             "Amy Finn",
                             "Jessica Sommerville",
-                            "Molly Metz",
-                            "Michael Mack",
-                            "Odilia Yim",
-                            "Dirk Bernhardt-Walther",
-                            "Will Huggon",
-                            "Amanda Sharples",
-                            "Christine Millicent Burton"
+                            "Kaori Takehara",
+                            "Malvina Skorska",
+                            "Gillian Einstein",
+                            "Will Huggon"
                         ]
                     },
                     "Department for the Study of Religion": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
                             "TBA",
-                            "Alif Shahed",
-                            "Christina Pasqua",
-                            "Pamela Klassen",
+                            "Ken Derry",
                             "Kainat Bashir Aafil",
-                            "Ken Derry"
+                            "Alif Shahed",
+                            "Pamela Klassen",
+                            "Christina Pasqua"
                         ]
                     },
                     "ASDN: Arts and Science, Office of the Dean": {
@@ -935,40 +935,40 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Jamie Feusner",
                             "Becky Chen",
+                            "Lindsey Katherine Fiddes",
                             "Yufeng Zhao",
-                            "Lindsey Katherine Fiddes"
+                            "Jamie Feusner"
                         ]
                     },
                     "Mark S. Bonham Centre for Sexual Diversity Studies": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "Scott Rayter",
-                            "Yvon Wang"
+                            "Yvon Wang",
+                            "Scott Rayter"
                         ]
                     },
                     "Department of Sociology": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "Josh Harold",
-                            "TBA",
                             "Kayla Preston",
+                            "Christian Caron",
+                            "Jessica Stallone",
+                            "TBA",
+                            "Akwasi Owusu-Bempah",
+                            "Jooyoung Lee",
+                            "Josh Harold",
                             "Weiguo Zhang",
                             "Salwa Khan",
                             "Ronit Dinovitzer",
-                            "Fedor Dokshin",
-                            "Jooyoung Lee",
-                            "Jessica Stallone",
-                            "Akwasi Owusu-Bempah",
                             "Ka Tat Tsang",
-                            "Christian Caron"
+                            "Fedor Dokshin"
                         ]
                     },
                     "Faculty of Arts and Science": {
@@ -993,14 +993,14 @@
                         ],
                         "instructors": [
                             "Samantha Dolores Sanchinel Valdez",
-                            "Elisa Privitera",
-                            "Zarah Khan"
+                            "Zarah Khan",
+                            "Elisa Privitera"
                         ]
                     },
                     "Innis College": {
                         "buildings": [
-                            "Online",
-                            "SK"
+                            "SK",
+                            "Online"
                         ],
                         "instructors": [
                             "Roz Spafford",
@@ -1013,36 +1013,36 @@
                 "departments": {
                     "Department of Statistical Sciences": {
                         "buildings": [
+                            "KP",
+                            "WI",
+                            "BF",
+                            "PB",
                             "TBA",
                             "HS",
-                            "BF",
-                            "UC",
-                            "BA",
-                            "WI",
-                            "SS",
-                            "PB",
                             "GB",
                             "MP",
-                            "KP"
+                            "BA",
+                            "SS",
+                            "UC"
                         ],
                         "instructors": [
                             "Fred Song",
-                            "TBA",
-                            "Nnenna Asidianya",
-                            "Sebastian Jaimungal",
-                            "Luai Al Labadi",
-                            "Asal Aslemand",
                             "Vicki Zhang",
+                            "Luai Al Labadi",
                             "Bethany White",
-                            "Pascal Tyrrell",
-                            "Xiaodong Lin",
-                            "Otto Yung",
-                            "Ricardo Baptista",
-                            "Rohan Peter Alexander",
-                            "Sabrina Sixta",
+                            "Sebastian Jaimungal",
+                            "TBA",
+                            "Asal Aslemand",
                             "Arian Hashemzadeh Amirkhizi",
+                            "Nnenna Asidianya",
+                            "Thibault Christophe Randrianarisoa",
+                            "Ricardo Baptista",
+                            "Sabrina Sixta",
+                            "Rohan Peter Alexander",
                             "Omidali Aghababaei Jazi",
-                            "Thibault Christophe Randrianarisoa"
+                            "Pascal Tyrrell",
+                            "Otto Yung",
+                            "Xiaodong Lin"
                         ]
                     },
                     "African Studies Centre": {
@@ -1060,75 +1060,75 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Cindi Morshead",
-                            "TBA"
+                            "TBA",
+                            "Cindi Morshead"
                         ]
                     },
                     "Department of Anthropology": {
                         "buildings": [
-                            "GB",
-                            "Online",
                             "TBA",
-                            "AB"
+                            "AB",
+                            "GB",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Elliott -they them- Tilleczek",
-                            "Edward Swenson",
-                            "Shawn Lehman",
-                            "Douglas Rafael Cubas Severo",
                             "Ness Maloney",
-                            "T. Bence Viola"
+                            "T. Bence Viola",
+                            "Shawn Lehman",
+                            "TBA",
+                            "Douglas Rafael Cubas Severo",
+                            "Elliott -they them- Tilleczek",
+                            "Edward Swenson"
                         ]
                     },
                     "Department of Mathematics": {
                         "buildings": [
-                            "TBA",
-                            "OI",
-                            "Online",
-                            "BA",
-                            "UC",
                             "GB",
+                            "Online",
+                            "TBA",
+                            "MP",
                             "SF",
                             "FE",
+                            "BA",
+                            "OI",
                             "ES",
-                            "MP"
+                            "UC"
                         ],
                         "instructors": [
-                            "Friedemann Krannich",
-                            "Amaranta Martinez De La Rosa",
-                            "Xinwen Ding",
-                            "Andrew Zheng",
-                            "Petros Ploumidis",
-                            "Craig Belair",
-                            "Delaram Sadatamin",
-                            "Rhupert Ashmore-Sharpe",
-                            "Lora Hreish",
-                            "Osama Farooqui",
-                            "Kevin Watmough",
-                            "Austin Sun",
-                            "Armanpreet Pannu",
-                            "Stanislav Balchev",
                             "Alisa Chistopolskaia",
-                            "Alexander Mirabella",
-                            "Aaron Tronsgard",
-                            "Mohammadmahdi Rafiei",
-                            "Luciano Salvetti Martinez",
-                            "Alejandro Adames",
-                            "Brinda Venkataramani",
-                            "Talant Talipov",
-                            "David Sun",
-                            "Mikale Reddy",
-                            "Shuyang Shen",
-                            "TBA",
-                            "Sabrina Lin",
                             "Kai Julius Shaikh",
-                            "Daniele Giannetto",
-                            "Federico Manganello",
                             "Giacomo Bertizzolo",
+                            "TBA",
                             "Jiawei Chen",
+                            "Lora Hreish",
+                            "Mohammadmahdi Rafiei",
+                            "Daniele Giannetto",
+                            "Friedemann Krannich",
+                            "Sabrina Lin",
+                            "Amaranta Martinez De La Rosa",
+                            "Federico Manganello",
+                            "Armanpreet Pannu",
+                            "Craig Belair",
+                            "Shuyang Shen",
+                            "Brinda Venkataramani",
+                            "Xinwen Ding",
+                            "Osama Farooqui",
+                            "Alejandro Adames",
+                            "Alexander Kroitor",
+                            "Luciano Salvetti Martinez",
+                            "Rhupert Ashmore-Sharpe",
                             "Fatemeh Ghasemi",
-                            "Alexander Kroitor"
+                            "Aaron Tronsgard",
+                            "Mikale Reddy",
+                            "Petros Ploumidis",
+                            "Austin Sun",
+                            "Kevin Watmough",
+                            "Delaram Sadatamin",
+                            "Alexander Mirabella",
+                            "Stanislav Balchev",
+                            "Andrew Zheng",
+                            "David Sun",
+                            "Talant Talipov"
                         ]
                     },
                     "Department of Astronomy and Astrophysics": {
@@ -1137,8 +1137,8 @@
                             "MP"
                         ],
                         "instructors": [
-                            "Nikki Noughani",
                             "TBA",
+                            "Nikki Noughani",
                             "Amy Zhao"
                         ]
                     },
@@ -1149,10 +1149,10 @@
                         ],
                         "instructors": [
                             "TBA",
+                            "Abraham Ernest Yang",
                             "Eiji Nambara",
                             "Qian Lin",
-                            "Shelley Lumba",
-                            "Abraham Ernest Yang"
+                            "Shelley Lumba"
                         ]
                     },
                     "Department of Biochemistry": {
@@ -1160,8 +1160,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Warren Lee",
                             "TBA",
+                            "Warren Lee",
                             "Nana Hyung-Ran Lee"
                         ]
                     },
@@ -1178,22 +1178,22 @@
                     },
                     "New College": {
                         "buildings": [
+                            "Online",
                             "TBA",
                             "RL",
-                            "Online",
-                            "UC",
+                            "RW",
                             "SS",
-                            "RW"
+                            "UC"
                         ],
                         "instructors": [
                             "Michelle Majeed",
-                            "TBA",
-                            "Janine Riviere",
-                            "Kerstin Sandstrom",
                             "Chandni Desai",
+                            "TBA",
+                            "Anne McGuire",
                             "John McGaughey",
+                            "Kerstin Sandstrom",
                             "Alex Djedovic",
-                            "Anne McGuire"
+                            "Janine Riviere"
                         ]
                     },
                     "Centre for Caribbean Studies": {
@@ -1206,132 +1206,132 @@
                     },
                     "Department of Chemistry": {
                         "buildings": [
-                            "AB",
                             "TBA",
+                            "AB",
                             "BA",
-                            "SS",
-                            "RW"
+                            "RW",
+                            "SS"
                         ],
                         "instructors": [
-                            "Cynthia Goh",
-                            "TBA",
-                            "Eugenia Kumacheva",
+                            "Haissi Cui",
                             "Charlie Kivi",
-                            "Mima Staikova",
-                            "Michael Thompson",
-                            "Hector Alfonso Garcia Mayerstein",
-                            "Marvin Morales",
-                            "Chao Zheng",
-                            "Barbora Morra",
+                            "Al-Amin Dhirani",
+                            "TBA",
                             "Varinia Bernales Candia",
-                            "John Anthony Calarco",
-                            "Soha Ahmadi Nadoushan",
+                            "Chao Zheng",
                             "Ahlem Bensari",
                             "Alan Aspuru-Guzik",
-                            "Haissi Cui",
-                            "Al-Amin Dhirani",
-                            "Mark Nitz"
+                            "Mark Nitz",
+                            "Marvin Morales",
+                            "John Anthony Calarco",
+                            "Barbora Morra",
+                            "Soha Ahmadi Nadoushan",
+                            "Cynthia Goh",
+                            "Mima Staikova",
+                            "Hector Alfonso Garcia Mayerstein",
+                            "Michael Thompson",
+                            "Eugenia Kumacheva"
                         ]
                     },
                     "Cinema Studies Institute": {
                         "buildings": [
-                            "Online",
                             "TBA",
+                            "Online",
                             "RL"
                         ],
                         "instructors": [
+                            "Kass Banning",
+                            "Barbora Hatalova",
                             "Tamar Hanstke",
                             "TBA",
-                            "Kass Banning",
-                            "Nikole Hidalgo McGregor",
-                            "Barbora Hatalova"
+                            "Nikole Hidalgo McGregor"
                         ]
                     },
                     "Human Biology Program": {
                         "buildings": [
-                            "GB",
-                            "Online",
                             "TBA",
-                            "SF"
+                            "SF",
+                            "GB",
+                            "Online"
                         ],
                         "instructors": [
+                            "Naomi Levy-Strumpf",
                             "TBA",
-                            "Bill Ju",
                             "Colleen Dockstader",
                             "Franco Taverna",
-                            "Naomi Levy-Strumpf"
+                            "Bill Ju"
                         ]
                     },
                     "Jewish Studies": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "Olga Talal",
-                            "TBA"
+                            "TBA",
+                            "Olga Talal"
                         ]
                     },
                     "Department of Classics": {
                         "buildings": [
+                            "TBA",
                             "LI",
-                            "Online",
-                            "TBA"
+                            "Online"
                         ],
                         "instructors": [
-                            "Sarah Graham",
-                            "Jacob Dvorak",
-                            "TBA",
-                            "Jacob Sawyer",
-                            "Peter Bayer",
                             "David Lee Jacks II",
-                            "Alison Cleverley"
+                            "Jacob Sawyer",
+                            "Alison Cleverley",
+                            "TBA",
+                            "Peter Bayer",
+                            "Sarah Graham",
+                            "Jacob Dvorak"
                         ]
                     },
                     "University College": {
                         "buildings": [
                             "TBA",
-                            "BA",
-                            "Online"
+                            "Online",
+                            "BA"
                         ],
                         "instructors": [
                             "TBA",
-                            "Mark Daniel Miller",
-                            "Anthony Charles Ruocco"
+                            "Anthony Charles Ruocco",
+                            "Mark Daniel Miller"
                         ]
                     },
                     "Centre for Criminology and Sociolegal Studies": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "N. Scot Wortley",
-                            "William Watson",
                             "Kamari Clarke",
-                            "Roksolyana Shlapak"
+                            "William Watson",
+                            "Roksolyana Shlapak",
+                            "N. Scot Wortley"
                         ]
                     },
                     "Department of Computer Science": {
                         "buildings": [
                             "TBA",
+                            "MP",
                             "SM",
-                            "BA",
-                            "MP"
+                            "BA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Steve Engels",
+                            "Amanjit Singh Kainth",
+                            "Shiva Akbari",
                             "Ilona Posner",
                             "Amirreza Peimani",
                             "Varinia Bernales Candia",
-                            "Vivienne Luk",
-                            "Pan Chen",
-                            "Jack Jianan Zhou",
-                            "Helen Kontozopoulos",
-                            "Shiva Akbari",
+                            "TBA",
                             "Alan Aspuru-Guzik",
-                            "Amanjit Singh Kainth"
+                            "Steve Engels",
+                            "Pan Chen",
+                            "Vivienne Luk",
+                            "Helen Kontozopoulos",
+                            "Jack Jianan Zhou"
                         ]
                     },
                     "Woodsworth College": {
@@ -1340,8 +1340,8 @@
                             "CR"
                         ],
                         "instructors": [
-                            "Daniel Guadagnolo",
-                            "Arun Jacob"
+                            "Arun Jacob",
+                            "Daniel Guadagnolo"
                         ]
                     },
                     "Centre for Diaspora & Transnational Studies": {
@@ -1349,7 +1349,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA"
+                            "TBA",
+                            "Naomi Seidman"
                         ]
                     },
                     "Department of East Asian Studies": {
@@ -1360,44 +1361,44 @@
                         ],
                         "instructors": [
                             "TBA",
-                            "Richard W L Guisso",
-                            "Hairong Huang",
-                            "Boyao Zhang",
+                            "Victor Falkenheim",
                             "Kyoungrok Ko",
-                            "Victor Falkenheim"
+                            "Boyao Zhang",
+                            "Richard W L Guisso",
+                            "Hairong Huang"
                         ]
                     },
                     "Department of Economics": {
                         "buildings": [
-                            "TBA",
-                            "AB",
-                            "HS",
-                            "OI",
+                            "GB",
                             "Online",
-                            "BA",
-                            "UC",
-                            "SS",
+                            "TBA",
+                            "HS",
                             "WB",
+                            "AB",
+                            "BA",
                             "RW",
-                            "GB"
+                            "SS",
+                            "OI",
+                            "UC"
                         ],
                         "instructors": [
-                            "Masoud Anjomshoa",
-                            "Laura Turner",
+                            "Ajaz Hussain",
                             "Yanyou Chen",
-                            "Yiming Xu",
-                            "Samantha Grewal",
-                            "Alison Cane",
-                            "Ata Mazaheri",
                             "Andrew Paulley",
-                            "Terry Yip",
-                            "Tam Le",
-                            "Nathanael Vellekoop",
-                            "Yuanyuan Wan",
-                            "Eun Ji Lindsay Lee",
                             "Robert Barber",
                             "Christopher D'Souza",
-                            "Ajaz Hussain"
+                            "Nathanael Vellekoop",
+                            "Terry Yip",
+                            "Tam Le",
+                            "Samantha Grewal",
+                            "Eun Ji Lindsay Lee",
+                            "Ata Mazaheri",
+                            "Masoud Anjomshoa",
+                            "Alison Cane",
+                            "Laura Turner",
+                            "Yuanyuan Wan",
+                            "Yiming Xu"
                         ]
                     },
                     "Victoria College": {
@@ -1405,8 +1406,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Katie Doering",
-                            "TBA"
+                            "TBA",
+                            "Katie Doering"
                         ]
                     },
                     "Department of Ecology and Evolutionary Biology": {
@@ -1415,50 +1416,50 @@
                             "SS"
                         ],
                         "instructors": [
+                            "Njal Rollinson",
                             "TBA",
-                            "Tianna Peller",
+                            "Micah Freedman",
+                            "Eden Tekwa Wong",
                             "Benjamin Gilbert",
+                            "Megan Bontrager",
                             "John Stinchcombe",
                             "Megan Frederickson",
-                            "Micah Freedman",
-                            "Njal Rollinson",
-                            "Eden Tekwa Wong",
-                            "Megan Bontrager",
+                            "Tianna Peller",
                             "Asher Cutter"
                         ]
                     },
                     "Department of English": {
                         "buildings": [
-                            "TBA",
-                            "OI",
                             "Online",
+                            "TBA",
                             "BA",
+                            "OI",
                             "UC"
                         ],
                         "instructors": [
-                            "Marina Klimenko",
-                            "Vikki Visvis",
                             "Kyle Kinaschuk",
-                            "Julianna Chianelli",
-                            "Scott Rayter",
-                            "Urvashi Chakravarty",
-                            "Audrey Walton",
                             "Patrick Teed",
-                            "Geoffrey MacDonald",
+                            "Marina Klimenko",
                             "Michael Johnstone",
-                            "Richard Greene"
+                            "Julianna Chianelli",
+                            "Audrey Walton",
+                            "Vikki Visvis",
+                            "Geoffrey MacDonald",
+                            "Richard Greene",
+                            "Urvashi Chakravarty",
+                            "Scott Rayter"
                         ]
                     },
                     "School of Environment": {
                         "buildings": [
-                            "Online",
+                            "TBA",
                             "BA",
-                            "TBA"
+                            "Online"
                         ],
                         "instructors": [
-                            "Romila Verma",
                             "TBA",
                             "Sherry-Ann Ram",
+                            "Romila Verma",
                             "Erich Vogt"
                         ]
                     },
@@ -1468,11 +1469,10 @@
                         ],
                         "instructors": [
                             "TBA",
-                            "Daniel Gregory",
-                            "LISA TUTTY TUTTYLIS",
-                            "Sarah Sydney Ariano",
                             "Andrei Swidinsky",
-                            "Carl-Georg Bank"
+                            "Carl-Georg Bank",
+                            "Sarah Sydney Ariano",
+                            "Daniel Gregory"
                         ]
                     },
                     "Centre for European and Eurasian Studies": {
@@ -1490,13 +1490,13 @@
                             "UC"
                         ],
                         "instructors": [
-                            "TBA",
                             "Elizabeth MM Legge",
-                            "Lauren Barnes",
-                            "Nikolina Kurtovic",
-                            "Sanniah Jabeen",
+                            "TBA",
                             "Matthew Coleman",
-                            "D. Esther Kim"
+                            "Lauren Barnes",
+                            "Sanniah Jabeen",
+                            "D. Esther Kim",
+                            "Nikolina Kurtovic"
                         ]
                     },
                     "Department of French": {
@@ -1507,8 +1507,8 @@
                         "instructors": [
                             "Loula Abd-elrazak",
                             "TBA",
-                            "Catherine Gaughan",
-                            "Rosa Junghwa Hong"
+                            "Rosa Junghwa Hong",
+                            "Catherine Gaughan"
                         ]
                     },
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
@@ -1516,66 +1516,66 @@
                             "ES"
                         ],
                         "instructors": [
-                            "Roxana Khoshravesh",
-                            "TBA"
+                            "TBA",
+                            "Roxana Khoshravesh"
                         ]
                     },
                     "Department of Germanic Languages & Literatures": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
+                            "TBA",
                             "Stefana Gargova",
                             "Lisa Lackner",
-                            "TBA",
                             "Rita Laszlo"
                         ]
                     },
                     "Department of Geography and Planning": {
                         "buildings": [
-                            "Online",
+                            "TBA",
                             "SS",
-                            "TBA"
+                            "Online"
                         ],
                         "instructors": [
+                            "Marcellinus Essah",
                             "TBA",
-                            "Mohammed Abubakari",
-                            "Meghan Gagliardi",
                             "Kristian Larsen",
-                            "Marcellinus Essah"
+                            "Mohammed Abubakari",
+                            "Meghan Gagliardi"
                         ]
                     },
                     "Department of History": {
                         "buildings": [
-                            "TBA",
                             "BF",
                             "Online",
-                            "SS",
-                            "RW"
+                            "TBA",
+                            "RW",
+                            "SS"
                         ],
                         "instructors": [
                             "TBA",
                             "L.K. Bertram",
-                            "Carlie Manners",
-                            "Haihan Jiang",
+                            "Chaoran Ma",
                             "Hongyun Lyu",
-                            "Camila Collins Araiza",
                             "Heather Smith",
-                            "Chaoran Ma"
+                            "Camila Collins Araiza",
+                            "Carlie Manners",
+                            "Haihan Jiang"
                         ]
                     },
                     "Inst. for the History & Philosophy of Science & Technology": {
                         "buildings": [
                             "TBA",
-                            "SS",
                             "RW",
+                            "SS",
                             "UC"
                         ],
                         "instructors": [
                             "TBA",
-                            "Alexandra Calzavara",
-                            "Matthew McLaughlin"
+                            "Matthew McLaughlin",
+                            "Alexandra Calzavara"
                         ]
                     },
                     "Department of Immunology": {
@@ -1601,9 +1601,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Julie Guindon",
                             "Bayan Akbik",
-                            "Maurice Fernandes"
+                            "Maurice Fernandes",
+                            "Julie Guindon"
                         ]
                     },
                     "Arts & Science Internship Program - Year 3": {
@@ -1611,22 +1611,22 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Julie Guindon",
                             "Bayan Akbik",
-                            "Maurice Fernandes"
+                            "Maurice Fernandes",
+                            "Julie Guindon"
                         ]
                     },
                     "Centre for Industrial Relations and Human Resources": {
                         "buildings": [
                             "TBA",
-                            "SS",
                             "OI",
+                            "SS",
                             "Online"
                         ],
                         "instructors": [
-                            "Hua Wang",
                             "Bob Thompson",
                             "Peter Smit",
+                            "Hua Wang",
                             "Anny Fong"
                         ]
                     },
@@ -1636,25 +1636,25 @@
                             "OI"
                         ],
                         "instructors": [
-                            "Maria Laura Mosco",
-                            "TBA"
+                            "TBA",
+                            "Maria Laura Mosco"
                         ]
                     },
                     "Department of Linguistics": {
                         "buildings": [
+                            "TBA",
                             "Online",
                             "SS",
-                            "TBA",
                             "UC"
                         ],
                         "instructors": [
-                            "Song Jiang",
-                            "TBA",
-                            "Kit Donohue",
+                            "Ryan MacDonald",
                             "Andrew Byrne",
-                            "Pedro Mateo Pedro",
+                            "TBA",
                             "Will Williams",
-                            "Ryan MacDonald"
+                            "Kit Donohue",
+                            "Pedro Mateo Pedro",
+                            "Song Jiang"
                         ]
                     },
                     "Department of Laboratory Medicine and Pathobiology": {
@@ -1662,15 +1662,15 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Warren Lee",
-                            "TBA"
+                            "TBA",
+                            "Warren Lee"
                         ]
                     },
                     "Rotman Commerce": {
                         "buildings": [
-                            "WW",
                             "TBA",
-                            "WO"
+                            "WO",
+                            "WW"
                         ],
                         "instructors": [
                             "Karine Benzacar",
@@ -1690,8 +1690,8 @@
                     },
                     "Faculty of Music": {
                         "buildings": [
-                            "GB",
-                            "SS"
+                            "SS",
+                            "GB"
                         ],
                         "instructors": [
                             "John Haines"
@@ -1718,34 +1718,34 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Chao Zheng",
                             "Anita Hamadanizadeh",
-                            "Kim Sugamori",
-                            "Vincenzo De Luca",
+                            "TBA",
                             "Nathanael Caveney",
-                            "Chao Zheng"
+                            "Kim Sugamori",
+                            "Vincenzo De Luca"
                         ]
                     },
                     "Department of Philosophy": {
                         "buildings": [
-                            "TBA",
                             "Online",
+                            "TBA",
                             "BA",
-                            "SS",
-                            "RW"
+                            "RW",
+                            "SS"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Cassandra Williams",
-                            "Ismael Kettani",
-                            "Nate Oppel",
-                            "Alexander Drusda",
                             "Cameron Yetman",
-                            "Mark Gatten",
+                            "Ismael Kettani",
+                            "Alexander Koo",
+                            "TBA",
+                            "Alexander Drusda",
                             "Schuyler Pringle",
-                            "Sooyoung Moon",
+                            "Cassandra Williams",
                             "Tim McKee",
-                            "Alexander Koo"
+                            "Sooyoung Moon",
+                            "Nate Oppel",
+                            "Mark Gatten"
                         ]
                     },
                     "Department of Physics": {
@@ -1754,40 +1754,40 @@
                             "MP"
                         ],
                         "instructors": [
-                            "Pekka Sinervo",
+                            "Girish Lingadahalli Muralidhara",
                             "TBA",
-                            "Matthew Stukel",
                             "Ziqing Hong",
                             "Roya Ghahreman",
-                            "Matthew Badali",
-                            "Richard Teuscher",
-                            "Girish Lingadahalli Muralidhara",
                             "Amar C. Vutha",
-                            "Boris Braverman"
+                            "Boris Braverman",
+                            "Pekka Sinervo",
+                            "Matthew Stukel",
+                            "Matthew Badali",
+                            "Richard Teuscher"
                         ]
                     },
                     "Department of Political Science": {
                         "buildings": [
+                            "Online",
                             "TBA",
                             "RL",
-                            "Online",
                             "BA",
                             "SS"
                         ],
                         "instructors": [
-                            "Abbas Gnamo",
-                            "TBA",
-                            "Taruneek Kapoor",
-                            "Chen Zhong",
-                            "Renan Levine",
-                            "Gabrielle Lim",
-                            "Iddan Sonsino",
-                            "Etienne Cardin-Trudeau",
                             "Max John Edward Morris",
-                            "Sahib Jafarov",
-                            "Mher Mamajanyan",
                             "Yojana Miraya Oscco",
-                            "Lynette Ong"
+                            "TBA",
+                            "Chen Zhong",
+                            "Gabrielle Lim",
+                            "Mher Mamajanyan",
+                            "Lynette Ong",
+                            "Sahib Jafarov",
+                            "Abbas Gnamo",
+                            "Etienne Cardin-Trudeau",
+                            "Iddan Sonsino",
+                            "Taruneek Kapoor",
+                            "Renan Levine"
                         ]
                     },
                     "Department of Physiology": {
@@ -1796,54 +1796,54 @@
                             "HS"
                         ],
                         "instructors": [
-                            "TBA",
                             "Denise Belsham",
                             "Andrea Jurisicova",
-                            "Nesime Askin",
-                            "Chirag Vaswani",
+                            "TBA",
+                            "Sandra Pereira",
                             "Carin Wittnich",
-                            "Sandra Pereira"
+                            "Chirag Vaswani",
+                            "Nesime Askin"
                         ]
                     },
                     "Department of Psychology": {
                         "buildings": [
                             "TBA",
-                            "SS",
                             "RW",
+                            "SS",
                             "Online"
                         ],
                         "instructors": [
-                            "Mireille Babineau",
-                            "Colin Li",
-                            "Amanda Sharples",
-                            "Carolyn Guay",
-                            "Morgan Barense",
-                            "Gillian Einstein",
-                            "Sofia Panasiuk",
-                            "Jessica Sommerville",
                             "Michael Mack",
-                            "Ece Yucer",
-                            "Taryn Elizabeth Grieder",
-                            "Redab AL Janaideh",
-                            "TBA",
-                            "Paul Whissell",
-                            "Kaori Takehara",
                             "Marco Agazio Sama",
-                            "Stuart Kamenetsky",
+                            "TBA",
+                            "Amanda Sharples",
+                            "Ece Yucer",
+                            "Colin Li",
+                            "Sofia Panasiuk",
+                            "Morgan Barense",
                             "Amy Finn",
-                            "Christine Millicent Burton"
+                            "Taryn Elizabeth Grieder",
+                            "Christine Millicent Burton",
+                            "Paul Whissell",
+                            "Jessica Sommerville",
+                            "Gillian Einstein",
+                            "Stuart Kamenetsky",
+                            "Carolyn Guay",
+                            "Mireille Babineau",
+                            "Redab AL Janaideh",
+                            "Kaori Takehara"
                         ]
                     },
                     "Department for the Study of Religion": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Nicholas Sarian",
-                            "Pamela Klassen",
+                            "TBA",
                             "Vivek Shah",
+                            "Pamela Klassen",
                             "David Perley"
                         ]
                     },
@@ -1852,28 +1852,28 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Jamie Feusner",
                             "Becky Chen",
+                            "Lindsey Katherine Fiddes",
                             "Yufeng Zhao",
-                            "Lindsey Katherine Fiddes"
+                            "Jamie Feusner"
                         ]
                     },
                     "Department of Sociology": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Elliot Fonarev",
                             "Andy Holmes",
+                            "TBA",
+                            "Sophie Marois",
+                            "Storm Kalyse Jeffers",
+                            "Fabio Robibaro",
+                            "Harmata Aboubakar",
                             "Soli Dubash",
                             "Jooyoung Lee",
-                            "Elliot Fonarev",
-                            "Harmata Aboubakar",
-                            "Fabio Robibaro",
-                            "Akwasi Owusu-Bempah",
-                            "Sophie Marois",
-                            "Storm Kalyse Jeffers"
+                            "Akwasi Owusu-Bempah"
                         ]
                     },
                     "Faculty of Arts and Science": {
@@ -1899,26 +1899,26 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Enis Demirer",
                             "Kaylee Hamilton",
-                            "Adriana Perez-Rodriguez",
-                            "Enis Demirer"
+                            "Adriana Perez-Rodriguez"
                         ]
                     },
                     "Innis College": {
                         "buildings": [
-                            "FE",
-                            "TBA"
+                            "TBA",
+                            "FE"
                         ],
                         "instructors": [
                             "TBA",
-                            "Rebecca Vogan",
-                            "Daniel Laurin"
+                            "Daniel Laurin",
+                            "Rebecca Vogan"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "June 24, 2026 at 4:58 AM"
+        "last_updated": "June 26, 2026 at 6:18 AM"
     },
     "timings": [
         {
@@ -2051,7 +2051,7 @@
                 "Otto Yung"
             ],
             "capacity": 40,
-            "current_enrolment": 39,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -2070,7 +2070,7 @@
                 "Otto Yung"
             ],
             "capacity": 40,
-            "current_enrolment": 39,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -2760,7 +2760,7 @@
                 "TBA"
             ],
             "capacity": 27,
-            "current_enrolment": 22,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -2779,7 +2779,7 @@
                 "TBA"
             ],
             "capacity": 27,
-            "current_enrolment": 17,
+            "current_enrolment": 19,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3406,7 +3406,7 @@
                 "Friedemann Krannich"
             ],
             "capacity": 185,
-            "current_enrolment": 166,
+            "current_enrolment": 163,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3425,7 +3425,7 @@
                 "Friedemann Krannich"
             ],
             "capacity": 185,
-            "current_enrolment": 166,
+            "current_enrolment": 163,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3444,7 +3444,7 @@
                 "Friedemann Krannich"
             ],
             "capacity": 185,
-            "current_enrolment": 166,
+            "current_enrolment": 163,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3463,7 +3463,7 @@
                 "Friedemann Krannich"
             ],
             "capacity": 185,
-            "current_enrolment": 166,
+            "current_enrolment": 163,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3520,7 +3520,7 @@
                 "TBA"
             ],
             "capacity": 42,
-            "current_enrolment": 36,
+            "current_enrolment": 35,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3539,7 +3539,7 @@
                 "TBA"
             ],
             "capacity": 42,
-            "current_enrolment": 36,
+            "current_enrolment": 35,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3710,7 +3710,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 35,
+            "current_enrolment": 33,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -3729,7 +3729,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 35,
+            "current_enrolment": 33,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -4934,7 +4934,7 @@
                 "Siobhan O'Flynn"
             ],
             "capacity": 70,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -4953,7 +4953,7 @@
                 "Siobhan O'Flynn"
             ],
             "capacity": 70,
-            "current_enrolment": 51,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -5124,7 +5124,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -5143,7 +5143,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -5567,7 +5567,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 109,
+            "current_enrolment": 112,
             "delivery_mode": "In Person"
         },
         {
@@ -5586,7 +5586,7 @@
                 "TBA"
             ],
             "capacity": 120,
-            "current_enrolment": 109,
+            "current_enrolment": 112,
             "delivery_mode": "In Person"
         },
         {
@@ -5605,7 +5605,7 @@
                 "Mima Staikova"
             ],
             "capacity": 72,
-            "current_enrolment": 67,
+            "current_enrolment": 66,
             "delivery_mode": "In Person"
         },
         {
@@ -5624,7 +5624,7 @@
                 "Mima Staikova"
             ],
             "capacity": 48,
-            "current_enrolment": 43,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -6403,7 +6403,7 @@
                 "Ahlem Bensari"
             ],
             "capacity": 128,
-            "current_enrolment": 119,
+            "current_enrolment": 117,
             "delivery_mode": "In Person"
         },
         {
@@ -6422,7 +6422,7 @@
                 "Ahlem Bensari"
             ],
             "capacity": 128,
-            "current_enrolment": 119,
+            "current_enrolment": 117,
             "delivery_mode": "In Person"
         },
         {
@@ -6441,7 +6441,7 @@
                 "Ahlem Bensari"
             ],
             "capacity": 128,
-            "current_enrolment": 119,
+            "current_enrolment": 117,
             "delivery_mode": "In Person"
         },
         {
@@ -6498,7 +6498,7 @@
                 "TBA"
             ],
             "capacity": 64,
-            "current_enrolment": 57,
+            "current_enrolment": 56,
             "delivery_mode": "In Person"
         },
         {
@@ -6517,7 +6517,7 @@
                 "TBA"
             ],
             "capacity": 64,
-            "current_enrolment": 57,
+            "current_enrolment": 56,
             "delivery_mode": "In Person"
         },
         {
@@ -6536,7 +6536,7 @@
                 "Marvin Morales"
             ],
             "capacity": 64,
-            "current_enrolment": 55,
+            "current_enrolment": 54,
             "delivery_mode": "In Person"
         },
         {
@@ -6998,7 +6998,7 @@
                 "Tamar Hanstke"
             ],
             "capacity": 40,
-            "current_enrolment": 25,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -7017,7 +7017,7 @@
                 "Tamar Hanstke"
             ],
             "capacity": 40,
-            "current_enrolment": 25,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -7606,7 +7606,7 @@
                 "Alison Cleverley"
             ],
             "capacity": 30,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -7625,7 +7625,7 @@
                 "Alison Cleverley"
             ],
             "capacity": 30,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -8883,7 +8883,7 @@
                 "Amanjit Singh Kainth"
             ],
             "capacity": 125,
-            "current_enrolment": 94,
+            "current_enrolment": 93,
             "delivery_mode": "In Person"
         },
         {
@@ -8902,7 +8902,7 @@
                 "Amanjit Singh Kainth"
             ],
             "capacity": 125,
-            "current_enrolment": 94,
+            "current_enrolment": 93,
             "delivery_mode": "In Person"
         },
         {
@@ -8921,7 +8921,7 @@
                 "Jack Jianan Zhou"
             ],
             "capacity": 125,
-            "current_enrolment": 99,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -8940,7 +8940,7 @@
                 "Jack Jianan Zhou"
             ],
             "capacity": 125,
-            "current_enrolment": 99,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -9016,7 +9016,7 @@
                 "Helen Kontozopoulos"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -9035,7 +9035,7 @@
                 "Helen Kontozopoulos"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -9054,7 +9054,7 @@
                 "Helen Kontozopoulos"
             ],
             "capacity": 40,
-            "current_enrolment": 19,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -9396,7 +9396,7 @@
                 "Chandni Desai"
             ],
             "capacity": 28,
-            "current_enrolment": 28,
+            "current_enrolment": 27,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -9701,6 +9701,25 @@
             ],
             "capacity": 9999,
             "current_enrolment": 0,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "DTS398H0 S: Research Excursions",
+            "section_title": "Lectures",
+            "day": "TBA",
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "campus": "Off Campus",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Centre for Diaspora & Transnational Studies",
+            "faculty": "Faculty of Arts and Science",
+            "location": "TBA",
+            "instructors": [
+                "Naomi Seidman"
+            ],
+            "capacity": 9999,
+            "current_enrolment": 4,
             "delivery_mode": "In Person"
         },
         {
@@ -10194,7 +10213,7 @@
                 "Boyao Zhang"
             ],
             "capacity": 45,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -10213,7 +10232,7 @@
                 "Boyao Zhang"
             ],
             "capacity": 45,
-            "current_enrolment": 35,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -10462,7 +10481,7 @@
                 "Michael Ho"
             ],
             "capacity": 135,
-            "current_enrolment": 107,
+            "current_enrolment": 106,
             "delivery_mode": "In Person"
         },
         {
@@ -10481,7 +10500,7 @@
                 "Michael Ho"
             ],
             "capacity": 135,
-            "current_enrolment": 107,
+            "current_enrolment": 106,
             "delivery_mode": "In Person"
         },
         {
@@ -10614,7 +10633,7 @@
                 "Yiming Xu"
             ],
             "capacity": 110,
-            "current_enrolment": 109,
+            "current_enrolment": 110,
             "delivery_mode": "In Person"
         },
         {
@@ -10633,7 +10652,7 @@
                 "Yiming Xu"
             ],
             "capacity": 110,
-            "current_enrolment": 109,
+            "current_enrolment": 110,
             "delivery_mode": "In Person"
         },
         {
@@ -10652,7 +10671,7 @@
                 "Yiming Xu"
             ],
             "capacity": 110,
-            "current_enrolment": 109,
+            "current_enrolment": 110,
             "delivery_mode": "In Person"
         },
         {
@@ -10671,7 +10690,7 @@
                 "Yiming Xu"
             ],
             "capacity": 110,
-            "current_enrolment": 96,
+            "current_enrolment": 95,
             "delivery_mode": "In Person"
         },
         {
@@ -10690,7 +10709,7 @@
                 "Yiming Xu"
             ],
             "capacity": 110,
-            "current_enrolment": 96,
+            "current_enrolment": 95,
             "delivery_mode": "In Person"
         },
         {
@@ -10709,7 +10728,7 @@
                 "Yiming Xu"
             ],
             "capacity": 110,
-            "current_enrolment": 96,
+            "current_enrolment": 95,
             "delivery_mode": "In Person"
         },
         {
@@ -10880,7 +10899,7 @@
                 "Laura Turner"
             ],
             "capacity": 100,
-            "current_enrolment": 61,
+            "current_enrolment": 60,
             "delivery_mode": "Hybrid"
         },
         {
@@ -10899,7 +10918,7 @@
                 "Laura Turner"
             ],
             "capacity": 100,
-            "current_enrolment": 61,
+            "current_enrolment": 60,
             "delivery_mode": "Hybrid"
         },
         {
@@ -10918,7 +10937,7 @@
                 "Laura Turner"
             ],
             "capacity": 100,
-            "current_enrolment": 61,
+            "current_enrolment": 60,
             "delivery_mode": "Hybrid"
         },
         {
@@ -10937,7 +10956,7 @@
                 "Laura Turner"
             ],
             "capacity": 100,
-            "current_enrolment": 61,
+            "current_enrolment": 60,
             "delivery_mode": "Hybrid"
         },
         {
@@ -11550,7 +11569,7 @@
                 "Robert Barber"
             ],
             "capacity": 75,
-            "current_enrolment": 70,
+            "current_enrolment": 73,
             "delivery_mode": "In Person"
         },
         {
@@ -11569,7 +11588,7 @@
                 "Robert Barber"
             ],
             "capacity": 75,
-            "current_enrolment": 70,
+            "current_enrolment": 73,
             "delivery_mode": "In Person"
         },
         {
@@ -11664,7 +11683,7 @@
                 "Christopher D'Souza"
             ],
             "capacity": 60,
-            "current_enrolment": 33,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -11683,7 +11702,7 @@
                 "Christopher D'Souza"
             ],
             "capacity": 60,
-            "current_enrolment": 33,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -11740,7 +11759,7 @@
                 "Ata Mazaheri"
             ],
             "capacity": 60,
-            "current_enrolment": 28,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -11759,7 +11778,7 @@
                 "Ata Mazaheri"
             ],
             "capacity": 60,
-            "current_enrolment": 28,
+            "current_enrolment": 26,
             "delivery_mode": "In Person"
         },
         {
@@ -11816,7 +11835,7 @@
                 "Nathanael Vellekoop"
             ],
             "capacity": 60,
-            "current_enrolment": 32,
+            "current_enrolment": 34,
             "delivery_mode": "Hybrid"
         },
         {
@@ -11835,7 +11854,7 @@
                 "Nathanael Vellekoop"
             ],
             "capacity": 60,
-            "current_enrolment": 32,
+            "current_enrolment": 34,
             "delivery_mode": "Hybrid"
         },
         {
@@ -11854,7 +11873,7 @@
                 "Nathanael Vellekoop"
             ],
             "capacity": 60,
-            "current_enrolment": 32,
+            "current_enrolment": 34,
             "delivery_mode": "Hybrid"
         },
         {
@@ -12044,7 +12063,7 @@
                 "Yuanyuan Wan"
             ],
             "capacity": 60,
-            "current_enrolment": 32,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -12063,7 +12082,7 @@
                 "Yuanyuan Wan"
             ],
             "capacity": 60,
-            "current_enrolment": 32,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -12082,7 +12101,7 @@
                 "Yuanyuan Wan"
             ],
             "capacity": 60,
-            "current_enrolment": 32,
+            "current_enrolment": 34,
             "delivery_mode": "In Person"
         },
         {
@@ -12965,7 +12984,7 @@
                 "Eden Tekwa Wong"
             ],
             "capacity": 15,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -12985,7 +13004,7 @@
                 "Eden Tekwa Wong"
             ],
             "capacity": 15,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -13612,7 +13631,7 @@
                 "Michael Johnstone"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -13631,7 +13650,7 @@
                 "Michael Johnstone"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -14258,7 +14277,7 @@
                 "Mark Hathaway"
             ],
             "capacity": 400,
-            "current_enrolment": 345,
+            "current_enrolment": 344,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -14524,7 +14543,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 22,
+            "current_enrolment": 21,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -14676,7 +14695,7 @@
                 "TBA"
             ],
             "capacity": 27,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -14714,45 +14733,45 @@
                 "TBA"
             ],
             "capacity": 27,
-            "current_enrolment": 24,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "ENV200H1 S: Assessing Global Change: Science and the Environment",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "School of Environment",
-            "faculty": "Faculty of Arts and Science",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 27,
-            "current_enrolment": 24,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "ENV200H1 S: Assessing Global Change: Science and the Environment",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "School of Environment",
-            "faculty": "Faculty of Arts and Science",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 27,
             "current_enrolment": 26,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "ENV200H1 S: Assessing Global Change: Science and the Environment",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "School of Environment",
+            "faculty": "Faculty of Arts and Science",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 27,
+            "current_enrolment": 23,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "ENV200H1 S: Assessing Global Change: Science and the Environment",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "School of Environment",
+            "faculty": "Faculty of Arts and Science",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 27,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -14790,7 +14809,7 @@
                 "TBA"
             ],
             "capacity": 27,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -14904,7 +14923,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -15209,7 +15228,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -15228,7 +15247,7 @@
                 "TBA"
             ],
             "capacity": 2,
-            "current_enrolment": 2,
+            "current_enrolment": 1,
             "delivery_mode": "In Person"
         },
         {
@@ -15415,7 +15434,7 @@
             "faculty": "Faculty of Arts and Science",
             "location": "TBA",
             "instructors": [
-                "LISA TUTTY TUTTYLIS"
+                "TBA"
             ],
             "capacity": 267,
             "current_enrolment": 267,
@@ -16066,7 +16085,7 @@
                 "D. Esther Kim"
             ],
             "capacity": 65,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -16085,7 +16104,7 @@
                 "D. Esther Kim"
             ],
             "capacity": 65,
-            "current_enrolment": 50,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -16770,7 +16789,7 @@
                 "Catherine Gaughan"
             ],
             "capacity": 40,
-            "current_enrolment": 31,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -16789,7 +16808,7 @@
                 "Catherine Gaughan"
             ],
             "capacity": 40,
-            "current_enrolment": 31,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -16808,7 +16827,7 @@
                 "Catherine Gaughan"
             ],
             "capacity": 40,
-            "current_enrolment": 31,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -17500,7 +17519,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 29,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -17519,7 +17538,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 29,
+            "current_enrolment": 30,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -17728,7 +17747,7 @@
                 "Meghan Gagliardi"
             ],
             "capacity": 90,
-            "current_enrolment": 55,
+            "current_enrolment": 54,
             "delivery_mode": "In Person"
         },
         {
@@ -17747,7 +17766,7 @@
                 "Meghan Gagliardi"
             ],
             "capacity": 90,
-            "current_enrolment": 55,
+            "current_enrolment": 54,
             "delivery_mode": "In Person"
         },
         {
@@ -18279,7 +18298,7 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 16,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -18701,7 +18720,7 @@
                 "Hongyun Lyu"
             ],
             "capacity": 45,
-            "current_enrolment": 22,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -18720,7 +18739,7 @@
                 "Hongyun Lyu"
             ],
             "capacity": 45,
-            "current_enrolment": 22,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -18891,7 +18910,7 @@
                 "Camila Collins Araiza"
             ],
             "capacity": 16,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -18910,7 +18929,7 @@
                 "Camila Collins Araiza"
             ],
             "capacity": 16,
-            "current_enrolment": 16,
+            "current_enrolment": 15,
             "delivery_mode": "In Person"
         },
         {
@@ -19043,7 +19062,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 27,
+            "current_enrolment": 29,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -19062,7 +19081,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 27,
+            "current_enrolment": 29,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -19081,7 +19100,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 12,
+            "current_enrolment": 11,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -19100,7 +19119,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 12,
+            "current_enrolment": 11,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -20297,7 +20316,7 @@
                 "TBA"
             ],
             "capacity": 41,
-            "current_enrolment": 39,
+            "current_enrolment": 41,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -20316,7 +20335,7 @@
                 "TBA"
             ],
             "capacity": 41,
-            "current_enrolment": 39,
+            "current_enrolment": 41,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -20717,7 +20736,7 @@
                 "Alexandra Calzavara"
             ],
             "capacity": 100,
-            "current_enrolment": 85,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -20736,7 +20755,7 @@
                 "Alexandra Calzavara"
             ],
             "capacity": 100,
-            "current_enrolment": 85,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -20755,7 +20774,7 @@
                 "TBA"
             ],
             "capacity": 34,
-            "current_enrolment": 34,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -20793,7 +20812,7 @@
                 "TBA"
             ],
             "capacity": 33,
-            "current_enrolment": 15,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -22102,7 +22121,7 @@
                 "Anny Fong"
             ],
             "capacity": 60,
-            "current_enrolment": 31,
+            "current_enrolment": 32,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -22805,7 +22824,7 @@
                 "Ryan MacDonald"
             ],
             "capacity": 70,
-            "current_enrolment": 43,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -22824,7 +22843,7 @@
                 "Ryan MacDonald"
             ],
             "capacity": 70,
-            "current_enrolment": 43,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -22843,7 +22862,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 32,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -22862,7 +22881,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 32,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -22881,7 +22900,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 8,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -22900,7 +22919,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 8,
+            "current_enrolment": 9,
             "delivery_mode": "In Person"
         },
         {
@@ -22995,7 +23014,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23014,7 +23033,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23185,7 +23204,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -23204,7 +23223,7 @@
                 "TBA"
             ],
             "capacity": 35,
-            "current_enrolment": 22,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -23641,7 +23660,7 @@
                 "Lora Hreish"
             ],
             "capacity": 212,
-            "current_enrolment": 184,
+            "current_enrolment": 183,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23660,7 +23679,7 @@
                 "Lora Hreish"
             ],
             "capacity": 212,
-            "current_enrolment": 184,
+            "current_enrolment": 183,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23679,7 +23698,7 @@
                 "Lora Hreish"
             ],
             "capacity": 212,
-            "current_enrolment": 184,
+            "current_enrolment": 183,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23698,7 +23717,7 @@
                 "Lora Hreish"
             ],
             "capacity": 212,
-            "current_enrolment": 184,
+            "current_enrolment": 183,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23717,7 +23736,7 @@
                 "Lora Hreish"
             ],
             "capacity": 212,
-            "current_enrolment": 184,
+            "current_enrolment": 183,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23736,7 +23755,7 @@
                 "Lora Hreish"
             ],
             "capacity": 212,
-            "current_enrolment": 184,
+            "current_enrolment": 183,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23755,7 +23774,7 @@
                 "TBA"
             ],
             "capacity": 71,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23774,7 +23793,7 @@
                 "TBA"
             ],
             "capacity": 71,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23793,7 +23812,7 @@
                 "TBA"
             ],
             "capacity": 71,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -23812,7 +23831,7 @@
                 "TBA"
             ],
             "capacity": 71,
-            "current_enrolment": 69,
+            "current_enrolment": 68,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -24420,7 +24439,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -24439,7 +24458,7 @@
                 "TBA"
             ],
             "capacity": 45,
-            "current_enrolment": 45,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -24819,7 +24838,7 @@
                 "Austin Sun"
             ],
             "capacity": 160,
-            "current_enrolment": 157,
+            "current_enrolment": 158,
             "delivery_mode": "In Person"
         },
         {
@@ -24838,7 +24857,7 @@
                 "Austin Sun"
             ],
             "capacity": 160,
-            "current_enrolment": 157,
+            "current_enrolment": 158,
             "delivery_mode": "In Person"
         },
         {
@@ -24857,7 +24876,7 @@
                 "Austin Sun"
             ],
             "capacity": 160,
-            "current_enrolment": 157,
+            "current_enrolment": 158,
             "delivery_mode": "In Person"
         },
         {
@@ -24876,7 +24895,7 @@
                 "Delaram Sadatamin"
             ],
             "capacity": 140,
-            "current_enrolment": 117,
+            "current_enrolment": 116,
             "delivery_mode": "In Person"
         },
         {
@@ -24895,7 +24914,7 @@
                 "Delaram Sadatamin"
             ],
             "capacity": 140,
-            "current_enrolment": 117,
+            "current_enrolment": 116,
             "delivery_mode": "In Person"
         },
         {
@@ -24914,7 +24933,7 @@
                 "Delaram Sadatamin"
             ],
             "capacity": 140,
-            "current_enrolment": 117,
+            "current_enrolment": 116,
             "delivery_mode": "In Person"
         },
         {
@@ -24933,7 +24952,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 38,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -24952,7 +24971,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 38,
+            "current_enrolment": 37,
             "delivery_mode": "In Person"
         },
         {
@@ -25009,7 +25028,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 49,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -25028,7 +25047,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 49,
+            "current_enrolment": 50,
             "delivery_mode": "In Person"
         },
         {
@@ -25085,7 +25104,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 48,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -25104,7 +25123,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 48,
+            "current_enrolment": 49,
             "delivery_mode": "In Person"
         },
         {
@@ -25123,7 +25142,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 30,
+            "current_enrolment": 31,
             "delivery_mode": "In Person"
         },
         {
@@ -25142,7 +25161,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 30,
+            "current_enrolment": 31,
             "delivery_mode": "In Person"
         },
         {
@@ -25428,7 +25447,7 @@
                 "Alejandro Adames"
             ],
             "capacity": 196,
-            "current_enrolment": 153,
+            "current_enrolment": 152,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -25448,7 +25467,7 @@
                 "Alejandro Adames"
             ],
             "capacity": 196,
-            "current_enrolment": 153,
+            "current_enrolment": 152,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -25468,7 +25487,7 @@
                 "Alejandro Adames"
             ],
             "capacity": 196,
-            "current_enrolment": 153,
+            "current_enrolment": 152,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -25488,7 +25507,7 @@
                 "Alejandro Adames"
             ],
             "capacity": 196,
-            "current_enrolment": 153,
+            "current_enrolment": 152,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -25811,7 +25830,7 @@
                 "TBA"
             ],
             "capacity": 49,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -25830,7 +25849,7 @@
                 "TBA"
             ],
             "capacity": 49,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -25849,7 +25868,7 @@
                 "TBA"
             ],
             "capacity": 49,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -25868,7 +25887,7 @@
                 "TBA"
             ],
             "capacity": 49,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -26210,7 +26229,7 @@
                 "Alexander Kroitor"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -26229,7 +26248,7 @@
                 "Alexander Kroitor"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -26248,7 +26267,7 @@
                 "Alexander Kroitor"
             ],
             "capacity": 100,
-            "current_enrolment": 82,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -26267,7 +26286,7 @@
                 "TBA"
             ],
             "capacity": 33,
-            "current_enrolment": 33,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -26286,7 +26305,7 @@
                 "TBA"
             ],
             "capacity": 33,
-            "current_enrolment": 33,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -26343,7 +26362,7 @@
                 "TBA"
             ],
             "capacity": 34,
-            "current_enrolment": 28,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -26362,7 +26381,7 @@
                 "TBA"
             ],
             "capacity": 34,
-            "current_enrolment": 28,
+            "current_enrolment": 32,
             "delivery_mode": "In Person"
         },
         {
@@ -26799,7 +26818,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -26818,7 +26837,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -27028,7 +27047,7 @@
                 "Luciano Salvetti Martinez"
             ],
             "capacity": 160,
-            "current_enrolment": 123,
+            "current_enrolment": 122,
             "delivery_mode": "In Person"
         },
         {
@@ -27048,7 +27067,7 @@
                 "Luciano Salvetti Martinez"
             ],
             "capacity": 160,
-            "current_enrolment": 123,
+            "current_enrolment": 122,
             "delivery_mode": "In Person"
         },
         {
@@ -27068,7 +27087,7 @@
                 "Luciano Salvetti Martinez"
             ],
             "capacity": 160,
-            "current_enrolment": 123,
+            "current_enrolment": 122,
             "delivery_mode": "In Person"
         },
         {
@@ -27088,7 +27107,7 @@
                 "Luciano Salvetti Martinez"
             ],
             "capacity": 160,
-            "current_enrolment": 123,
+            "current_enrolment": 122,
             "delivery_mode": "In Person"
         },
         {
@@ -27108,7 +27127,7 @@
                 "Luciano Salvetti Martinez"
             ],
             "capacity": 160,
-            "current_enrolment": 123,
+            "current_enrolment": 122,
             "delivery_mode": "In Person"
         },
         {
@@ -27128,7 +27147,7 @@
                 "Luciano Salvetti Martinez"
             ],
             "capacity": 160,
-            "current_enrolment": 123,
+            "current_enrolment": 122,
             "delivery_mode": "In Person"
         },
         {
@@ -27337,7 +27356,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 32,
+            "current_enrolment": 31,
             "delivery_mode": "In Person"
         },
         {
@@ -27356,7 +27375,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 32,
+            "current_enrolment": 31,
             "delivery_mode": "In Person"
         },
         {
@@ -27375,7 +27394,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 32,
+            "current_enrolment": 31,
             "delivery_mode": "In Person"
         },
         {
@@ -27394,7 +27413,7 @@
                 "TBA"
             ],
             "capacity": 40,
-            "current_enrolment": 32,
+            "current_enrolment": 31,
             "delivery_mode": "In Person"
         },
         {
@@ -29205,7 +29224,7 @@
                 "Shuyang Shen"
             ],
             "capacity": 140,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -29224,7 +29243,7 @@
                 "Shuyang Shen"
             ],
             "capacity": 140,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -29243,7 +29262,7 @@
                 "Shuyang Shen"
             ],
             "capacity": 140,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -29262,7 +29281,7 @@
                 "Shuyang Shen"
             ],
             "capacity": 140,
-            "current_enrolment": 84,
+            "current_enrolment": 83,
             "delivery_mode": "In Person"
         },
         {
@@ -29319,7 +29338,7 @@
                 "TBA"
             ],
             "capacity": 47,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -29338,7 +29357,7 @@
                 "TBA"
             ],
             "capacity": 47,
-            "current_enrolment": 26,
+            "current_enrolment": 25,
             "delivery_mode": "In Person"
         },
         {
@@ -31124,7 +31143,7 @@
                 "John Haines"
             ],
             "capacity": 100,
-            "current_enrolment": 57,
+            "current_enrolment": 55,
             "delivery_mode": "In Person"
         },
         {
@@ -31143,7 +31162,7 @@
                 "John Haines"
             ],
             "capacity": 100,
-            "current_enrolment": 57,
+            "current_enrolment": 55,
             "delivery_mode": "In Person"
         },
         {
@@ -31447,7 +31466,7 @@
                 "Laura Hare"
             ],
             "capacity": 90,
-            "current_enrolment": 90,
+            "current_enrolment": 85,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -31466,7 +31485,7 @@
                 "Laura Hare"
             ],
             "capacity": 90,
-            "current_enrolment": 90,
+            "current_enrolment": 85,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -32418,7 +32437,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 28,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -32817,7 +32836,7 @@
                 "Cameron Yetman"
             ],
             "capacity": 120,
-            "current_enrolment": 116,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
@@ -32836,7 +32855,7 @@
                 "Cameron Yetman"
             ],
             "capacity": 120,
-            "current_enrolment": 116,
+            "current_enrolment": 115,
             "delivery_mode": "In Person"
         },
         {
@@ -32855,7 +32874,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 28,
+            "current_enrolment": 30,
             "delivery_mode": "In Person"
         },
         {
@@ -32893,7 +32912,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 24,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -32912,7 +32931,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 23,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -33273,7 +33292,7 @@
                 "Tim McKee"
             ],
             "capacity": 60,
-            "current_enrolment": 50,
+            "current_enrolment": 52,
             "delivery_mode": "In Person"
         },
         {
@@ -33292,7 +33311,7 @@
                 "Tim McKee"
             ],
             "capacity": 60,
-            "current_enrolment": 50,
+            "current_enrolment": 52,
             "delivery_mode": "In Person"
         },
         {
@@ -33790,7 +33809,7 @@
                 "Matthew Badali"
             ],
             "capacity": 196,
-            "current_enrolment": 161,
+            "current_enrolment": 162,
             "delivery_mode": "In Person"
         },
         {
@@ -33810,7 +33829,7 @@
                 "Matthew Badali"
             ],
             "capacity": 196,
-            "current_enrolment": 161,
+            "current_enrolment": 162,
             "delivery_mode": "In Person"
         },
         {
@@ -33830,7 +33849,7 @@
                 "Matthew Badali"
             ],
             "capacity": 196,
-            "current_enrolment": 161,
+            "current_enrolment": 162,
             "delivery_mode": "In Person"
         },
         {
@@ -34039,7 +34058,7 @@
                 "Girish Lingadahalli Muralidhara"
             ],
             "capacity": 92,
-            "current_enrolment": 81,
+            "current_enrolment": 78,
             "delivery_mode": "In Person"
         },
         {
@@ -34058,7 +34077,7 @@
                 "Girish Lingadahalli Muralidhara"
             ],
             "capacity": 92,
-            "current_enrolment": 81,
+            "current_enrolment": 78,
             "delivery_mode": "In Person"
         },
         {
@@ -34077,7 +34096,7 @@
                 "TBA"
             ],
             "capacity": 92,
-            "current_enrolment": 79,
+            "current_enrolment": 76,
             "delivery_mode": "In Person"
         },
         {
@@ -34096,7 +34115,7 @@
                 "TBA"
             ],
             "capacity": 92,
-            "current_enrolment": 79,
+            "current_enrolment": 76,
             "delivery_mode": "In Person"
         },
         {
@@ -34115,7 +34134,7 @@
                 "Amar C. Vutha"
             ],
             "capacity": 92,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -34134,7 +34153,7 @@
                 "Amar C. Vutha"
             ],
             "capacity": 92,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -34153,7 +34172,7 @@
                 "TBA"
             ],
             "capacity": 92,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -34172,7 +34191,7 @@
                 "TBA"
             ],
             "capacity": 92,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "In Person"
         },
         {
@@ -35067,7 +35086,7 @@
                 "Courtney Jung"
             ],
             "capacity": 300,
-            "current_enrolment": 119,
+            "current_enrolment": 118,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -35105,7 +35124,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -35946,7 +35965,7 @@
                 "Chen Zhong"
             ],
             "capacity": 200,
-            "current_enrolment": 199,
+            "current_enrolment": 200,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -35966,7 +35985,7 @@
                 "Chen Zhong"
             ],
             "capacity": 200,
-            "current_enrolment": 199,
+            "current_enrolment": 200,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -36023,7 +36042,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 24,
+            "current_enrolment": 25,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -36061,7 +36080,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -36080,7 +36099,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -36099,7 +36118,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 18,
+            "current_enrolment": 19,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -36403,7 +36422,7 @@
                 "Renan Levine"
             ],
             "capacity": 49,
-            "current_enrolment": 32,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -36422,7 +36441,7 @@
                 "Renan Levine"
             ],
             "capacity": 49,
-            "current_enrolment": 32,
+            "current_enrolment": 33,
             "delivery_mode": "In Person"
         },
         {
@@ -36479,7 +36498,7 @@
                 "TBA"
             ],
             "capacity": 17,
-            "current_enrolment": 13,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -36975,7 +36994,7 @@
                 "Iddan Sonsino"
             ],
             "capacity": 50,
-            "current_enrolment": 40,
+            "current_enrolment": 42,
             "delivery_mode": "In Person"
         },
         {
@@ -36994,7 +37013,7 @@
                 "Iddan Sonsino"
             ],
             "capacity": 50,
-            "current_enrolment": 40,
+            "current_enrolment": 42,
             "delivery_mode": "In Person"
         },
         {
@@ -37759,7 +37778,7 @@
                 "Sandra Pereira"
             ],
             "capacity": 300,
-            "current_enrolment": 298,
+            "current_enrolment": 296,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -37778,7 +37797,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 48,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -37835,7 +37854,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 38,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -37854,7 +37873,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 45,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -37873,7 +37892,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 25,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -38315,7 +38334,7 @@
                 "Molly Metz"
             ],
             "capacity": 200,
-            "current_enrolment": 134,
+            "current_enrolment": 133,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -38334,7 +38353,7 @@
                 "Molly Metz"
             ],
             "capacity": 200,
-            "current_enrolment": 134,
+            "current_enrolment": 133,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -38429,7 +38448,7 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 17,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -38448,7 +38467,7 @@
                 "TBA"
             ],
             "capacity": 20,
-            "current_enrolment": 17,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -38543,7 +38562,7 @@
                 "Carolyn Guay"
             ],
             "capacity": 40,
-            "current_enrolment": 37,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -38562,7 +38581,7 @@
                 "Carolyn Guay"
             ],
             "capacity": 40,
-            "current_enrolment": 37,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -38676,7 +38695,7 @@
                 "Carolyn Guay"
             ],
             "capacity": 85,
-            "current_enrolment": 85,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -38695,7 +38714,7 @@
                 "Carolyn Guay"
             ],
             "capacity": 85,
-            "current_enrolment": 85,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -38714,7 +38733,7 @@
                 "Christine Millicent Burton"
             ],
             "capacity": 65,
-            "current_enrolment": 64,
+            "current_enrolment": 62,
             "delivery_mode": "In Person"
         },
         {
@@ -38733,7 +38752,7 @@
                 "Christine Millicent Burton"
             ],
             "capacity": 65,
-            "current_enrolment": 64,
+            "current_enrolment": 62,
             "delivery_mode": "In Person"
         },
         {
@@ -39246,7 +39265,7 @@
                 "Taryn Elizabeth Grieder"
             ],
             "capacity": 75,
-            "current_enrolment": 75,
+            "current_enrolment": 69,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -39265,7 +39284,7 @@
                 "Taryn Elizabeth Grieder"
             ],
             "capacity": 75,
-            "current_enrolment": 75,
+            "current_enrolment": 69,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -40142,7 +40161,7 @@
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 12,
+            "current_enrolment": 13,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -41113,7 +41132,7 @@
                 "Karine Benzacar"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -41132,7 +41151,7 @@
                 "Karine Benzacar"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 44,
             "delivery_mode": "In Person"
         },
         {
@@ -41645,7 +41664,7 @@
                 "Soli Dubash"
             ],
             "capacity": 210,
-            "current_enrolment": 174,
+            "current_enrolment": 172,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -41664,7 +41683,7 @@
                 "Soli Dubash"
             ],
             "capacity": 210,
-            "current_enrolment": 174,
+            "current_enrolment": 172,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -41835,7 +41854,7 @@
                 "Storm Kalyse Jeffers"
             ],
             "capacity": 120,
-            "current_enrolment": 118,
+            "current_enrolment": 120,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -41854,7 +41873,7 @@
                 "Storm Kalyse Jeffers"
             ],
             "capacity": 120,
-            "current_enrolment": 118,
+            "current_enrolment": 120,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -41911,7 +41930,7 @@
                 "Elliot Fonarev"
             ],
             "capacity": 75,
-            "current_enrolment": 53,
+            "current_enrolment": 54,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -41930,7 +41949,7 @@
                 "Elliot Fonarev"
             ],
             "capacity": 75,
-            "current_enrolment": 53,
+            "current_enrolment": 54,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -42063,7 +42082,7 @@
                 "Andy Holmes"
             ],
             "capacity": 80,
-            "current_enrolment": 72,
+            "current_enrolment": 71,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -42082,7 +42101,7 @@
                 "Andy Holmes"
             ],
             "capacity": 80,
-            "current_enrolment": 72,
+            "current_enrolment": 71,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -42177,7 +42196,7 @@
                 "Soli Dubash"
             ],
             "capacity": 100,
-            "current_enrolment": 92,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -42196,7 +42215,7 @@
                 "Soli Dubash"
             ],
             "capacity": 100,
-            "current_enrolment": 92,
+            "current_enrolment": 88,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -42787,7 +42806,7 @@
                 "Ruixuan Zhao"
             ],
             "capacity": 250,
-            "current_enrolment": 226,
+            "current_enrolment": 225,
             "delivery_mode": "In Person"
         },
         {
@@ -42806,7 +42825,7 @@
                 "Ruixuan Zhao"
             ],
             "capacity": 250,
-            "current_enrolment": 226,
+            "current_enrolment": 225,
             "delivery_mode": "In Person"
         },
         {
@@ -42863,7 +42882,7 @@
                 "TBA"
             ],
             "capacity": 62,
-            "current_enrolment": 54,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -42882,7 +42901,7 @@
                 "TBA"
             ],
             "capacity": 62,
-            "current_enrolment": 54,
+            "current_enrolment": 53,
             "delivery_mode": "In Person"
         },
         {
@@ -42977,7 +42996,7 @@
                 "Fred Song"
             ],
             "capacity": 200,
-            "current_enrolment": 174,
+            "current_enrolment": 167,
             "delivery_mode": "In Person"
         },
         {
@@ -42996,7 +43015,7 @@
                 "Fred Song"
             ],
             "capacity": 200,
-            "current_enrolment": 174,
+            "current_enrolment": 167,
             "delivery_mode": "In Person"
         },
         {
@@ -43015,44 +43034,6 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 50,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "STA238H1 S: Probability, Statistics and Data Analysis II",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Department of Statistical Sciences",
-            "faculty": "Faculty of Arts and Science",
-            "location": "BA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 50,
-            "current_enrolment": 50,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "STA238H1 S: Probability, Statistics and Data Analysis II",
-            "section_title": "Tutorials",
-            "day": "Monday",
-            "start_time": "12:00",
-            "end_time": "13:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Department of Statistical Sciences",
-            "faculty": "Faculty of Arts and Science",
-            "location": "HS",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 50,
             "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
@@ -43067,7 +43048,7 @@
             "source_session": "Summer Second Sub-Session 2026 (S)",
             "department": "Department of Statistical Sciences",
             "faculty": "Faculty of Arts and Science",
-            "location": "HS",
+            "location": "BA",
             "instructors": [
                 "TBA"
             ],
@@ -43086,12 +43067,50 @@
             "source_session": "Summer Second Sub-Session 2026 (S)",
             "department": "Department of Statistical Sciences",
             "faculty": "Faculty of Arts and Science",
+            "location": "HS",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 50,
+            "current_enrolment": 47,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "STA238H1 S: Probability, Statistics and Data Analysis II",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Department of Statistical Sciences",
+            "faculty": "Faculty of Arts and Science",
+            "location": "HS",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 50,
+            "current_enrolment": 47,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "STA238H1 S: Probability, Statistics and Data Analysis II",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Department of Statistical Sciences",
+            "faculty": "Faculty of Arts and Science",
             "location": "BA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 42,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -43110,7 +43129,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 42,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -43129,7 +43148,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 28,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -43148,7 +43167,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 28,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -43319,7 +43338,7 @@
                 "Omidali Aghababaei Jazi"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 58,
             "delivery_mode": "In Person"
         },
         {
@@ -43338,7 +43357,7 @@
                 "Omidali Aghababaei Jazi"
             ],
             "capacity": 100,
-            "current_enrolment": 59,
+            "current_enrolment": 58,
             "delivery_mode": "In Person"
         },
         {
@@ -43642,7 +43661,7 @@
                 "Sabrina Sixta"
             ],
             "capacity": 100,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -43661,7 +43680,7 @@
                 "Sabrina Sixta"
             ],
             "capacity": 100,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "In Person"
         },
         {
@@ -43756,7 +43775,7 @@
                 "Arian Hashemzadeh Amirkhizi"
             ],
             "capacity": 150,
-            "current_enrolment": 87,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -43775,7 +43794,7 @@
                 "Arian Hashemzadeh Amirkhizi"
             ],
             "capacity": 150,
-            "current_enrolment": 87,
+            "current_enrolment": 88,
             "delivery_mode": "In Person"
         },
         {
@@ -43794,7 +43813,7 @@
                 "TBA"
             ],
             "capacity": 150,
-            "current_enrolment": 84,
+            "current_enrolment": 85,
             "delivery_mode": "In Person"
         },
         {
@@ -44203,7 +44222,7 @@
                 "David Hughes"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 30,
             "delivery_mode": "In Person"
         },
         {
@@ -44222,7 +44241,7 @@
                 "David Hughes"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 30,
             "delivery_mode": "In Person"
         },
         {
@@ -44241,7 +44260,7 @@
                 "David Hughes"
             ],
             "capacity": 35,
-            "current_enrolment": 29,
+            "current_enrolment": 30,
             "delivery_mode": "In Person"
         },
         {
