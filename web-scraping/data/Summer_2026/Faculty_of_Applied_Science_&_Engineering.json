@@ -12,20 +12,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "MP",
+                            "SF",
+                            "MY",
+                            "MC",
                             "WI",
                             "GB",
-                            "PB",
-                            "MP",
-                            "MC",
-                            "SF",
-                            "MY"
+                            "PB"
                         ],
                         "instructors": [
                             "TBA",
+                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi",
                             "Tamara Kecman",
                             "Chandra Veer Singh",
-                            "Jason Bazylak",
                             "Fatemeh Jazinizadeh"
                         ]
                     },
@@ -35,12 +35,12 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
                             "Evan Bentz",
                             "TBA",
-                            "Kate Patterson",
+                            "Alex Kaju",
+                            "Steven Chuang Chuang",
                             "Justin Beland",
-                            "Alex Kaju"
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -78,8 +78,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Diego Alejandro Cadena Morales",
                             "TBA",
+                            "Diego Alejandro Cadena Morales",
                             "Scott Ramsay",
                             "Ferdinand Oghenereke Avikpe"
                         ]
@@ -90,10 +90,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
                             "Evan Bentz",
-                            "Shannon Liu",
-                            "Justin Beland"
+                            "Justin Beland",
+                            "TBA",
+                            "Shannon Liu"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 26, 2026 at 2:02 AM"
+        "last_updated": "June 27, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -420,7 +420,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 34,
+            "current_enrolment": 42,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -743,7 +743,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 65,
+            "current_enrolment": 63,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -762,7 +762,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 65,
+            "current_enrolment": 63,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -800,7 +800,7 @@
                 "TBA"
             ],
             "capacity": 70,
-            "current_enrolment": 59,
+            "current_enrolment": 57,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1486,7 +1486,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 88,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -1505,7 +1505,7 @@
                 "Fatemeh Jazinizadeh"
             ],
             "capacity": 130,
-            "current_enrolment": 88,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -1524,7 +1524,7 @@
                 "TBA"
             ],
             "capacity": 130,
-            "current_enrolment": 88,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -1543,7 +1543,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 454,
+            "current_enrolment": 457,
             "delivery_mode": "In Person"
         },
         {
@@ -1562,7 +1562,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 454,
+            "current_enrolment": 457,
             "delivery_mode": "In Person"
         },
         {
@@ -1581,7 +1581,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1639,
+            "current_enrolment": 1651,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1600,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1639,
+            "current_enrolment": 1651,
             "delivery_mode": "In Person"
         },
         {
