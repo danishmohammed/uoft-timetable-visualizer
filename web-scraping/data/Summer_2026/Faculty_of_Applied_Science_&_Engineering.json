@@ -12,19 +12,19 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MY",
                             "PB",
-                            "MC",
-                            "WI",
                             "SF",
+                            "MC",
+                            "MY",
+                            "MP",
                             "GB",
-                            "MP"
+                            "WI"
                         ],
                         "instructors": [
-                            "Tamara Kecman",
-                            "Fatemeh Jazinizadeh",
-                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi",
+                            "Fatemeh Jazinizadeh",
+                            "Tamara Kecman",
+                            "Jason Bazylak",
                             "TBA",
                             "Chandra Veer Singh"
                         ]
@@ -35,11 +35,11 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Justin Beland",
-                            "Alex Kaju",
                             "Kate Patterson",
-                            "Steven Chuang Chuang",
+                            "Alex Kaju",
+                            "Justin Beland",
                             "Evan Bentz",
+                            "Steven Chuang Chuang",
                             "TBA"
                         ]
                     },
@@ -79,8 +79,8 @@
                         ],
                         "instructors": [
                             "Scott Ramsay",
-                            "Diego Alejandro Cadena Morales",
                             "Ferdinand Oghenereke Avikpe",
+                            "Diego Alejandro Cadena Morales",
                             "TBA"
                         ]
                     },
@@ -90,8 +90,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Justin Beland",
                             "Shannon Liu",
+                            "Justin Beland",
                             "Evan Bentz",
                             "TBA"
                         ]
@@ -102,8 +102,8 @@
                             "MY"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "TBA"
+                            "TBA",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 28, 2026 at 2:02 AM"
+        "last_updated": "June 29, 2026 at 2:02 AM"
     },
     "timings": [
         {
