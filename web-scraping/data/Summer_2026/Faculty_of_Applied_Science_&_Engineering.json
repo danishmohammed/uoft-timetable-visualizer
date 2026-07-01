@@ -12,21 +12,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "WI",
-                            "MY",
-                            "GB",
                             "MP",
                             "MC",
-                            "SF",
-                            "PB"
+                            "PB",
+                            "WI",
+                            "GB",
+                            "MY",
+                            "SF"
                         ],
                         "instructors": [
+                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi",
                             "Chandra Veer Singh",
                             "Tamara Kecman",
-                            "Fatemeh Jazinizadeh",
                             "TBA",
-                            "Jason Bazylak",
-                            "Hamid Shokrollah-Timorabadi"
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -35,12 +35,12 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Steven Chuang Chuang",
-                            "Alex Kaju",
                             "Justin Beland",
+                            "Kate Patterson",
+                            "Evan Bentz",
+                            "Steven Chuang Chuang",
                             "TBA",
-                            "Evan Bentz"
+                            "Alex Kaju"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -78,10 +78,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
                             "TBA",
+                            "Diego Alejandro Cadena Morales",
                             "Ferdinand Oghenereke Avikpe",
-                            "Diego Alejandro Cadena Morales"
+                            "Scott Ramsay"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -90,16 +90,16 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
+                            "Evan Bentz",
                             "TBA",
                             "Shannon Liu",
-                            "Evan Bentz"
+                            "Justin Beland"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "MY",
-                            "Online"
+                            "Online",
+                            "MY"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "June 30, 2026 at 2:15 AM"
+        "last_updated": "July 01, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -1125,7 +1125,7 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 90,
+            "current_enrolment": 89,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1144,7 +1144,7 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 90,
+            "current_enrolment": 89,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1201,7 +1201,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 28,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
