@@ -12,21 +12,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
                             "WI",
-                            "MP",
                             "PB",
+                            "SF",
+                            "MP",
                             "GB",
-                            "MC",
-                            "MY"
+                            "MY",
+                            "MC"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
                             "Tamara Kecman",
-                            "TBA",
-                            "Fatemeh Jazinizadeh",
                             "Chandra Veer Singh",
-                            "Hamid Shokrollah-Timorabadi"
+                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi",
+                            "TBA",
+                            "Fatemeh Jazinizadeh"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -35,12 +35,12 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "Alex Kaju",
-                            "TBA",
                             "Justin Beland",
+                            "Steven Chuang Chuang",
                             "Evan Bentz",
-                            "Kate Patterson"
+                            "Kate Patterson",
+                            "Alex Kaju",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -49,8 +49,8 @@
                         ],
                         "instructors": [
                             "Lisa Romkey",
-                            "Alan Chong",
-                            "TBA"
+                            "TBA",
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,9 +78,9 @@
                             "Online"
                         ],
                         "instructors": [
+                            "Scott Ramsay",
                             "Ferdinand Oghenereke Avikpe",
                             "TBA",
-                            "Scott Ramsay",
                             "Diego Alejandro Cadena Morales"
                         ]
                     },
@@ -90,20 +90,20 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Justin Beland",
                             "Evan Bentz",
-                            "Shannon Liu",
                             "TBA",
-                            "Justin Beland"
+                            "Shannon Liu"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "Online",
-                            "MY"
+                            "MY",
+                            "Online"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "TBA"
+                            "TBA",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -112,8 +112,8 @@
                         ],
                         "instructors": [
                             "Lisa Romkey",
-                            "Alan Chong",
-                            "TBA"
+                            "TBA",
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "July 04, 2026 at 2:02 AM"
+        "last_updated": "July 05, 2026 at 2:02 AM"
     },
     "timings": [
         {
