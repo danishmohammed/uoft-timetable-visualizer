@@ -12,35 +12,35 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MP",
                             "MY",
-                            "PB",
+                            "WI",
+                            "MC",
+                            "MP",
                             "SF",
                             "GB",
-                            "MC",
-                            "WI"
+                            "PB"
                         ],
                         "instructors": [
                             "Hamid Shokrollah-Timorabadi",
                             "Chandra Veer Singh",
-                            "Tamara Kecman",
-                            "TBA",
                             "Fatemeh Jazinizadeh",
+                            "TBA",
+                            "Tamara Kecman",
                             "Jason Bazylak"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
                             "Alex Kaju",
-                            "Evan Bentz",
-                            "Steven Chuang Chuang",
                             "Kate Patterson",
+                            "TBA",
                             "Justin Beland",
-                            "TBA"
+                            "Steven Chuang Chuang",
+                            "Evan Bentz"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "TBA",
                             "Lisa Romkey",
-                            "Alan Chong",
-                            "TBA"
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,22 +78,22 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Scott Ramsay",
+                            "TBA",
                             "Ferdinand Oghenereke Avikpe",
-                            "Diego Alejandro Cadena Morales",
-                            "TBA"
+                            "Scott Ramsay",
+                            "Diego Alejandro Cadena Morales"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "Online",
-                            "TBA"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "Justin Beland",
-                            "Evan Bentz",
                             "Shannon Liu",
-                            "TBA"
+                            "TBA",
+                            "Evan Bentz",
+                            "Justin Beland"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
@@ -102,8 +102,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "TBA"
+                            "TBA",
+                            "Steven Chuang Chuang"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -111,9 +111,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "TBA",
                             "Lisa Romkey",
-                            "Alan Chong",
-                            "TBA"
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "July 08, 2026 at 2:02 AM"
+        "last_updated": "July 09, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -401,7 +401,7 @@
                 "Ferdinand Oghenereke Avikpe"
             ],
             "capacity": 150,
-            "current_enrolment": 148,
+            "current_enrolment": 150,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -420,7 +420,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 75,
+            "current_enrolment": 80,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -515,7 +515,7 @@
                 "Justin Beland"
             ],
             "capacity": 80,
-            "current_enrolment": 68,
+            "current_enrolment": 67,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -534,7 +534,7 @@
                 "Justin Beland"
             ],
             "capacity": 80,
-            "current_enrolment": 68,
+            "current_enrolment": 67,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -591,7 +591,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -610,7 +610,7 @@
                 "TBA"
             ],
             "capacity": 80,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -743,7 +743,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -762,7 +762,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 60,
+            "current_enrolment": 59,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -781,7 +781,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 5,
+            "current_enrolment": 7,
             "delivery_mode": "In Person"
         },
         {
@@ -800,7 +800,7 @@
                 "TBA"
             ],
             "capacity": 70,
-            "current_enrolment": 55,
+            "current_enrolment": 52,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1125,7 +1125,7 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1144,7 +1144,26 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 81,
+            "current_enrolment": 82,
+            "delivery_mode": "Online Synchronous"
+        },
+        {
+            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "08:00",
+            "end_time": "10:00",
+            "campus": "St. George",
+            "session": "Summer Second Sub-Session 2026 (S)",
+            "source_session": "Summer Second Sub-Session 2026 (S)",
+            "department": "Cross-Disciplinary Programs Office",
+            "faculty": "Faculty of Applied Science & Engineering",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 30,
+            "current_enrolment": 27,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1183,25 +1202,6 @@
             ],
             "capacity": 30,
             "current_enrolment": 27,
-            "delivery_mode": "Online Synchronous"
-        },
-        {
-            "course_name": "JRE410H1 S: Markets and Competitive Strategy",
-            "section_title": "Practicals",
-            "day": "Wednesday",
-            "start_time": "08:00",
-            "end_time": "10:00",
-            "campus": "St. George",
-            "session": "Summer Second Sub-Session 2026 (S)",
-            "source_session": "Summer Second Sub-Session 2026 (S)",
-            "department": "Cross-Disciplinary Programs Office",
-            "faculty": "Faculty of Applied Science & Engineering",
-            "location": "Online",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 30,
-            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1543,7 +1543,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 451,
+            "current_enrolment": 452,
             "delivery_mode": "In Person"
         },
         {
@@ -1562,7 +1562,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 451,
+            "current_enrolment": 452,
             "delivery_mode": "In Person"
         },
         {
@@ -1581,7 +1581,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1648,
+            "current_enrolment": 1646,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1600,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1648,
+            "current_enrolment": 1646,
             "delivery_mode": "In Person"
         },
         {
