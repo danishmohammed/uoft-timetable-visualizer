@@ -12,21 +12,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MP",
                             "GB",
-                            "WI",
+                            "MC",
                             "PB",
-                            "SF",
                             "MY",
-                            "MC"
+                            "SF",
+                            "WI",
+                            "MP"
                         ],
                         "instructors": [
-                            "Tamara Kecman",
-                            "Jason Bazylak",
                             "Fatemeh Jazinizadeh",
-                            "Hamid Shokrollah-Timorabadi",
+                            "Jason Bazylak",
+                            "TBA",
+                            "Tamara Kecman",
                             "Chandra Veer Singh",
-                            "TBA"
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -35,12 +35,12 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Evan Bentz",
-                            "Alex Kaju",
                             "Kate Patterson",
+                            "Justin Beland",
                             "Steven Chuang Chuang",
                             "TBA",
-                            "Justin Beland"
+                            "Evan Bentz",
+                            "Alex Kaju"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -49,8 +49,8 @@
                         ],
                         "instructors": [
                             "Alan Chong",
-                            "TBA",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,10 +78,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Ferdinand Oghenereke Avikpe",
-                            "TBA",
+                            "Diego Alejandro Cadena Morales",
                             "Scott Ramsay",
-                            "Diego Alejandro Cadena Morales"
+                            "TBA",
+                            "Ferdinand Oghenereke Avikpe"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -90,10 +90,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Shannon Liu",
                             "Evan Bentz",
+                            "Justin Beland",
                             "TBA",
-                            "Justin Beland"
+                            "Shannon Liu"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
@@ -102,8 +102,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Steven Chuang Chuang"
+                            "Steven Chuang Chuang",
+                            "TBA"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -112,8 +112,8 @@
                         ],
                         "instructors": [
                             "Alan Chong",
-                            "TBA",
-                            "Lisa Romkey"
+                            "Lisa Romkey",
+                            "TBA"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "July 13, 2026 at 2:02 AM"
+        "last_updated": "July 14, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -743,7 +743,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 56,
+            "current_enrolment": 54,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -762,7 +762,7 @@
                 "Steven Chuang Chuang"
             ],
             "capacity": 100,
-            "current_enrolment": 56,
+            "current_enrolment": 54,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -800,7 +800,7 @@
                 "TBA"
             ],
             "capacity": 70,
-            "current_enrolment": 48,
+            "current_enrolment": 46,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1125,7 +1125,7 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 81,
+            "current_enrolment": 80,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1144,7 +1144,7 @@
                 "Shannon Liu"
             ],
             "capacity": 90,
-            "current_enrolment": 81,
+            "current_enrolment": 80,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1182,7 +1182,7 @@
                 "TBA"
             ],
             "capacity": 30,
-            "current_enrolment": 27,
+            "current_enrolment": 26,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -1543,7 +1543,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 426,
+            "current_enrolment": 412,
             "delivery_mode": "In Person"
         },
         {
@@ -1562,7 +1562,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 426,
+            "current_enrolment": 412,
             "delivery_mode": "In Person"
         },
         {
@@ -1581,7 +1581,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1645,
+            "current_enrolment": 1644,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1600,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1645,
+            "current_enrolment": 1644,
             "delivery_mode": "In Person"
         },
         {
@@ -1657,7 +1657,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 40,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -1676,7 +1676,7 @@
                 "Robin Sacks"
             ],
             "capacity": 120,
-            "current_enrolment": 40,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         }
     ]
