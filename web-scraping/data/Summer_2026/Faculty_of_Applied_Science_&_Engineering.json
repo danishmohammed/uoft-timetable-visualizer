@@ -12,35 +12,35 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "PB",
                             "GB",
                             "MC",
-                            "PB",
-                            "MY",
                             "SF",
                             "WI",
+                            "MY",
                             "MP"
                         ],
                         "instructors": [
-                            "Fatemeh Jazinizadeh",
-                            "Jason Bazylak",
-                            "TBA",
-                            "Tamara Kecman",
                             "Chandra Veer Singh",
+                            "TBA",
+                            "Fatemeh Jazinizadeh",
+                            "Tamara Kecman",
+                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Kate Patterson",
-                            "Justin Beland",
-                            "Steven Chuang Chuang",
                             "TBA",
+                            "Steven Chuang Chuang",
+                            "Justin Beland",
                             "Evan Bentz",
-                            "Alex Kaju"
+                            "Alex Kaju",
+                            "Kate Patterson"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -49,8 +49,8 @@
                         ],
                         "instructors": [
                             "Alan Chong",
-                            "Lisa Romkey",
-                            "TBA"
+                            "TBA",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,28 +78,28 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Diego Alejandro Cadena Morales",
                             "Scott Ramsay",
-                            "TBA",
-                            "Ferdinand Oghenereke Avikpe"
+                            "Ferdinand Oghenereke Avikpe",
+                            "Diego Alejandro Cadena Morales",
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Evan Bentz",
                             "Justin Beland",
-                            "TBA",
-                            "Shannon Liu"
+                            "Shannon Liu",
+                            "Evan Bentz",
+                            "TBA"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "MY",
-                            "Online"
+                            "Online",
+                            "MY"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -112,8 +112,8 @@
                         ],
                         "instructors": [
                             "Alan Chong",
-                            "Lisa Romkey",
-                            "TBA"
+                            "TBA",
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "July 14, 2026 at 2:02 AM"
+        "last_updated": "July 15, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -401,7 +401,7 @@
                 "Ferdinand Oghenereke Avikpe"
             ],
             "capacity": 150,
-            "current_enrolment": 150,
+            "current_enrolment": 148,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -420,7 +420,7 @@
                 "Scott Ramsay"
             ],
             "capacity": 150,
-            "current_enrolment": 81,
+            "current_enrolment": 78,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -1543,7 +1543,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 412,
+            "current_enrolment": 397,
             "delivery_mode": "In Person"
         },
         {
@@ -1562,7 +1562,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 412,
+            "current_enrolment": 397,
             "delivery_mode": "In Person"
         },
         {
@@ -1581,7 +1581,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1644,
+            "current_enrolment": 1646,
             "delivery_mode": "In Person"
         },
         {
@@ -1600,7 +1600,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 1644,
+            "current_enrolment": 1646,
             "delivery_mode": "In Person"
         },
         {
