@@ -12,34 +12,34 @@
                 "departments": {
                     "Department of Statistical Sciences": {
                         "buildings": [
-                            "PB",
                             "UC",
-                            "Online",
-                            "TBA",
+                            "SS",
                             "GB",
                             "ES",
-                            "SS",
+                            "TBA",
+                            "Online",
                             "MP",
-                            "BA"
+                            "BA",
+                            "PB"
                         ],
                         "instructors": [
-                            "Sebastian Jaimungal",
-                            "Ricardo Baptista",
-                            "Omidali Aghababaei Jazi",
-                            "Mai Ghannam",
-                            "TBA",
-                            "Hassan Abdelrahman",
-                            "Ismaila Ba",
-                            "Ruixuan Zhao",
-                            "Andrei Badescu",
-                            "Vicki Zhang",
-                            "Emily Somerset",
-                            "Vedant Choudhary",
-                            "Xiaodong Lin",
-                            "Pascal Tyrrell",
-                            "Thibault Christophe Randrianarisoa",
                             "Rohan Peter Alexander",
-                            "Bethany White"
+                            "Ricardo Baptista",
+                            "Mai Ghannam",
+                            "Omidali Aghababaei Jazi",
+                            "Vedant Choudhary",
+                            "Bethany White",
+                            "Sebastian Jaimungal",
+                            "Thibault Christophe Randrianarisoa",
+                            "Pascal Tyrrell",
+                            "Andrei Badescu",
+                            "Ismaila Ba",
+                            "Emily Somerset",
+                            "TBA",
+                            "Ruixuan Zhao",
+                            "Xiaodong Lin",
+                            "Hassan Abdelrahman",
+                            "Vicki Zhang"
                         ]
                     },
                     "African Studies Centre": {
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Marieme Lo",
                             "Moses Karanja",
-                            "Safia Aidid"
+                            "Safia Aidid",
+                            "Marieme Lo"
                         ]
                     },
                     "Department of Anatomy and Cell Biology": {
@@ -65,75 +65,75 @@
                     },
                     "Department of Anthropology": {
                         "buildings": [
-                            "Online",
-                            "TBA",
                             "AP",
+                            "TBA",
+                            "Online",
                             "MP",
                             "BA"
                         ],
                         "instructors": [
-                            "Ness Maloney",
-                            "Shiho Satsuka",
-                            "Michael Obie",
-                            "Michael Chazan",
-                            "TBA",
+                            "Daniel Sellen",
                             "Joseph Burgess Wilson",
-                            "T. Bence Viola",
+                            "Shiho Satsuka",
                             "Omer Ozcan",
                             "Jessica A. Thomas",
+                            "Ness Maloney",
+                            "Michael Chazan",
+                            "Michael Obie",
+                            "TBA",
                             "Shawn Lehman",
-                            "Daniel Sellen",
+                            "T. Bence Viola",
                             "Edward Swenson"
                         ]
                     },
                     "Department of Mathematics": {
                         "buildings": [
+                            "OI",
                             "UC",
-                            "Online",
-                            "FE",
-                            "TBA",
-                            "GB",
                             "ES",
-                            "MP",
+                            "GB",
+                            "FE",
                             "WI",
-                            "BA",
-                            "OI"
+                            "TBA",
+                            "Online",
+                            "MP",
+                            "BA"
                         ],
                         "instructors": [
-                            "Cameron Martin",
-                            "Kai Julius Shaikh",
-                            "Tonatiuh Matos Wiederhold",
-                            "Craig Belair",
+                            "Giacomo Bertizzolo",
+                            "Andrew Zheng",
                             "Alejandro Adames",
+                            "Federico Manganello",
+                            "Brinda Venkataramani",
+                            "Luciano Salvetti Martinez",
+                            "Osama Farooqui",
+                            "Kevin Watmough",
+                            "Daniele Giannetto",
+                            "Shuyang Shen",
+                            "Amaranta Martinez De La Rosa",
+                            "Gavin Hurd",
+                            "David Sun",
+                            "Aaron Tronsgard",
+                            "Craig Belair",
+                            "Kai Julius Shaikh",
+                            "Rhupert Ashmore-Sharpe",
+                            "Cameron Martin",
                             "Stanislav Balchev",
                             "Jiawei Chen",
-                            "Armanpreet Pannu",
-                            "Brinda Venkataramani",
-                            "Giacomo Bertizzolo",
-                            "Shuyang Shen",
-                            "Alisa Chistopolskaia",
-                            "Yitong Wang",
-                            "Federico Manganello",
-                            "Daniele Giannetto",
-                            "Alexander Mirabella",
-                            "Kevin Watmough",
-                            "Friedemann Krannich",
-                            "Xinwen Ding",
-                            "Luciano Salvetti Martinez",
-                            "Andrew Zheng",
-                            "Lora Hreish",
-                            "Mikale Reddy",
-                            "Sabrina Lin",
-                            "Mohammadmahdi Rafiei",
-                            "Rhupert Ashmore-Sharpe",
-                            "Amaranta Martinez De La Rosa",
-                            "Aaron Tronsgard",
-                            "Gavin Hurd",
-                            "TBA",
-                            "David Sun",
+                            "Tonatiuh Matos Wiederhold",
                             "Petros Ploumidis",
-                            "Osama Farooqui",
-                            "Noha Elgarem"
+                            "Sabrina Lin",
+                            "Alexander Mirabella",
+                            "TBA",
+                            "Mikale Reddy",
+                            "Lora Hreish",
+                            "Noha Elgarem",
+                            "Mohammadmahdi Rafiei",
+                            "Armanpreet Pannu",
+                            "Friedemann Krannich",
+                            "Yitong Wang",
+                            "Xinwen Ding",
+                            "Alisa Chistopolskaia"
                         ]
                     },
                     "Department of Astronomy and Astrophysics": {
@@ -142,39 +142,39 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Ian Shelton",
                             "Ronan Kerr",
-                            "TBA"
+                            "TBA",
+                            "Ian Shelton"
                         ]
                     },
                     "Department of Cell and Systems Biology": {
                         "buildings": [
-                            "RW",
-                            "MC",
                             "Online",
+                            "MC",
+                            "RW",
                             "TBA"
                         ],
                         "instructors": [
-                            "Kenneth Yip",
-                            "Naijin Li",
                             "Shelley Lumba",
-                            "TBA",
+                            "Naijin Li",
                             "Jimmy Fraigne",
+                            "Kenneth Yip",
                             "Qian Lin",
-                            "Eiji Nambara"
+                            "Eiji Nambara",
+                            "TBA"
                         ]
                     },
                     "Department of Biochemistry": {
                         "buildings": [
-                            "PB",
                             "MP",
-                            "TBA"
+                            "TBA",
+                            "PB"
                         ],
                         "instructors": [
                             "Warren Lee",
+                            "Sian Patterson",
                             "Nana Hyung-Ran Lee",
-                            "TBA",
-                            "Sian Patterson"
+                            "TBA"
                         ]
                     },
                     "Department of Ecology and Evolutionary Biology": {
@@ -184,44 +184,44 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Njal Rollinson",
                             "Megan Frederickson",
                             "Megan Bontrager",
                             "Micah Freedman",
-                            "Laurel Duquette",
-                            "John Stinchcombe",
-                            "TBA",
+                            "Benjamin Gilbert",
                             "Asher Cutter",
                             "Alison Hill",
-                            "Benjamin Gilbert"
+                            "Njal Rollinson",
+                            "John Stinchcombe",
+                            "TBA",
+                            "Laurel Duquette"
                         ]
                     },
                     "St. Michael's College": {
                         "buildings": [
+                            "UC",
                             "SS",
                             "BA",
-                            "UC",
                             "TBA"
                         ],
                         "instructors": [
-                            "Xianwei Wu",
                             "Stacy Reardon",
+                            "Xianwei Wu",
                             "TBA"
                         ]
                     },
                     "New College": {
                         "buildings": [
-                            "WI",
-                            "SS",
                             "Online",
-                            "TBA"
+                            "SS",
+                            "TBA",
+                            "WI"
                         ],
                         "instructors": [
-                            "Melanie Viglas",
                             "Stanley Doyle-Wood",
+                            "David Chin",
                             "TBA",
-                            "Shirin O Sadat Haghgou",
-                            "David Chin"
+                            "Melanie Viglas",
+                            "Shirin O Sadat Haghgou"
                         ]
                     },
                     "Centre for Caribbean Studies": {
@@ -234,66 +234,66 @@
                     },
                     "University College": {
                         "buildings": [
-                            "BA",
+                            "Online",
                             "UC",
-                            "TBA",
-                            "Online"
+                            "BA",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Anthony Lombardo",
                             "Tope Adefarakan",
-                            "TBA",
-                            "Rick Salutin",
                             "Daniel Schluter",
-                            "Mark Daniel Miller"
+                            "Anthony Lombardo",
+                            "Rick Salutin",
+                            "Mark Daniel Miller",
+                            "TBA"
                         ]
                     },
                     "Department of Chemistry": {
                         "buildings": [
-                            "Online",
-                            "TBA",
-                            "ES",
-                            "RW",
                             "SS",
+                            "ES",
+                            "TBA",
+                            "Online",
+                            "RW",
                             "BA"
                         ],
                         "instructors": [
-                            "Marvin Morales",
-                            "Chao Zheng",
                             "Varinia Bernales Candia",
-                            "Mark Nitz",
-                            "Olivia Driessen",
+                            "Alan Aspuru-Guzik",
+                            "Chao Zheng",
                             "Haissi Cui",
-                            "John Anthony Calarco",
-                            "TBA",
-                            "Ahlem Bensari",
-                            "Charlie Kivi",
-                            "Al-Amin Dhirani",
-                            "Pedro Armando Mendez Ocampo",
+                            "Soha Ahmadi Nadoushan",
+                            "Olivia Driessen",
                             "Hector Alfonso Garcia Mayerstein",
                             "Barbora Morra",
-                            "Alan Aspuru-Guzik",
+                            "Ahlem Bensari",
+                            "Charlie Kivi",
+                            "John Anthony Calarco",
+                            "Mark Nitz",
+                            "TBA",
+                            "Al-Amin Dhirani",
                             "Mima Staikova",
-                            "Soha Ahmadi Nadoushan"
+                            "Marvin Morales",
+                            "Pedro Armando Mendez Ocampo"
                         ]
                     },
                     "Cinema Studies Institute": {
                         "buildings": [
-                            "TBA",
                             "Online",
-                            "RL"
+                            "RL",
+                            "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Lawrence Neal Garcia",
                             "Ben Kiem",
+                            "Lawrence Neal Garcia",
+                            "TBA",
                             "Jixin Jia"
                         ]
                     },
                     "Jewish Studies": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "Yigal Nizri",
@@ -303,48 +303,48 @@
                     },
                     "Department of Classics": {
                         "buildings": [
+                            "Online",
                             "LI",
-                            "TBA",
-                            "Online"
+                            "TBA"
                         ],
                         "instructors": [
-                            "Joseph Gerbasi",
-                            "Jarrett Welsh",
                             "Georgia Ferentinou",
-                            "TBA",
                             "Donald McCarthy",
+                            "Joseph Gerbasi",
+                            "TBA",
+                            "Jarrett Welsh",
                             "Adriana Brook"
                         ]
                     },
                     "Centre for Criminology and Sociolegal Studies": {
                         "buildings": [
+                            "Online",
                             "BA",
-                            "TBA",
-                            "Online"
+                            "TBA"
                         ],
                         "instructors": [
-                            "Adriel Weaver",
+                            "Huibin Lin",
                             "TBA",
-                            "Huibin Lin"
+                            "Adriel Weaver"
                         ]
                     },
                     "Department of Computer Science": {
                         "buildings": [
                             "MP",
-                            "TBA",
-                            "BA"
+                            "BA",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Pan Chen",
-                            "Jack Jianan Zhou",
                             "Varinia Bernales Candia",
-                            "Vivienne Luk",
-                            "Shiva Akbari",
-                            "Amanjit Singh Kainth",
+                            "Alan Aspuru-Guzik",
                             "Steve Engels",
-                            "TBA",
+                            "Vivienne Luk",
                             "Amirreza Peimani",
-                            "Alan Aspuru-Guzik"
+                            "Jack Jianan Zhou",
+                            "Amanjit Singh Kainth",
+                            "TBA",
+                            "Shiva Akbari",
+                            "Pan Chen"
                         ]
                     },
                     "Canadian Institute for Theoretical Astrophysics": {
@@ -360,73 +360,73 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Funmilola Cole",
-                            "Rosalind W Mills"
+                            "Rosalind W Mills",
+                            "Funmilola Cole"
                         ]
                     },
                     "Centre for Diaspora & Transnational Studies": {
                         "buildings": [
-                            "WW",
-                            "TBA"
+                            "TBA",
+                            "WW"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Edward Sammons"
+                            "Edward Sammons",
+                            "TBA"
                         ]
                     },
                     "Department of East Asian Studies": {
                         "buildings": [
-                            "SS",
-                            "UC",
                             "Online",
+                            "UC",
+                            "SS",
                             "TBA"
                         ],
                         "instructors": [
                             "Victor Falkenheim",
+                            "Richard W L Guisso",
                             "Yue Bin Guo",
-                            "TBA",
                             "Graham Sanders",
                             "Kyoungrok Ko",
+                            "TBA",
                             "Mark Lush",
-                            "Richard W L Guisso",
                             "Teng-io Chung"
                         ]
                     },
                     "Department of Economics": {
                         "buildings": [
-                            "Online",
-                            "HS",
-                            "TBA",
+                            "OI",
                             "SS",
+                            "HS",
+                            "AB",
+                            "TBA",
+                            "Online",
                             "RW",
                             "MP",
-                            "AB",
-                            "BA",
-                            "OI"
+                            "BA"
                         ],
                         "instructors": [
-                            "Eric Cong Lin Chi",
-                            "Masoud Anjomshoa",
-                            "Adonis Yatchew",
-                            "Alison Cane",
-                            "Samantha Grewal",
-                            "Robert Barber",
-                            "Ata Mazaheri",
                             "Louis Etienne Salmon Belisle",
-                            "Terry Yip",
-                            "Tam Le",
-                            "Derek Thiele",
-                            "Matthew Ladd",
-                            "Ajaz Hussain",
-                            "Andrey Stoyanov",
-                            "Daniel McGee",
+                            "Samantha Grewal",
+                            "Ata Mazaheri",
                             "Martin Burda",
-                            "TBA",
-                            "Yanyou Chen",
+                            "Alison Cane",
+                            "Adonis Yatchew",
+                            "Derek Thiele",
                             "Laura Turner",
-                            "Christopher D'Souza",
+                            "Eun Ji Lindsay Lee",
                             "Michael Ho",
-                            "Eun Ji Lindsay Lee"
+                            "Robert Barber",
+                            "Matthew Ladd",
+                            "Daniel McGee",
+                            "Masoud Anjomshoa",
+                            "Tam Le",
+                            "Terry Yip",
+                            "Christopher D'Souza",
+                            "Yanyou Chen",
+                            "TBA",
+                            "Andrey Stoyanov",
+                            "Eric Cong Lin Chi",
+                            "Ajaz Hussain"
                         ]
                     },
                     "Victoria College": {
@@ -440,33 +440,33 @@
                     },
                     "Department of English": {
                         "buildings": [
-                            "Online",
-                            "HS",
-                            "SK",
-                            "TBA",
-                            "SS",
+                            "OI",
                             "BL",
-                            "BA",
-                            "OI"
+                            "SS",
+                            "HS",
+                            "TBA",
+                            "SK",
+                            "Online",
+                            "BA"
                         ],
                         "instructors": [
-                            "Zoey Zhang",
-                            "Michael Johnstone",
+                            "I. Augustus Durham",
                             "Patty Argyrides",
                             "Carroll Balot",
-                            "I. Augustus Durham",
-                            "Cassandra Olsen",
-                            "Joanne Valin",
-                            "Marissa Herzig",
-                            "Austin Long",
-                            "Sarah A Caskey",
-                            "Philippa Sheppard",
-                            "Vikki Visvis",
-                            "Sylvanna Baugh",
-                            "Audrey Walton",
-                            "William C Kroeger",
                             "Arka Chakraborty",
-                            "Joseph Scott McLaughlin"
+                            "Joanne Valin",
+                            "Audrey Walton",
+                            "Michael Johnstone",
+                            "Philippa Sheppard",
+                            "Marissa Herzig",
+                            "William C Kroeger",
+                            "Sylvanna Baugh",
+                            "Cassandra Olsen",
+                            "Vikki Visvis",
+                            "Zoey Zhang",
+                            "Austin Long",
+                            "Joseph Scott McLaughlin",
+                            "Sarah A Caskey"
                         ]
                     },
                     "School of Environment": {
@@ -475,9 +475,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Mark Hathaway",
-                            "Christoph Richter",
                             "Monika Havelka",
+                            "Christoph Richter",
+                            "Mark Hathaway",
                             "TBA"
                         ]
                     },
@@ -486,9 +486,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Matthew Shaw",
                             "Andrei Swidinsky",
+                            "Matthew Shaw",
+                            "TBA",
                             "Daniel Gregory",
                             "Sarah Sydney Ariano",
                             "Michael Hamilton"
@@ -504,34 +504,34 @@
                     },
                     "Department of Art History": {
                         "buildings": [
-                            "SS",
-                            "OI",
                             "Online",
+                            "OI",
+                            "SS",
                             "TBA"
                         ],
                         "instructors": [
-                            "Rupert Nuttle",
-                            "Giancarla Periti",
-                            "TBA",
-                            "SeungJung Kim",
-                            "Bjoern Ewald",
-                            "Christy Anderson",
                             "Christina Katsougiannopoulou",
+                            "Giancarla Periti",
+                            "Bjoern Ewald",
+                            "TBA",
+                            "Christy Anderson",
+                            "SeungJung Kim",
+                            "Rupert Nuttle",
                             "Samantha Chang"
                         ]
                     },
                     "Department of French": {
                         "buildings": [
-                            "WW",
                             "OI",
+                            "WW",
                             "TBA"
                         ],
                         "instructors": [
                             "Catherine Gaughan",
-                            "TBA",
                             "Katarzyna Peric",
+                            "Loula Abd-elrazak",
                             "Rosa Junghwa Hong",
-                            "Loula Abd-elrazak"
+                            "TBA"
                         ]
                     },
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
@@ -544,94 +544,94 @@
                     },
                     "Department of Germanic Languages & Literatures": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Hang-Sun Kim",
                             "Rita Laszlo",
-                            "Lisa Lackner",
+                            "Meaghan Hepburn",
+                            "Hang-Sun Kim",
                             "TBA",
-                            "Meaghan Hepburn"
+                            "Lisa Lackner"
                         ]
                     },
                     "Department of Geography and Planning": {
                         "buildings": [
-                            "SS",
                             "Online",
+                            "SS",
                             "TBA"
                         ],
                         "instructors": [
                             "Eden Celeste Kinkaid",
-                            "Kristian Larsen",
                             "Nokuzola Songo",
-                            "TBA",
-                            "Catherine Jimenea"
+                            "Kristian Larsen",
+                            "Catherine Jimenea",
+                            "TBA"
                         ]
                     },
                     "Department of History": {
                         "buildings": [
+                            "Online",
                             "RW",
                             "SS",
-                            "Online",
                             "TBA"
                         ],
                         "instructors": [
-                            "Joseph Stollenwerk",
-                            "Zariyah Grant",
-                            "Aino Pihlak",
                             "Safia Aidid",
-                            "TBA",
-                            "Chaoran Ma",
-                            "L.K. Bertram",
+                            "Zariyah Grant",
+                            "Jonathan Di Carlo",
                             "Haihan Jiang",
-                            "Jonathan Di Carlo"
+                            "L.K. Bertram",
+                            "Aino Pihlak",
+                            "Chaoran Ma",
+                            "TBA",
+                            "Joseph Stollenwerk"
                         ]
                     },
                     "Human Biology Program": {
                         "buildings": [
-                            "UC",
-                            "Online",
-                            "WE",
-                            "TBA",
-                            "ES",
-                            "SS",
-                            "RW",
-                            "SF",
+                            "OI",
                             "BL",
-                            "WI",
+                            "SS",
+                            "UC",
+                            "ES",
+                            "WE",
                             "AP",
+                            "WI",
+                            "TBA",
+                            "Online",
+                            "RW",
                             "EP",
-                            "OI"
+                            "SF"
                         ],
                         "instructors": [
-                            "Ameesha Paliwal",
-                            "Kerry Bowman",
-                            "Colleen Dockstader",
-                            "Naijin Li",
-                            "TBA",
-                            "Melanie Jeffrey",
-                            "Natasha Nanwa",
                             "Maria Papaconstantinou",
-                            "Bill Ju",
-                            "Haley Zubyk",
+                            "Ron Wilson Jr",
+                            "Natasha Nanwa",
                             "Alistair Dias",
+                            "Colleen Dockstader",
+                            "Kerry Bowman",
+                            "Naijin Li",
+                            "Melanie Jeffrey",
+                            "Bill Ju",
+                            "TBA",
                             "Alexandra Malinowski",
-                            "Ron Wilson Jr"
+                            "Ameesha Paliwal",
+                            "Haley Zubyk"
                         ]
                     },
                     "Inst. for the History & Philosophy of Science & Technology": {
                         "buildings": [
-                            "SS",
+                            "WI",
                             "UC",
-                            "TBA",
-                            "WI"
+                            "SS",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Miron Clay-Gilmore",
                             "Markus Alliksaar",
-                            "Nayani Jensen",
-                            "TBA"
+                            "Miron Clay-Gilmore",
+                            "TBA",
+                            "Nayani Jensen"
                         ]
                     },
                     "Department of Immunology": {
@@ -659,8 +659,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Bayan Akbik",
                             "Julie Guindon",
+                            "Bayan Akbik",
                             "Maurice Fernandes"
                         ]
                     },
@@ -669,54 +669,54 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Bayan Akbik",
                             "Julie Guindon",
+                            "Bayan Akbik",
                             "Maurice Fernandes"
                         ]
                     },
                     "Centre for Industrial Relations and Human Resources": {
                         "buildings": [
-                            "WW",
-                            "OI",
                             "Online",
+                            "OI",
+                            "WW",
                             "TBA"
                         ],
                         "instructors": [
-                            "Rafael Gomez",
+                            "Anny Fong",
+                            "Bradley Seward",
                             "Peter Smit",
                             "Bob Thompson",
-                            "Bradley Seward",
-                            "Anny Fong",
-                            "Hua Wang"
+                            "Hua Wang",
+                            "Rafael Gomez"
                         ]
                     },
                     "Dept. of Italian Spanish Portuguese & Latin American Studies": {
                         "buildings": [
-                            "WW",
                             "Online",
                             "OI",
-                            "TBA"
+                            "TBA",
+                            "WW"
                         ],
                         "instructors": [
                             "Juan Carlos Rocha Osornio",
+                            "Maria Laura Mosco",
                             "Letizia Tesi",
-                            "TBA",
-                            "Maria Laura Mosco"
+                            "TBA"
                         ]
                     },
                     "Department of Linguistics": {
                         "buildings": [
-                            "SS",
                             "UC",
+                            "SS",
                             "TBA"
                         ],
                         "instructors": [
+                            "Kaleigh Woolford",
                             "Jida Jaffan",
+                            "Andrew Byrne",
                             "Pedro Mateo Pedro",
                             "TBA",
-                            "Andrew Byrne",
-                            "Yanfei Lu",
-                            "Kaleigh Woolford"
+                            "Yanfei Lu"
                         ]
                     },
                     "Department of Laboratory Medicine and Pathobiology": {
@@ -730,18 +730,18 @@
                     },
                     "Rotman Commerce": {
                         "buildings": [
-                            "TBA",
-                            "WO"
+                            "WO",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Alberto Galasso",
+                            "Ralph Tassone",
+                            "Adam Saunders",
                             "Xue Xiang",
                             "Amy Kwan",
+                            "Alberto Galasso",
                             "Kate Patterson",
                             "Rayomand Daroga",
-                            "Ralph Tassone",
                             "TBA",
-                            "Adam Saunders",
                             "Ann Armstrong",
                             "George Georgopoulos"
                         ]
@@ -751,9 +751,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Derek Van Der Kooy",
+                            "Xi Huang",
                             "TBA",
-                            "Xi Huang"
+                            "Derek Van Der Kooy"
                         ]
                     },
                     "Faculty of Music": {
@@ -766,15 +766,15 @@
                     },
                     "Department of Near & Middle Eastern Civilizations": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Robert Holmstedt",
-                            "TBA",
                             "Clemens Reichel",
                             "Adam Ali",
-                            "Dawn Power"
+                            "TBA",
+                            "Dawn Power",
+                            "Robert Holmstedt"
                         ]
                     },
                     "Munk School of Global Affairs and Public Policy": {
@@ -790,35 +790,35 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Chao Zheng",
                             "Kim Sugamori",
-                            "TBA",
-                            "Anita Hamadanizadeh",
                             "Nathanael Caveney",
-                            "Vincenzo De Luca",
-                            "Chao Zheng"
+                            "Anita Hamadanizadeh",
+                            "TBA",
+                            "Vincenzo De Luca"
                         ]
                     },
                     "Department of Philosophy": {
                         "buildings": [
                             "UC",
-                            "Online",
+                            "SS",
                             "SK",
                             "TBA",
-                            "SS",
+                            "Online",
                             "RW"
                         ],
                         "instructors": [
                             "Alexander Koo",
-                            "Tim McKee",
-                            "Patrick Fraser",
-                            "TBA",
                             "Ismael Kettani",
+                            "Julian Sheldon",
+                            "Patrick Fraser",
                             "Stacy Chen",
+                            "Natalie Helberg",
                             "Valentin Wey",
                             "Sanghun Han",
+                            "TBA",
                             "Sooyoung Moon",
-                            "Julian Sheldon",
-                            "Natalie Helberg"
+                            "Tim McKee"
                         ]
                     },
                     "Department of Physics": {
@@ -827,48 +827,48 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Pekka Sinervo",
-                            "Tahir Shaaran",
+                            "John Wei",
                             "Ziqing Hong",
-                            "Boris Braverman",
-                            "TBA",
-                            "Richard Teuscher",
-                            "Matthew Stukel",
-                            "Denis Dalidovich",
                             "Roya Ghahreman",
-                            "John Wei"
+                            "Boris Braverman",
+                            "Tahir Shaaran",
+                            "Denis Dalidovich",
+                            "TBA",
+                            "Matthew Stukel",
+                            "Pekka Sinervo",
+                            "Richard Teuscher"
                         ]
                     },
                     "Department of Political Science": {
                         "buildings": [
                             "UC",
-                            "Online",
-                            "TBA",
                             "SS",
-                            "BA",
-                            "RL"
+                            "RL",
+                            "TBA",
+                            "Online",
+                            "BA"
                         ],
                         "instructors": [
-                            "Abbas Gnamo",
-                            "Etienne Cardin-Trudeau",
-                            "Lynette Ong",
-                            "Max John Edward Morris",
-                            "Michael Donnelly",
-                            "William Gregson",
-                            "Jacob Winter",
-                            "Courtney Jung",
-                            "Derefe Chevannes",
-                            "Renan Levine",
-                            "Mark Nieman",
-                            "David Quayat",
-                            "Lilach Gilady",
-                            "Alexander Pekic",
                             "Victor Falkenheim",
-                            "Zachary Martin Hollander",
+                            "Michael Donnelly",
+                            "Etienne Cardin-Trudeau",
                             "Seva Gunitskiy",
+                            "David Quayat",
+                            "Alexander Pekic",
+                            "Renan Levine",
+                            "Zachary Martin Hollander",
+                            "Arnd Jurgensen",
+                            "William Gregson",
+                            "Abbas Gnamo",
+                            "Derefe Chevannes",
+                            "Lynette Ong",
+                            "Mark Nieman",
                             "Themistoklis Aravossitas",
                             "TBA",
-                            "Arnd Jurgensen"
+                            "Jacob Winter",
+                            "Courtney Jung",
+                            "Lilach Gilady",
+                            "Max John Edward Morris"
                         ]
                     },
                     "Department of Physiology": {
@@ -877,57 +877,57 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Denise Belsham",
-                            "Nohjin Kee",
-                            "Carin Wittnich",
-                            "Chirag Vaswani",
-                            "Andrea Jurisicova",
                             "Helen Miliotis",
-                            "TBA"
+                            "Chirag Vaswani",
+                            "Denise Belsham",
+                            "TBA",
+                            "Carin Wittnich",
+                            "Andrea Jurisicova",
+                            "Nohjin Kee"
                         ]
                     },
                     "Department of Psychology": {
                         "buildings": [
-                            "Online",
-                            "TBA",
+                            "OI",
+                            "BL",
                             "SS",
                             "AB",
-                            "BL",
-                            "OI"
-                        ],
-                        "instructors": [
-                            "Christine Millicent Burton",
-                            "Michael Mack",
-                            "Kaori Takehara",
-                            "Meg Schlichting Mack",
-                            "Malvina Skorska",
-                            "William Ryan",
-                            "Amanda Sharples",
-                            "Morgan Barense",
-                            "TBA",
-                            "Jessica Sommerville",
-                            "Gillian Einstein",
-                            "Odilia Yim",
-                            "Dirk Bernhardt-Walther",
-                            "Amy Finn",
-                            "Will Huggon",
-                            "Mireille Babineau",
-                            "Paul Whissell",
-                            "Molly Metz"
-                        ]
-                    },
-                    "Department for the Study of Religion": {
-                        "buildings": [
                             "TBA",
                             "Online"
                         ],
                         "instructors": [
+                            "Kaori Takehara",
+                            "Amy Finn",
+                            "Malvina Skorska",
+                            "Jessica Sommerville",
+                            "William Ryan",
+                            "Christine Millicent Burton",
+                            "Odilia Yim",
+                            "Paul Whissell",
+                            "Michael Mack",
+                            "Will Huggon",
+                            "Morgan Barense",
+                            "Mireille Babineau",
+                            "TBA",
+                            "Meg Schlichting Mack",
+                            "Gillian Einstein",
+                            "Dirk Bernhardt-Walther",
+                            "Molly Metz",
+                            "Amanda Sharples"
+                        ]
+                    },
+                    "Department for the Study of Religion": {
+                        "buildings": [
+                            "Online",
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "Christina Pasqua",
+                            "Pamela Klassen",
+                            "Ken Derry",
                             "Kainat Bashir Aafil",
                             "TBA",
-                            "Christina Pasqua",
-                            "Alif Shahed",
-                            "Ken Derry",
-                            "Pamela Klassen"
+                            "Alif Shahed"
                         ]
                     },
                     "ASDN: Arts and Science, Office of the Dean": {
@@ -936,15 +936,15 @@
                         ],
                         "instructors": [
                             "Yufeng Zhao",
-                            "Becky Chen",
                             "Lindsey Katherine Fiddes",
-                            "Jamie Feusner"
+                            "Jamie Feusner",
+                            "Becky Chen"
                         ]
                     },
                     "Mark S. Bonham Centre for Sexual Diversity Studies": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "Scott Rayter",
@@ -953,22 +953,22 @@
                     },
                     "Department of Sociology": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "Josh Harold",
-                            "Fedor Dokshin",
-                            "Weiguo Zhang",
-                            "Christian Caron",
-                            "Akwasi Owusu-Bempah",
-                            "Ronit Dinovitzer",
-                            "TBA",
-                            "Jessica Stallone",
                             "Jooyoung Lee",
+                            "Weiguo Zhang",
+                            "Ronit Dinovitzer",
+                            "Christian Caron",
                             "Kayla Preston",
+                            "Salwa Khan",
+                            "Jessica Stallone",
+                            "Fedor Dokshin",
+                            "TBA",
                             "Ka Tat Tsang",
-                            "Salwa Khan"
+                            "Akwasi Owusu-Bempah"
                         ]
                     },
                     "Faculty of Arts and Science": {
@@ -993,8 +993,8 @@
                         ],
                         "instructors": [
                             "Samantha Dolores Sanchinel Valdez",
-                            "Elisa Privitera",
-                            "Zarah Khan"
+                            "Zarah Khan",
+                            "Elisa Privitera"
                         ]
                     },
                     "Innis College": {
@@ -1013,36 +1013,36 @@
                 "departments": {
                     "Department of Statistical Sciences": {
                         "buildings": [
-                            "PB",
                             "UC",
+                            "SS",
+                            "KP",
                             "HS",
-                            "TBA",
                             "BF",
                             "GB",
-                            "SS",
-                            "MP",
                             "WI",
+                            "TBA",
+                            "MP",
                             "BA",
-                            "KP"
+                            "PB"
                         ],
                         "instructors": [
-                            "Sebastian Jaimungal",
-                            "Pascal Tyrrell",
-                            "Sabrina Sixta",
-                            "Omidali Aghababaei Jazi",
-                            "Arian Hashemzadeh Amirkhizi",
-                            "Otto Yung",
-                            "Fred Song",
+                            "Rohan Peter Alexander",
                             "Ricardo Baptista",
+                            "Omidali Aghababaei Jazi",
                             "Asal Aslemand",
+                            "Bethany White",
+                            "Sebastian Jaimungal",
+                            "Thibault Christophe Randrianarisoa",
+                            "Nnenna Asidianya",
+                            "Pascal Tyrrell",
+                            "Arian Hashemzadeh Amirkhizi",
+                            "Fred Song",
                             "TBA",
                             "Luai Al Labadi",
-                            "Vicki Zhang",
                             "Xiaodong Lin",
-                            "Nnenna Asidianya",
-                            "Thibault Christophe Randrianarisoa",
-                            "Rohan Peter Alexander",
-                            "Bethany White"
+                            "Vicki Zhang",
+                            "Sabrina Sixta",
+                            "Otto Yung"
                         ]
                     },
                     "African Studies Centre": {
@@ -1050,8 +1050,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Marieme Lo",
-                            "Moses Karanja"
+                            "Moses Karanja",
+                            "Marieme Lo"
                         ]
                     },
                     "Department of Anatomy and Cell Biology": {
@@ -1066,69 +1066,69 @@
                     },
                     "Department of Anthropology": {
                         "buildings": [
+                            "Online",
                             "AB",
                             "TBA",
-                            "Online",
                             "GB"
                         ],
                         "instructors": [
-                            "Ness Maloney",
-                            "TBA",
-                            "Elliott -they them- Tilleczek",
                             "Douglas Rafael Cubas Severo",
-                            "T. Bence Viola",
+                            "Ness Maloney",
+                            "Elliott -they them- Tilleczek",
+                            "TBA",
                             "Shawn Lehman",
+                            "T. Bence Viola",
                             "Edward Swenson"
                         ]
                     },
                     "Department of Mathematics": {
                         "buildings": [
+                            "OI",
                             "UC",
-                            "Online",
-                            "FE",
-                            "TBA",
                             "GB",
                             "ES",
+                            "FE",
+                            "TBA",
+                            "Online",
                             "MP",
-                            "SF",
                             "BA",
-                            "OI"
+                            "SF"
                         ],
                         "instructors": [
-                            "Kai Julius Shaikh",
-                            "Craig Belair",
+                            "Giacomo Bertizzolo",
+                            "Andrew Zheng",
                             "Alejandro Adames",
+                            "Federico Manganello",
+                            "Talant Talipov",
+                            "Brinda Venkataramani",
+                            "Luciano Salvetti Martinez",
+                            "Osama Farooqui",
+                            "Kevin Watmough",
+                            "Daniele Giannetto",
+                            "Shuyang Shen",
+                            "Amaranta Martinez De La Rosa",
+                            "David Sun",
+                            "Aaron Tronsgard",
+                            "Craig Belair",
+                            "Kai Julius Shaikh",
+                            "Rhupert Ashmore-Sharpe",
                             "Stanislav Balchev",
                             "Jiawei Chen",
-                            "Armanpreet Pannu",
-                            "Brinda Venkataramani",
-                            "Giacomo Bertizzolo",
-                            "Talant Talipov",
                             "Delaram Sadatamin",
-                            "Shuyang Shen",
-                            "Alisa Chistopolskaia",
-                            "Federico Manganello",
-                            "Daniele Giannetto",
+                            "Austin Sun",
+                            "Petros Ploumidis",
+                            "Sabrina Lin",
                             "Alexander Mirabella",
-                            "Kevin Watmough",
-                            "Fatemeh Ghasemi",
-                            "Friedemann Krannich",
-                            "Xinwen Ding",
-                            "Luciano Salvetti Martinez",
-                            "Andrew Zheng",
+                            "TBA",
                             "Mikale Reddy",
                             "Alexander Kroitor",
-                            "Sabrina Lin",
+                            "Lora Hreish",
                             "Mohammadmahdi Rafiei",
-                            "Rhupert Ashmore-Sharpe",
-                            "Austin Sun",
-                            "Amaranta Martinez De La Rosa",
-                            "Aaron Tronsgard",
-                            "TBA",
-                            "David Sun",
-                            "Petros Ploumidis",
-                            "Osama Farooqui",
-                            "Lora Hreish"
+                            "Armanpreet Pannu",
+                            "Friedemann Krannich",
+                            "Xinwen Ding",
+                            "Fatemeh Ghasemi",
+                            "Alisa Chistopolskaia"
                         ]
                     },
                     "Department of Astronomy and Astrophysics": {
@@ -1137,9 +1137,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Amy Zhao",
                             "Nikki Noughani",
-                            "TBA"
+                            "TBA",
+                            "Amy Zhao"
                         ]
                     },
                     "Department of Cell and Systems Biology": {
@@ -1149,10 +1149,10 @@
                         ],
                         "instructors": [
                             "Shelley Lumba",
-                            "TBA",
+                            "Abraham Ernest Yang",
                             "Qian Lin",
                             "Eiji Nambara",
-                            "Abraham Ernest Yang"
+                            "TBA"
                         ]
                     },
                     "Department of Biochemistry": {
@@ -1178,21 +1178,21 @@
                     "New College": {
                         "buildings": [
                             "UC",
-                            "Online",
-                            "TBA",
                             "SS",
-                            "RW",
-                            "RL"
+                            "RL",
+                            "TBA",
+                            "Online",
+                            "RW"
                         ],
                         "instructors": [
                             "Chandni Desai",
+                            "John McGaughey",
                             "Janine Riviere",
-                            "Anne McGuire",
+                            "Alex Djedovic",
                             "Michelle Majeed",
                             "TBA",
-                            "Alex Djedovic",
-                            "John McGaughey",
-                            "Kerstin Sandstrom"
+                            "Kerstin Sandstrom",
+                            "Anne McGuire"
                         ]
                     },
                     "Centre for Caribbean Studies": {
@@ -1205,66 +1205,66 @@
                     },
                     "Department of Chemistry": {
                         "buildings": [
-                            "TBA",
-                            "RW",
                             "SS",
                             "AB",
+                            "TBA",
+                            "RW",
                             "BA"
                         ],
                         "instructors": [
-                            "Marvin Morales",
-                            "Chao Zheng",
-                            "Michael Thompson",
                             "Varinia Bernales Candia",
+                            "Alan Aspuru-Guzik",
+                            "Chao Zheng",
                             "Haissi Cui",
+                            "Soha Ahmadi Nadoushan",
+                            "Mima Staikova",
+                            "Hector Alfonso Garcia Mayerstein",
+                            "Barbora Morra",
+                            "Eugenia Kumacheva",
+                            "Charlie Kivi",
+                            "Ahlem Bensari",
                             "John Anthony Calarco",
                             "Mark Nitz",
                             "TBA",
-                            "Cynthia Goh",
-                            "Ahlem Bensari",
-                            "Charlie Kivi",
                             "Al-Amin Dhirani",
-                            "Alan Aspuru-Guzik",
-                            "Hector Alfonso Garcia Mayerstein",
-                            "Barbora Morra",
-                            "Soha Ahmadi Nadoushan",
-                            "Mima Staikova",
-                            "Eugenia Kumacheva"
+                            "Cynthia Goh",
+                            "Marvin Morales",
+                            "Michael Thompson"
                         ]
                     },
                     "Cinema Studies Institute": {
                         "buildings": [
-                            "TBA",
                             "Online",
-                            "RL"
+                            "RL",
+                            "TBA"
                         ],
                         "instructors": [
+                            "Kass Banning",
                             "Barbora Hatalova",
-                            "TBA",
                             "Nikole Hidalgo McGregor",
-                            "Tamar Hanstke",
-                            "Kass Banning"
+                            "TBA",
+                            "Tamar Hanstke"
                         ]
                     },
                     "Human Biology Program": {
                         "buildings": [
-                            "SF",
+                            "GB",
                             "TBA",
-                            "Online",
-                            "GB"
+                            "SF",
+                            "Online"
                         ],
                         "instructors": [
-                            "Franco Taverna",
-                            "Naomi Levy-Strumpf",
                             "Colleen Dockstader",
-                            "TBA",
-                            "Bill Ju"
+                            "Naomi Levy-Strumpf",
+                            "Franco Taverna",
+                            "Bill Ju",
+                            "TBA"
                         ]
                     },
                     "Jewish Studies": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "Olga Talal",
@@ -1273,70 +1273,70 @@
                     },
                     "Department of Classics": {
                         "buildings": [
+                            "Online",
                             "LI",
-                            "TBA",
-                            "Online"
+                            "TBA"
                         ],
                         "instructors": [
-                            "Peter Bayer",
-                            "Jacob Sawyer",
-                            "TBA",
-                            "Sarah Graham",
+                            "Alison Cleverley",
                             "Jacob Dvorak",
-                            "David Lee Jacks II",
-                            "Alison Cleverley"
+                            "Sarah Graham",
+                            "Peter Bayer",
+                            "TBA",
+                            "Jacob Sawyer",
+                            "David Lee Jacks II"
                         ]
                     },
                     "University College": {
                         "buildings": [
-                            "BA",
                             "Online",
+                            "BA",
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Anthony Charles Ruocco",
                             "Mark Daniel Miller",
-                            "Anthony Charles Ruocco"
+                            "TBA"
                         ]
                     },
                     "Centre for Criminology and Sociolegal Studies": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Kamari Clarke",
                             "N. Scot Wortley",
                             "William Watson",
-                            "Roksolyana Shlapak"
+                            "Roksolyana Shlapak",
+                            "Kamari Clarke"
                         ]
                     },
                     "Department of Computer Science": {
                         "buildings": [
-                            "MP",
                             "SM",
-                            "TBA",
-                            "BA"
+                            "MP",
+                            "BA",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Pan Chen",
-                            "Jack Jianan Zhou",
                             "Varinia Bernales Candia",
-                            "Vivienne Luk",
-                            "Shiva Akbari",
-                            "Amanjit Singh Kainth",
+                            "Alan Aspuru-Guzik",
                             "Steve Engels",
-                            "TBA",
-                            "Ilona Posner",
-                            "Helen Kontozopoulos",
+                            "Vivienne Luk",
                             "Amirreza Peimani",
-                            "Alan Aspuru-Guzik"
+                            "Jack Jianan Zhou",
+                            "Amanjit Singh Kainth",
+                            "Ilona Posner",
+                            "TBA",
+                            "Helen Kontozopoulos",
+                            "Shiva Akbari",
+                            "Pan Chen"
                         ]
                     },
                     "Woodsworth College": {
                         "buildings": [
-                            "TBA",
-                            "CR"
+                            "CR",
+                            "TBA"
                         ],
                         "instructors": [
                             "Daniel Guadagnolo",
@@ -1348,56 +1348,56 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Naomi Seidman",
-                            "TBA"
+                            "TBA",
+                            "Naomi Seidman"
                         ]
                     },
                     "Department of East Asian Studies": {
                         "buildings": [
-                            "SS",
                             "Online",
+                            "SS",
                             "TBA"
                         ],
                         "instructors": [
                             "Victor Falkenheim",
+                            "Richard W L Guisso",
                             "Boyao Zhang",
-                            "TBA",
                             "Hairong Huang",
                             "Kyoungrok Ko",
-                            "Richard W L Guisso"
+                            "TBA"
                         ]
                     },
                     "Department of Economics": {
                         "buildings": [
                             "UC",
-                            "Online",
-                            "HS",
-                            "TBA",
-                            "GB",
-                            "SS",
-                            "RW",
-                            "AB",
-                            "BA",
                             "OI",
-                            "WB"
+                            "SS",
+                            "HS",
+                            "GB",
+                            "AB",
+                            "WB",
+                            "TBA",
+                            "Online",
+                            "RW",
+                            "BA"
                         ],
                         "instructors": [
+                            "Yuanyuan Wan",
+                            "Eun Ji Lindsay Lee",
+                            "Yiming Xu",
                             "Samantha Grewal",
-                            "Robert Barber",
                             "Ata Mazaheri",
                             "Masoud Anjomshoa",
-                            "Andrew Paulley",
-                            "Yuanyuan Wan",
-                            "Terry Yip",
                             "Tam Le",
-                            "Ajaz Hussain",
-                            "Yanyou Chen",
-                            "Laura Turner",
-                            "Christopher D'Souza",
-                            "Nathanael Vellekoop",
-                            "Yiming Xu",
+                            "Terry Yip",
                             "Alison Cane",
-                            "Eun Ji Lindsay Lee"
+                            "Christopher D'Souza",
+                            "Yanyou Chen",
+                            "Nathanael Vellekoop",
+                            "Andrew Paulley",
+                            "Robert Barber",
+                            "Ajaz Hussain",
+                            "Laura Turner"
                         ]
                     },
                     "Victoria College": {
@@ -1415,51 +1415,51 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Njal Rollinson",
                             "Megan Frederickson",
                             "Megan Bontrager",
                             "Micah Freedman",
-                            "John Stinchcombe",
-                            "Tianna Peller",
-                            "TBA",
+                            "Benjamin Gilbert",
                             "Asher Cutter",
-                            "Eden Tekwa Wong",
-                            "Benjamin Gilbert"
+                            "Tianna Peller",
+                            "John Stinchcombe",
+                            "Njal Rollinson",
+                            "TBA",
+                            "Eden Tekwa Wong"
                         ]
                     },
                     "Department of English": {
                         "buildings": [
+                            "OI",
                             "UC",
-                            "Online",
                             "TBA",
-                            "BA",
-                            "OI"
+                            "Online",
+                            "BA"
                         ],
                         "instructors": [
-                            "Patrick Teed",
-                            "Michael Johnstone",
                             "Urvashi Chakravarty",
-                            "Scott Rayter",
+                            "Audrey Walton",
                             "Marina Klimenko",
-                            "Kyle Kinaschuk",
-                            "Vikki Visvis",
+                            "Michael Johnstone",
                             "Julianna Chianelli",
                             "Geoffrey MacDonald",
+                            "Patrick Teed",
                             "Richard Greene",
-                            "Audrey Walton"
+                            "Vikki Visvis",
+                            "Kyle Kinaschuk",
+                            "Scott Rayter"
                         ]
                     },
                     "School of Environment": {
                         "buildings": [
+                            "Online",
                             "BA",
-                            "TBA",
-                            "Online"
+                            "TBA"
                         ],
                         "instructors": [
+                            "Erich Vogt",
                             "Romila Verma",
                             "Sherry-Ann Ram",
-                            "TBA",
-                            "Erich Vogt"
+                            "TBA"
                         ]
                     },
                     "Department of Earth Sciences": {
@@ -1467,12 +1467,12 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "TBA",
+                            "Lisa Tutty",
                             "Andrei Swidinsky",
+                            "TBA",
                             "Daniel Gregory",
-                            "Carl-Georg Bank",
                             "Sarah Sydney Ariano",
-                            "Lisa Tutty"
+                            "Carl-Georg Bank"
                         ]
                     },
                     "Centre for European and Eurasian Studies": {
@@ -1485,19 +1485,19 @@
                     },
                     "Department of Art History": {
                         "buildings": [
-                            "SS",
                             "UC",
-                            "TBA",
-                            "OI"
+                            "SS",
+                            "OI",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Matthew Coleman",
-                            "D. Esther Kim",
                             "Sanniah Jabeen",
-                            "Lauren Barnes",
+                            "D. Esther Kim",
+                            "Matthew Coleman",
+                            "Nikolina Kurtovic",
                             "Elizabeth MM Legge",
                             "TBA",
-                            "Nikolina Kurtovic"
+                            "Lauren Barnes"
                         ]
                     },
                     "Department of French": {
@@ -1506,10 +1506,10 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Catherine Gaughan",
+                            "Rosa Junghwa Hong",
                             "TBA",
-                            "Loula Abd-elrazak",
-                            "Rosa Junghwa Hong"
+                            "Catherine Gaughan",
+                            "Loula Abd-elrazak"
                         ]
                     },
                     "John H. Daniels Faculty of Architecture, Landscape, & Design": {
@@ -1523,8 +1523,8 @@
                     },
                     "Department of Germanic Languages & Literatures": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
                             "Rita Laszlo",
@@ -1535,13 +1535,13 @@
                     },
                     "Department of Geography and Planning": {
                         "buildings": [
+                            "Online",
                             "SS",
-                            "TBA",
-                            "Online"
+                            "TBA"
                         ],
                         "instructors": [
-                            "Kristian Larsen",
                             "Mohammed Abubakari",
+                            "Kristian Larsen",
                             "Meghan Gagliardi",
                             "TBA",
                             "Marcellinus Essah"
@@ -1549,29 +1549,29 @@
                     },
                     "Department of History": {
                         "buildings": [
-                            "Online",
-                            "TBA",
-                            "BF",
                             "SS",
+                            "BF",
+                            "TBA",
+                            "Online",
                             "RW"
                         ],
                         "instructors": [
-                            "Heather Smith",
-                            "TBA",
-                            "Chaoran Ma",
                             "Hongyun Lyu",
-                            "Camila Collins Araiza",
+                            "Haihan Jiang",
                             "L.K. Bertram",
-                            "Carlie Manners",
-                            "Haihan Jiang"
+                            "Heather Smith",
+                            "Camila Collins Araiza",
+                            "Chaoran Ma",
+                            "TBA",
+                            "Carlie Manners"
                         ]
                     },
                     "Inst. for the History & Philosophy of Science & Technology": {
                         "buildings": [
-                            "SS",
                             "UC",
-                            "RW",
-                            "TBA"
+                            "SS",
+                            "TBA",
+                            "RW"
                         ],
                         "instructors": [
                             "Matthew McLaughlin",
@@ -1602,8 +1602,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Bayan Akbik",
                             "Julie Guindon",
+                            "Bayan Akbik",
                             "Maurice Fernandes"
                         ]
                     },
@@ -1612,51 +1612,51 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Bayan Akbik",
                             "Julie Guindon",
+                            "Bayan Akbik",
                             "Maurice Fernandes"
                         ]
                     },
                     "Centre for Industrial Relations and Human Resources": {
                         "buildings": [
-                            "SS",
-                            "OI",
                             "Online",
+                            "OI",
+                            "SS",
                             "TBA"
                         ],
                         "instructors": [
+                            "Anny Fong",
                             "Peter Smit",
-                            "Bob Thompson",
                             "Hua Wang",
-                            "Anny Fong"
+                            "Bob Thompson"
                         ]
                     },
                     "Dept. of Italian Spanish Portuguese & Latin American Studies": {
                         "buildings": [
-                            "TBA",
-                            "OI"
+                            "OI",
+                            "TBA"
                         ],
                         "instructors": [
-                            "TBA",
-                            "Maria Laura Mosco"
+                            "Maria Laura Mosco",
+                            "TBA"
                         ]
                     },
                     "Department of Linguistics": {
                         "buildings": [
                             "UC",
-                            "Online",
-                            "TBA",
+                            "SS",
                             "ES",
-                            "SS"
+                            "TBA",
+                            "Online"
                         ],
                         "instructors": [
-                            "Kit Donohue",
-                            "Pedro Mateo Pedro",
-                            "TBA",
                             "Andrew Byrne",
-                            "Will Williams",
+                            "Pedro Mateo Pedro",
                             "Ryan MacDonald",
-                            "Song Jiang"
+                            "Will Williams",
+                            "TBA",
+                            "Song Jiang",
+                            "Kit Donohue"
                         ]
                     },
                     "Department of Laboratory Medicine and Pathobiology": {
@@ -1670,14 +1670,14 @@
                     },
                     "Rotman Commerce": {
                         "buildings": [
+                            "WO",
                             "WW",
-                            "TBA",
-                            "WO"
+                            "TBA"
                         ],
                         "instructors": [
+                            "Karine Benzacar",
                             "Amy Kwan",
-                            "Alexandra MacKay",
-                            "Karine Benzacar"
+                            "Alexandra MacKay"
                         ]
                     },
                     "Department of Molecular Genetics": {
@@ -1685,15 +1685,15 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Derek Van Der Kooy",
+                            "Xi Huang",
                             "TBA",
-                            "Xi Huang"
+                            "Derek Van Der Kooy"
                         ]
                     },
                     "Faculty of Music": {
                         "buildings": [
-                            "SS",
-                            "GB"
+                            "GB",
+                            "SS"
                         ],
                         "instructors": [
                             "John Haines"
@@ -1720,34 +1720,34 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Chao Zheng",
                             "Kim Sugamori",
-                            "TBA",
-                            "Anita Hamadanizadeh",
                             "Nathanael Caveney",
-                            "Vincenzo De Luca",
-                            "Chao Zheng"
+                            "Anita Hamadanizadeh",
+                            "TBA",
+                            "Vincenzo De Luca"
                         ]
                     },
                     "Department of Philosophy": {
                         "buildings": [
-                            "Online",
-                            "TBA",
                             "SS",
+                            "TBA",
+                            "Online",
                             "RW",
                             "BA"
                         ],
                         "instructors": [
                             "Alexander Koo",
-                            "Cameron Yetman",
-                            "Cassandra Williams",
-                            "Tim McKee",
-                            "TBA",
                             "Ismael Kettani",
+                            "Cassandra Williams",
+                            "Mark Gatten",
+                            "Cameron Yetman",
                             "Schuyler Pringle",
-                            "Nate Oppel",
-                            "Sooyoung Moon",
                             "Alexander Drusda",
-                            "Mark Gatten"
+                            "TBA",
+                            "Sooyoung Moon",
+                            "Tim McKee",
+                            "Nate Oppel"
                         ]
                     },
                     "Department of Physics": {
@@ -1756,98 +1756,98 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Pekka Sinervo",
+                            "Girish Lingadahalli Muralidhara",
+                            "Amar C. Vutha",
+                            "Matthew Badali",
                             "Ziqing Hong",
+                            "Roya Ghahreman",
                             "Boris Braverman",
                             "TBA",
-                            "Richard Teuscher",
                             "Matthew Stukel",
-                            "Girish Lingadahalli Muralidhara",
-                            "Matthew Badali",
-                            "Roya Ghahreman",
-                            "Amar C. Vutha"
+                            "Pekka Sinervo",
+                            "Richard Teuscher"
                         ]
                     },
                     "Department of Political Science": {
                         "buildings": [
-                            "Online",
-                            "TBA",
                             "SS",
-                            "BA",
-                            "RL"
+                            "RL",
+                            "TBA",
+                            "Online",
+                            "BA"
                         ],
                         "instructors": [
+                            "Gabrielle Lim",
+                            "Etienne Cardin-Trudeau",
+                            "Mher Mamajanyan",
+                            "Sahib Jafarov",
+                            "Max John Edward Morris",
+                            "Taruneek Kapoor",
                             "Lynette Ong",
                             "Abbas Gnamo",
-                            "Taruneek Kapoor",
-                            "Yojana Miraya Oscco",
                             "Iddan Sonsino",
                             "Chen Zhong",
                             "TBA",
-                            "Max John Edward Morris",
-                            "Gabrielle Lim",
-                            "Mher Mamajanyan",
                             "Renan Levine",
-                            "Sahib Jafarov",
-                            "Etienne Cardin-Trudeau"
+                            "Yojana Miraya Oscco"
                         ]
                     },
                     "Department of Physiology": {
                         "buildings": [
-                            "TBA",
-                            "HS"
+                            "HS",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Denise Belsham",
-                            "Carin Wittnich",
-                            "Chirag Vaswani",
-                            "Andrea Jurisicova",
-                            "Nesime Askin",
                             "Sandra Pereira",
+                            "Nesime Askin",
+                            "Chirag Vaswani",
+                            "Denise Belsham",
                             "Sobia Iqbal",
-                            "TBA"
+                            "TBA",
+                            "Carin Wittnich",
+                            "Andrea Jurisicova"
                         ]
                     },
                     "Department of Psychology": {
                         "buildings": [
+                            "Online",
                             "RW",
                             "SS",
-                            "TBA",
-                            "Online"
+                            "TBA"
                         ],
                         "instructors": [
+                            "Colin Li",
+                            "Marco Agazio Sama",
+                            "Gillian Einstein",
+                            "Amanda Sharples",
+                            "Kaori Takehara",
                             "Stuart Kamenetsky",
                             "Carolyn Guay",
                             "Christine Millicent Burton",
-                            "Morgan Barense",
-                            "Gillian Einstein",
-                            "Taryn Elizabeth Grieder",
-                            "Marco Agazio Sama",
-                            "Ece Yucer",
-                            "Colin Li",
-                            "Jessica Sommerville",
-                            "Kaori Takehara",
+                            "Michael Mack",
                             "Sofia Panasiuk",
                             "Redab AL Janaideh",
                             "Amy Finn",
-                            "Michael Mack",
+                            "Ece Yucer",
                             "TBA",
-                            "Amanda Sharples",
-                            "Mireille Babineau",
-                            "Paul Whissell"
+                            "Morgan Barense",
+                            "Taryn Elizabeth Grieder",
+                            "Jessica Sommerville",
+                            "Paul Whissell",
+                            "Mireille Babineau"
                         ]
                     },
                     "Department for the Study of Religion": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Vivek Shah",
                             "Nicholas Sarian",
-                            "TBA",
                             "Pamela Klassen",
-                            "David Perley"
+                            "Vivek Shah",
+                            "David Perley",
+                            "TBA"
                         ]
                     },
                     "ASDN: Arts and Science, Office of the Dean": {
@@ -1856,27 +1856,27 @@
                         ],
                         "instructors": [
                             "Yufeng Zhao",
-                            "Becky Chen",
                             "Lindsey Katherine Fiddes",
-                            "Jamie Feusner"
+                            "Jamie Feusner",
+                            "Becky Chen"
                         ]
                     },
                     "Department of Sociology": {
                         "buildings": [
-                            "TBA",
-                            "Online"
+                            "Online",
+                            "TBA"
                         ],
                         "instructors": [
-                            "Andy Holmes",
-                            "Akwasi Owusu-Bempah",
-                            "Sophie Marois",
                             "Jooyoung Lee",
-                            "TBA",
                             "Harmata Aboubakar",
-                            "Fabio Robibaro",
-                            "Storm Kalyse Jeffers",
                             "Soli Dubash",
-                            "Elliot Fonarev"
+                            "Andy Holmes",
+                            "Fabio Robibaro",
+                            "Elliot Fonarev",
+                            "TBA",
+                            "Sophie Marois",
+                            "Storm Kalyse Jeffers",
+                            "Akwasi Owusu-Bempah"
                         ]
                     },
                     "Faculty of Arts and Science": {
@@ -1902,8 +1902,8 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Enis Demirer",
                             "Kaylee Hamilton",
+                            "Enis Demirer",
                             "Adriana Perez-Rodriguez"
                         ]
                     },
@@ -1921,7 +1921,7 @@
                 }
             }
         },
-        "last_updated": "August 06, 2026 at 4:18 AM"
+        "last_updated": "August 07, 2026 at 4:10 AM"
     },
     "timings": [
         {
@@ -8540,7 +8540,7 @@
                 "Shiva Akbari"
             ],
             "capacity": 196,
-            "current_enrolment": 142,
+            "current_enrolment": 141,
             "delivery_mode": "In Person"
         },
         {
@@ -8559,7 +8559,7 @@
                 "Shiva Akbari"
             ],
             "capacity": 196,
-            "current_enrolment": 142,
+            "current_enrolment": 141,
             "delivery_mode": "In Person"
         },
         {
@@ -8578,7 +8578,7 @@
                 "Pan Chen"
             ],
             "capacity": 144,
-            "current_enrolment": 117,
+            "current_enrolment": 116,
             "delivery_mode": "In Person"
         },
         {
@@ -8597,7 +8597,7 @@
                 "Pan Chen"
             ],
             "capacity": 144,
-            "current_enrolment": 117,
+            "current_enrolment": 116,
             "delivery_mode": "In Person"
         },
         {
@@ -8616,7 +8616,7 @@
                 "TBA"
             ],
             "capacity": 144,
-            "current_enrolment": 115,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -8635,7 +8635,7 @@
                 "TBA"
             ],
             "capacity": 144,
-            "current_enrolment": 115,
+            "current_enrolment": 114,
             "delivery_mode": "In Person"
         },
         {
@@ -16107,7 +16107,7 @@
                 "SeungJung Kim"
             ],
             "capacity": 150,
-            "current_enrolment": 125,
+            "current_enrolment": 124,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -22561,7 +22561,7 @@
                 "Michelle Majeed"
             ],
             "capacity": 45,
-            "current_enrolment": 42,
+            "current_enrolment": 41,
             "delivery_mode": "Online Asynchronous"
         },
         {
@@ -24936,7 +24936,7 @@
                 "Delaram Sadatamin"
             ],
             "capacity": 140,
-            "current_enrolment": 88,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -24955,7 +24955,7 @@
                 "Delaram Sadatamin"
             ],
             "capacity": 140,
-            "current_enrolment": 88,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -24974,7 +24974,7 @@
                 "Delaram Sadatamin"
             ],
             "capacity": 140,
-            "current_enrolment": 88,
+            "current_enrolment": 87,
             "delivery_mode": "In Person"
         },
         {
@@ -25031,7 +25031,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -25050,7 +25050,7 @@
                 "TBA"
             ],
             "capacity": 50,
-            "current_enrolment": 23,
+            "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
         {
@@ -32687,7 +32687,7 @@
                 "Alexander Koo"
             ],
             "capacity": 150,
-            "current_enrolment": 99,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -32706,7 +32706,7 @@
                 "Alexander Koo"
             ],
             "capacity": 150,
-            "current_enrolment": 99,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -32725,7 +32725,7 @@
                 "Alexander Koo"
             ],
             "capacity": 150,
-            "current_enrolment": 99,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -32744,7 +32744,7 @@
                 "Alexander Koo"
             ],
             "capacity": 150,
-            "current_enrolment": 99,
+            "current_enrolment": 98,
             "delivery_mode": "In Person"
         },
         {
@@ -43817,7 +43817,7 @@
                 "Arian Hashemzadeh Amirkhizi"
             ],
             "capacity": 150,
-            "current_enrolment": 79,
+            "current_enrolment": 78,
             "delivery_mode": "In Person"
         },
         {
@@ -43836,7 +43836,7 @@
                 "Arian Hashemzadeh Amirkhizi"
             ],
             "capacity": 150,
-            "current_enrolment": 79,
+            "current_enrolment": 78,
             "delivery_mode": "In Person"
         },
         {
@@ -43855,7 +43855,7 @@
                 "TBA"
             ],
             "capacity": 150,
-            "current_enrolment": 77,
+            "current_enrolment": 76,
             "delivery_mode": "In Person"
         },
         {
@@ -44948,7 +44948,7 @@
                 "Kaylee Hamilton"
             ],
             "capacity": 138,
-            "current_enrolment": 124,
+            "current_enrolment": 123,
             "delivery_mode": "Online Synchronous"
         },
         {
@@ -44967,7 +44967,7 @@
                 "Kaylee Hamilton"
             ],
             "capacity": 138,
-            "current_enrolment": 124,
+            "current_enrolment": 123,
             "delivery_mode": "Online Synchronous"
         },
         {
