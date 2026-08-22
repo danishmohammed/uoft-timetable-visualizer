@@ -12,21 +12,21 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "SF",
                             "PB",
                             "MP",
-                            "GB",
-                            "WI",
+                            "MC",
                             "MY",
-                            "MC"
+                            "SF",
+                            "GB",
+                            "WI"
                         ],
                         "instructors": [
+                            "Tamara Kecman",
                             "Chandra Veer Singh",
-                            "Hamid Shokrollah-Timorabadi",
                             "TBA",
                             "Fatemeh Jazinizadeh",
                             "Jason Bazylak",
-                            "Tamara Kecman"
+                            "Hamid Shokrollah-Timorabadi"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -35,12 +35,12 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Kate Patterson",
                             "Evan Bentz",
-                            "Alex Kaju",
-                            "Justin Beland",
+                            "TBA",
+                            "Kate Patterson",
                             "Steven Chuang Chuang",
-                            "TBA"
+                            "Alex Kaju",
+                            "Justin Beland"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,8 +48,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
                             "Alan Chong",
+                            "Lisa Romkey",
                             "TBA"
                         ]
                     },
@@ -78,10 +78,10 @@
                             "Online"
                         ],
                         "instructors": [
-                            "Diego Alejandro Cadena Morales",
                             "Ferdinand Oghenereke Avikpe",
-                            "TBA",
-                            "Scott Ramsay"
+                            "Diego Alejandro Cadena Morales",
+                            "Scott Ramsay",
+                            "TBA"
                         ]
                     },
                     "Cross-Disciplinary Programs Office": {
@@ -90,16 +90,16 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Evan Bentz",
                             "Shannon Liu",
-                            "TBA",
-                            "Justin Beland"
+                            "Evan Bentz",
+                            "Justin Beland",
+                            "TBA"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "Online",
-                            "MY"
+                            "MY",
+                            "Online"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -111,8 +111,8 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Lisa Romkey",
                             "Alan Chong",
+                            "Lisa Romkey",
                             "TBA"
                         ]
                     },
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "August 21, 2026 at 2:02 AM"
+        "last_updated": "August 22, 2026 at 2:02 AM"
     },
     "timings": [
         {
