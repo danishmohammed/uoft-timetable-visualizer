@@ -12,20 +12,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
+                            "GB",
                             "PB",
                             "MP",
-                            "MC",
                             "MY",
                             "SF",
-                            "GB",
-                            "WI"
+                            "WI",
+                            "MC"
                         ],
                         "instructors": [
+                            "Jason Bazylak",
                             "Tamara Kecman",
                             "Chandra Veer Singh",
                             "TBA",
                             "Fatemeh Jazinizadeh",
-                            "Jason Bazylak",
                             "Hamid Shokrollah-Timorabadi"
                         ]
                     },
@@ -35,12 +35,12 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Evan Bentz",
-                            "TBA",
-                            "Kate Patterson",
-                            "Steven Chuang Chuang",
                             "Alex Kaju",
-                            "Justin Beland"
+                            "Kate Patterson",
+                            "TBA",
+                            "Steven Chuang Chuang",
+                            "Justin Beland",
+                            "Evan Bentz"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
                             "Lisa Romkey",
-                            "TBA"
+                            "TBA",
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -91,15 +91,15 @@
                         ],
                         "instructors": [
                             "Shannon Liu",
-                            "Evan Bentz",
                             "Justin Beland",
-                            "TBA"
+                            "TBA",
+                            "Evan Bentz"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
                         "buildings": [
-                            "MY",
-                            "Online"
+                            "Online",
+                            "MY"
                         ],
                         "instructors": [
                             "Steven Chuang Chuang",
@@ -111,9 +111,9 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Alan Chong",
                             "Lisa Romkey",
-                            "TBA"
+                            "TBA",
+                            "Alan Chong"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "August 22, 2026 at 2:02 AM"
+        "last_updated": "August 23, 2026 at 2:02 AM"
     },
     "timings": [
         {
