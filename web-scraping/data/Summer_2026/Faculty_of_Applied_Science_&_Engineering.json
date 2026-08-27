@@ -12,20 +12,20 @@
                 "departments": {
                     "Engineering First Year Office": {
                         "buildings": [
-                            "MC",
-                            "SF",
                             "MY",
+                            "PB",
+                            "GB",
+                            "MC",
                             "MP",
                             "WI",
-                            "PB",
-                            "GB"
+                            "SF"
                         ],
                         "instructors": [
-                            "Jason Bazylak",
-                            "Chandra Veer Singh",
-                            "Hamid Shokrollah-Timorabadi",
                             "TBA",
                             "Tamara Kecman",
+                            "Jason Bazylak",
+                            "Hamid Shokrollah-Timorabadi",
+                            "Chandra Veer Singh",
                             "Fatemeh Jazinizadeh"
                         ]
                     },
@@ -35,12 +35,12 @@
                             "TBA"
                         ],
                         "instructors": [
-                            "Steven Chuang Chuang",
-                            "Evan Bentz",
-                            "Kate Patterson",
-                            "TBA",
                             "Alex Kaju",
-                            "Justin Beland"
+                            "Kate Patterson",
+                            "Steven Chuang Chuang",
+                            "TBA",
+                            "Justin Beland",
+                            "Evan Bentz"
                         ]
                     },
                     "Division of Engineering Science": {
@@ -48,9 +48,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Alan Chong",
                             "TBA",
-                            "Lisa Romkey",
-                            "Alan Chong"
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -78,9 +78,9 @@
                             "Online"
                         ],
                         "instructors": [
+                            "TBA",
                             "Diego Alejandro Cadena Morales",
                             "Scott Ramsay",
-                            "TBA",
                             "Ferdinand Oghenereke Avikpe"
                         ]
                     },
@@ -90,10 +90,10 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Justin Beland",
                             "Evan Bentz",
-                            "TBA",
                             "Shannon Liu",
-                            "Justin Beland"
+                            "TBA"
                         ]
                     },
                     "Edward S. Rogers Sr. Dept. of Electrical & Computer Engin.": {
@@ -111,9 +111,9 @@
                             "TBA"
                         ],
                         "instructors": [
+                            "Alan Chong",
                             "TBA",
-                            "Lisa Romkey",
-                            "Alan Chong"
+                            "Lisa Romkey"
                         ]
                     },
                     "Faculty of Applied Science & Engineering": {
@@ -135,7 +135,7 @@
                 }
             }
         },
-        "last_updated": "August 26, 2026 at 2:09 AM"
+        "last_updated": "August 27, 2026 at 2:02 AM"
     },
     "timings": [
         {
@@ -1543,7 +1543,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 403,
+            "current_enrolment": 406,
             "delivery_mode": "In Person"
         },
         {
@@ -1562,7 +1562,7 @@
                 "TBA"
             ],
             "capacity": 9999,
-            "current_enrolment": 403,
+            "current_enrolment": 406,
             "delivery_mode": "In Person"
         },
         {
