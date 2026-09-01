@@ -7,8 +7,1071 @@
             "Fall 2026 (F)",
             "Winter 2027 (S)"
         ],
-        "semesters": {},
-        "last_updated": "May 25, 2026 at 11:52 AM"
+        "semesters": {
+            "Winter": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "TBA"
+                        ],
+                        "instructors": [
+                            "Brian Sutherland",
+                            "Gustavo Ferreira Santos",
+                            "Bolun Zhang",
+                            "Andrea Knight Dolan",
+                            "Olivier St-Cyr",
+                            "Nima Zargham",
+                            "Maher Elshakankiri",
+                            "Joshua William Arthurs",
+                            "TBA",
+                            "Fiorella Foscarini",
+                            "Julia Gallucci"
+                        ]
+                    }
+                }
+            },
+            "Fall": {
+                "departments": {
+                    "Faculty of Information": {
+                        "buildings": [
+                            "Online",
+                            "SU",
+                            "VC",
+                            "BA",
+                            "RL",
+                            "OI",
+                            "HA",
+                            "SF",
+                            "MY",
+                            "TBA",
+                            "GB"
+                        ],
+                        "instructors": [
+                            "Nada Almasri",
+                            "Shion Guha",
+                            "Gustavo Ferreira Santos",
+                            "Julian Quiros",
+                            "Olivier St-Cyr",
+                            "Carli Fink",
+                            "Eliza Pertigkiozoglou",
+                            "Maher Elshakankiri",
+                            "Sunita Guyadeen",
+                            "TBA",
+                            "Nusrat Jahan Mim"
+                        ]
+                    }
+                }
+            }
+        },
+        "last_updated": "September 01, 2026 at 2:16 PM"
     },
-    "timings": []
+    "timings": [
+        {
+            "course_name": "INF302H1 S: Integr Approaches Tech & Soc",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Gustavo Ferreira Santos"
+            ],
+            "capacity": 50,
+            "current_enrolment": 43,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF302H1 S: Integr Approaches Tech & Soc",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Gustavo Ferreira Santos"
+            ],
+            "capacity": 25,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF302H1 S: Integr Approaches Tech & Soc",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Gustavo Ferreira Santos"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF311H1 F: Info in Cultural Imagination",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "BA",
+            "instructors": [
+                "Gustavo Ferreira Santos"
+            ],
+            "capacity": 50,
+            "current_enrolment": 41,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF311H1 F: Info in Cultural Imagination",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Gustavo Ferreira Santos"
+            ],
+            "capacity": 25,
+            "current_enrolment": 19,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF311H1 F: Info in Cultural Imagination",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Gustavo Ferreira Santos"
+            ],
+            "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF312H1 F: Worlds Become Data",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "GB",
+            "instructors": [
+                "Nusrat Jahan Mim"
+            ],
+            "capacity": 56,
+            "current_enrolment": 42,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF312H1 F: Worlds Become Data",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Nusrat Jahan Mim"
+            ],
+            "capacity": 28,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF312H1 F: Worlds Become Data",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Nusrat Jahan Mim"
+            ],
+            "capacity": 28,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF313H1 F: Computational Reasoning",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "11:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "MY",
+            "instructors": [
+                "Nada Almasri"
+            ],
+            "capacity": 50,
+            "current_enrolment": 42,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF313H1 F: Computational Reasoning",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "MY",
+            "instructors": [
+                "Nada Almasri"
+            ],
+            "capacity": 25,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF313H1 F: Computational Reasoning",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "MY",
+            "instructors": [
+                "Nada Almasri"
+            ],
+            "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF314H1 S: Information Memory and Culture",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Joshua William Arthurs"
+            ],
+            "capacity": 50,
+            "current_enrolment": 43,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF314H1 S: Information Memory and Culture",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF314H1 S: Information Memory and Culture",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF315H1 S: Information Practice in Org",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Fiorella Foscarini"
+            ],
+            "capacity": 50,
+            "current_enrolment": 43,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF351H1 S: Des Stu I: How Make Comp & Why",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "11:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Brian Sutherland"
+            ],
+            "capacity": 51,
+            "current_enrolment": 45,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF351H1 S: Des Stu I: How Make Comp & Why",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF351H1 S: Des Stu I: How Make Comp & Why",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF352H1 F: Des Stu II: How to Design",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "VC",
+            "instructors": [
+                "Olivier St-Cyr"
+            ],
+            "capacity": 50,
+            "current_enrolment": 41,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF352H1 F: Des Stu II: How to Design",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SF",
+            "instructors": [
+                "Olivier St-Cyr"
+            ],
+            "capacity": 25,
+            "current_enrolment": 19,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF352H1 F: Des Stu II: How to Design",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Olivier St-Cyr"
+            ],
+            "capacity": 25,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF353H1 S: Des Stu III: Interactive Sys",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "11:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Olivier St-Cyr"
+            ],
+            "capacity": 50,
+            "current_enrolment": 44,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF353H1 S: Des Stu III: Interactive Sys",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Olivier St-Cyr"
+            ],
+            "capacity": 25,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF353H1 S: Des Stu III: Interactive Sys",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Olivier St-Cyr"
+            ],
+            "capacity": 25,
+            "current_enrolment": 19,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF401H1 F: From Classroom to Workplace",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Carli Fink"
+            ],
+            "capacity": 50,
+            "current_enrolment": 43,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF401H1 F: From Classroom to Workplace",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Carli Fink"
+            ],
+            "capacity": 25,
+            "current_enrolment": 23,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF401H1 F: From Classroom to Workplace",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Carli Fink"
+            ],
+            "capacity": 25,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF411H1 F: Info in Global Economy",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Julian Quiros"
+            ],
+            "capacity": 56,
+            "current_enrolment": 44,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF411H1 F: Info in Global Economy",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Julian Quiros"
+            ],
+            "capacity": 28,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF411H1 F: Info in Global Economy",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Julian Quiros"
+            ],
+            "capacity": 28,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF412H1 S: Data Analytics",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Julia Gallucci"
+            ],
+            "capacity": 56,
+            "current_enrolment": 45,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF412H1 S: Data Analytics",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 28,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF412H1 S: Data Analytics",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 28,
+            "current_enrolment": 20,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF413H1 S: Information Policy",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Bolun Zhang"
+            ],
+            "capacity": 56,
+            "current_enrolment": 44,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF413H1 S: Information Policy",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 28,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF413H1 S: Information Policy",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 28,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF450H1 F: Project Management with Agile",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "HA",
+            "instructors": [
+                "Sunita Guyadeen"
+            ],
+            "capacity": 35,
+            "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF450H1 F: Project Management with Agile",
+            "section_title": "Tutorials",
+            "day": "Monday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "HA",
+            "instructors": [
+                "Sunita Guyadeen"
+            ],
+            "capacity": 35,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF451H1 F: Des Stu IV: Info Visualization",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "17:00",
+            "end_time": "19:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "HA",
+            "instructors": [
+                "Eliza Pertigkiozoglou"
+            ],
+            "capacity": 56,
+            "current_enrolment": 43,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF451H1 F: Des Stu IV: Info Visualization",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Eliza Pertigkiozoglou"
+            ],
+            "capacity": 28,
+            "current_enrolment": 26,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF451H1 F: Des Stu IV: Info Visualization",
+            "section_title": "Practicals",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "RL",
+            "instructors": [
+                "Eliza Pertigkiozoglou"
+            ],
+            "capacity": 28,
+            "current_enrolment": 17,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF452H1 F: Design Studio V: Coding",
+            "section_title": "Lectures",
+            "day": "Thursday",
+            "start_time": "09:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "OI",
+            "instructors": [
+                "Maher Elshakankiri"
+            ],
+            "capacity": 50,
+            "current_enrolment": 43,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF452H1 F: Design Studio V: Coding",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SF",
+            "instructors": [
+                "Maher Elshakankiri"
+            ],
+            "capacity": 25,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF452H1 F: Design Studio V: Coding",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "MY",
+            "instructors": [
+                "Maher Elshakankiri"
+            ],
+            "capacity": 25,
+            "current_enrolment": 19,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF453H1 S: Capstone Project",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "15:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Maher Elshakankiri"
+            ],
+            "capacity": 56,
+            "current_enrolment": 38,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF453H1 S: Capstone Project",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Maher Elshakankiri"
+            ],
+            "capacity": 28,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF453H1 S: Capstone Project",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Maher Elshakankiri"
+            ],
+            "capacity": 28,
+            "current_enrolment": 16,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF481H1 S: Special Topics in Information Studies I",
+            "section_title": "Lectures",
+            "day": "Wednesday",
+            "start_time": "10:00",
+            "end_time": "13:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Nima Zargham"
+            ],
+            "capacity": 35,
+            "current_enrolment": 21,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF482H1 F: Special Topics in Information Studies II",
+            "section_title": "Lectures",
+            "day": "Tuesday",
+            "start_time": "14:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Shion Guha"
+            ],
+            "capacity": 35,
+            "current_enrolment": 26,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF483H1 S: Special Topics in Information Studies III",
+            "section_title": "Lectures",
+            "day": "Monday",
+            "start_time": "13:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Andrea Knight Dolan"
+            ],
+            "capacity": 35,
+            "current_enrolment": 28,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF483H1 S: Special Topics in Information Studies III",
+            "section_title": "Practicals",
+            "day": "Wednesday",
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "TBA",
+            "instructors": [
+                "Andrea Knight Dolan"
+            ],
+            "capacity": 35,
+            "current_enrolment": 25,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF499H1 F: Reading Course",
+            "section_title": "Lectures",
+            "day": "Asynchronous",
+            "start_time": "Asynchronous",
+            "end_time": "Asynchronous",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "Online",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 10,
+            "current_enrolment": 3,
+            "delivery_mode": "Online Asynchronous"
+        }
+    ]
 }
