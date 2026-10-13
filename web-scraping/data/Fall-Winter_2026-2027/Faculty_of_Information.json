@@ -12,20 +12,26 @@
                 "departments": {
                     "Faculty of Information": {
                         "buildings": [
-                            "TBA"
+                            "MY",
+                            "TF",
+                            "HA",
+                            "BA",
+                            "AB",
+                            "EP",
+                            "SU"
                         ],
                         "instructors": [
                             "Brian Sutherland",
-                            "Gustavo Ferreira Santos",
-                            "Bolun Zhang",
-                            "Andrea Knight Dolan",
-                            "Olivier St-Cyr",
-                            "Nima Zargham",
-                            "Maher Elshakankiri",
                             "Joshua William Arthurs",
+                            "Maher Elshakankiri",
+                            "Andrea Knight Dolan",
+                            "Gustavo Ferreira Santos",
+                            "Olivier St-Cyr",
                             "TBA",
                             "Fiorella Foscarini",
-                            "Julia Gallucci"
+                            "Julia Gallucci",
+                            "Bolun Zhang",
+                            "Nima Zargham"
                         ]
                     }
                 }
@@ -34,36 +40,36 @@
                 "departments": {
                     "Faculty of Information": {
                         "buildings": [
-                            "Online",
-                            "SU",
-                            "VC",
-                            "BA",
-                            "RL",
-                            "OI",
-                            "HA",
-                            "SF",
                             "MY",
-                            "TBA",
-                            "GB"
+                            "RL",
+                            "WW",
+                            "HA",
+                            "BA",
+                            "VC",
+                            "SF",
+                            "GB",
+                            "SU",
+                            "Online",
+                            "OI"
                         ],
                         "instructors": [
-                            "Nada Almasri",
+                            "Maher Elshakankiri",
+                            "Nusrat Jahan Mim",
                             "Shion Guha",
                             "Gustavo Ferreira Santos",
-                            "Julian Quiros",
                             "Olivier St-Cyr",
-                            "Carli Fink",
                             "Eliza Pertigkiozoglou",
-                            "Maher Elshakankiri",
-                            "Sunita Guyadeen",
+                            "Nada Almasri",
                             "TBA",
-                            "Nusrat Jahan Mim"
+                            "Carli Fink",
+                            "Sunita Guyadeen",
+                            "Julian Quiros"
                         ]
                     }
                 }
             }
         },
-        "last_updated": "September 01, 2026 at 2:16 PM"
+        "last_updated": "October 13, 2026 at 10:48 AM"
     },
     "timings": [
         {
@@ -77,12 +83,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "BA",
             "instructors": [
                 "Gustavo Ferreira Santos"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -96,31 +102,31 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
+            "instructors": [
+                "Gustavo Ferreira Santos"
+            ],
+            "capacity": 25,
+            "current_enrolment": 18,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF302H1 S: Integr Approaches Tech & Soc",
+            "section_title": "Tutorials",
+            "day": "Tuesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
             "instructors": [
                 "Gustavo Ferreira Santos"
             ],
             "capacity": 25,
             "current_enrolment": 20,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "INF302H1 S: Integr Approaches Tech & Soc",
-            "section_title": "Tutorials",
-            "day": "Tuesday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Winter",
-            "source_session": "Winter 2027 (S)",
-            "department": "Faculty of Information",
-            "faculty": "Faculty of Information",
-            "location": "TBA",
-            "instructors": [
-                "Gustavo Ferreira Santos"
-            ],
-            "capacity": 25,
-            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -139,7 +145,7 @@
                 "Gustavo Ferreira Santos"
             ],
             "capacity": 50,
-            "current_enrolment": 41,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -157,7 +163,7 @@
             "instructors": [
                 "Gustavo Ferreira Santos"
             ],
-            "capacity": 25,
+            "capacity": 20,
             "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
@@ -176,8 +182,8 @@
             "instructors": [
                 "Gustavo Ferreira Santos"
             ],
-            "capacity": 25,
-            "current_enrolment": 22,
+            "capacity": 20,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -196,26 +202,7 @@
                 "Nusrat Jahan Mim"
             ],
             "capacity": 56,
-            "current_enrolment": 42,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "INF312H1 F: Worlds Become Data",
-            "section_title": "Tutorials",
-            "day": "Wednesday",
-            "start_time": "16:00",
-            "end_time": "17:00",
-            "campus": "St. George",
-            "session": "Fall",
-            "source_session": "Fall 2026 (F)",
-            "department": "Faculty of Information",
-            "faculty": "Faculty of Information",
-            "location": "SU",
-            "instructors": [
-                "Nusrat Jahan Mim"
-            ],
-            "capacity": 28,
-            "current_enrolment": 20,
+            "current_enrolment": 45,
             "delivery_mode": "In Person"
         },
         {
@@ -235,6 +222,25 @@
             ],
             "capacity": 28,
             "current_enrolment": 22,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF312H1 F: Worlds Become Data",
+            "section_title": "Tutorials",
+            "day": "Wednesday",
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "campus": "St. George",
+            "session": "Fall",
+            "source_session": "Fall 2026 (F)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
+            "instructors": [
+                "Nusrat Jahan Mim"
+            ],
+            "capacity": 28,
+            "current_enrolment": 23,
             "delivery_mode": "In Person"
         },
         {
@@ -253,7 +259,7 @@
                 "Nada Almasri"
             ],
             "capacity": 50,
-            "current_enrolment": 42,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -271,8 +277,8 @@
             "instructors": [
                 "Nada Almasri"
             ],
-            "capacity": 25,
-            "current_enrolment": 20,
+            "capacity": 20,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -290,8 +296,8 @@
             "instructors": [
                 "Nada Almasri"
             ],
-            "capacity": 25,
-            "current_enrolment": 22,
+            "capacity": 21,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -305,12 +311,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Joshua William Arthurs"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -324,12 +330,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "EP",
             "instructors": [
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 20,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -343,12 +349,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "HA",
             "instructors": [
                 "TBA"
             ],
             "capacity": 25,
-            "current_enrolment": 23,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -362,12 +368,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "AB",
             "instructors": [
                 "Fiorella Foscarini"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 39,
             "delivery_mode": "In Person"
         },
         {
@@ -381,12 +387,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Brian Sutherland"
             ],
             "capacity": 51,
-            "current_enrolment": 45,
+            "current_enrolment": 40,
             "delivery_mode": "In Person"
         },
         {
@@ -400,12 +406,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "TBA"
             ],
-            "capacity": 25,
-            "current_enrolment": 23,
+            "capacity": 22,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -419,11 +425,11 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "TBA"
             ],
-            "capacity": 25,
+            "capacity": 22,
             "current_enrolment": 22,
             "delivery_mode": "In Person"
         },
@@ -443,7 +449,7 @@
                 "Olivier St-Cyr"
             ],
             "capacity": 50,
-            "current_enrolment": 41,
+            "current_enrolment": 36,
             "delivery_mode": "In Person"
         },
         {
@@ -461,8 +467,8 @@
             "instructors": [
                 "Olivier St-Cyr"
             ],
-            "capacity": 25,
-            "current_enrolment": 19,
+            "capacity": 20,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -480,8 +486,8 @@
             "instructors": [
                 "Olivier St-Cyr"
             ],
-            "capacity": 25,
-            "current_enrolment": 22,
+            "capacity": 20,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -495,12 +501,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Olivier St-Cyr"
             ],
             "capacity": 50,
-            "current_enrolment": 44,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -514,12 +520,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "TF",
             "instructors": [
                 "Olivier St-Cyr"
             ],
             "capacity": 25,
-            "current_enrolment": 25,
+            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -533,12 +539,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Olivier St-Cyr"
             ],
             "capacity": 25,
-            "current_enrolment": 19,
+            "current_enrolment": 17,
             "delivery_mode": "In Person"
         },
         {
@@ -557,7 +563,7 @@
                 "Carli Fink"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -575,8 +581,8 @@
             "instructors": [
                 "Carli Fink"
             ],
-            "capacity": 25,
-            "current_enrolment": 23,
+            "capacity": 21,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -594,8 +600,8 @@
             "instructors": [
                 "Carli Fink"
             ],
-            "capacity": 25,
-            "current_enrolment": 20,
+            "capacity": 21,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -614,7 +620,7 @@
                 "Julian Quiros"
             ],
             "capacity": 56,
-            "current_enrolment": 44,
+            "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
         {
@@ -633,7 +639,7 @@
                 "Julian Quiros"
             ],
             "capacity": 28,
-            "current_enrolment": 24,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -666,12 +672,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Julia Gallucci"
             ],
-            "capacity": 56,
-            "current_enrolment": 45,
+            "capacity": 50,
+            "current_enrolment": 48,
             "delivery_mode": "In Person"
         },
         {
@@ -685,12 +691,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "TBA"
             ],
             "capacity": 28,
-            "current_enrolment": 24,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -704,7 +710,7 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "TBA"
             ],
@@ -723,12 +729,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Bolun Zhang"
             ],
             "capacity": 56,
-            "current_enrolment": 44,
+            "current_enrolment": 47,
             "delivery_mode": "In Person"
         },
         {
@@ -742,31 +748,31 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
+            "instructors": [
+                "TBA"
+            ],
+            "capacity": 28,
+            "current_enrolment": 24,
+            "delivery_mode": "In Person"
+        },
+        {
+            "course_name": "INF413H1 S: Information Policy",
+            "section_title": "Tutorials",
+            "day": "Thursday",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "campus": "St. George",
+            "session": "Winter",
+            "source_session": "Winter 2027 (S)",
+            "department": "Faculty of Information",
+            "faculty": "Faculty of Information",
+            "location": "SU",
             "instructors": [
                 "TBA"
             ],
             "capacity": 28,
             "current_enrolment": 22,
-            "delivery_mode": "In Person"
-        },
-        {
-            "course_name": "INF413H1 S: Information Policy",
-            "section_title": "Tutorials",
-            "day": "Thursday",
-            "start_time": "15:00",
-            "end_time": "16:00",
-            "campus": "St. George",
-            "session": "Winter",
-            "source_session": "Winter 2027 (S)",
-            "department": "Faculty of Information",
-            "faculty": "Faculty of Information",
-            "location": "TBA",
-            "instructors": [
-                "TBA"
-            ],
-            "capacity": 28,
-            "current_enrolment": 21,
             "delivery_mode": "In Person"
         },
         {
@@ -785,7 +791,7 @@
                 "Sunita Guyadeen"
             ],
             "capacity": 35,
-            "current_enrolment": 22,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -804,7 +810,7 @@
                 "Sunita Guyadeen"
             ],
             "capacity": 35,
-            "current_enrolment": 21,
+            "current_enrolment": 24,
             "delivery_mode": "In Person"
         },
         {
@@ -818,12 +824,12 @@
             "source_session": "Fall 2026 (F)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "HA",
+            "location": "WW",
             "instructors": [
                 "Eliza Pertigkiozoglou"
             ],
             "capacity": 56,
-            "current_enrolment": 43,
+            "current_enrolment": 46,
             "delivery_mode": "In Person"
         },
         {
@@ -842,7 +848,7 @@
                 "Eliza Pertigkiozoglou"
             ],
             "capacity": 28,
-            "current_enrolment": 26,
+            "current_enrolment": 28,
             "delivery_mode": "In Person"
         },
         {
@@ -861,7 +867,7 @@
                 "Eliza Pertigkiozoglou"
             ],
             "capacity": 28,
-            "current_enrolment": 17,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -875,12 +881,12 @@
             "source_session": "Fall 2026 (F)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "OI",
+            "location": "WW",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 50,
-            "current_enrolment": 43,
+            "current_enrolment": 38,
             "delivery_mode": "In Person"
         },
         {
@@ -918,7 +924,7 @@
                 "Maher Elshakankiri"
             ],
             "capacity": 25,
-            "current_enrolment": 19,
+            "current_enrolment": 14,
             "delivery_mode": "In Person"
         },
         {
@@ -932,7 +938,7 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "HA",
             "instructors": [
                 "Maher Elshakankiri"
             ],
@@ -951,12 +957,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 28,
-            "current_enrolment": 21,
+            "current_enrolment": 19,
             "delivery_mode": "In Person"
         },
         {
@@ -970,12 +976,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Maher Elshakankiri"
             ],
             "capacity": 28,
-            "current_enrolment": 16,
+            "current_enrolment": 18,
             "delivery_mode": "In Person"
         },
         {
@@ -989,12 +995,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Nima Zargham"
             ],
             "capacity": 35,
-            "current_enrolment": 21,
+            "current_enrolment": 20,
             "delivery_mode": "In Person"
         },
         {
@@ -1008,12 +1014,12 @@
             "source_session": "Fall 2026 (F)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "OI",
             "instructors": [
                 "Shion Guha"
             ],
             "capacity": 35,
-            "current_enrolment": 26,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -1027,12 +1033,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "SU",
             "instructors": [
                 "Andrea Knight Dolan"
             ],
             "capacity": 35,
-            "current_enrolment": 28,
+            "current_enrolment": 29,
             "delivery_mode": "In Person"
         },
         {
@@ -1046,12 +1052,12 @@
             "source_session": "Winter 2027 (S)",
             "department": "Faculty of Information",
             "faculty": "Faculty of Information",
-            "location": "TBA",
+            "location": "MY",
             "instructors": [
                 "Andrea Knight Dolan"
             ],
             "capacity": 35,
-            "current_enrolment": 25,
+            "current_enrolment": 27,
             "delivery_mode": "In Person"
         },
         {
@@ -1070,7 +1076,7 @@
                 "TBA"
             ],
             "capacity": 10,
-            "current_enrolment": 3,
+            "current_enrolment": 2,
             "delivery_mode": "Online Asynchronous"
         }
     ]
